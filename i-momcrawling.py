@@ -1,6 +1,7 @@
 import time
 import json
 import sys
+import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -41,7 +42,6 @@ def crawl_category(category_name, category_xpath):
     driver.get("https://i-mom.co.kr")
 
     try:
-        # 1. 햄버거 버튼 클릭 (카테고리 메뉴 열기)
         menu_button = WebDriverWait(driver, 15).until(
             EC.element_to_be_clickable((By.XPATH, "//a[@href='#category']"))
         )
@@ -54,7 +54,6 @@ def crawl_category(category_name, category_xpath):
         return []
 
     try:
-        # 2. 카테고리 클릭
         category_element = WebDriverWait(driver, 15).until(
             EC.element_to_be_clickable((By.XPATH, category_xpath))
         )
@@ -68,7 +67,7 @@ def crawl_category(category_name, category_xpath):
 
     results = []
     page = 1
-    last_page = None  # 마지막 페이지 번호 저장 변수
+    last_page = None
 
     while True:
         print(f"\n[-] {category_name} - 페이지 {page} 크롤링 중...")
@@ -124,7 +123,6 @@ def crawl_category(category_name, category_xpath):
                 print("[X] 제품 정보 추출 중 오류:", str(e).encode("utf-8", errors="ignore").decode())
                 continue
 
-        # 마지막 페이지 확인
         if last_page is None:
             try:
                 last_page_element = driver.find_element(By.XPATH, "//a[@class='last']")
@@ -134,7 +132,6 @@ def crawl_category(category_name, category_xpath):
                 print("[!] 마지막 페이지 정보를 찾을 수 없음")
                 break
 
-        # 다음 페이지 이동 (JavaScript 실행)
         if page >= last_page:
             print("[✓] 마지막 페이지 도달, 크롤링 종료")
             break
@@ -144,7 +141,7 @@ def crawl_category(category_name, category_xpath):
             driver.execute_script(f"goodsSearchPage({next_page_num})")
             print(f"[→] JavaScript 실행: goodsSearchPage({next_page_num})")
 
-            WebDriverWait(driver, 10).until(EC.staleness_of(products[0]))  # 상품이 변경될 때까지 대기
+            WebDriverWait(driver, 10).until(EC.staleness_of(products[0]))
             time.sleep(3)
             page += 1
 
@@ -157,10 +154,15 @@ def crawl_category(category_name, category_xpath):
 
 
 def save_to_json(data, filename):
+    """ 크롤링 데이터를 지정된 경로에 JSON 파일로 저장 """
+    save_path = "C:/alpha_frontend/frontend/i-mom/"  # 저장 경로 변경
+    os.makedirs(save_path, exist_ok=True)  # 폴더가 없으면 생성
+
+    full_path = os.path.join(save_path, filename)
     try:
-        with open(filename, "w", encoding="utf-8") as f:
+        with open(full_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print(f"[*] 데이터가 {filename} 파일로 저장되었습니다.")
+        print(f"[*] 데이터가 '{full_path}' 파일로 저장되었습니다.")
     except Exception as e:
         print("[X] JSON 파일 저장 실패:", str(e).encode("utf-8", errors="ignore").decode())
 
