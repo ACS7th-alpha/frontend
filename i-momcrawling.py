@@ -179,7 +179,7 @@ def main():
 
     for category_name, category_xpath in categories.items():
         data = crawl_category(category_name, category_xpath)
-        save_to_json(data, f"아이맘_{category_name}.json")
+        save_to_json(data, f"i-mom_{category_name}.json")
 
     print("\n[✓] 모든 카테고리 크롤링 완료!")
 
