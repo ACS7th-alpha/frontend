@@ -1,8 +1,10 @@
 import time
 import json
+import sys
 import os
 import uuid
 import re
+import multiprocessing
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -10,7 +12,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# ✅ 카테고리별 제품 JSON 경로
+# ✅ Windows 환경에서 Unicode 출력을 정상화
+sys.stdout.reconfigure(encoding='utf-8')
+
+# ✅ 제품 JSON 파일 경로
 BASE_PATH = "C:/alpha_frontend/frontend/coupang"
 REVIEW_PATH = "C:/alpha_frontend/frontend/coupang_review"
 
@@ -51,22 +56,21 @@ def clean_text(text):
     """특수문자 및 줄바꿈 제거"""
     return re.sub(r'[^0-9a-zA-Z가-힣\s]', '', text).strip()
 
-def extract_reviews(driver, product_uid, max_pages=6):
-    """ 한 개의 상품 페이지에서 최대 50개의 리뷰를 크롤링 (최대 6페이지) """
+def extract_reviews(driver, product_uid, max_pages=5):
+    """ 한 개의 상품 페이지에서 최대 50개의 리뷰를 크롤링 (최대 5페이지) """
     reviews_data = []
     page = 1
     review_count = 0
 
-    while page <= max_pages and review_count < 50:
-        print(f"[*] {product_uid} - 페이지 {page} 리뷰 크롤링 중...")
+    try:
+        # ✅ 상품평 탭 클릭
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, "//*[@id='btfTab']/ul[1]/li[2]"))
+        ).click()
+        time.sleep(2)
 
-        try:
-            # 첫 페이지일 경우, '상품평' 탭 클릭
-            if page == 1:
-                WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.XPATH, "//*[@id='btfTab']/ul[1]/li[2]"))
-                ).click()
-                time.sleep(2)
+        while page <= max_pages and review_count < 50:
+            print(f"[*] {product_uid} - 페이지 {page} 리뷰 크롤링 중...")
 
             # 스크롤 다운 추가 (리뷰가 숨겨져 있을 가능성 대비)
             scroll_down(driver, count=3)
@@ -76,7 +80,7 @@ def extract_reviews(driver, product_uid, max_pages=6):
             for review in reviews:
                 if review_count >= 50:
                     break
-                review_text = clean_text(review.text.strip())  # 특수문자 제거
+                review_text = clean_text(review.text.strip())  # 특수문자 제거 적용
                 if review_text:
                     reviews_data.append({
                         "reviewuid": str(uuid.uuid4()),  # 새로운 reviewuid 생성
@@ -86,14 +90,16 @@ def extract_reviews(driver, product_uid, max_pages=6):
 
             print(f"[✓] 현재 페이지에서 {len(reviews)}개의 리뷰 추가 (누적: {review_count})")
 
-            # 다음 페이지 버튼 클릭 (최대 6페이지까지만 크롤링)
+            # ✅ 다음 페이지 버튼 클릭 (2~5페이지)
             if page < max_pages and review_count < 50:
                 try:
-                    next_page_btn_xpath = "/html/body/div[2]/section/div[2]/div[2]/div[7]/ul[2]/li[2]/div/div[6]/section[4]/div[3]/button[3]"
+                    next_page_btn_xpath = f"/html/body/div[2]/section/div[2]/div[2]/div[7]/ul[2]/li[2]/div/div[6]/section[4]/div[3]/button[{page + 2}]"
                     next_page_btn = WebDriverWait(driver, 5).until(
                         EC.element_to_be_clickable((By.XPATH, next_page_btn_xpath))
                     )
-                    driver.execute_script("arguments[0].click();", next_page_btn)
+                    driver.execute_script("arguments[0].scrollIntoView();", next_page_btn)  # 버튼으로 스크롤 이동
+                    time.sleep(2)
+                    driver.execute_script("arguments[0].click();", next_page_btn)  # 클릭
                     time.sleep(3)
                     page += 1
                 except Exception:
@@ -102,16 +108,15 @@ def extract_reviews(driver, product_uid, max_pages=6):
             else:
                 break
 
-        except Exception as e:
-            print(f"[X] 리뷰 크롤링 중 오류 발생: {e}")
-            break
+    except Exception as e:
+        print(f"[X] 리뷰 크롤링 중 오류 발생: {e}")
 
     return reviews_data
 
 def process_category_reviews(category_name):
-    """ 특정 카테고리의 모든 제품 리뷰를 크롤링하여 JSON 저장 """
+    """ 특정 카테고리의 모든 제품 리뷰를 크롤링하여 개별 JSON 저장 """
     input_json_path = os.path.join(BASE_PATH, f"coupang_{category_name}.json")
-    output_json_path = os.path.join(REVIEW_PATH, f"coupang_{category_name}_review.json")
+    category_review_path = os.path.join(REVIEW_PATH, f"coupang_{category_name}_review.json")
 
     if not os.path.exists(input_json_path):
         print(f"[X] {category_name} 제품 데이터 JSON 파일이 없습니다. 건너뜁니다.")
@@ -122,7 +127,7 @@ def process_category_reviews(category_name):
         products = json.load(f)
 
     driver = setup_driver()
-    review_results = []
+    category_reviews = []
 
     # 🔹 모든 제품 리뷰 크롤링
     for product in products:
@@ -134,9 +139,9 @@ def process_category_reviews(category_name):
         driver.get(product_link)
         time.sleep(3)
 
-        reviews = extract_reviews(driver, product_uid, max_pages=6)
+        reviews = extract_reviews(driver, product_uid, max_pages=5)  # 5페이지까지만 크롤링
 
-        review_results.append({
+        category_reviews.append({
             "category": product["category"],
             "name": product_name,
             "brand": product["brand"],
@@ -146,17 +151,18 @@ def process_category_reviews(category_name):
 
     driver.quit()
 
-    # JSON 저장
+    # 🔹 카테고리별 JSON 파일 저장
     os.makedirs(REVIEW_PATH, exist_ok=True)
-    with open(output_json_path, "w", encoding="utf-8") as f:
-        json.dump(review_results, f, ensure_ascii=False, indent=4)
+    with open(category_review_path, "w", encoding="utf-8") as f:
+        json.dump(category_reviews, f, ensure_ascii=False, indent=4)
 
-    print(f"\n[✓] {category_name} 리뷰 데이터가 '{output_json_path}' 파일로 저장되었습니다.")
+    print(f"\n[✓] {category_name} 리뷰 데이터가 '{category_review_path}' 파일로 저장되었습니다.")
 
 def main():
-    """ 9개 카테고리 리뷰 크롤링 실행 """
-    for category in CATEGORIES:
-        process_category_reviews(category)
+    """ 9개 카테고리 리뷰 크롤링 실행 (각 카테고리별 JSON 파일 저장) """
+    num_processes = min(8, os.cpu_count())  # CPU 개수에 맞게 병렬 실행
+    with multiprocessing.Pool(processes=num_processes) as pool:
+        pool.map(process_category_reviews, CATEGORIES)
 
     print("\n[✓] 모든 카테고리의 리뷰 크롤링 완료!")
 
