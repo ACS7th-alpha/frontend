@@ -2,6 +2,8 @@ import time
 import json
 import sys
 import os
+import uuid  # UUID 생성용
+import re   # 특수문자 제거용 (정규식)
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -11,7 +13,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Windows에서 UTF-8 인코딩 강제 설정
 sys.stdout.reconfigure(encoding='utf-8')
-
 
 def setup_driver():
     options = webdriver.ChromeOptions()
@@ -28,7 +29,6 @@ def setup_driver():
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
-
 def scroll_down(driver, count=3):
     """ 여러 번 스크롤을 내려 추가 제품 로딩 """
     for i in range(count):
@@ -36,11 +36,11 @@ def scroll_down(driver, count=3):
         time.sleep(2)
         print(f"[-] 스크롤 {i + 1}회 완료")
 
-
 def crawl_category(category_name, category_xpath):
     driver = setup_driver()
     driver.get("https://i-mom.co.kr")
 
+    # 햄버거 버튼 클릭
     try:
         menu_button = WebDriverWait(driver, 15).until(
             EC.element_to_be_clickable((By.XPATH, "//a[@href='#category']"))
@@ -53,6 +53,7 @@ def crawl_category(category_name, category_xpath):
         driver.quit()
         return []
 
+    # 카테고리 클릭
     try:
         category_element = WebDriverWait(driver, 15).until(
             EC.element_to_be_clickable((By.XPATH, category_xpath))
@@ -73,6 +74,7 @@ def crawl_category(category_name, category_xpath):
         print(f"\n[-] {category_name} - 페이지 {page} 크롤링 중...")
         scroll_down(driver, count=3)
 
+        # 상품 리스트 로딩 대기
         try:
             WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.XPATH, "//li[contains(@class, 'goods_list_style3')]"))
@@ -82,6 +84,7 @@ def crawl_category(category_name, category_xpath):
             print("[X] 상품 리스트 로딩 실패:", str(e).encode("utf-8", errors="ignore").decode())
             break
 
+        # 상품 요소들 찾기
         try:
             products = driver.find_elements(By.XPATH, "//li[contains(@class, 'goods_list_style3')]")
             print(f"[*] 현재 페이지에 {len(products)}개의 상품 발견")
@@ -96,26 +99,56 @@ def crawl_category(category_name, category_xpath):
         for product in products:
             try:
                 item = {}
-                try:
-                    item['name'] = product.find_element(By.XPATH, ".//span[contains(@class, 'name')]").text.strip()
-                except Exception:
-                    item['name'] = "제품명 없음"
+                item['category'] = category_name
+                item['uid'] = str(uuid.uuid4())  # 항상 새로 생성
 
+                # ---------------------------
+                # 1) 제품명
+                # 2) 첫 단어를 brand로 추출 + 특수문자 제거
+                # ---------------------------
+                try:
+                    name_text = product.find_element(By.XPATH, ".//span[contains(@class, 'name')]").text.strip()
+                    item['name'] = name_text
+
+                    # name에서 맨 앞 단어 추출
+                    parts = name_text.split()
+                    if parts:
+                        # brand에 들어갈 텍스트(첫 단어)
+                        brand_text = parts[0]
+                        # 대괄호 등 특수문자 제거 (한글, 영문, 숫자, 공백만 살림)
+                        brand_text = re.sub(r'[^0-9a-zA-Z가-힣\s]', '', brand_text)
+                        # 앞뒤 공백 제거
+                        brand_text = brand_text.strip()
+
+                        if brand_text == '':
+                            brand_text = "브랜드 없음"
+
+                        item['brand'] = brand_text
+                    else:
+                        item['brand'] = "브랜드 없음"
+
+                except:
+                    item['name'] = "제품명 없음"
+                    item['brand'] = "브랜드 없음"
+
+                # 가격
                 try:
                     item['sale_price'] = product.find_element(By.XPATH, ".//span[contains(@class, 'sale_price')]").text.strip()
-                except Exception:
+                except:
                     item['sale_price'] = "할인가 없음"
 
+                # 링크
                 try:
                     ahref = product.find_element(By.TAG_NAME, "a")
                     item['link'] = ahref.get_attribute('href')
-                except Exception:
+                except:
                     item['link'] = "링크 없음"
 
+                # 이미지
                 try:
                     img_tag = product.find_element(By.TAG_NAME, "img")
                     item['img'] = img_tag.get_attribute("src")
-                except Exception:
+                except:
                     item['img'] = "이미지 정보 없음"
 
                 results.append(item)
@@ -123,6 +156,7 @@ def crawl_category(category_name, category_xpath):
                 print("[X] 제품 정보 추출 중 오류:", str(e).encode("utf-8", errors="ignore").decode())
                 continue
 
+        # 마지막 페이지 확인
         if last_page is None:
             try:
                 last_page_element = driver.find_element(By.XPATH, "//a[@class='last']")
@@ -132,6 +166,7 @@ def crawl_category(category_name, category_xpath):
                 print("[!] 마지막 페이지 정보를 찾을 수 없음")
                 break
 
+        # 다음 페이지 이동
         if page >= last_page:
             print("[✓] 마지막 페이지 도달, 크롤링 종료")
             break
@@ -152,10 +187,9 @@ def crawl_category(category_name, category_xpath):
     driver.quit()
     return results
 
-
 def save_to_json(data, filename):
     """ 크롤링 데이터를 지정된 경로에 JSON 파일로 저장 """
-    save_path = "C:/alpha_frontend/frontend/i-mom/"  # 저장 경로 변경
+    save_path = "C:/alpha_frontend/frontend/i-mom/"  # 저장 경로
     os.makedirs(save_path, exist_ok=True)  # 폴더가 없으면 생성
 
     full_path = os.path.join(save_path, filename)
@@ -165,7 +199,6 @@ def save_to_json(data, filename):
         print(f"[*] 데이터가 '{full_path}' 파일로 저장되었습니다.")
     except Exception as e:
         print("[X] JSON 파일 저장 실패:", str(e).encode("utf-8", errors="ignore").decode())
-
 
 def main():
     categories = {
@@ -184,7 +217,6 @@ def main():
         save_to_json(data, f"i-mom_{category_name}.json")
 
     print("\n[✓] 모든 카테고리 크롤링 완료!")
-
 
 if __name__ == "__main__":
     main()

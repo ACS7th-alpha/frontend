@@ -1,1494 +1,2241 @@
 [
     {
+        "category": "수유_이유용품",
+        "uid": "be4d2c20-48a8-46c7-a0d4-bf191c39b172",
         "name": "리필용 빨대(부속품)",
+        "brand": "슈가부거",
         "sale_price": "2,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%95%84%EC%9A%A9-%EB%B9%A8%EB%8C%80%EB%B6%80%EC%86%8D%ED%92%88/1527/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/c6fbc5c933c566a9b92a94d86e1664f3.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ee3a5ec1-6baf-4011-a976-894ff9802daa",
         "name": "리틀비티 빕세트 모음전",
+        "brand": "슈가부거",
         "sale_price": "24,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%EB%B9%95%EC%84%B8%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A0%84/3780/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/79e0e78abf1a89dcba65e2985c3421c0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c6173df8-baef-4fd3-b071-7106e99373e6",
         "name": "런치박스 도시락통",
+        "brand": "슈가부거",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%9F%B0%EC%B9%98%EB%B0%95%EC%8A%A4-%EB%8F%84%EC%8B%9C%EB%9D%BD%ED%86%B5/3333/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/a80483402d02f0347e86fb14320e867c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "15d2b2e5-e22e-4c88-ba38-4e612c0eb944",
         "name": "스낵볼+빨대컵 세트",
+        "brand": "미니웨어",
         "sale_price": "64,000원",
         "link": "https://coochi.co.kr/product/%EC%8A%A4%EB%82%B5%EB%B3%BC%EB%B9%A8%EB%8C%80%EC%BB%B5-%EC%84%B8%ED%8A%B8/3775/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202308/9baa49ce4e04497261f5975054f0664a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "31582e6f-5902-444e-b1c1-e989c1f876c7",
         "name": "컬러 에센스 실리콘 이유식기세트",
+        "brand": "스와비넥스",
         "sale_price": "108,000원",
         "link": "https://coochi.co.kr/product/%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B8/3751/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202308/db2fb7b8902866e3741a90dae252ce42.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c4949bdc-7dab-4a9b-af0d-8d41247efe48",
         "name": "2세대 카사바 흡착 이유식기 식판 (플레이트)",
+        "brand": "미니웨어",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EC%8B%9D%ED%8C%90-%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8/3749/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202306/603c0320d28a6a6d56c66e007dddb4a2.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "30781d7f-46fc-4a3c-94c2-da1ea0b45d50",
         "name": "실리폴드+실리콘 스푼 세트(실리콘 흡착식판)",
+        "brand": "미니웨어",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/%EC%8B%A4%EB%A6%AC%ED%8F%B4%EB%93%9C%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%8A%A4%ED%91%BC-%EC%84%B8%ED%8A%B8%EC%8B%A4%EB%A6%AC%EC%BD%98-%ED%9D%A1%EC%B0%A9%EC%8B%9D%ED%8C%90/3748/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202407/a4c1691fb54fe5da0c737b79b88d0d41.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5a1a2baf-90f1-4307-ac2f-b17c4a8d14df",
         "name": "빨대컵 340ml",
+        "brand": "스와비넥스",
         "sale_price": "27,000원",
         "link": "https://coochi.co.kr/product/%EB%B9%A8%EB%8C%80%EC%BB%B5-340ml/3647/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/9a4275464b2215b2bc98bb2952be0de9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "50e59221-950f-4785-aa96-6a926de23d8c",
         "name": "360도 트레이닝 컵 340ml",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/360%EB%8F%84-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EC%BB%B5-340ml/3646/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/0d4a69d53601ecd9d202d93956457f57.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2f74d778-7a9d-4c6d-bf9f-2b084ef852e9",
         "name": "젖병 손잡이 + 리필빨대세트 (빨대컵키트)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%96%EB%B3%91-%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80%EC%84%B8%ED%8A%B8-%EB%B9%A8%EB%8C%80%EC%BB%B5%ED%82%A4%ED%8A%B8/3593/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/8249b4f387c96875f5efb1374e1803e8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1c0d8d5d-435a-4388-8e21-325a5b8fdfc2",
         "name": "PA젖병 빨대컵세트(젖병2p+스파우트+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "89,000원",
         "link": "https://coochi.co.kr/product/pa%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%84%B8%ED%8A%B8%EC%A0%96%EB%B3%912p%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3550/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3ca189980899a9a1981c6e5ab905d940.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4074553e-3403-4bdc-8085-e496d66861f1",
         "name": "유리젖병 빨대컵세트(유리젖병2p+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "70,000원",
         "link": "https://coochi.co.kr/product/%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%84%B8%ED%8A%B8%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%912p%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3548/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/4fcee716fc04155bae8a87acc42d2976.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0c4f922d-06e9-433e-a998-fa81304182de",
         "name": "pa젖병 빨대컵(젖병+스파우트+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "64,000원",
         "link": "https://coochi.co.kr/product/pa%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%A0%96%EB%B3%91%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3547/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/506eb463fc8266185616ef1cb8d58bef.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d466306e-c071-4295-bcfe-e407210b611a",
         "name": "헬로폭스 양손잡이 멀티 스파우트컵 빨대컵(3in1) 150ml",
+        "brand": "스와비넥스",
         "sale_price": "27,000원",
         "link": "https://coochi.co.kr/product/%ED%97%AC%EB%A1%9C%ED%8F%AD%EC%8A%A4-%EC%96%91%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%A9%80%ED%8B%B0-%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EC%BB%B5-%EB%B9%A8%EB%8C%80%EC%BB%B53in1-150ml/3545/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/79b4556de44d7925590e9a7cd92c2d7b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "af28bce6-42cf-46ca-bb74-3d4975853169",
         "name": "세이지마망 교체형 리필 빨대 세트(2p)",
+        "brand": "세이지마망",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%84%B8%EC%9D%B4%EC%A7%80%EB%A7%88%EB%A7%9D-%EA%B5%90%EC%B2%B4%ED%98%95-%EB%A6%AC%ED%95%84-%EB%B9%A8%EB%8C%80-%EC%84%B8%ED%8A%B82p/3544/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a700324ec1917ebfdf87f65ed3d65aaa.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d3ddb934-0d5e-4e34-82c5-ccdac8018966",
         "name": "플렉시블 실리콘스푼",
+        "brand": "스와비넥스",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%ED%94%8C%EB%A0%89%EC%8B%9C%EB%B8%94-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%8A%A4%ED%91%BC/3516/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/849b6f0bc706115a39c512f0a5ca779f.gif"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d533ff56-8ffa-442a-9c24-bb75de05a8e7",
         "name": "프리투프로 실리콘 이유식 스푼",
+        "brand": "미니웨어",
         "sale_price": "19,000원",
         "link": "https://coochi.co.kr/product/%ED%94%84%EB%A6%AC%ED%88%AC%ED%94%84%EB%A1%9C-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC/3515/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/d2fb38b48b45af40c0267a2a7b478599.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f001d577-23e2-45d6-b976-63e8bdd5468b",
         "name": "포레스트 360도컵 340ml",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8-360%EB%8F%84%EC%BB%B5-340ml/3491/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/9785605cb1faac124cea7d93f77f57e3.gif"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "72e20913-7711-4fb5-937d-f6a050693723",
         "name": "포레스트 빨대컵 340ml",
+        "brand": "스와비넥스",
         "sale_price": "27,000원",
         "link": "https://coochi.co.kr/product/%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8-%EB%B9%A8%EB%8C%80%EC%BB%B5-340ml/3490/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3075e67f957c68ca2b61799be2db3dde.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "38ea46f1-33df-45e6-ac92-3b2b849095b6",
         "name": "2세대 카사바 빨대컵 리필 3개 세트",
+        "brand": "미니웨어",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%EB%B9%A8%EB%8C%80%EC%BB%B5-%EB%A6%AC%ED%95%84-3%EA%B0%9C-%EC%84%B8%ED%8A%B8/3385/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/17025e18e2506d5663c9da2a69ea9502.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f5b71eaf-842e-4efb-812e-620b8a16282f",
         "name": "2세대 롤앤락 실리콘 턱받이",
+        "brand": "미니웨어",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EB%A1%A4%EC%95%A4%EB%9D%BD-%EC%8B%A4%EB%A6%AC%EC%BD%98-%ED%84%B1%EB%B0%9B%EC%9D%B4/3367/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/03b3ffc88fbd9ac69dcfb386788351b7.webp"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1a750f24-e19b-47a4-88d3-f1dc1dbcb852",
         "name": "2세대 카사바 빨대컵",
+        "brand": "미니웨어",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%EB%B9%A8%EB%8C%80%EC%BB%B5/3253/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/935840692339b6b4f9548c5c20cf2042.webp"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2a9689e1-7d7e-4ccf-8e9d-a06570c5f766",
         "name": "실리콘 이유식 스푼 2P",
+        "brand": "미니웨어",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC-2p/3252/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202401/9c1b83211e9873d58d42f5127528946d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d571b994-f38f-439b-bbf8-13b2cf8fc323",
         "name": "2세대 이유식 스푼 포크 세트",
+        "brand": "미니웨어",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC-%ED%8F%AC%ED%81%AC-%EC%84%B8%ED%8A%B8/3251/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202401/7b407c2a2ad5460d41e2ab8f25a9b3fb.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "be075bc0-7189-422a-b943-7b430bc2568f",
         "name": "2세대 카사바 흡착 이유식기 식판(디바이더 포함)",
+        "brand": "미니웨어",
         "sale_price": "42,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EC%8B%9D%ED%8C%90%EB%94%94%EB%B0%94%EC%9D%B4%EB%8D%94-%ED%8F%AC%ED%95%A8/3250/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/600220394e85a015e0bf7822daf05b50.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7345953d-ea5d-470e-bf5b-a71cf0e4cae3",
         "name": "2세대 카사바 흡착 이유식기 디바이더(나눔접시)",
+        "brand": "미니웨어",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EB%94%94%EB%B0%94%EC%9D%B4%EB%8D%94%EB%82%98%EB%88%94%EC%A0%91%EC%8B%9C/3249/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/da14c3b4d0415eb7bc0c1b6f3e778f45.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a221ce32-32e3-4f1c-b5c0-8f417992609b",
         "name": "2세대 카사바 흡착 이유식기 시리얼볼+스푼",
+        "brand": "미니웨어",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%96%BC%EB%B3%BC%EC%8A%A4%ED%91%BC/3247/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/c7c89248ccbc1ac783632dfffe3f5b84.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "e0ad05c5-ef2c-4981-be1b-dc37564c1b6f",
         "name": "2세대 카사바 흡착 이유식기 시리얼볼",
+        "brand": "미니웨어",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%96%BC%EB%B3%BC/3246/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/5c30c6a467e58c881def23a21daf5234.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "45bb3fef-165a-486f-87f8-616245c6830f",
         "name": "2세대 카사바 흡착 이유식기 스낵볼",
+        "brand": "미니웨어",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EC%8A%A4%EB%82%B5%EB%B3%BC/3245/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/100e22992177790fc038c482313fe606.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3d372b8e-8dde-4491-bc61-154ee42262fd",
         "name": "혼자서도 마시기 쉬운 양손잡이컵 모음전(아기물컵",
+        "brand": "슈가부거",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84-%EB%A7%88%EC%8B%9C%EA%B8%B0-%EC%89%AC%EC%9A%B4-%EC%96%91%EC%86%90%EC%9E%A1%EC%9D%B4%EC%BB%B5-%EB%AA%A8%EC%9D%8C%EC%A0%84%EC%95%84%EA%B8%B0%EB%AC%BC%EC%BB%B5/3122/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/516c8dda17385092e527739c0937d2c2.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4d5975a8-16b7-41c0-a151-b93d42d238f7",
         "name": "제로제로 이유식 보관용기",
+        "brand": "스와비넥스",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EB%B3%B4%EA%B4%80%EC%9A%A9%EA%B8%B0/3008/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/5326344c654d84c04bb8269f49924a65.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f486f845-6c0f-4eb8-9625-a005e44fbe0e",
         "name": "히포 턱받이 치발기 (네커츄) 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%ED%9E%88%ED%8F%AC-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%84%A4%EC%BB%A4%EC%B8%84-%EB%AA%A8%EC%9D%8C%EC%A0%84/2952/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/0fe16b8f7cbecd32a0a31e832125e4e9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4b43a37f-3fc6-4ca1-b9ed-96a6082eb1dc",
         "name": "리틀비티 세라믹볼+네커빕세트",
+        "brand": "슈가부거",
         "sale_price": "42,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%EC%84%B8%EB%9D%BC%EB%AF%B9%EB%B3%BC%EB%84%A4%EC%BB%A4%EB%B9%95%EC%84%B8%ED%8A%B8/2885/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/17cc523c6592391dd2f4896367f6124b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b4e34878-ee97-4bfa-9fb5-f63e45eb71f3",
         "name": "리틀비티 스푼포크세트+자석케이스",
+        "brand": "슈가부거",
         "sale_price": "17,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%EC%8A%A4%ED%91%BC%ED%8F%AC%ED%81%AC%EC%84%B8%ED%8A%B8%EC%9E%90%EC%84%9D%EC%BC%80%EC%9D%B4%EC%8A%A4/2884/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/49ee298c116d57e59469ab230cb0cc33.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "e6cb6b2b-1487-41f0-a7d9-b47537384f88",
         "name": "리틀비티 퍼스트 이유식기 3종세트",
+        "brand": "슈가부거",
         "sale_price": "35,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-3%EC%A2%85%EC%84%B8%ED%8A%B8/2883/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/d117dc223431215b8d870a5dab67bcb7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3d750d02-742e-4d8c-a8f6-43285a32aab2",
         "name": "리틀비티 퍼스트 세라믹볼 - 옥토퍼스",
+        "brand": "슈가부거",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EC%84%B8%EB%9D%BC%EB%AF%B9%EB%B3%BC-%EC%98%A5%ED%86%A0%ED%8D%BC%EC%8A%A4/2876/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/b389c5154ba6669bd699fd5723ef8ff8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "84b8acac-d04f-4e98-aeca-4bc810a9a866",
         "name": "리틀비티 퍼스트 세라믹볼 - 지라프",
+        "brand": "슈가부거",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%8B%80%EB%B9%84%ED%8B%B0-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EC%84%B8%EB%9D%BC%EB%AF%B9%EB%B3%BC-%EC%A7%80%EB%9D%BC%ED%94%84/2875/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/87d4926063e0f20d6e32033929144d09.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f8c6502f-9727-40b6-8378-451e0c808f9b",
         "name": "양손잡이 빨대컵+리필용빨대세트",
+        "brand": "슈가부거",
         "sale_price": "40,000원",
         "link": "https://coochi.co.kr/product/%EC%96%91%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%B9%A8%EB%8C%80%EC%BB%B5%EB%A6%AC%ED%95%84%EC%9A%A9%EB%B9%A8%EB%8C%80%EC%84%B8%ED%8A%B8/2777/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/af8de6bf4a8dadca37792dbfd92ea37d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9dd04afa-9462-482d-936d-d60dc62ffe10",
         "name": "머슬린 네커빕 턱받이세트 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%EB%A8%B8%EC%8A%AC%EB%A6%B0-%EB%84%A4%EC%BB%A4%EB%B9%95-%ED%84%B1%EB%B0%9B%EC%9D%B4%EC%84%B8%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A0%84/2648/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202104/f20125328ca856b0685d5e01c47fc590.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ca7ffe13-731e-472c-b02e-6a0083a8bf0f",
         "name": "네커빕 턱받이세트 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%EB%84%A4%EC%BB%A4%EB%B9%95-%ED%84%B1%EB%B0%9B%EC%9D%B4%EC%84%B8%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A0%84/2647/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/659e45f5fa522c1aba11c57157d60523.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "198af3db-e841-49d3-8ac9-95c9a3a13c4f",
         "name": "네커츄 턱받이 실리콘치발기 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EB%84%A4%EC%BB%A4%EC%B8%84-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%AA%A8%EC%9D%8C%EC%A0%84/2646/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/bd7abd1d2571635464f361aea8423849.gif"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9cf81ee5-da38-488c-a71d-3d8ef7e08f49",
         "name": "머슬린 네커츄 턱받이 실리콘치발기 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EB%A8%B8%EC%8A%AC%EB%A6%B0-%EB%84%A4%EC%BB%A4%EC%B8%84-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%AA%A8%EC%9D%8C%EC%A0%84/2641/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/4ceb651d28fa0aa700c403c1702ba74b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "27b22818-9b9a-4edd-aed0-b717f8f45cfd",
         "name": "BOOO 부우 이유식 스푼 포크 세트",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/booo-%EB%B6%80%EC%9A%B0-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC-%ED%8F%AC%ED%81%AC-%EC%84%B8%ED%8A%B8/2500/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/97b9129b20022981e9d1a17474d2c983.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "710bf0a2-a508-447e-8a56-2b1642d316b0",
         "name": "BOOO 부우 온더고 스푼홀더세트(스푼+턱받이클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/booo-%EB%B6%80%EC%9A%B0-%EC%98%A8%EB%8D%94%EA%B3%A0-%EC%8A%A4%ED%91%BC%ED%99%80%EB%8D%94%EC%84%B8%ED%8A%B8%EC%8A%A4%ED%91%BC%ED%84%B1%EB%B0%9B%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/2492/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/cc15b3848bfb4e094c84ef53e2417fc7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a6f5ba73-62ae-4d1f-85a8-3c481b67ff99",
         "name": "BOOO 부우 러닝식기세트(이유식기세트)",
+        "brand": "스와비넥스",
         "sale_price": "69,000원",
         "link": "https://coochi.co.kr/product/booo-%EB%B6%80%EC%9A%B0-%EB%9F%AC%EB%8B%9D%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B8%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B8/2487/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/622cc49e774f73f40c839e4444ce8d0f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "44237045-62b8-4107-884a-4facef171ed0",
         "name": "흡착볼 이유식기세트(스푼포크포함) 모음전",
+        "brand": "슈가부거",
         "sale_price": "38,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EB%B3%BC-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B8%EC%8A%A4%ED%91%BC%ED%8F%AC%ED%81%AC%ED%8F%AC%ED%95%A8-%EB%AA%A8%EC%9D%8C%EC%A0%84/2415/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202401/521bd087e0c4a1bf8891748c3605bb77.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9e4cfbaa-3e89-4c77-9e70-66d27d763538",
         "name": "흡착접시 이유식기-모음전",
+        "brand": "슈가부거",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EC%A0%91%EC%8B%9C-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0-%EB%AA%A8%EC%9D%8C%EC%A0%84/2414/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/1a2cbc90396b8c28887a0b1ffbf4c3f7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "10b9e0b9-7eba-4a00-b9e7-81c94d21047b",
         "name": "가벼운 양손잡이 스텐 빨대컵",
+        "brand": "슈가부거",
         "sale_price": "38,000원",
         "link": "https://coochi.co.kr/product/%EA%B0%80%EB%B2%BC%EC%9A%B4-%EC%96%91%EC%86%90%EC%9E%A1%EC%9D%B4-%EC%8A%A4%ED%85%90-%EB%B9%A8%EB%8C%80%EC%BB%B5/2405/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/d957581e237f251faee81ec92453c390.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0f164bea-243a-4693-93af-92d19334b1ae",
         "name": "흡착 이유식기세트(4종) 모음전_디자인선택가능! (고정볼+스푼포크+고정접시+양손컵)/(사은품:스푼포크케이스)",
+        "brand": "슈가부거",
         "sale_price": "75,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9-%EC%9D%B4%EC%9C%A0%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B84%EC%A2%85-%EB%AA%A8%EC%9D%8C%EC%A0%84%EB%94%94%EC%9E%90%EC%9D%B8%EC%84%A0%ED%83%9D%EA%B0%80%EB%8A%A5-%EA%B3%A0%EC%A0%95%EB%B3%BC%EC%8A%A4%ED%91%BC%ED%8F%AC%ED%81%AC%EA%B3%A0%EC%A0%95%EC%A0%91%EC%8B%9C%EC%96%91%EC%86%90%EC%BB%B5%EC%82%AC%EC%9D%80%ED%92%88%EC%8A%A4%ED%91%BC%ED%8F%AC%ED%81%AC%EC%BC%80%EC%9D%B4%EC%8A%A4/2403/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/0b31a3ff9ab8fec6cb6b0411dc928f77.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f0bdb844-e44e-41c0-8828-a843b6d517ba",
         "name": "NEW 베이비 실리콘 이유식 스푼",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/new-%EB%B2%A0%EC%9D%B4%EB%B9%84-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC/2299/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/f455ae3f9034f9a2aa31f827a16991f1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3ce3f10a-2621-436d-9b21-0fa2dd60c925",
         "name": "스푼,포크 전용 케이스(수저통)",
+        "brand": "슈가부거",
         "sale_price": "4,000원",
         "link": "https://coochi.co.kr/product/%EC%8A%A4%ED%91%BC%ED%8F%AC%ED%81%AC-%EC%A0%84%EC%9A%A9-%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%88%98%EC%A0%80%ED%86%B5/2295/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/f3d5945d0c9bb672c58a6a444a3da7ef.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a30090b0-45e0-4b7b-9b40-380ba0bae701",
         "name": "흡착접시 흡착기(부속품)",
+        "brand": "슈가부거",
         "sale_price": "5,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EC%A0%91%EC%8B%9C-%ED%9D%A1%EC%B0%A9%EA%B8%B0%EB%B6%80%EC%86%8D%ED%92%88/2258/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/faa968a1bbd7b29be9c9b9488ebb4304.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a2ba6759-287c-4baf-bfca-82c179c5910d",
         "name": "흡착볼 흡착기(부속품)",
+        "brand": "슈가부거",
         "sale_price": "4,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EB%B3%BC-%ED%9D%A1%EC%B0%A9%EA%B8%B0%EB%B6%80%EC%86%8D%ED%92%88/2257/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/8979f9dc3a92f0a1d99b91c1401531cb.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "35a6aa31-6c61-478f-9f12-fafbb1dae8da",
         "name": "헬로폭스 양손잡이 멀티 스파우트컵(3in1) 150ml+리필젖꼭지",
+        "brand": "스와비넥스",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/%ED%97%AC%EB%A1%9C%ED%8F%AD%EC%8A%A4-%EC%96%91%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%A9%80%ED%8B%B0-%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EC%BB%B53in1-150ml%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80/2224/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a9a512c9f96d6b2e7b12e316fb7f438e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "14fbc08d-4fe9-49f2-90cb-3f69f30cf5fa",
         "name": "스푼 포크세트&케이스 모음전",
+        "brand": "슈가부거",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%EC%8A%A4%ED%91%BC-%ED%8F%AC%ED%81%AC%EC%84%B8%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EC%9D%8C%EC%A0%84/2223/category/3082/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/6406cc4837b3f14dad48b6fbb6d10fbd.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9f9b0ad5-b637-482b-a255-bd884adc91e4",
         "name": "원더랜드 프리미엄 안심 유리젖병 신생아용 120ml",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 프리미엄 안심 유리젖병 신생아용 120ml",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-120ml/3850/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/aa55912445ff6a71df43d2b97d770a72.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "019bc860-44d4-46fc-959f-bcff9de6e560",
         "name": "원더랜드 버터플라이 모유촉감 쪽쪽이",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 버터플라이 모유촉감 쪽쪽이",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%EB%B2%84%ED%84%B0%ED%94%8C%EB%9D%BC%EC%9D%B4-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%AA%BD%EC%AA%BD%EC%9D%B4/3845/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/99a077b1de19f6c4fbdcdfde6f873d39.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "825ad83d-1f04-4048-8618-18754b2895e1",
         "name": "수유패드 2종세트 (28P+60P)",
+        "brand": "스와비넥스",
         "sale_price": "44,000원",
         "link": "https://coochi.co.kr/product/%EC%88%98%EC%9C%A0%ED%8C%A8%EB%93%9C-2%EC%A2%85%EC%84%B8%ED%8A%B8-28p60p/3839/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202411/8a2b4217b550bccef8d6098ea347f072.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f32084aa-ef52-4aa6-bedc-a7f689480cdf",
         "name": "수유패드 2종세트 (60P+60P)",
+        "brand": "스와비넥스",
         "sale_price": "58,000원",
         "link": "https://coochi.co.kr/product/%EC%88%98%EC%9C%A0%ED%8C%A8%EB%93%9C-2%EC%A2%85%EC%84%B8%ED%8A%B8-60p60p/3838/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202411/c14725255affc988bb443a5778a7dea0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "502d7b62-8e27-436f-b08f-72ac900b1a29",
         "name": "원더 모유촉감 쪽쪽이 2종세트 (쪽쪽이+클립)",
+        "brand": "스와비넥스",
         "sale_price": "원더 모유촉감 쪽쪽이 2종세트 (쪽쪽이+클립)",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EC%A2%85%EC%84%B8%ED%8A%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD/3815/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202406/c9b444ee46c0c08734bc6618356cc614.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a9067cba-b5fc-4c52-9557-9d012f362910",
         "name": "메모리즈 아나토미컬형 쪽쪽이 2단계 2P(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98/3400/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/29ee2fb6ac1eeb83c53c50d37a4093da.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "be6538e1-7832-4ce9-b6ab-b9a09ecac480",
         "name": "메모리즈 아나토미컬형 쪽쪽이 1단계 2P(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98/3401/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/c179d176899b027977558fb3116fdb2b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "122b8984-f163-499c-8050-4e9d2330cb59",
         "name": "컬러 에센스 올실리콘 쪽쪽이 3종세트 (쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "57,000원",
         "link": "https://coochi.co.kr/product/%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%98%AC%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3770/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/8c38d64a4b30c77a33d8ba12432dcdbd.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "aa75e21a-7718-479d-8c5d-4743ed706037",
         "name": "와이드넥 노꼭지 젖병 150ml",
+        "brand": "스와비넥스",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%A0%96%EB%B3%91-150ml/3754/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202307/fa06e03284d262ee55b40ca5f4a4c8a0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "8ac95c4a-5393-4310-b54e-16d5a96cd9e1",
         "name": "컬러 에센스 실리콘 쪽쪽이 케이스",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%BC%80%EC%9D%B4%EC%8A%A4/3735/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/c33d533813daa79e9882f7a8d841260c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1d3fd8a6-28aa-45a0-8af2-c1a255ec5d5a",
         "name": "인디언 퓨전 일자형 노리개젖꼭지(실리콘) 1단계",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%9D%B8%EB%94%94%EC%96%B8-%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%8B%A4%EB%A6%AC%EC%BD%98-1%EB%8B%A8%EA%B3%84/3104/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/dcdd20c35e392f0e91c2211622b753d9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4c6dbd7b-f1c4-4fc4-9b12-f5aa73af755f",
         "name": "리필용 빨대(부속품)",
+        "brand": "슈가부거",
         "sale_price": "2,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%95%84%EC%9A%A9-%EB%B9%A8%EB%8C%80%EB%B6%80%EC%86%8D%ED%92%88/1527/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/c6fbc5c933c566a9b92a94d86e1664f3.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "34d075cb-2472-46ad-b0be-fc547bb69dd5",
         "name": "원더랜드 프리미엄 안심 유리젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 프리미엄 안심 유리젖병 240ml",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml/3851/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/451879135e27cc4aee6abdd18ca85aa7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "24279a9a-50df-4378-bd59-343a1a1ad4ad",
         "name": "원더랜드 프리미엄 PA젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 프리미엄 PA젖병 270ml",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-pa%EC%A0%96%EB%B3%91-270ml/3849/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/6ece74e9665387b75284104f3e735a06.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f7339d48-80d5-4d10-a823-964844780ef1",
         "name": "원더랜드 프리미엄 신생아용 PA젖병 150ml",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 프리미엄 신생아용 PA젖병 150ml",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-pa%EC%A0%96%EB%B3%91-150ml/3848/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/a17913dbe89e898af7e683aac6054cce.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "05029553-d253-4c99-9875-78d814dff07b",
         "name": "원더랜드 듀오케이스(쪽쪽이 케이스)",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 듀오케이스(쪽쪽이 케이스)",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%EB%93%80%EC%98%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%BC%80%EC%9D%B4%EC%8A%A4/3847/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/4725b18759bc30a9e557945f561cf5af.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1e456dea-2a1f-401b-b017-d3c01d782d06",
         "name": "원더랜드 쪽쪽이 전용 패브릭 클립(쪽쪽이 스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "원더랜드 쪽쪽이 전용 패브릭 클립(쪽쪽이 스트랩)",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%A0%84%EC%9A%A9-%ED%8C%A8%EB%B8%8C%EB%A6%AD-%ED%81%B4%EB%A6%BD%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9E%A9/3846/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/364ea93ff8543598709f7eb90f25fdd8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "fbe83887-c333-473e-83fd-18485b0531cd",
         "name": "(1+1) 제로제로 모유촉감 실리콘젖병 180ml (A형)",
+        "brand": "스와비넥스",
         "sale_price": "78,000원",
         "link": "https://coochi.co.kr/product/11-%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml-a%ED%98%95/3841/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202411/d4bde00a82e35e181d7e0f8f1a08dac9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "be3d8259-12be-410c-ad9c-1f12b072e7da",
         "name": "올인원 젖병 패키지 PA젖병 빨대컵 270ml",
+        "brand": "스와비넥스",
         "sale_price": "올인원 젖병 패키지 PA젖병 빨대컵 270ml",
         "link": "https://coochi.co.kr/product/%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%A0%96%EB%B3%91-%ED%8C%A8%ED%82%A4%EC%A7%80-pa%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5-270ml/3834/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202410/74189c3b427d2a0dde30dd3562b9652a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a7425462-56b1-4004-b5d8-fdfb9eb71531",
         "name": "(1+1) 인디언 일자형 쪽쪽이 2단계(천연고무/실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/11-%EC%9D%B8%EB%94%94%EC%96%B8-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4%EC%8B%A4%EB%A6%AC%EC%BD%98/3829/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202408/d237a3e1d5b124cbf86d3126bac56409.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "388b9c5a-e358-44a8-b3e9-08db625687ea",
         "name": "원더 모유촉감 쪽쪽이 3종세트 (쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "원더 모유촉감 쪽쪽이 3종세트 (쪽쪽이+클립+케이스)",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3816/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202406/5061fbf5c3342847ef090ff6ab5fdcb5.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "31e60b17-e1c1-4a76-9d87-e7d269cb166a",
         "name": "원더 쪽쪽이 전용 클립(쪽쪽이 스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "원더 쪽쪽이 전용 클립(쪽쪽이 스트랩)",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%A0%84%EC%9A%A9-%ED%81%B4%EB%A6%BD%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9E%A9/3814/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202405/8dc0c0b7705b00776541a14fffc67a28.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "8233ac5d-72c5-4453-8325-359ee8a2a1ed",
         "name": "원더 모유촉감 쪽쪽이",
+        "brand": "스와비넥스",
         "sale_price": "원더 모유촉감 쪽쪽이",
         "link": "https://coochi.co.kr/product/%EC%9B%90%EB%8D%94-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%AA%BD%EC%AA%BD%EC%9D%B4/3813/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202405/742898d2560cbf819ef310d732967f18.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ca2c6e09-5011-4d09-a5ef-0e4c916d437f",
         "name": "[첫구매 100원 특가] 천연고무 쪽쪽이 모음전",
+        "brand": "스와비넥스",
         "sale_price": "[첫구매 100원 특가] 천연고무 쪽쪽이 모음전",
         "link": "https://coochi.co.kr/product/%EC%B2%AB%EA%B5%AC%EB%A7%A4-100%EC%9B%90-%ED%8A%B9%EA%B0%80-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EB%AA%A8%EC%9D%8C%EC%A0%84/3810/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/6f06a23907973ec42513798c2f3a8702.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "dcf63a8f-e95d-4815-a6c1-e7c431d80366",
         "name": "와이드넥 노꼭지 젖병 270ml + 모유촉감젖꼭지(2p)",
+        "brand": "스와비넥스",
         "sale_price": "34,000원",
         "link": "https://coochi.co.kr/product/%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%A0%96%EB%B3%91-270ml-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90%EC%A0%96%EA%BC%AD%EC%A7%802p/3808/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/2aa4c5115ef64f2e57553c7004fb030b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a2a6a44b-e655-48c7-b59b-2d79c652e253",
         "name": "와이드넥 노꼭지 젖병 150ml + 모유촉감젖꼭지(2p)",
+        "brand": "스와비넥스",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%A0%96%EB%B3%91-150ml-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90%EC%A0%96%EA%BC%AD%EC%A7%802p/3807/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/d6a7a31023e9003903b05b5dd6d83ba0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7c288c64-5316-4dd5-b5ff-a87e8a44b0a4",
         "name": "(1+1) 휘게 안심 노꼭지 유리젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "58,000원",
         "link": "https://coochi.co.kr/product/11-%ED%9C%98%EA%B2%8C-%EC%95%88%EC%8B%AC-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml/3806/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202407/c94e6adcbc8384dd14cc71a202baba25.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5e757eb9-4887-4672-9839-84e69ad04906",
         "name": "\"선물포장\" 보노미아 쪽쪽이 3종 기프트 팩 (쪽쪽이+스트랩+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "51,000원",
         "link": "https://coochi.co.kr/product/%EC%84%A0%EB%AC%BC%ED%8F%AC%EC%9E%A5-%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85-%EA%B8%B0%ED%94%84%ED%8A%B8-%ED%8C%A9-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9%EC%BC%80%EC%9D%B4%EC%8A%A4/3802/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202312/f692e5b566f46083dfe6db9ee26eba37.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1fd07474-6c87-4ae9-b1eb-c2b6bea561a0",
         "name": "처음쓰는 신생아전용 유리젖병 트윈팩 (120ml 2p)",
+        "brand": "스와비넥스",
         "sale_price": "58,000원",
         "link": "https://coochi.co.kr/product/%EC%B2%98%EC%9D%8C%EC%93%B0%EB%8A%94-%EC%8B%A0%EC%83%9D%EC%95%84%EC%A0%84%EC%9A%A9-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%ED%8A%B8%EC%9C%88%ED%8C%A9-120ml-2p/3799/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202410/c19bc0c0ec8e850c279d9062de696d6d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d4f89386-d3ca-491c-bf50-77fda3fbc69a",
         "name": "침독예방 기능성 쪽쪽이(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EA%B8%B0%EB%8A%A5%EC%84%B1-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8B%A4%EB%A6%AC%EC%BD%98/3790/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202311/bcdf7e5ce17dcf12d12df9f550083c15.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "fb62a453-5eba-460a-9bc6-2f581a06b781",
         "name": "퓨전 일자형 노리개젖꼭지",
+        "brand": "스와비넥스",
         "sale_price": "신생아 원픽!",
         "link": "https://coochi.co.kr/product/%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80/3788/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202311/b7b4d1db3dc8e0936fea4770d818d09b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "797b6b8b-7900-4f4c-bc09-787bba3e90de",
         "name": "엄마쮸쮸 공갈젖꼭지",
+        "brand": "스와비넥스",
         "sale_price": "모유수유 아기 원픽!",
         "link": "https://coochi.co.kr/product/%EC%97%84%EB%A7%88%EC%AE%B8%EC%AE%B8-%EA%B3%B5%EA%B0%88%EC%A0%96%EA%BC%AD%EC%A7%80/3787/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202311/36aef1426c338a346e625066033fb7dc.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "29a124c7-ad22-4ded-9969-e4a93f0e972b",
         "name": "안심 PA/유리/실리콘젖병 3종세트 (모유촉감 리필젖꼭지 증정)",
+        "brand": "스와비넥스",
         "sale_price": "75,000원",
         "link": "https://coochi.co.kr/product/%EC%95%88%EC%8B%AC-pa%EC%9C%A0%EB%A6%AC%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80-%EC%A6%9D%EC%A0%95/3785/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/e2f05036905c4f73beeec213f507e443.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7c8470e9-744d-425a-8068-418426f2eaa8",
         "name": "골드 프리미엄 안심 유리젖병 240ml (S사이즈)",
+        "brand": "스와비넥스",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml-s%EC%82%AC%EC%9D%B4%EC%A6%88/3784/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202312/badd732a704815ead2c17dc977936584.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1ea0885a-195c-46eb-a91e-0e8c489867b6",
         "name": "골드 프리미엄 안심 유리젖병 신생아용 120ml (XS사이즈)",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-120ml-xs%EC%82%AC%EC%9D%B4%EC%A6%88/3783/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202407/0f7c3f75a1752fa1c7489aa9ad213c81.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "72ea4e4b-bb20-4cf7-8b49-82b0006330d1",
         "name": "안심 PA젖병 270ml 3종세트",
+        "brand": "스와비넥스",
         "sale_price": "84,000원",
         "link": "https://coochi.co.kr/product/%EC%95%88%EC%8B%AC-pa%EC%A0%96%EB%B3%91-270ml-3%EC%A2%85%EC%84%B8%ED%8A%B8/3773/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/a0f211e39df9ce1c447a3776dcfe2567.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "783b6cb7-0485-4d49-a755-39fee94262c6",
         "name": "골드 쪽쪽이 3종세트 (쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "48,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3772/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202408/f0c857500766b0896931c0d8cbf41777.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "93f77e57-5dac-47b6-bf2a-50c46abd3e33",
         "name": "컬러 에센스 올실리콘 쪽쪽이 2종세트 (쪽쪽이+클립)",
+        "brand": "스와비넥스",
         "sale_price": "35,000원",
         "link": "https://coochi.co.kr/product/%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%98%AC%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EC%A2%85%EC%84%B8%ED%8A%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD/3771/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/0c6fdd7fd35a257af0ec256442d1e54f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "217ed96f-c99a-44fc-9d4d-920003b3f24d",
         "name": "쪽쪽이클립 모음전(쪽쪽이 스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD-%EB%AA%A8%EC%9D%8C%EC%A0%84%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9E%A9/3769/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/2d955c1a1f0f562c1143ef2b75004150.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "bbc7fc54-3984-4a29-a67d-0242df52aa30",
         "name": "쪽쪽이케이스 모음전 (쪽쪽이 보관함)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EC%9D%8C%EC%A0%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EB%B3%B4%EA%B4%80%ED%95%A8/3768/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202309/5d636f6ccf54c049b715b31dd678f4e0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9f4fb013-9b43-4d51-8a5d-a43d7cfa4c37",
         "name": "화이트컬렉션 와이드넥 노꼭지 젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%A0%96%EB%B3%91-270ml/3756/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202307/14eb812721346213b5e5e6eb2e0d8b2f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0dd8bfb2-a30f-4433-98b3-1c7a5171dd16",
         "name": "와이드넥 노꼭지 젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%A0%96%EB%B3%91-270ml/3755/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202307/23727f37f104e7096da69b8778aa05f0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "918f79c1-4510-47b1-bf9d-c01af31032a6",
         "name": "쿨링 치발기 딸랑이 step3",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EC%BF%A8%EB%A7%81-%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%94%B8%EB%9E%91%EC%9D%B4-step3/3753/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202308/255e627c6a91c8eff4a70b568a5d67c7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "299006ba-59f8-4550-8226-192129fbd311",
         "name": "쿨링 치발기 step2",
+        "brand": "스와비넥스",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%EC%BF%A8%EB%A7%81-%EC%B9%98%EB%B0%9C%EA%B8%B0-step2/3752/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202308/5ba57e31bf6a0fb7ccd51ff309a5061f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0faef751-df8b-4dd1-bbd9-6847f21ec98c",
         "name": "(New컬러 추가!) 컬러 에센스 실리콘 쪽쪽이 클립(쪽쪽이 스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/new%EC%BB%AC%EB%9F%AC-%EC%B6%94%EA%B0%80-%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%ED%81%B4%EB%A6%BD%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9E%A9/3734/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/7cf13a1dc49fdf2423526a28e01cb016.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a92a217a-6e3f-49e7-baee-9fba9e642866",
         "name": "(New컬러 추가!) 컬러 에센스 올실리콘 쪽쪽이",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/new%EC%BB%AC%EB%9F%AC-%EC%B6%94%EA%B0%80-%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EC%98%AC%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4/3733/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/8db56ba5617ec8faa1b9129aa6b46c6b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9650ad8c-5db2-44bf-9f54-79d1526ce796",
         "name": "컬러 에센스 모유촉감 실리콘 젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "49,000원",
         "link": "https://coochi.co.kr/product/%EC%BB%AC%EB%9F%AC-%EC%97%90%EC%84%BC%EC%8A%A4-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%A0%96%EB%B3%91-240ml/3732/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/51cab9566084d88ba70694092059cc0c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "db5141ad-315e-4636-bead-16397cb4d8aa",
         "name": "보노미아 3종세트(쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "47,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-3%EC%A2%85%EC%84%B8%ED%8A%B8%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3728/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/7cbfb7492b98b0ebd64fb52d9c2fcfb2.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2d48e7ae-fa95-471f-87cf-0d51f205a313",
         "name": "인디언 퓨전 일자형 노리개젖꼭지(천연고무) 2단계",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%9D%B8%EB%94%94%EC%96%B8-%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4-2%EB%8B%A8%EA%B3%84/3689/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/da77f8ad49f31ac4e8ff3049d30773ae.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b9dacbac-85fb-4380-be7c-8c598a66ee65",
         "name": "웰컴 베이비 기프트-7종세트",
+        "brand": "Suavinex",
         "sale_price": "109,000원",
         "link": "https://coochi.co.kr/product/%EC%9B%B0%EC%BB%B4-%EB%B2%A0%EC%9D%B4%EB%B9%84-%EA%B8%B0%ED%94%84%ED%8A%B8-7%EC%A2%85%EC%84%B8%ED%8A%B8/3687/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/d3d703a96819f75a79ccd93f57bb9909.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "8a5d8e2a-4ce4-4cad-87cc-5c848afb3b27",
         "name": "스윗캔디 노리개젖꼭지 리본 클립",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%EC%8A%A4%EC%9C%97%EC%BA%94%EB%94%94-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-%EB%A6%AC%EB%B3%B8-%ED%81%B4%EB%A6%BD/3678/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/744f799d172ba992f5d572f630601876.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4a91df1a-1f40-4a60-af83-b5adda1eb7f6",
         "name": "보노미아 기프트 세트",
+        "brand": "스와비넥스",
         "sale_price": "59,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EA%B8%B0%ED%94%84%ED%8A%B8-%EC%84%B8%ED%8A%B8/3617/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/b92c11a98811827f006074a365d66e01.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "807048b9-b65e-47de-be78-06bd6fcac174",
         "name": "보노미아 웰컴 베이비 출산선물세트",
+        "brand": "스와비넥스",
         "sale_price": "119,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%9B%B0%EC%BB%B4-%EB%B2%A0%EC%9D%B4%EB%B9%84-%EC%B6%9C%EC%82%B0%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8/3616/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/e6c7c55da18d223125a8814ac5f84a47.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "406f1307-73c2-4ad5-9cc1-14a1cfbff5e1",
         "name": "보노미아 듀오케이스(쪽쪽이 케이스)",
+        "brand": "스와비넥스",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EB%93%80%EC%98%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%BC%80%EC%9D%B4%EC%8A%A4/3615/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a4ef8e71f89201d3b77a0fe2d24a3bbb.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7f861918-80ca-4df7-ab13-0b3627516b56",
         "name": "보노미아 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3614/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/61ea05913145908109debaa4fdf068ba.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b59cd6b8-77ad-4072-a4ee-42ae594905e1",
         "name": "보노미아 쪽쪽이 리본클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "16,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3613/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/1e306358b721d3c5ccfbde0f6a0c45e7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "87ecf6ba-bf27-42d7-925e-eaf4891b1d84",
         "name": "보노미아 침독예방 아나토미컬형 쪽쪽이 3단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3612/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/f60a241bc5592b370fe97bd5c7165473.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c180c5ea-6b4b-4cb3-8cb0-2be36a435cd6",
         "name": "보노미아 침독예방 아나토미컬형 쪽쪽이 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3611/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3592a9e2cb0704fc4a5fb7f24def1c93.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ba7e4b12-3eed-4b41-ba19-24bc806ccf91",
         "name": "보노미아 침독예방 아나토미컬형 쪽쪽이 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3610/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6db5cfa9462f117364620d8e26c2ba1c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d683946f-3618-46d3-8cdb-07e7f6d22ddf",
         "name": "보노미아 프리미엄 일자형 쪽쪽이 3단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3609/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/9e4e49caee728dc7036ff24eeb9a92d5.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "77437896-67cf-4ec3-95d7-7566b8cd12e6",
         "name": "보노미아 프리미엄 일자형 쪽쪽이 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3608/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/545548e94109764ee4529c0ebc10a34a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "6ad69545-bf76-4258-b85a-583282021006",
         "name": "보노미아 프리미엄 일자형 쪽쪽이 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3607/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/2f93091e4203e8e2037c5f02644d6268.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3547eb1f-9c56-462b-b600-13bbe65d29d4",
         "name": "보노미아 프리미엄 PA젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "28,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-pa%EC%A0%96%EB%B3%91-270ml/3606/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e55834c4e049a54b4a57add446e57530.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2cf86306-f084-46f7-b11a-beb06c442c6c",
         "name": "보노미아 프리미엄 신생아용 PA젖병 150ml",
+        "brand": "스와비넥스",
         "sale_price": "25,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-pa%EC%A0%96%EB%B3%91-150ml/3605/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6c553afb79a25d39ebda17ba559e9d05.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "627a15a0-e5c5-49e6-9245-dace79bd4b23",
         "name": "보노미아 안심 유리젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "32,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml/3604/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a0bbbde581b24b750f2d1673fb2fb8fc.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2cb642cf-fa14-46d6-bdd6-7870927eaaa3",
         "name": "보노미아 안심 유리젖병 신생아용 120ml",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%EB%B3%B4%EB%85%B8%EB%AF%B8%EC%95%84-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-120ml/3603/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/771e31d0f83f1eea2d09695c2956bb97.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "800ef15f-1079-43a4-9aef-c2aa42d9bbb0",
         "name": "수유패드 (60P)",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%EC%88%98%EC%9C%A0%ED%8C%A8%EB%93%9C-60p/3598/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/95bc383d435f18719b64a63f5f0a900a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a2c640e8-19e8-4502-a186-fc41c775d1e5",
         "name": "프리미엄 안심PA젖병 270ml 3종세트 +빨대컵키트",
+        "brand": "스와비넥스",
         "sale_price": "95,000원",
         "link": "https://coochi.co.kr/product/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%ACpa%EC%A0%96%EB%B3%91-270ml-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EB%B9%A8%EB%8C%80%EC%BB%B5%ED%82%A4%ED%8A%B8/3597/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/39100cbf1430f9756e696ffe81ce12f5.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0a4fedc4-f63a-4416-b6ff-1b704d283b9f",
         "name": "배앓이방지 데일리 PP젖병 270ml 3종 + 젖병손잡이",
+        "brand": "스와비넥스",
         "sale_price": "68,000원",
         "link": "https://coochi.co.kr/product/%EB%B0%B0%EC%95%93%EC%9D%B4%EB%B0%A9%EC%A7%80-%EB%8D%B0%EC%9D%BC%EB%A6%AC-pp%EC%A0%96%EB%B3%91-270ml-3%EC%A2%85-%EC%A0%96%EB%B3%91%EC%86%90%EC%9E%A1%EC%9D%B4/3596/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/58e54839cfce50fd2da873e73f7fb380.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "817b987b-d417-4c1c-8d8e-9e63f98fbff4",
         "name": "배앓이방지 안심 유리젖병 240ml 2종 + 젖병손잡이",
+        "brand": "스와비넥스",
         "sale_price": "66,000원",
         "link": "https://coochi.co.kr/product/%EB%B0%B0%EC%95%93%EC%9D%B4%EB%B0%A9%EC%A7%80-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml-2%EC%A2%85-%EC%A0%96%EB%B3%91%EC%86%90%EC%9E%A1%EC%9D%B4/3595/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/30c9484af930d947ca839ce188b7bd3b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "02d3b9e3-d6aa-4fca-836e-55b6fd7c4aa8",
         "name": "젖병 손잡이(핸들) 세트",
+        "brand": "스와비넥스",
         "sale_price": "8,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%96%EB%B3%91-%EC%86%90%EC%9E%A1%EC%9D%B4%ED%95%B8%EB%93%A4-%EC%84%B8%ED%8A%B8/3594/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/ea2e51f57e841a83cd9d49f766445fc1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "24cc5a04-4f93-4b0c-a9af-a6fb87bc9df9",
         "name": "젖병 손잡이 + 리필빨대세트 (빨대컵키트)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%96%EB%B3%91-%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80%EC%84%B8%ED%8A%B8-%EB%B9%A8%EB%8C%80%EC%BB%B5%ED%82%A4%ED%8A%B8/3593/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/8249b4f387c96875f5efb1374e1803e8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3b980b8a-9279-4855-80dc-52973e8ad2eb",
         "name": "레인보우 실리콘 치발기/ 쿨링치발기",
+        "brand": "스와비넥스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%B9%98%EB%B0%9C%EA%B8%B0-%EC%BF%A8%EB%A7%81%EC%B9%98%EB%B0%9C%EA%B8%B0/3551/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6f5b426732c4545ce7c72b664cd255b1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "416854c2-52cf-4134-a6d8-f642b6724dca",
         "name": "PA젖병 빨대컵세트(젖병2p+스파우트+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "89,000원",
         "link": "https://coochi.co.kr/product/pa%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%84%B8%ED%8A%B8%EC%A0%96%EB%B3%912p%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3550/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3ca189980899a9a1981c6e5ab905d940.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "620ee0f9-c493-4d2f-8424-bc167541f63a",
         "name": "유리젖병 빨대컵세트(유리젖병2p+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "70,000원",
         "link": "https://coochi.co.kr/product/%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%84%B8%ED%8A%B8%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%912p%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3548/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/4fcee716fc04155bae8a87acc42d2976.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "8470bf14-a6fd-43b6-a282-070000fc04d7",
         "name": "pa젖병 빨대컵(젖병+스파우트+리필빨대)",
+        "brand": "스와비넥스",
         "sale_price": "64,000원",
         "link": "https://coochi.co.kr/product/pa%EC%A0%96%EB%B3%91-%EB%B9%A8%EB%8C%80%EC%BB%B5%EC%A0%96%EB%B3%91%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3547/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/506eb463fc8266185616ef1cb8d58bef.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "fdbcaa59-a538-4375-86a9-0d5388f8017a",
         "name": "골드 pa젖병 4종세트(150ml 2p+270ml 2p)+사은품: 리필빨대",
+        "brand": "스와비넥스",
         "sale_price": "106,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-pa%EC%A0%96%EB%B3%91-4%EC%A2%85%EC%84%B8%ED%8A%B8150ml-2p270ml-2p%EC%82%AC%EC%9D%80%ED%92%88-%EB%A6%AC%ED%95%84%EB%B9%A8%EB%8C%80/3546/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/c4b99a1adad22199d948561904943623.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c787d805-993f-44ce-8131-9ec362988aeb",
         "name": "세이지마망 교체형 리필 빨대 세트(2p)",
+        "brand": "세이지마망",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%84%B8%EC%9D%B4%EC%A7%80%EB%A7%88%EB%A7%9D-%EA%B5%90%EC%B2%B4%ED%98%95-%EB%A6%AC%ED%95%84-%EB%B9%A8%EB%8C%80-%EC%84%B8%ED%8A%B82p/3544/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a700324ec1917ebfdf87f65ed3d65aaa.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "67952ba3-3512-4402-a7e2-ed3d8fd4cff5",
         "name": "골드 노리개 젖꼭지 체인과 클립(쪽쪽이 스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%EB%85%B8%EB%A6%AC%EA%B0%9C-%EC%A0%96%EA%BC%AD%EC%A7%80-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%ED%81%B4%EB%A6%BD%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9E%A9/3532/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/831cf3f4954fe9cbfbb570f7e8a62818.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0d65dfec-2633-40dd-a9aa-ec1fe33d8cfb",
         "name": "골드 프리미엄 일자형 쪽쪽이(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8B%A4%EB%A6%AC%EC%BD%98/3531/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/6c2625fcdd4dfb12f69269e640139967.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5d39cbd5-954c-4952-a652-3f5d288a3087",
         "name": "골드 프리미엄 안심 PA젖병 150ml/270ml",
+        "brand": "스와비넥스",
         "sale_price": "25,000원",
         "link": "https://coochi.co.kr/product/%EA%B3%A8%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-pa%EC%A0%96%EB%B3%91-150ml270ml/3530/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/fbd2ff3011ac51907ddec6c50f9f3df1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2506e7b0-1deb-4367-b8a9-425e37db746a",
         "name": "임신 출산 축하박스(신생아젖병+쪽쪽이+쪽쪽이클립)",
+        "brand": "스와비넥스",
         "sale_price": "40,000원",
         "link": "https://coochi.co.kr/product/%EC%9E%84%EC%8B%A0-%EC%B6%9C%EC%82%B0-%EC%B6%95%ED%95%98%EB%B0%95%EC%8A%A4%EC%8B%A0%EC%83%9D%EC%95%84%EC%A0%96%EB%B3%91%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD/3513/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/c7602b978e44f39a6057e8024d84f727.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7481fd36-7823-460b-a12a-bf2c5cca2adb",
         "name": "화이트컬렉션 기프트세트",
+        "brand": "스와비넥스",
         "sale_price": "93,000원",
         "link": "https://coochi.co.kr/product/%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EA%B8%B0%ED%94%84%ED%8A%B8%EC%84%B8%ED%8A%B8/3511/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202407/f0393c684c319e9ec15e8dad317ae3a3.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "44ae50ec-c489-4f5b-8c9e-fa1d2ce155e8",
         "name": "뉴본 베이비 스타터세트(제로제로 실리콘젖병 2P+제로쪽쪽이+리본클립)",
+        "brand": "스와비넥스",
         "sale_price": "97,000원",
         "link": "https://coochi.co.kr/product/%EB%89%B4%EB%B3%B8-%EB%B2%A0%EC%9D%B4%EB%B9%84-%EC%8A%A4%ED%83%80%ED%84%B0%EC%84%B8%ED%8A%B8%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-2p%EC%A0%9C%EB%A1%9C%EC%AA%BD%EC%AA%BD%EC%9D%B4%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD/3510/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/ae704c9ef3b99cb50807ab992a4d52cf.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d3287846-923b-46a1-8952-effcee876b9b",
         "name": "제로제로 모유촉감 올실리콘 쪽쪽이",
+        "brand": "스와비넥스",
         "sale_price": "19,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%98%AC%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4/3500/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/8ea9b411bb852266249a77411cd0d1d1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b125d087-4923-4aac-be7b-a70971050499",
         "name": "리필 빨대꼭지 탑스트로우 2p",
+        "brand": "스와비넥스",
         "sale_price": "7,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%95%84-%EB%B9%A8%EB%8C%80%EA%BC%AD%EC%A7%80-%ED%83%91%EC%8A%A4%ED%8A%B8%EB%A1%9C%EC%9A%B0-2p/3497/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/2f826edd2b8b643e726fc9b904c35b7a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "428aaf25-acb8-4846-b370-6ce6abb5ee52",
         "name": "메모리즈 안심 유리젖병 기프트세트",
+        "brand": "스와비넥스",
         "sale_price": "101,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EA%B8%B0%ED%94%84%ED%8A%B8%EC%84%B8%ED%8A%B8/3426/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202310/f01d772ac33557c1d3feef8e4e636504.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5bfdfc51-6860-44bf-b689-e6e71ab01197",
         "name": "메모리즈 안심 유리젖병 120ml+240ml 4종세트",
+        "brand": "스와비넥스",
         "sale_price": "110,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-120ml240ml-4%EC%A2%85%EC%84%B8%ED%8A%B8/3424/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/5e9173705b915c07501dce140df24460.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "31c97083-c1e2-483e-8736-3d4109ade8ad",
         "name": "모유촉감 올실리콘 쪽쪽이",
+        "brand": "스와비넥스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%98%AC%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%AA%BD%EC%AA%BD%EC%9D%B4/3422/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202502/e94c97ba28d4352898bbfee7137b9e28.gif"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1d78fe16-ae3f-4a93-a4b2-c37a97fc781d",
         "name": "메모리즈 안심 유리젖병 신생아용 120ml",
+        "brand": "스와비넥스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-120ml/3407/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3d1818200c0fba98268aebeb7c89edf5.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5b25bfe4-fbca-4c3e-8462-eb57623d3e06",
         "name": "메모리즈 안심 유리젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%88%EC%8B%AC-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml/3406/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6b1830a0fb0fe506f278655635b04ec7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c7215d8a-6e2c-421d-83ef-94d240f4ce80",
         "name": "메모리즈 쪽쪽이 3종세트(쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "48,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B8%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3404/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/3958ccd5b28bde07d57f169ad3f8b224.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "6402b497-0080-43a5-82ba-2132fbd4f542",
         "name": "메모리즈 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3402/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e99e3bebad2bac65b3e733fbe7431765.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "28f5f3fa-ee80-499b-9afa-0d5124339f94",
         "name": "메모리즈 아나토미컬형 쪽쪽이 3단계 2P(실리콘/천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3399/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/9b6028f03581996995cf57653f3be1c7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "07bde137-f57a-497c-9f85-3486de524195",
         "name": "메모리즈 아나토미컬형 쪽쪽이 1단계 2P(천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84-2p%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3398/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/d3391d1b869be28aaf434ffb1c127824.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "e4e9c0c3-0096-4a9f-bbf6-ef8ecb966c41",
         "name": "메모리즈 아나토미컬형 쪽쪽이 2단계 2P(천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3397/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e5ab9bd890d45c702cd63ed8dd736017.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "e0d8de99-8bcc-44db-b1f7-1eb9422d9224",
         "name": "메모리즈 일자형 쪽쪽이 1단계 2P(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98/3396/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/905582b00379adeee9646f3c80d5ffc6.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "661e61e5-f144-4e37-b52b-783e7f4e1c65",
         "name": "메모리즈 일자형 쪽쪽이 2단계 2P(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98/3395/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/f32bc2374b50f36acbabf31b9cacf763.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "19847c7a-0740-4631-b067-a2393eecb615",
         "name": "메모리즈 일자형 쪽쪽이 3단계 2P(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84-2p%EC%8B%A4%EB%A6%AC%EC%BD%98/3394/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/70f1733e358b8db4c7f3026029c615f8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c7ce87a5-f4cd-4db6-83e0-db860d1e8829",
         "name": "2세대 카사바 빨대컵 리필 3개 세트",
+        "brand": "미니웨어",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/2%EC%84%B8%EB%8C%80-%EC%B9%B4%EC%82%AC%EB%B0%94-%EB%B9%A8%EB%8C%80%EC%BB%B5-%EB%A6%AC%ED%95%84-3%EA%B0%9C-%EC%84%B8%ED%8A%B8/3385/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/17025e18e2506d5663c9da2a69ea9502.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "189e710b-b616-4535-94fa-07797ed105a8",
         "name": "모유촉감 일자형 리필젖꼭지 2개입",
+        "brand": "스와비넥스",
         "sale_price": "14,000원",
         "link": "https://coochi.co.kr/product/%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80-2%EA%B0%9C%EC%9E%85/3383/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/68886d17eb15bf8f565dc5574a36bc20.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b4e94488-a034-4279-8b28-e60ec95d8f91",
         "name": "꿀잠보장 야광쪽쪽이 3종세트(쪽쪽이+클립+보호케이스)",
+        "brand": "스와비넥스",
         "sale_price": "42,000원",
         "link": "https://coochi.co.kr/product/%EA%BF%80%EC%9E%A0%EB%B3%B4%EC%9E%A5-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B8%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EB%B3%B4%ED%98%B8%EC%BC%80%EC%9D%B4%EC%8A%A4/3353/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/1a8837944b3d82357d6d888de363f454.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "141e7786-cf89-409e-a0d5-739c8c98bedd",
         "name": "데이앤나잇 야광쪽쪽이 2P",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EB%8D%B0%EC%9D%B4%EC%95%A4%EB%82%98%EC%9E%87-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-2p/3341/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/5754d1af67c62018a5e741d84fdb53d0.webp"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ffa4793e-5948-44d0-956e-a8d7af492da0",
         "name": "휘게 안심 노꼭지 유리젖병 240ml",
+        "brand": "스와비넥스",
         "sale_price": "29,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%95%88%EC%8B%AC-%EB%85%B8%EA%BC%AD%EC%A7%80-%EC%9C%A0%EB%A6%AC%EC%A0%96%EB%B3%91-240ml/3281/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/baff7a63a79d818ce02c7bcea301b233.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0cd43ca9-3078-4d5a-8e7d-6d5f4dc12438",
         "name": "휘게 프리미엄 신생아용 안심 PA젖병 150ml",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9-%EC%95%88%EC%8B%AC-pa%EC%A0%96%EB%B3%91-150ml/3280/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/58dbcb76fb20404320ef0a4d89855566.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "660b8c0b-f9ca-42f5-9c21-56014c3719ac",
         "name": "휘게 프리미엄 안심 PA젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "25,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%88%EC%8B%AC-pa%EC%A0%96%EB%B3%91-270ml/3279/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/bc1ad2645a90bfa99dd12229c904b87d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ae46c084-3aa2-4265-a3e2-e7ee8a8808d6",
         "name": "휘게 침독예방 아나토미컬형 쪽쪽이 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3278/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/52ea72bab1e91cde055d7d89cad9ecc9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7b6d369b-daaf-45d9-ae23-85eef4617969",
         "name": "휘게 침독예방 아나토미컬형 쪽쪽이 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3277/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/04878f8d48a5e43138dc58a1e7b25a03.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "88fcac74-74fe-4632-a359-b2d0c638bc93",
         "name": "휘게 침독예방 아나토미컬형 쪽쪽이 3단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3276/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/09335c2e360200d5dc3d96195354c974.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "676c5fa1-ad87-4e0e-981b-3056fc390b1d",
         "name": "휘게 프리미엄 일자형 쪽쪽이 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3275/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/e4b9ade57bba364338f5dcd108dab054.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c69bf78a-adb0-45d5-862b-0e7bd22cd947",
         "name": "휘게 프리미엄 일자형 쪽쪽이 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3274/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/47f0b5ada49b597c5fb9c3259ea45cec.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d3754bcb-9743-4570-836e-b07ed7d5409c",
         "name": "휘게 프리미엄 일자형 쪽쪽이 3단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3273/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/2aa854b22b4501f33e752a4d85edb2d4.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "693abf75-7844-44fb-96c1-d72f19483c1c",
         "name": "휘게 쪽쪽이 리본클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3272/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/0265f8a386a928aace8913ae1322e016.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "fdc84ed8-da69-468c-8fd0-6100ec436370",
         "name": "휘게 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3271/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/8130866c99e1d50f8b602c17af0e0ce0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "f8c9fd9b-d385-4ca2-8571-183e07202a83",
         "name": "휘게 실리콘 치발기(케이스 포함)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%B9%98%EB%B0%9C%EA%B8%B0%EC%BC%80%EC%9D%B4%EC%8A%A4-%ED%8F%AC%ED%95%A8/3269/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/71328360b3e0b52e465d33c45df92c95.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "6837500a-14ba-4bfd-a8cf-7d1099e18ce0",
         "name": "휴대용 4단 분유케이스",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%B4%EB%8C%80%EC%9A%A9-4%EB%8B%A8-%EB%B6%84%EC%9C%A0%EC%BC%80%EC%9D%B4%EC%8A%A4/3268/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/96b814e91fe923148a914b403d032ab8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ce44f61c-0326-4730-a997-8485c5661bfd",
         "name": "휘게 기프트 세트",
+        "brand": "스와비넥스",
         "sale_price": "56,000원",
         "link": "https://coochi.co.kr/product/%ED%9C%98%EA%B2%8C-%EA%B8%B0%ED%94%84%ED%8A%B8-%EC%84%B8%ED%8A%B8/3266/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202307/61d310fc22227756e97024143960e773.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3aa4feb3-a605-4c5e-aa23-ec900d3d3d77",
         "name": "1+1 러브 오뜨꾸뛰르 노리개젖꼭지",
+        "brand": "스와비넥스",
         "sale_price": "30,000원",
         "link": "https://coochi.co.kr/product/11-%EB%9F%AC%EB%B8%8C-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80/3244/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/20c73683c4e323e1c74207766396b332.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "b6a9a9be-ff6b-410d-a02a-cd35ff0ea255",
         "name": "제로제로 실리콘젖병 출산선물세트 4P",
+        "brand": "스와비넥스",
         "sale_price": "162,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-%EC%B6%9C%EC%82%B0%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8-4p/3237/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/6f4ee7f5ae8f912290d5cbe69e4d2d2a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "bec9b26d-b612-42c5-9274-d650933de494",
         "name": "노리개젖꼭지 리본클립과 보호케이스 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD%EA%B3%BC-%EB%B3%B4%ED%98%B8%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3234/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/b7c40fea1637409b31416d23a020bdcb.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "05066d60-e7e9-417d-9dd5-696097b4041c",
         "name": "해피버니 3종세트(쪽쪽이+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "37,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-3%EC%A2%85%EC%84%B8%ED%8A%B8%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/3230/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/6f9d1add1a6117f634b65a6e82eb6098.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "bfe9e866-67f9-43df-8bf4-1adde58586ef",
         "name": "제로제로 모유촉감 젖병 180ml+리필팩",
+        "brand": "스와비넥스",
         "sale_price": "56,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%A0%96%EB%B3%91-180ml%EB%A6%AC%ED%95%84%ED%8C%A9/3228/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/7d302f6f8562b4ff378d9d5cd3cbf00a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "17dee4f4-7e1b-4573-8d06-685b6b093e12",
         "name": "제로제로 모유촉감 젖병 270ml+리필팩",
+        "brand": "스와비넥스",
         "sale_price": "59,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%A0%96%EB%B3%91-270ml%EB%A6%AC%ED%95%84%ED%8C%A9/3227/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/a94222a416b578c046eaff1d4b6decb6.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "92e3eb22-f8f3-469a-831e-1307c2b838c7",
         "name": "해피버니 노리개젖꼭지+체인세트 (실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%B2%B4%EC%9D%B8%EC%84%B8%ED%8A%B8-%EC%8B%A4%EB%A6%AC%EC%BD%98/3202/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/263dc4e4676c8e7a8d37032e63787ea8.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "56c420e2-3234-4b8e-ad22-4e7e43f8725d",
         "name": "해피버니 노리개젖꼭지+체인세트 (천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%B2%B4%EC%9D%B8%EC%84%B8%ED%8A%B8-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3201/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/19a6d408dd1775b3a046cdd04b60a37d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "cd8b3a25-83e6-4f15-a481-69df6a4c644f",
         "name": "해피버니 아나토미컬 노리개젖꼭지 1단계 (천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-1%EB%8B%A8%EA%B3%84-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3110/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/0135bbeb97c8054ae167e70a317dac91.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a710f926-01ea-4b28-afd8-d4058abd45b5",
         "name": "해피버니 아나토미컬 노리개젖꼭지 2단계 (천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3108/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/445a68e1e240b9e28e5ca4d13f59ee76.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "286f39f5-62a5-4bf3-9fcd-1960e9def4a2",
         "name": "인디언 퓨전 일자형 노리개젖꼭지(실리콘) 2단계",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%9D%B8%EB%94%94%EC%96%B8-%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%8B%A4%EB%A6%AC%EC%BD%98-2%EB%8B%A8%EA%B3%84/3103/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/4433bc7242402140ad26de1074957bee.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3932dc2e-5c79-499f-b07e-57d32790a84f",
         "name": "New 미닝플라이프 에볼루션 노리개젖꼭지(2단계)-실리콘",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/new-%EB%AF%B8%EB%8B%9D%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%97%90%EB%B3%BC%EB%A3%A8%EC%85%98-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%802%EB%8B%A8%EA%B3%84-%EC%8B%A4%EB%A6%AC%EC%BD%98/3098/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/5fa57f0688bc0a8e8617739f605c8274.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2a1d9384-e27c-4584-8856-b3a081bb7b16",
         "name": "NEW 미닝플라이프 쪽쪽이클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/new-%EB%AF%B8%EB%8B%9D%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3087/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e20f3cc0a2780503db9f4cbc3c349b07.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7805a3c5-04ff-457f-802f-d02213c442a7",
         "name": "발렌타인 러브 실리콘 치발기(케이스포함)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EB%B0%9C%EB%A0%8C%ED%83%80%EC%9D%B8-%EB%9F%AC%EB%B8%8C-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%B9%98%EB%B0%9C%EA%B8%B0%EC%BC%80%EC%9D%B4%EC%8A%A4%ED%8F%AC%ED%95%A8/3083/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/a157da56430904f96f537a41a12da853.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "88b67722-774f-4651-84be-0360e673f5c1",
         "name": "화이트컬렉션 노리개젖꼭지 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3082/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/65cad7c63722d9b73fa9fa2f3aaa0fd9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "334e12b9-f638-41c4-98b9-694e89df485e",
         "name": "퍼피프렌즈 퓨전 일자형 노리개젖꼭지 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%ED%8D%BC%ED%94%BC%ED%94%84%EB%A0%8C%EC%A6%88-%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/3074/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6b0571f558917bfe5d27306ba170530a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1fe6b72f-6853-4930-a7a5-77f9cbbe4ccb",
         "name": "퍼피프렌즈 퓨전 일자형 노리개젖꼭지 2단계(천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%ED%8D%BC%ED%94%BC%ED%94%84%EB%A0%8C%EC%A6%88-%ED%93%A8%EC%A0%84-%EC%9D%BC%EC%9E%90%ED%98%95-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3073/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/9b3435ade6ebe3fd4923c12a4bf2e83b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d60bc4ae-b9a7-4d7e-b72a-2de073ee17eb",
         "name": "퍼피프렌즈 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%ED%8D%BC%ED%94%BC%ED%94%84%EB%A0%8C%EC%A6%88-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/3072/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3554e3a6b3e927f91e1a170163c7c7b6.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2ebe054b-5029-41a9-a0cb-5909bc5bc305",
         "name": "퍼피프렌즈 3포지션 젖병 270ml (실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%ED%8D%BC%ED%94%BC%ED%94%84%EB%A0%8C%EC%A6%88-3%ED%8F%AC%EC%A7%80%EC%85%98-%EC%A0%96%EB%B3%91-270ml-%EC%8B%A4%EB%A6%AC%EC%BD%98/3071/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/1512623ef3660da556aabff3b01d28b7.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "05ace070-272c-4895-ac0b-b4fd679229a3",
         "name": "토이 침독예방 쪽쪽이 1단계 (실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "10,000원",
         "link": "https://coochi.co.kr/product/%ED%86%A0%EC%9D%B4-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84-%EC%8B%A4%EB%A6%AC%EC%BD%98/3070/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e7b69b58bbb6497aacf541074cd6e183.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "e86c8e59-f6ce-4e96-8b1f-2c965a699dbd",
         "name": "토이 침독예방 쪽쪽이 2단계 2P (실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%ED%86%A0%EC%9D%B4-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p-%EC%8B%A4%EB%A6%AC%EC%BD%98/3068/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3bd4cc279a0d20f00c25ab0977999356.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "47452ea7-df61-4edb-bc04-8b3bd7ae16f3",
         "name": "토이 침독예방 쪽쪽이 2단계 2P (천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%ED%86%A0%EC%9D%B4-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/3067/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/19e0eab69098a88af206dcdbb8857673.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "67e03afe-ce83-4908-8a1e-19a6d58f5946",
         "name": "출산준비세트A-출산전 완모용 (실리콘젖병 180ml 2P)",
+        "brand": "스와비넥스",
         "sale_price": "78,000원",
         "link": "https://coochi.co.kr/product/%EC%B6%9C%EC%82%B0%EC%A4%80%EB%B9%84%EC%84%B8%ED%8A%B8a-%EC%B6%9C%EC%82%B0%EC%A0%84-%EC%99%84%EB%AA%A8%EC%9A%A9-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml-2p/3036/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202402/02a21e3cda770d40deb6eafa0407876e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c20e0328-f033-4468-9e91-c7306b967184",
         "name": "출산준비세트B-분유 혼합수유용( 실리콘젖병 180ml 2P)",
+        "brand": "스와비넥스",
         "sale_price": "78,000원",
         "link": "https://coochi.co.kr/product/%EC%B6%9C%EC%82%B0%EC%A4%80%EB%B9%84%EC%84%B8%ED%8A%B8b-%EB%B6%84%EC%9C%A0-%ED%98%BC%ED%95%A9%EC%88%98%EC%9C%A0%EC%9A%A9-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml-2p/3035/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202402/19546a0c48d191a4ef962fb2d14c1bec.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0edadbe7-4897-4e0a-b806-183e71a744eb",
         "name": "제로제로 실리콘젖병 270ml 2P+리필젖꼭지A(모유혼합 수유용)",
+        "brand": "스와비넥스",
         "sale_price": "103,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-270ml-2p%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80a%EB%AA%A8%EC%9C%A0%ED%98%BC%ED%95%A9-%EC%88%98%EC%9C%A0%EC%9A%A9/3034/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6eb0895018f847eacc6a902b4460c644.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "950cf6e0-643c-490b-9a98-0d57073695ad",
         "name": "제로제로 실리콘젖병 270ml 2P+리필젖꼭지(분유혼합 수유용)",
+        "brand": "스와비넥스",
         "sale_price": "103,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-270ml-2p%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80%EB%B6%84%EC%9C%A0%ED%98%BC%ED%95%A9-%EC%88%98%EC%9C%A0%EC%9A%A9/3033/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e87ef28539913b617b316587a85dfb4b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5ebcfe9f-0282-4795-9e34-8923521d7810",
         "name": "프리미엄 출산준비세트A (실리콘젖병 180ml 3P+270ml 2P)",
+        "brand": "스와비넥스",
         "sale_price": "201,000원",
         "link": "https://coochi.co.kr/product/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%B6%9C%EC%82%B0%EC%A4%80%EB%B9%84%EC%84%B8%ED%8A%B8a-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml-3p270ml-2p/3032/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/9ede7ce520c7b645cd729834dbedb51d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "efd06dc6-c401-4f64-8ac7-7d68a1627623",
         "name": "프리미엄 출산준비세트B (실리콘젖병 180ml 2P+270ml 3P)",
+        "brand": "스와비넥스",
         "sale_price": "204,000원",
         "link": "https://coochi.co.kr/product/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%B6%9C%EC%82%B0%EC%A4%80%EB%B9%84%EC%84%B8%ED%8A%B8b-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml-2p270ml-3p/3031/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202412/a3f28e5ac24314a6b227c54f065ce22e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7c37fe79-bc6c-4151-b27f-e8d79bfee169",
         "name": "NEW 화이트컬렉션 와이드넥 3포지션 젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/new-%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EC%99%80%EC%9D%B4%EB%93%9C%EB%84%A5-3%ED%8F%AC%EC%A7%80%EC%85%98-%EC%A0%96%EB%B3%91-270ml/3017/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/8082632582c5cfff4fb82337fc588c19.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d02a5f40-59da-4863-865a-f367de3da4de",
         "name": "NEW 화이트컬렉션 싱글홀더(쪽쪽이 케이스)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/new-%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EC%8B%B1%EA%B8%80%ED%99%80%EB%8D%94%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%BC%80%EC%9D%B4%EC%8A%A4/3016/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/e6a782ed42f8c0ad1cba295750fc304d.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0c9c7403-dc61-4e50-9488-ccebc59c897d",
         "name": "제로제로 이유식 보관용기",
+        "brand": "스와비넥스",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EB%B3%B4%EA%B4%80%EC%9A%A9%EA%B8%B0/3008/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/5326344c654d84c04bb8269f49924a65.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ccc00b74-841f-4982-91f9-60a4c75cb4b4",
         "name": "제로제로 모유촉감 안심 실리콘젖병 180ml",
+        "brand": "스와비넥스",
         "sale_price": "39,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%95%88%EC%8B%AC-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-180ml/2978/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202501/1f2aeb5f932f8a2c39e5a96b69bc3d1a.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "728102e4-93a7-4212-9980-67e6c7817284",
         "name": "제로제로 모유촉감 안심 실리콘젖병 270ml",
+        "brand": "스와비넥스",
         "sale_price": "42,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EC%95%88%EC%8B%AC-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%A0%96%EB%B3%91-270ml/2977/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202501/dbb870cd63b5d78f2fda63486a931834.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "59c3ad24-fcfa-48a8-ad17-914a74ff28f7",
         "name": "제로제로 모유촉감 리필젖꼭지(제로젖병전용)",
+        "brand": "스와비넥스",
         "sale_price": "19,000원",
         "link": "https://coochi.co.kr/product/%EC%A0%9C%EB%A1%9C%EC%A0%9C%EB%A1%9C-%EB%AA%A8%EC%9C%A0%EC%B4%89%EA%B0%90-%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80%EC%A0%9C%EB%A1%9C%EC%A0%96%EB%B3%91%EC%A0%84%EC%9A%A9/2976/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/6a4a7c752e175ac39ba55409d5510cb1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "846a6b1d-30ae-4240-be4a-1a18e4718fbf",
         "name": "히포 턱받이 치발기 (네커츄) 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%ED%9E%88%ED%8F%AC-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%84%A4%EC%BB%A4%EC%B8%84-%EB%AA%A8%EC%9D%8C%EC%A0%84/2952/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/0fe16b8f7cbecd32a0a31e832125e4e9.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "24ef68db-708a-4624-a03a-e4a513f1c46c",
         "name": "NEW 야광쪽쪽이 2종세트(2단계 2P+클립)",
+        "brand": "스와비넥스",
         "sale_price": "35,000원",
         "link": "https://coochi.co.kr/product/new-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EC%A2%85%EC%84%B8%ED%8A%B82%EB%8B%A8%EA%B3%84-2p%ED%81%B4%EB%A6%BD/2888/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/8bfcb0ecab0686ead1d757447bd9f3d6.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "086eec06-4a80-4b1e-93c7-b1c838f2bdec",
         "name": "애즈유 침독예방 노리개젖꼭지 모음전",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%95%A0%EC%A6%88%EC%9C%A0-%EC%B9%A8%EB%8F%85%EC%98%88%EB%B0%A9-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-%EB%AA%A8%EC%9D%8C%EC%A0%84/2838/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/2a035d401e4e88c2c9b9629ec9f39e11.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "ba6e8bfd-8617-486c-8082-a4a89be14d02",
         "name": "NEW 야광쪽쪽이 3종세트(2단계+클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "48,000원",
         "link": "https://coochi.co.kr/product/new-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-3%EC%A2%85%EC%84%B8%ED%8A%B82%EB%8B%A8%EA%B3%84%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/2829/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/b29577ef88f2ba82f19cf6b1d796894e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4c6c7a11-3708-4ebb-a30e-1293f5aa2bdc",
         "name": "해피버니 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/2825/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/c20be9b4c6b3d49f8e160914ad13d88e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "60332fc5-b350-451f-948a-d7c0db82bd74",
         "name": "애즈유 쪽쪽이클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%95%A0%EC%A6%88%EC%9C%A0-%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/2820/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/f8b311232708d25133a559f095dff49f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "56d474de-89a6-403e-9fcf-9e96515b6a58",
         "name": "에스닉 노리개젖꼭지 3종세트 (노리개젖꼭지+체인+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "49,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-3%EC%A2%85%EC%84%B8%ED%8A%B8-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%EC%B2%B4%EC%9D%B8%EC%BC%80%EC%9D%B4%EC%8A%A4/2668/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/7c2f32d990c2d2b10cddddf355a08164.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "99aa71d0-30af-4fe2-97f7-fb763a76f561",
         "name": "에스닉 오뜨꾸뛰르 노리개젖꼭지 모음전",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-%EB%AA%A8%EC%9D%8C%EC%A0%84/2667/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/c27b6aeb2d9acb98ce262242c1b0c613.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "5876eac3-da5f-4f8b-91a8-e191b4f046a1",
         "name": "에스닉 오뜨꾸뛰르 노리개젖꼭지&클립세트",
+        "brand": "스와비넥스",
         "sale_price": "33,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80%ED%81%B4%EB%A6%BD%EC%84%B8%ED%8A%B8/2666/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/54100e88c541f880e9163fe02573c52e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "3cec2967-880f-42bb-88fa-d4d8631b6989",
         "name": "에스닉 오뜨꾸뛰르 골드체인 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "18,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EA%B3%A8%EB%93%9C%EC%B2%B4%EC%9D%B8-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/2661/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/aae29692395c2687431ef043ec92f8f2.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "27cd87dd-b70b-43b8-a09e-fe3b909748df",
         "name": "에스닉 오뜨꾸뛰르 노리개젖꼭지 1단계",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-1%EB%8B%A8%EA%B3%84/2660/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/3a7abbcea77f63ee02780cc619b6960f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "850c4758-e2d5-40ae-82bf-95fe3062f73e",
         "name": "에스닉 오뜨꾸뛰르 노리개젖꼭지 2단계",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%97%90%EC%8A%A4%EB%8B%89-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84/2659/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/d2e08ac0a216c5600fe27287f498c588.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "50d983ac-a2e0-42d7-b3f9-d0bcdc705f01",
         "name": "네커츄 턱받이 실리콘치발기 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EB%84%A4%EC%BB%A4%EC%B8%84-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%AA%A8%EC%9D%8C%EC%A0%84/2646/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/bd7abd1d2571635464f361aea8423849.gif"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "48927ccf-3b99-4427-b29d-d1a108cb79ae",
         "name": "머슬린 네커츄 턱받이 실리콘치발기 모음전",
+        "brand": "치키촘퍼스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EB%A8%B8%EC%8A%AC%EB%A6%B0-%EB%84%A4%EC%BB%A4%EC%B8%84-%ED%84%B1%EB%B0%9B%EC%9D%B4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%B9%98%EB%B0%9C%EA%B8%B0-%EB%AA%A8%EC%9D%8C%EC%A0%84/2641/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/4ceb651d28fa0aa700c403c1702ba74b.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "741d25af-31e4-4b3a-a77b-db7c537aaa15",
         "name": "서커스 아나토미컬 노리개 젖꼭지 3종세트",
+        "brand": "스와비넥스",
         "sale_price": "37,000원",
         "link": "https://coochi.co.kr/product/%EC%84%9C%EC%BB%A4%EC%8A%A4-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C-%EC%A0%96%EA%BC%AD%EC%A7%80-3%EC%A2%85%EC%84%B8%ED%8A%B8/2556/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/9163d93e6244be5c338b0c6313d3da08.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "69405a2e-65a7-4bbc-bdc4-36252cc68c3a",
         "name": "서커스 쪽쪽이 체인클립 (쪽쪽이스트랩)",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%EC%84%9C%EC%BB%A4%EC%8A%A4-%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9/2554/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/bb88f9785337e5d38833629213a70a16.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "534440c9-10b6-4b43-9807-35310599d22d",
         "name": "서커스 아나토미컬 노리개 젖꼭지 1단계",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%84%9C%EC%BB%A4%EC%8A%A4-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C-%EC%A0%96%EA%BC%AD%EC%A7%80-1%EB%8B%A8%EA%B3%84/2553/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/24b85650dfa7f191c72185afb4ccc74e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "83900c10-7789-4f7a-9406-3b8ba556314c",
         "name": "서커스 아나토미컬 노리개 젖꼭지 2단계",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%84%9C%EC%BB%A4%EC%8A%A4-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C-%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84/2552/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/84bcd7ff074962ce6654d6fa9807f311.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "84d9b737-2ef4-4f46-8ba1-8ae389dccb8f",
         "name": "리필젖꼭지 모음전",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EB%A6%AC%ED%95%84%EC%A0%96%EA%BC%AD%EC%A7%80-%EB%AA%A8%EC%9D%8C%EC%A0%84/2540/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/aeff1b91ef544ac3800f6b46f31eb927.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "a4508fc2-e21e-48fb-8d24-923d8c3fab08",
         "name": "화이트컬렉션 노리개젖꼭지 2단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%ED%99%94%EC%9D%B4%ED%8A%B8%EC%BB%AC%EB%A0%89%EC%85%98-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-2%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/2447/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/943c208f95e40356b34108c529e2916f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "96300ae5-2ae1-4ff3-bb25-ac554a0fcfff",
         "name": "NEW 미닝플라이프 노리개젖꼭지 3종세트(노리개+리본클립+케이스)",
+        "brand": "스와비넥스",
         "sale_price": "42,000원",
         "link": "https://coochi.co.kr/product/new-%EB%AF%B8%EB%8B%9D%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-3%EC%A2%85%EC%84%B8%ED%8A%B8%EB%85%B8%EB%A6%AC%EA%B0%9C%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD%EC%BC%80%EC%9D%B4%EC%8A%A4/2428/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202409/3a8ccb97394dcaf9c565d8b4f8b2d835.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "c6c34cf4-9a6e-486a-9a42-8f9070a07fd2",
         "name": "New 미닝플라이프 에볼루션 노리개젖꼭지(1단계)-실리콘",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/new-%EB%AF%B8%EB%8B%9D%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%97%90%EB%B3%BC%EB%A3%A8%EC%85%98-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%801%EB%8B%A8%EA%B3%84-%EC%8B%A4%EB%A6%AC%EC%BD%98/2427/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/13679c064b7f762bf9f7484203201e7f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "cd715594-8b16-4d7c-8cab-975a053709ed",
         "name": "발렌타인 러브 실리콘 치발기(케이스포함) 리본클립 세트",
+        "brand": "스와비넥스",
         "sale_price": "31,000원",
         "link": "https://coochi.co.kr/product/%EB%B0%9C%EB%A0%8C%ED%83%80%EC%9D%B8-%EB%9F%AC%EB%B8%8C-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%B9%98%EB%B0%9C%EA%B8%B0%EC%BC%80%EC%9D%B4%EC%8A%A4%ED%8F%AC%ED%95%A8-%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD-%EC%84%B8%ED%8A%B8/2410/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/15a64054f4a600191979a9c3b567a5ed.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "dc1b2569-ae58-4e8e-949d-0c4eab2720af",
         "name": "서커스 아나토미컬 노리개 젖꼭지+ 클립 2종세트",
+        "brand": "스와비넥스",
         "sale_price": "22,000원",
         "link": "https://coochi.co.kr/product/%EC%84%9C%EC%BB%A4%EC%8A%A4-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C-%EC%A0%96%EA%BC%AD%EC%A7%80-%ED%81%B4%EB%A6%BD-2%EC%A2%85%EC%84%B8%ED%8A%B8/2351/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/201905/113161330f0d53e34dd8a00e05064ae6.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "9c3afa5a-fae8-4335-92ca-3c367607dda6",
         "name": "젖병 안전캡(유리,PA전용)",
+        "brand": "스와비넥스",
         "sale_price": "1,500원",
         "link": "https://coochi.co.kr/product/%EC%A0%96%EB%B3%91-%EC%95%88%EC%A0%84%EC%BA%A1%EC%9C%A0%EB%A6%ACpa%EC%A0%84%EC%9A%A9/2305/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/aa4f138fc5c816fde44142477c76ee8c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "344093a4-f6ee-40ea-8d3f-cbd1c551c2da",
         "name": "실리콘 손잡이(부속품)",
+        "brand": "슈가부거",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%86%90%EC%9E%A1%EC%9D%B4%EB%B6%80%EC%86%8D%ED%92%88/2303/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/2baf736803ea78557f9a53eac7bb5306.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "128bcf52-6331-4357-8a28-f50c78809986",
         "name": "NEW 베이비 실리콘 이유식 스푼",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/new-%EB%B2%A0%EC%9D%B4%EB%B9%84-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%9D%B4%EC%9C%A0%EC%8B%9D-%EC%8A%A4%ED%91%BC/2299/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/f455ae3f9034f9a2aa31f827a16991f1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "4728908f-a934-400a-b0ff-5fbf0ade99bc",
         "name": "꿀잠보장 야광쪽쪽이 1단계(실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "10,000원",
         "link": "https://coochi.co.kr/product/%EA%BF%80%EC%9E%A0%EB%B3%B4%EC%9E%A5-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-1%EB%8B%A8%EA%B3%84%EC%8B%A4%EB%A6%AC%EC%BD%98/2278/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/9fe559e373fa117579bc4b45fdeebaae.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "fcc47a23-6671-40c7-9852-7baa37fe2977",
         "name": "꿀잠보장 야광쪽쪽이 2P",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EA%BF%80%EC%9E%A0%EB%B3%B4%EC%9E%A5-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-2p/2276/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/72d658a5b2b5c46ca93f70c503ab5497.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0c6732ff-2678-4e88-b4d6-4852404db108",
         "name": "꿀잠보장 야광쪽쪽이 2단계 2P(천연고무)",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EA%BF%80%EC%9E%A0%EB%B3%B4%EC%9E%A5-%EC%95%BC%EA%B4%91%EC%AA%BD%EC%AA%BD%EC%9D%B4-2%EB%8B%A8%EA%B3%84-2p%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4/2275/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/405fc924e0843387704e558fac2811e2.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "7a157eb8-bac2-41fd-a2ac-556354507865",
         "name": "흡착접시 흡착기(부속품)",
+        "brand": "슈가부거",
         "sale_price": "5,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EC%A0%91%EC%8B%9C-%ED%9D%A1%EC%B0%A9%EA%B8%B0%EB%B6%80%EC%86%8D%ED%92%88/2258/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/faa968a1bbd7b29be9c9b9488ebb4304.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "bfb5cd6b-a0dc-4399-876e-709a88e7a167",
         "name": "흡착볼 흡착기(부속품)",
+        "brand": "슈가부거",
         "sale_price": "4,000원",
         "link": "https://coochi.co.kr/product/%ED%9D%A1%EC%B0%A9%EB%B3%BC-%ED%9D%A1%EC%B0%A9%EA%B8%B0%EB%B6%80%EC%86%8D%ED%92%88/2257/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202302/8979f9dc3a92f0a1d99b91c1401531cb.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "d69c5217-aed0-40d7-b3a4-1a3f2dfcee41",
         "name": "쪽쪽이 체인클립 모음전 (쪽쪽이스트랩) // 치발기 스트랩",
+        "brand": "스와비넥스",
         "sale_price": "13,000원",
         "link": "https://coochi.co.kr/product/%EC%AA%BD%EC%AA%BD%EC%9D%B4-%EC%B2%B4%EC%9D%B8%ED%81%B4%EB%A6%BD-%EB%AA%A8%EC%9D%8C%EC%A0%84-%EC%AA%BD%EC%AA%BD%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%9E%A9-%EC%B9%98%EB%B0%9C%EA%B8%B0-%EC%8A%A4%ED%8A%B8%EB%9E%A9/2172/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/0d20eb5ae2b856868f0243185fd2342f.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "2ed15820-3c55-4a72-88e9-700c05ee7c05",
         "name": "해피버니 아나토미컬 노리개젖꼭지 1단계 (실리콘)",
+        "brand": "스와비넥스",
         "sale_price": "9,000원",
         "link": "https://coochi.co.kr/product/%ED%95%B4%ED%94%BC%EB%B2%84%EB%8B%88-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%85%B8%EB%A6%AC%EA%B0%9C%EC%A0%96%EA%BC%AD%EC%A7%80-1%EB%8B%A8%EA%B3%84-%EC%8B%A4%EB%A6%AC%EC%BD%98/2171/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/bdfd679687ef9893dbdd9818e374f95e.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "837a0ba6-d04d-4c59-8f76-16a9937f143a",
         "name": "클라우드 프리미엄 치발기 (step1/+0m)+리본클립",
+        "brand": "스와비넥스",
         "sale_price": "26,000원",
         "link": "https://coochi.co.kr/product/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%B9%98%EB%B0%9C%EA%B8%B0-step10m%EB%A6%AC%EB%B3%B8%ED%81%B4%EB%A6%BD/2076/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/00bfde61558a649040adf95793fc3707.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "1f00d291-d229-48a3-9060-b7209c1983a8",
         "name": "럭셔리 오뜨꾸뛰르 기프트 세트(젖병+쪽쪽이+클립)",
+        "brand": "스와비넥스",
         "sale_price": "49,000원",
         "link": "https://coochi.co.kr/product/%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%98%A4%EB%9C%A8%EA%BE%B8%EB%9B%B0%EB%A5%B4-%EA%B8%B0%ED%94%84%ED%8A%B8-%EC%84%B8%ED%8A%B8%EC%A0%96%EB%B3%91%EC%AA%BD%EC%AA%BD%EC%9D%B4%ED%81%B4%EB%A6%BD/2014/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/955ad38db5363736a02d479411a8f782.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0b988b8d-e792-4bff-8883-b6a1fd31ceb4",
         "name": "분유케이스",
+        "brand": "스와비넥스",
         "sale_price": "20,000원",
         "link": "https://coochi.co.kr/product/%EB%B6%84%EC%9C%A0%EC%BC%80%EC%9D%B4%EC%8A%A4/1646/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202305/ceab963bb287152d07c4ade9c209d10c.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "eb426ee6-a624-4db7-b6fb-0bac3ce238d2",
         "name": "아나토미컬 천연고무 젖꼭지-L2(이유식용)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EC%B2%9C%EC%97%B0%EA%B3%A0%EB%AC%B4-%EC%A0%96%EA%BC%AD%EC%A7%80-l2%EC%9D%B4%EC%9C%A0%EC%8B%9D%EC%9A%A9/1540/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/ac7f8c87de84132c6071dc09b5e01490.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0c760f8e-ae92-4bcb-9355-062a1d3d62db",
         "name": "아나토미컬 실리콘 젖꼭지-L2(이유식용)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%A0%96%EA%BC%AD%EC%A7%80-l2%EC%9D%B4%EC%9C%A0%EC%8B%9D%EC%9A%A9/1539/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/87486089d52787d49903d1c62e35e248.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "95cecf8e-5a1c-46ca-8b51-e91b7890531a",
         "name": "New 아나토미컬형 실리콘 젖꼭지-M2(6개월이상)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/new-%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC%ED%98%95-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EC%A0%96%EA%BC%AD%EC%A7%80-m26%EA%B0%9C%EC%9B%94%EC%9D%B4%EC%83%81/1359/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202404/0bcb8748b55c1300d4a2be8585c61220.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "8836eba8-8c6c-4701-ad8b-7521621e2e40",
         "name": "스파우트 젖꼭지",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%8A%A4%ED%8C%8C%EC%9A%B0%ED%8A%B8-%EC%A0%96%EA%BC%AD%EC%A7%80/1300/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202312/336d9a2aaa25526e86cd4133c471d5e1.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "0472e65c-400c-4bd2-a087-538e4ec9fdc5",
         "name": "아나토미컬 라텍스 젖꼭지-S1(신생아용)",
+        "brand": "스와비넥스",
         "sale_price": "12,000원",
         "link": "https://coochi.co.kr/product/%EC%95%84%EB%82%98%ED%86%A0%EB%AF%B8%EC%BB%AC-%EB%9D%BC%ED%85%8D%EC%8A%A4-%EC%A0%96%EA%BC%AD%EC%A7%80-s1%EC%8B%A0%EC%83%9D%EC%95%84%EC%9A%A9/1110/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202303/d6d3442bd77b1ae5edeb2a70bde9f7f0.jpg"
     },
     {
+        "category": "수유_이유용품",
+        "uid": "434e6baa-4a26-44f0-99e3-a8e0f2a7f399",
         "name": "수유패드28P",
+        "brand": "스와비넥스",
         "sale_price": "15,000원",
         "link": "https://coochi.co.kr/product/%EC%88%98%EC%9C%A0%ED%8C%A8%EB%93%9C28p/1105/category/196/display/1/",
         "img": "https://coochi.co.kr/web/product/medium/202401/759ac18702a77ff10fe2488cffcc5ca0.jpg"

@@ -2,6 +2,7 @@ import time
 import json
 import sys
 import os
+import uuid         # ← 무작위 UUID 생성을 위해 추가
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -9,9 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Windows에서 UTF-8 인코딩 강제 설정
 sys.stdout.reconfigure(encoding='utf-8')
-
 
 def setup_driver():
     options = webdriver.ChromeOptions()
@@ -27,7 +26,6 @@ def setup_driver():
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
-
 def scroll_down(driver, count=3):
     """ 여러 번 스크롤을 내려 추가 제품 로딩 """
     for i in range(count):
@@ -35,8 +33,7 @@ def scroll_down(driver, count=3):
         time.sleep(2)
         print(f"[-] 스크롤 {i + 1}회 완료")
 
-
-def parse_products(driver):
+def parse_products(driver, category_name):
     """
     현재 페이지의 상품 정보를 파싱하여 리스트 형태로 반환
     """
@@ -44,31 +41,35 @@ def parse_products(driver):
     products = driver.find_elements(By.CLASS_NAME, "prdList__item")
     for product in products:
         try:
-            item = {}
+            # category_name은 함수로 들어올 때 이미 "수유_이유용품", "기저귀_물티슈" 등으로 지정됨
+            item = {"category": category_name}
+
+            # UID를 무작위 UUID로 생성
+            item['uid'] = str(uuid.uuid4())
 
             # 제품명
             try:
-                name_elements = product.find_elements(By.TAG_NAME, "span")
-                for elem in name_elements:
-                    text = elem.text.strip()
-                    if text and "상품명" not in text:
-                        item['name'] = text
-                        break
-                if not item.get("name"):
-                    item['name'] = "제품명 없음"
+                name_element = product.find_element(By.CLASS_NAME, "name")
+                item['name'] = name_element.text.strip()
             except:
                 item['name'] = "제품명 없음"
+
+            # 브랜드
+            try:
+                brand_element = product.find_element(By.CLASS_NAME, "prd_brand")
+                item['brand'] = brand_element.text.strip()
+            except:
+                item['brand'] = "브랜드 없음"
 
             # 가격
             try:
                 price_elements = product.find_elements(By.TAG_NAME, "span")
+                item['sale_price'] = "가격 없음"
                 for elem in price_elements:
                     text = elem.text.strip()
                     if text and "원" in text:
                         item['sale_price'] = text
                         break
-                if not item.get("sale_price"):
-                    item['sale_price'] = "가격 없음"
             except:
                 item['sale_price'] = "가격 없음"
 
@@ -87,19 +88,18 @@ def parse_products(driver):
                 item['img'] = "이미지 정보 없음"
 
             results.append(item)
+
         except Exception as e:
             print("[X] 제품 정보 추출 중 오류:", str(e).encode("utf-8", errors="ignore").decode())
             continue
 
     return results
 
-
 def crawl_category_by_link(category_name, category_url):
     """
     주어진 URL로 직접 이동하여 여러 페이지를 순회하며 상품 정보를 가져오는 함수
     """
     driver = setup_driver()
-
     try:
         driver.get(category_url)
         time.sleep(3)
@@ -125,10 +125,11 @@ def crawl_category_by_link(category_name, category_url):
             print("[X] 상품 리스트 로딩 실패:", str(e).encode("utf-8", errors="ignore").decode())
             break
 
-        page_results = parse_products(driver)
+        page_results = parse_products(driver, category_name)
         print(f"[*] 현재 페이지에서 {len(page_results)}개의 상품을 수집했습니다.")
         all_results.extend(page_results)
 
+        # 다음 페이지 버튼 클릭 시도
         try:
             next_btn = driver.find_element(
                 By.XPATH,
@@ -144,11 +145,10 @@ def crawl_category_by_link(category_name, category_url):
     driver.quit()
     return all_results
 
-
 def save_to_json(data, filename):
     """ 결과 리스트를 JSON 파일로 저장 """
-    save_path = "C:/alpha_frontend/frontend/coochi/"  # 저장 경로 변경
-    os.makedirs(save_path, exist_ok=True)  # 폴더가 없으면 생성
+    save_path = "C:/alpha_frontend/frontend/coochi/"
+    os.makedirs(save_path, exist_ok=True)
 
     full_path = os.path.join(save_path, filename)
     try:
@@ -158,16 +158,16 @@ def save_to_json(data, filename):
     except Exception as e:
         print("[X] JSON 파일 저장 실패:", str(e).encode("utf-8", errors="ignore").decode())
 
-
 def main():
     """
     카테고리별 크롤링 및 JSON 저장
+    ※ 아래에서 (카테고리명, 저장파일명, URL)을 일치시키고,
+      JSON에 들어가는 "category" 필드를 파일명과 유사하게 수정합니다.
     """
-
     single_categories = [
-        ("출산/외출용품", "coochi_생활_위생용품.json", "https://coochi.co.kr/category/출산외출용품/210/"),
-        ("기저귀/위생용품", "coochi_기저귀_물티슈.json", "https://coochi.co.kr/category/기저귀위생용품/211/"),
-        ("패션잡화/펫", "coochi_패션의류_잡화.json", "https://coochi.co.kr/category/가방패션잡화/212/")
+        ("생활_위생용품",   "coochi_생활_위생용품.json",   "https://coochi.co.kr/category/출산외출용품/210/"),
+        ("기저귀_물티슈",   "coochi_기저귀_물티슈.json",   "https://coochi.co.kr/category/기저귀위생용품/211/"),
+        ("패션의류_잡화",  "coochi_패션의류_잡화.json",  "https://coochi.co.kr/category/가방패션잡화/212/")
     ]
 
     for cat_name, filename, url in single_categories:
@@ -175,19 +175,20 @@ def main():
         data = crawl_category_by_link(cat_name, url)
         save_to_json(data, filename)
 
-    print("\n=== '이유용품' + '수유용품' 카테고리 크롤링 시작 ===")
+    print("\n=== '수유_이유용품' 카테고리(이유용품 + 수유용품) 크롤링 시작 ===")
 
+    # 이 두 URL에서 불러온 데이터는 category를 전부 "수유_이유용품"으로 통일
     reason_url = "https://coochi.co.kr/category/이유용품/3082/"
-    feed_url = "https://coochi.co.kr/category/수유용품/196/"
+    feed_url   = "https://coochi.co.kr/category/수유용품/196/"
 
-    reason_data = crawl_category_by_link("이유용품", reason_url)
-    feed_data = crawl_category_by_link("수유용품", feed_url)
+    reason_data = crawl_category_by_link("수유_이유용품", reason_url)
+    feed_data   = crawl_category_by_link("수유_이유용품", feed_url)
 
+    # 두 데이터를 합쳐서 하나의 JSON 파일에 저장
     combined_data = reason_data + feed_data
     save_to_json(combined_data, "coochi_수유_이유용품.json")
 
     print("\n[✓] 모든 크롤링 작업이 완료되었습니다!")
-
 
 if __name__ == "__main__":
     main()
