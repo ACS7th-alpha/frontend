@@ -91,21 +91,21 @@
     },
     {
         "category": "침구류",
-        "name": "유트러스 유아 극세사 블랭킷 올리브 M",
-        "brand": "유트러스",
-        "uid": "6718d4da-c5c1-47bc-a011-118367cb0577",
-        "sale_price": "17,240원",
-        "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556357&vendorItemId=90822513205&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/cd09ceah/c3058c645f9f4c468ea83c16be6bbdac.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "올포홈 100수 누빔 면 땀패드 아이보리 23 x 43 cm",
         "brand": "올포홈",
         "uid": "99d93f68-0f61-4a06-86eb-c13abb90879e",
         "sale_price": "8,000원",
         "link": "https://www.coupang.com/vp/products/7991916864?itemId=22215873311&vendorItemId=79804275695&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1264278158024248-664861de-1983-4dd5-a0bd-b9a2b75b7ecb.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "유트러스 유아 극세사 블랭킷 올리브 M",
+        "brand": "유트러스",
+        "uid": "6718d4da-c5c1-47bc-a011-118367cb0577",
+        "sale_price": "17,240원",
+        "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556357&vendorItemId=90822513205&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/cd09ceah/c3058c645f9f4c468ea83c16be6bbdac.jpg"
     },
     {
         "category": "침구류",
@@ -190,21 +190,21 @@
     },
     {
         "category": "침구류",
-        "name": "쁘리엘르 소피 순면 누비 패드 유아방수요 혼합색상 소형 1개",
-        "brand": "쁘리엘르",
-        "uid": "34e04365-0d6b-490e-a88d-15e72034ce4e",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/4521731883?itemId=5452395874&vendorItemId=72752218821&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/cdvwrugb/df43b957cea7400d88d26347041d512e.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "벨라 아기침대 3D 에어메쉬 코코넛 매트리스 흰색 1000 x 550 x 50 mm 1개",
         "brand": "벨라",
         "uid": "4515420c-e11b-4af0-a536-cc34ef970f90",
         "sale_price": "41,840원",
         "link": "https://www.coupang.com/vp/products/8117887752?itemId=23017590990&vendorItemId=90051394925&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/799144109815470-5a50b101-7bd4-4319-9dd3-2ada86794cfa.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 소피 순면 누비 패드 유아방수요 혼합색상 소형 1개",
+        "brand": "쁘리엘르",
+        "uid": "34e04365-0d6b-490e-a88d-15e72034ce4e",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/4521731883?itemId=5452395874&vendorItemId=72752218821&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/cdvwrugb/df43b957cea7400d88d26347041d512e.jpg"
     },
     {
         "category": "침구류",
@@ -217,15 +217,6 @@
     },
     {
         "category": "침구류",
-        "name": "아꼬모베베 애착 필로우 짱구베개 악어 52 x 63 cm 1개",
-        "brand": "아꼬모베베",
-        "uid": "cd64e49e-bdc3-42ea-aed4-47dfe1529a9e",
-        "sale_price": "31,500원",
-        "link": "https://www.coupang.com/vp/products/6084752890?itemId=927495035&vendorItemId=3830768606&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/2e2e/8f58d965f8406ece2019af0595e1dcbb8a389696200675e6a7a2ca0f709f.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "마롤로뜨 프린팅 유아 짱구베개 달콤튤립 FREE34 x 23 x 6 cm 1개",
         "brand": "마롤로뜨",
         "uid": "b494014b-189a-4a72-8bcd-58690040aafe",
@@ -235,21 +226,30 @@
     },
     {
         "category": "침구류",
-        "name": "October Angel 아기바디필로우 신생아 아기 두상베개 죽부인 뒤집기방지쿠션 아기베개 블루 43 x 65 cm",
-        "brand": "October",
-        "uid": "a654c4e8-b0a2-49a6-bb01-621c00d96608",
-        "sale_price": "25,900원",
-        "link": "https://www.coupang.com/vp/products/6990928357?itemId=17109932746&vendorItemId=85686905557&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/436e/a49955310654b9a5f068ad567dd5581d8b5f66b80f1d1751602bde0f2bf6.png"
-    },
-    {
-        "category": "침구류",
         "name": "베이비베어 베어짱구 베개 옐로우 28 x 22cm 1개",
         "brand": "베이비베어",
         "uid": "5183b8af-185d-46ae-a740-ce004c7e68e8",
         "sale_price": "8,820원",
         "link": "https://www.coupang.com/vp/products/1303710?itemId=5658929&vendorItemId=3007177522&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2016/04/01/3007177522/659491fe-d1af-46cf-bb3e-81458cdaa77e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아꼬모베베 애착 필로우 짱구베개 악어 52 x 63 cm 1개",
+        "brand": "아꼬모베베",
+        "uid": "cd64e49e-bdc3-42ea-aed4-47dfe1529a9e",
+        "sale_price": "31,500원",
+        "link": "https://www.coupang.com/vp/products/6084752890?itemId=927495035&vendorItemId=3830768606&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/2e2e/8f58d965f8406ece2019af0595e1dcbb8a389696200675e6a7a2ca0f709f.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "October Angel 아기바디필로우 신생아 아기 두상베개 죽부인 뒤집기방지쿠션 아기베개 블루 43 x 65 cm",
+        "brand": "October",
+        "uid": "a654c4e8-b0a2-49a6-bb01-621c00d96608",
+        "sale_price": "25,900원",
+        "link": "https://www.coupang.com/vp/products/6990928357?itemId=17109932746&vendorItemId=85686905557&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/436e/a49955310654b9a5f068ad567dd5581d8b5f66b80f1d1751602bde0f2bf6.png"
     },
     {
         "category": "침구류",
@@ -271,30 +271,12 @@
     },
     {
         "category": "침구류",
-        "name": "아꼬모베베 유아용 애착필로우 공룡오렌지 52 x 63 x 7 cm 1개",
-        "brand": "아꼬모베베",
-        "uid": "b22a407f-048f-49e4-841f-722c78684a58",
-        "sale_price": "32,180원",
-        "link": "https://www.coupang.com/vp/products/6084752890?itemId=12753107312&vendorItemId=80019392823&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/12/30/10/4/666f22b2-6f03-4789-96c1-515727500e6e.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "쁘리엘르 붐붐 순면 유아 누비 방수 패드 코랄 소형75 x 100 cm 1개",
         "brand": "쁘리엘르",
         "uid": "4f94982d-557d-4868-9f27-5378f1bce3d0",
         "sale_price": "9,900원",
         "link": "https://www.coupang.com/vp/products/6885297654?itemId=16512912842&vendorItemId=83700215034&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/01/15/5/1651cbaf-ec5e-4efd-ab96-7c389d98dfb1.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 유아용 딩고 순면 롱베개 솜포함 그린 30 x 70 cm",
-        "brand": "쁘리엘르",
-        "uid": "deab3c02-0b1c-435e-8764-a581fc6eb0c1",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8273563763?itemId=23846905936&vendorItemId=90870345684&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vkfeobkx/b00628728b9d451688f8335a242bb8cd.jpg"
     },
     {
         "category": "침구류",
@@ -307,12 +289,21 @@
     },
     {
         "category": "침구류",
-        "name": "베이비앤아이 유아용 소프트 방수요 뭉이 40cmx60cm 1개",
-        "brand": "베이비앤아이",
-        "uid": "1e482ac9-652a-43e3-a541-85e786bfd790",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/8130574307?itemId=23089050432&vendorItemId=90298517168&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vaay2cbl/c1162d1ea1c144a39d03e34e11ced527.jpg"
+        "name": "아꼬모베베 유아용 애착필로우 공룡오렌지 52 x 63 x 7 cm 1개",
+        "brand": "아꼬모베베",
+        "uid": "b22a407f-048f-49e4-841f-722c78684a58",
+        "sale_price": "32,180원",
+        "link": "https://www.coupang.com/vp/products/6084752890?itemId=12753107312&vendorItemId=80019392823&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/12/30/10/4/666f22b2-6f03-4789-96c1-515727500e6e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 유아용 딩고 순면 롱베개 솜포함 그린 30 x 70 cm",
+        "brand": "쁘리엘르",
+        "uid": "deab3c02-0b1c-435e-8764-a581fc6eb0c1",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8273563763?itemId=23846905936&vendorItemId=90870345684&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vkfeobkx/b00628728b9d451688f8335a242bb8cd.jpg"
     },
     {
         "category": "침구류",
@@ -322,6 +313,15 @@
         "sale_price": "13,000원",
         "link": "https://www.coupang.com/vp/products/8310770656?itemId=23980749238&vendorItemId=91057020600&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2fc0/77be1c745be07662f057e24268149fcde73447af97fefb01b94a9a827382.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "베이비앤아이 유아용 소프트 방수요 뭉이 40cmx60cm 1개",
+        "brand": "베이비앤아이",
+        "uid": "1e482ac9-652a-43e3-a541-85e786bfd790",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/8130574307?itemId=23089050432&vendorItemId=90298517168&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vaay2cbl/c1162d1ea1c144a39d03e34e11ced527.jpg"
     },
     {
         "category": "침구류",
@@ -352,30 +352,12 @@
     },
     {
         "category": "침구류",
-        "name": "쁘리엘르 허밍 순면 극세사 유아블랭킷 아이보리허밍 75 x 100 cm",
-        "brand": "쁘리엘르",
-        "uid": "3133e532-25da-4d63-9ec2-4c0f5446113b",
-        "sale_price": "14,150원",
-        "link": "https://www.coupang.com/vp/products/6747832400?itemId=5028365183&vendorItemId=72338177984&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0f45/85a5f2ed3568f0e5a1c30e8010f0384124e8631eb1511e20808af5647426.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "유트러스 유아용 극세사 블랭킷 담요 무지 M",
         "brand": "유트러스",
         "uid": "24748901-93db-441d-9a40-cf0dbfb13f82",
         "sale_price": "14,270원",
         "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556358&vendorItemId=90822513215&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/30/13/9/e95cb16f-fda6-4e1e-a274-ff0cc2baaaa2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쉬즈홈 제니 DTP 마이크로 베개 제니 핑크 30 x 50 cm",
-        "brand": "쉬즈홈",
-        "uid": "42b7194b-5b2e-4f08-9591-26b8c5dc8e4c",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240465&vendorItemId=3846163259&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/07/30/18/0/57e71b19-314b-495a-9b69-13bbb4aad218.jpg"
     },
     {
         "category": "침구류",
@@ -388,30 +370,30 @@
     },
     {
         "category": "침구류",
+        "name": "쁘리엘르 허밍 순면 극세사 유아블랭킷 아이보리허밍 75 x 100 cm",
+        "brand": "쁘리엘르",
+        "uid": "3133e532-25da-4d63-9ec2-4c0f5446113b",
+        "sale_price": "14,150원",
+        "link": "https://www.coupang.com/vp/products/6747832400?itemId=5028365183&vendorItemId=72338177984&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0f45/85a5f2ed3568f0e5a1c30e8010f0384124e8631eb1511e20808af5647426.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쉬즈홈 제니 DTP 마이크로 베개 제니 핑크 30 x 50 cm",
+        "brand": "쉬즈홈",
+        "uid": "42b7194b-5b2e-4f08-9591-26b8c5dc8e4c",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240465&vendorItemId=3846163259&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/07/30/18/0/57e71b19-314b-495a-9b69-13bbb4aad218.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "남달라순면 역류방지쿠션 메쉬소재 모로반사패드포함 양면사용 토끼 커버속통모로반사 세트",
         "brand": "남달라순면",
         "uid": "b9ec1e92-9e34-4950-aebf-9a005f0d056f",
         "sale_price": "56,000원",
         "link": "https://www.coupang.com/vp/products/8456311626?itemId=23891465553&vendorItemId=90914153034&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c9fc/7a22403b309a88283467af345c0d27a8f0ebcb0d92932ba7eade49e101d2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "이몽 모모랑 베개 오가닉코튼 45 x 90 cm",
-        "brand": "이몽",
-        "uid": "f6ea8b52-be51-4311-909a-e43bfda35a7e",
-        "sale_price": "77,000원",
-        "link": "https://www.coupang.com/vp/products/7319843219?itemId=18771702020&vendorItemId=88606398419&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/495022329047968-8fad81da-ec38-44a4-b397-67c1d6624161.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 쿠마 낮잠이불 가방 네이비 70 x 55 x 16 cm",
-        "brand": "쁘리엘르",
-        "uid": "0ed3d071-1f00-4b97-83c3-5f2cca22068a",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/5100742982?itemId=6948700191&vendorItemId=74241187853&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2110073267367592-331260de-8647-4c3e-9869-eca9119d2d48.jpg"
     },
     {
         "category": "침구류",
@@ -424,12 +406,21 @@
     },
     {
         "category": "침구류",
-        "name": "롤베이비 착한 휴대용 유아 방수패드 베이지 70 x 40 cm 1개",
-        "brand": "롤베이비",
-        "uid": "ed8bee1c-146a-4908-aeea-c8a697c16806",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419487&vendorItemId=84388273288&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/lguw54vy/90e699cd747c418da9fbddc30d49bc0f.jpg"
+        "name": "쁘리엘르 쿠마 낮잠이불 가방 네이비 70 x 55 x 16 cm",
+        "brand": "쁘리엘르",
+        "uid": "0ed3d071-1f00-4b97-83c3-5f2cca22068a",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/5100742982?itemId=6948700191&vendorItemId=74241187853&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2110073267367592-331260de-8647-4c3e-9869-eca9119d2d48.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "이몽 모모랑 베개 오가닉코튼 45 x 90 cm",
+        "brand": "이몽",
+        "uid": "f6ea8b52-be51-4311-909a-e43bfda35a7e",
+        "sale_price": "77,000원",
+        "link": "https://www.coupang.com/vp/products/7319843219?itemId=18771702020&vendorItemId=88606398419&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/495022329047968-8fad81da-ec38-44a4-b397-67c1d6624161.jpg"
     },
     {
         "category": "침구류",
@@ -442,12 +433,12 @@
     },
     {
         "category": "침구류",
-        "name": "제이유니 인견 주니어 베개 제이크 47 x 32 cm",
-        "brand": "제이유니",
-        "uid": "d7b699b5-b5ba-489e-8d88-28333d8bf0ac",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/5624824892?itemId=9129741411&vendorItemId=76415773614&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d61d/4af1e85f376140024740063a1a59075a1ed38e7dd1d6ef5af97142dc94c1.jpg"
+        "name": "롤베이비 착한 휴대용 유아 방수패드 베이지 70 x 40 cm 1개",
+        "brand": "롤베이비",
+        "uid": "ed8bee1c-146a-4908-aeea-c8a697c16806",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419487&vendorItemId=84388273288&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/lguw54vy/90e699cd747c418da9fbddc30d49bc0f.jpg"
     },
     {
         "category": "침구류",
@@ -460,12 +451,12 @@
     },
     {
         "category": "침구류",
-        "name": "아이레빗 유아용 논슬립 순면 방수패드 셋삼 호환 데이지 60 x 40 cm 1개",
-        "brand": "아이레빗",
-        "uid": "3063150d-5273-4c7c-af8b-cbd89965c8b4",
-        "sale_price": "7,300원",
-        "link": "https://www.coupang.com/vp/products/8262917523?itemId=23805604338&vendorItemId=90829471056&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/31/14/2/abed2989-5181-4203-9b6e-157f4d41e7a6.jpg"
+        "name": "제이유니 인견 주니어 베개 제이크 47 x 32 cm",
+        "brand": "제이유니",
+        "uid": "d7b699b5-b5ba-489e-8d88-28333d8bf0ac",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/5624824892?itemId=9129741411&vendorItemId=76415773614&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d61d/4af1e85f376140024740063a1a59075a1ed38e7dd1d6ef5af97142dc94c1.jpg"
     },
     {
         "category": "침구류",
@@ -478,12 +469,21 @@
     },
     {
         "category": "침구류",
-        "name": "쁘리엘르 허밍 순면 유아 누비 방수패드 아이보리 소형75 x 100 cm 1개",
-        "brand": "쁘리엘르",
-        "uid": "ad95727b-988a-4644-bcf3-cb7f8835fb87",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/7334993009?itemId=5452395887&vendorItemId=72752218849&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/gjfkurlw/ef8cd38a1dbd413b87ba48e5d43a2b17.jpg"
+        "name": "라비킷 블랭킷 유아담요 러블리복숭아 120 x 85 cm",
+        "brand": "라비킷",
+        "uid": "5fade6af-938e-4fa7-9661-4367d132d3d0",
+        "sale_price": "25,000원",
+        "link": "https://www.coupang.com/vp/products/6870375004?itemId=16433171966&vendorItemId=83623958887&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/113680410877748-59429239-dc05-4a08-b428-33c941fb7592.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아이레빗 유아용 논슬립 순면 방수패드 셋삼 호환 데이지 60 x 40 cm 1개",
+        "brand": "아이레빗",
+        "uid": "3063150d-5273-4c7c-af8b-cbd89965c8b4",
+        "sale_price": "7,300원",
+        "link": "https://www.coupang.com/vp/products/8262917523?itemId=23805604338&vendorItemId=90829471056&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/31/14/2/abed2989-5181-4203-9b6e-157f4d41e7a6.jpg"
     },
     {
         "category": "침구류",
@@ -496,21 +496,21 @@
     },
     {
         "category": "침구류",
-        "name": "라비킷 블랭킷 유아담요 러블리복숭아 120 x 85 cm",
-        "brand": "라비킷",
-        "uid": "5fade6af-938e-4fa7-9661-4367d132d3d0",
-        "sale_price": "25,000원",
-        "link": "https://www.coupang.com/vp/products/6870375004?itemId=16433171966&vendorItemId=83623958887&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/113680410877748-59429239-dc05-4a08-b428-33c941fb7592.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "도도야 부릉부릉 3D 에어메쉬 베개 혼합색상 47 x 32 x 9 cm",
         "brand": "도도야",
         "uid": "40d3c03b-4da4-40a4-b0aa-c76f7e59bd7f",
         "sale_price": "9,800원",
         "link": "https://www.coupang.com/vp/products/8420754587?itemId=24355689498&vendorItemId=91371077792&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/28/10/5/aa8280dd-783a-466b-b4bd-d18f65791f73.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 허밍 순면 유아 누비 방수패드 아이보리 소형75 x 100 cm 1개",
+        "brand": "쁘리엘르",
+        "uid": "ad95727b-988a-4644-bcf3-cb7f8835fb87",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/7334993009?itemId=5452395887&vendorItemId=72752218849&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/gjfkurlw/ef8cd38a1dbd413b87ba48e5d43a2b17.jpg"
     },
     {
         "category": "침구류",
@@ -541,12 +541,12 @@
     },
     {
         "category": "침구류",
-        "name": "쉬즈홈 버니 DTP 마이크로 베개 버니 화이트 30 x 50 cm",
-        "brand": "쉬즈홈",
-        "uid": "0ad1a07c-ad61-4f02-b617-e2626ff4eb82",
+        "name": "소베맘 순면 리버시블 신생아 아기 방수패드 방수요 1개 S기저귀교환대전용 아이스크림",
+        "brand": "소베맘",
+        "uid": "060d45c7-88e5-4860-b0ef-ca4505b183c9",
         "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=354990572&vendorItemId=3864688452&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2432275276557960-28a28e91-68ac-4437-ab6e-8e70d9ad2b29.jpg"
+        "link": "https://www.coupang.com/vp/products/7650694132?itemId=20355658790&vendorItemId=87463579516&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6e82/865f4dadc17d8fdb22b1dae1a55c6a98b26b5dc5e3a6258ad26276515e1c.png"
     },
     {
         "category": "침구류",
@@ -559,12 +559,21 @@
     },
     {
         "category": "침구류",
-        "name": "쁘리엘르 유아용 에디 순면 토퍼 베이지 100 x 140 x 5 cm",
-        "brand": "쁘리엘르",
-        "uid": "5c7d5eac-3edc-404a-a8c9-c2d54a90b163",
-        "sale_price": "35,050원",
-        "link": "https://www.coupang.com/vp/products/8393425192?itemId=24263783989&vendorItemId=91280468457&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vpaxeeg3/0fd34724e8c7409f87ea05b84a0b5370.jpg"
+        "name": "모던하우스 논현점 마미허그 소프트워싱 스윗플라워 낮잠이불 100x150 옐로우 CZ0225006",
+        "brand": "모던하우스",
+        "uid": "049a7162-cff7-4593-b010-8139678ddd01",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8542554350?itemId=24734060361&vendorItemId=91749200226&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b1ab/61c211c62a897b17fbbb1f9be28832537a23e25560ab331dfe1442b6d3ff.jpeg"
+    },
+    {
+        "category": "침구류",
+        "name": "쉬즈홈 버니 DTP 마이크로 베개 버니 화이트 30 x 50 cm",
+        "brand": "쉬즈홈",
+        "uid": "0ad1a07c-ad61-4f02-b617-e2626ff4eb82",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=354990572&vendorItemId=3864688452&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2432275276557960-28a28e91-68ac-4437-ab6e-8e70d9ad2b29.jpg"
     },
     {
         "category": "침구류",
@@ -577,48 +586,21 @@
     },
     {
         "category": "침구류",
-        "name": "아이자리 버디버디 다운필 항균 극세사 블랭킷 디어핑구 소형75 x 100 cm",
+        "name": "아이자리 유아용 밍크 극세사 담요 트윙클 소형75 x 100 cm",
         "brand": "아이자리",
-        "uid": "5ae1c327-a652-43ac-b45f-a3257140c71f",
-        "sale_price": "15,900원",
-        "link": "https://www.coupang.com/vp/products/8342781076?itemId=24068723602&vendorItemId=91088478029&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1992772371088015-eead8968-69ab-41ac-9fbb-1efab8e5ecef.jpg"
+        "uid": "b8b1e4cf-3437-430e-9a0d-e8efa5b4cb6e",
+        "sale_price": "8,710원",
+        "link": "https://www.coupang.com/vp/products/579350?itemId=20262097204&vendorItemId=3049544698&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3504086746861293-363ecef1-e0a0-4a68-9082-0950796a0a74.jpg"
     },
     {
         "category": "침구류",
-        "name": "모던하우스 논현점 마미허그 소프트워싱 스윗플라워 낮잠이불 100x150 옐로우 CZ0225006",
-        "brand": "모던하우스",
-        "uid": "049a7162-cff7-4593-b010-8139678ddd01",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8542554350?itemId=24734060361&vendorItemId=91778981667&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b1ab/61c211c62a897b17fbbb1f9be28832537a23e25560ab331dfe1442b6d3ff.jpeg"
-    },
-    {
-        "category": "침구류",
-        "name": "로맘틱스 국산 프리미엄 텐셀 모달 스와들 속싸개",
-        "brand": "로맘틱스",
-        "uid": "78e6a2e2-67bb-42e5-8486-366401f6944c",
-        "sale_price": "23,900원",
-        "link": "https://www.coupang.com/vp/products/8487868669?itemId=24565559228&vendorItemId=91577662595&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5b8c/94b4e1aa5792aca874d44992456e414f8623cf45b43eb0362b20c7dd1b92.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "롤베이비 착한 방수 패드 아이보리 70 x 40 cm 1개",
-        "brand": "롤베이비",
-        "uid": "fd96cc6f-a421-44fc-8a4d-12cb257e231b",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419488&vendorItemId=84031644856&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/abca/e26cf887d4d8beef6343a369bf230c8c13e8eff549652c9a1ac67306db7f.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "마롤로뜨 극세사 아기띠 워머 코코아 베베 80 x 85cm",
-        "brand": "마롤로뜨",
-        "uid": "a4ae6031-94dd-42bc-804c-5ac597296206",
-        "sale_price": "29,800원",
-        "link": "https://www.coupang.com/vp/products/7038948506?itemId=17400727739&vendorItemId=86986818833&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/08/25/16/9/7234d918-3236-4567-a05c-5adef7e0bde8.jpg"
+        "name": "쁘리엘르 유아용 에디 순면 토퍼 베이지 100 x 140 x 5 cm",
+        "brand": "쁘리엘르",
+        "uid": "5c7d5eac-3edc-404a-a8c9-c2d54a90b163",
+        "sale_price": "35,050원",
+        "link": "https://www.coupang.com/vp/products/8393425192?itemId=24263783989&vendorItemId=91280468457&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vpaxeeg3/0fd34724e8c7409f87ea05b84a0b5370.jpg"
     },
     {
         "category": "침구류",
@@ -631,39 +613,30 @@
     },
     {
         "category": "침구류",
-        "name": "롤베이비 유아용 에어로웜 토퍼 매트 크림 베이지 L100 x 150 cm 1개",
+        "name": "아이자리 버디버디 다운필 항균 극세사 블랭킷 디어핑구 소형75 x 100 cm",
+        "brand": "아이자리",
+        "uid": "5ae1c327-a652-43ac-b45f-a3257140c71f",
+        "sale_price": "15,900원",
+        "link": "https://www.coupang.com/vp/products/8342781076?itemId=24068723602&vendorItemId=91088478029&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1992772371088015-eead8968-69ab-41ac-9fbb-1efab8e5ecef.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "롤베이비 착한 방수 패드 아이보리 70 x 40 cm 1개",
         "brand": "롤베이비",
-        "uid": "b4c901cc-d4ad-4992-989c-7036198e7f9c",
-        "sale_price": "49,800원",
-        "link": "https://www.coupang.com/vp/products/6931209438?itemId=16771990013&vendorItemId=83953196342&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/18/18/5/05d55296-5d09-470c-bfa8-740c3ac83aea.jpg"
+        "uid": "fd96cc6f-a421-44fc-8a4d-12cb257e231b",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419488&vendorItemId=84031644856&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/abca/e26cf887d4d8beef6343a369bf230c8c13e8eff549652c9a1ac67306db7f.jpg"
     },
     {
         "category": "침구류",
-        "name": "소베맘 순면 리버시블 신생아 아기 방수패드 방수요 1개 S기저귀교환대전용 아이스크림",
-        "brand": "소베맘",
-        "uid": "060d45c7-88e5-4860-b0ef-ca4505b183c9",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/7650694132?itemId=20355658790&vendorItemId=87463579516&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6e82/865f4dadc17d8fdb22b1dae1a55c6a98b26b5dc5e3a6258ad26276515e1c.png"
-    },
-    {
-        "category": "침구류",
-        "name": "베이비소풍 뒤방쿠 올인원 뒤집기방지쿠션 아이보리 L",
-        "brand": "베이비소풍",
-        "uid": "19116384-188e-4da6-906e-f27807293e12",
-        "sale_price": "38,000원",
-        "link": "https://www.coupang.com/vp/products/8277139530?itemId=23765460273&vendorItemId=91066721708&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/06/15/9/780a3310-259d-4dbd-a89c-1a464cb45d2a.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "유트러스 유아용 극세사 블랭킷 담요 토끼 M",
-        "brand": "유트러스",
-        "uid": "c5fd21f9-316d-444e-9290-112281f3de4a",
-        "sale_price": "17,240원",
-        "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556350&vendorItemId=90822513169&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/30/13/1/0ea790a2-e68c-4ddf-aa0d-e1ed207d3e46.jpg"
+        "name": "로맘틱스 국산 프리미엄 텐셀 모달 스와들 속싸개",
+        "brand": "로맘틱스",
+        "uid": "78e6a2e2-67bb-42e5-8486-366401f6944c",
+        "sale_price": "23,900원",
+        "link": "https://www.coupang.com/vp/products/8487868669?itemId=24565559228&vendorItemId=91577662595&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5b8c/94b4e1aa5792aca874d44992456e414f8623cf45b43eb0362b20c7dd1b92.jpg"
     },
     {
         "category": "침구류",
@@ -676,12 +649,12 @@
     },
     {
         "category": "침구류",
-        "name": "쁘리엘르 유아 파스텔 순면 방수패드 피치아이보리 소형75 x 100 cm 1개",
-        "brand": "쁘리엘르",
-        "uid": "7a30ac77-2661-4737-85b7-3c2dc8c5d501",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/2138807477?itemId=22932829318&vendorItemId=89967188307&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/05/14/11/1/414c9161-cce6-49e5-becd-f47a2c6c0495.jpg"
+        "name": "마롤로뜨 극세사 아기띠 워머 코코아 베베 80 x 85cm",
+        "brand": "마롤로뜨",
+        "uid": "a4ae6031-94dd-42bc-804c-5ac597296206",
+        "sale_price": "29,800원",
+        "link": "https://www.coupang.com/vp/products/7038948506?itemId=17400727739&vendorItemId=86986818833&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/08/25/16/9/7234d918-3236-4567-a05c-5adef7e0bde8.jpg"
     },
     {
         "category": "침구류",
@@ -694,57 +667,30 @@
     },
     {
         "category": "침구류",
-        "name": "에이트룸 감성레벨 쁘띠 광목 순면 토퍼 유아동 매트 내추럴 150 x 100 cm 1개",
-        "brand": "에이트룸",
-        "uid": "0c4842e8-b6e4-4dc1-ac62-82aee77b22f8",
-        "sale_price": "33,920원",
-        "link": "https://www.coupang.com/vp/products/5207942334?itemId=7276025844&vendorItemId=74567368787&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/yx32x38t/533fb187ff8443ee970b618befa504b5.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "파스텔 순면 유아 방수패드 핑크 소형75 x 100 cm 1개",
-        "brand": "파스텔",
-        "uid": "3836d448-1224-479a-a758-bb2311360746",
+        "name": "쁘리엘르 유아 파스텔 순면 방수패드 피치아이보리 소형75 x 100 cm 1개",
+        "brand": "쁘리엘르",
+        "uid": "7a30ac77-2661-4737-85b7-3c2dc8c5d501",
         "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/2138807477?itemId=3632338565&vendorItemId=71617914426&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/09/21/9/7/f9fb46c5-078f-4121-885e-797225cb8e1c.jpg"
+        "link": "https://www.coupang.com/vp/products/2138807477?itemId=22932829318&vendorItemId=89967188307&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/05/14/11/1/414c9161-cce6-49e5-becd-f47a2c6c0495.jpg"
     },
     {
         "category": "침구류",
-        "name": "돗투돗 마롤로뜨 자수 누빔 씬 필로우 베개 캐롯로뜨 27 x 48 cm",
-        "brand": "돗투돗",
-        "uid": "7378085d-656f-44b5-9d90-013e0ad688bb",
-        "sale_price": "16,700원",
-        "link": "https://www.coupang.com/vp/products/6247559603?itemId=12324467572&vendorItemId=79594504456&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/7tfxkafg/44d97983651e42ca8c96612d8f50e6e1.jpg"
+        "name": "유트러스 유아용 극세사 블랭킷 담요 토끼 M",
+        "brand": "유트러스",
+        "uid": "c5fd21f9-316d-444e-9290-112281f3de4a",
+        "sale_price": "17,240원",
+        "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556350&vendorItemId=90822513169&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/30/13/1/0ea790a2-e68c-4ddf-aa0d-e1ed207d3e46.jpg"
     },
     {
         "category": "침구류",
-        "name": "미소네이처 아동용 순면 양면 잠솔솔 와이드 베개 아이보리 1개 70 x 30 cm",
-        "brand": "미소네이처",
-        "uid": "00fdf8b6-a84d-4187-8d26-e407ed933ea0",
-        "sale_price": "31,200원",
-        "link": "https://www.coupang.com/vp/products/8443564456?itemId=24424748295&vendorItemId=91439091125&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/08/10/1/773468a4-97ec-4c92-90e4-bc6891d4acbf.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아이자리 유아용 밍크 극세사 담요 디어핑구 소형75 x 100 cm",
-        "brand": "아이자리",
-        "uid": "1d7c043b-e895-4e8f-9474-b7133b10b5eb",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/579350?itemId=20262111012&vendorItemId=78558363101&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e11e/6c2da413b5c0a7247013e4d9c2d21b2f61f6853be2852a954693d7432358.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "비비엔다 모달 아이싱 듀얼 낮잠이불 일체형 리틀퍼피 75 x 140 cm",
-        "brand": "비비엔다",
-        "uid": "9aefaa08-dac7-422f-ada6-3ecf96edab4b",
-        "sale_price": "89,000원",
-        "link": "https://www.coupang.com/vp/products/8161566570?itemId=23270483125&vendorItemId=90302822713&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/06/12/15/5/6fcd1074-0579-495c-ae8d-7f9e98fea3e7.jpg"
+        "name": "롤베이비 유아용 에어로웜 토퍼 매트 크림 베이지 L100 x 150 cm 1개",
+        "brand": "롤베이비",
+        "uid": "b4c901cc-d4ad-4992-989c-7036198e7f9c",
+        "sale_price": "49,800원",
+        "link": "https://www.coupang.com/vp/products/6931209438?itemId=16771990013&vendorItemId=83953196342&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/18/18/5/05d55296-5d09-470c-bfa8-740c3ac83aea.jpg"
     },
     {
         "category": "침구류",
@@ -757,12 +703,21 @@
     },
     {
         "category": "침구류",
-        "name": "메리투투 아동용 모달 낮잠패드 하이밤비 80 x 130 cm",
-        "brand": "메리투투",
-        "uid": "5d198698-7d87-4134-93b9-84becbbc8eda",
-        "sale_price": "49,000원",
-        "link": "https://www.coupang.com/vp/products/7893187316?itemId=21624062857&vendorItemId=90891237181&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/09/15/9/c46e6e2f-261b-4e87-b6e2-e70ec6d0bb56.jpg"
+        "name": "아이자리 유아용 밍크 극세사 담요 디어핑구 소형75 x 100 cm",
+        "brand": "아이자리",
+        "uid": "1d7c043b-e895-4e8f-9474-b7133b10b5eb",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/579350?itemId=20262111012&vendorItemId=78558363101&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e11e/6c2da413b5c0a7247013e4d9c2d21b2f61f6853be2852a954693d7432358.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "베이비소풍 뒤방쿠 올인원 뒤집기방지쿠션 아이보리 L",
+        "brand": "베이비소풍",
+        "uid": "19116384-188e-4da6-906e-f27807293e12",
+        "sale_price": "38,000원",
+        "link": "https://www.coupang.com/vp/products/8277139530?itemId=23765460273&vendorItemId=91066721708&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/06/15/9/780a3310-259d-4dbd-a89c-1a464cb45d2a.jpg"
     },
     {
         "category": "침구류",
@@ -784,21 +739,12 @@
     },
     {
         "category": "침구류",
-        "name": "더자리 에일린키즈 에코항균 DTP 애착 유아동 베개커버 2p 디노 40 x 60 cm",
-        "brand": "더자리",
-        "uid": "22a57cad-3212-473b-9d5e-fb39c291eada",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002846&vendorItemId=80176805839&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4986513832888979-f571d92c-058b-43a6-b109-502ca617d3e7.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "제이유니 인견 롱롱베개 코코 70 x 30 cm",
-        "brand": "제이유니",
-        "uid": "5bc7b833-962f-49c4-ba2d-4f797ee51e84",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/5601103592?itemId=9050730284&vendorItemId=76337094449&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/03f2/86f188a3435af1bbe88170c08382ea47d728da32bd9c8829228d2ab77b65.jpg"
+        "name": "도도야 유아용 토이카 3D 에어메쉬 베개 혼합색상 1개 47 x 32 x 9 cm",
+        "brand": "도도야",
+        "uid": "adcdd8e3-ed88-4dba-a524-340b24353552",
+        "sale_price": "9,800원",
+        "link": "https://www.coupang.com/vp/products/8422734417?itemId=24363893204&vendorItemId=91379200516&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/29/10/4/ef4ff368-4129-439f-8a61-b27a565dfea3.jpg"
     },
     {
         "category": "침구류",
@@ -811,12 +757,39 @@
     },
     {
         "category": "침구류",
-        "name": "도도야 유아용 토이카 3D 에어메쉬 베개 혼합색상 1개 47 x 32 x 9 cm",
-        "brand": "도도야",
-        "uid": "adcdd8e3-ed88-4dba-a524-340b24353552",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/8422734417?itemId=24363893204&vendorItemId=91379200516&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/29/10/4/ef4ff368-4129-439f-8a61-b27a565dfea3.jpg"
+        "name": "제이유니 인견 롱롱베개 코코 70 x 30 cm",
+        "brand": "제이유니",
+        "uid": "5bc7b833-962f-49c4-ba2d-4f797ee51e84",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/5601103592?itemId=9050730284&vendorItemId=76337094449&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/03f2/86f188a3435af1bbe88170c08382ea47d728da32bd9c8829228d2ab77b65.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "비비엔다 모달 아이싱 듀얼 낮잠이불 일체형 리틀퍼피 75 x 140 cm",
+        "brand": "비비엔다",
+        "uid": "9aefaa08-dac7-422f-ada6-3ecf96edab4b",
+        "sale_price": "89,000원",
+        "link": "https://www.coupang.com/vp/products/8161566570?itemId=23270483125&vendorItemId=90302822713&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/06/12/15/5/6fcd1074-0579-495c-ae8d-7f9e98fea3e7.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "돗투돗 마롤로뜨 자수 누빔 씬 필로우 베개 캐롯로뜨 27 x 48 cm",
+        "brand": "돗투돗",
+        "uid": "7378085d-656f-44b5-9d90-013e0ad688bb",
+        "sale_price": "16,700원",
+        "link": "https://www.coupang.com/vp/products/6247559603?itemId=12324467572&vendorItemId=79594504456&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/7tfxkafg/44d97983651e42ca8c96612d8f50e6e1.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "미소네이처 아동용 순면 양면 잠솔솔 와이드 베개 아이보리 1개 70 x 30 cm",
+        "brand": "미소네이처",
+        "uid": "00fdf8b6-a84d-4187-8d26-e407ed933ea0",
+        "sale_price": "31,200원",
+        "link": "https://www.coupang.com/vp/products/8443564456?itemId=24424748295&vendorItemId=91439091125&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/08/10/1/773468a4-97ec-4c92-90e4-bc6891d4acbf.jpg"
     },
     {
         "category": "침구류",
@@ -829,30 +802,48 @@
     },
     {
         "category": "침구류",
+        "name": "메리투투 아동용 모달 낮잠패드 하이밤비 80 x 130 cm",
+        "brand": "메리투투",
+        "uid": "5d198698-7d87-4134-93b9-84becbbc8eda",
+        "sale_price": "49,000원",
+        "link": "https://www.coupang.com/vp/products/7893187316?itemId=21624062857&vendorItemId=90891237181&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/09/15/9/c46e6e2f-261b-4e87-b6e2-e70ec6d0bb56.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "더자리 에일린키즈 에코항균 DTP 애착 유아동 베개커버 2p 디노 40 x 60 cm",
+        "brand": "더자리",
+        "uid": "22a57cad-3212-473b-9d5e-fb39c291eada",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002846&vendorItemId=80176805839&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4986513832888979-f571d92c-058b-43a6-b109-502ca617d3e7.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "에이트룸 감성레벨 쁘띠 광목 순면 토퍼 유아동 매트 내추럴 150 x 100 cm 1개",
+        "brand": "에이트룸",
+        "uid": "0c4842e8-b6e4-4dc1-ac62-82aee77b22f8",
+        "sale_price": "33,920원",
+        "link": "https://www.coupang.com/vp/products/5207942334?itemId=7276025844&vendorItemId=74567368787&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/yx32x38t/533fb187ff8443ee970b618befa504b5.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "파스텔 순면 유아 방수패드 핑크 소형75 x 100 cm 1개",
+        "brand": "파스텔",
+        "uid": "3836d448-1224-479a-a758-bb2311360746",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/2138807477?itemId=3632338565&vendorItemId=71617914426&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/09/21/9/7/f9fb46c5-078f-4121-885e-797225cb8e1c.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "베이비하트 귀여운 파스텔 짱구베개 아기베개 블루 유아용free사이즈 1개",
         "brand": "베이비하트",
         "uid": "2e1686be-b596-4706-ba89-6fcc8c477652",
         "sale_price": "9,500원",
         "link": "https://www.coupang.com/vp/products/33894372?itemId=126407176&vendorItemId=3259721284&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2017/10/02/17/9/120950ea-0115-4492-8422-1320467db4ad.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아리베베 리얼모달 유아베개 헬로 우주선 45 x 25 cm",
-        "brand": "아리베베",
-        "uid": "927f57d1-3b1d-4b2c-bba3-91ebc8600dce",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/1431597628?itemId=2472692860&vendorItemId=70466079051&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/551305162353375-cc04dcf8-b21f-4059-8560-fb6db5767630.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쉬즈홈 인견 유아 토퍼 테디베어베이지 140 x 90 x 5 cm",
-        "brand": "쉬즈홈",
-        "uid": "b9123c70-6033-447c-bd2a-58c2d4ea3114",
-        "sale_price": "34,900원",
-        "link": "https://www.coupang.com/vp/products/8293848269?itemId=22089732284&vendorItemId=89136737103&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/uca4caav/abc722514f614e0182e6f93e051686e7.jpg"
     },
     {
         "category": "침구류",
@@ -865,12 +856,48 @@
     },
     {
         "category": "침구류",
+        "name": "시오나 더라운드핏 아이보리 아이보리 트라이크유모차범용",
+        "brand": "시오나",
+        "uid": "fe6ea0c9-003c-4675-9c9b-a71d92987b71",
+        "sale_price": "38,700원",
+        "link": "https://www.coupang.com/vp/products/8353196710?itemId=21998959956&vendorItemId=89046508443&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9772/28edd8f2d1b34b80348e74b54024caefb122536887cf3e2d9d460a4ea2f4.png"
+    },
+    {
+        "category": "침구류",
+        "name": "쉬즈홈 인견 유아 토퍼 테디베어베이지 140 x 90 x 5 cm",
+        "brand": "쉬즈홈",
+        "uid": "b9123c70-6033-447c-bd2a-58c2d4ea3114",
+        "sale_price": "34,900원",
+        "link": "https://www.coupang.com/vp/products/8293848269?itemId=22089732284&vendorItemId=89136737103&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/uca4caav/abc722514f614e0182e6f93e051686e7.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아리베베 리얼모달 유아베개 헬로 우주선 45 x 25 cm",
+        "brand": "아리베베",
+        "uid": "927f57d1-3b1d-4b2c-bba3-91ebc8600dce",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/1431597628?itemId=2472692860&vendorItemId=70466079051&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/551305162353375-cc04dcf8-b21f-4059-8560-fb6db5767630.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "엘라바 무소음 스와들 스트랩 면메쉬 S",
         "brand": "엘라바",
         "uid": "86ecca7d-5700-448e-b731-6414a7ff116c",
         "sale_price": "23,000원",
         "link": "https://www.coupang.com/vp/products/8279464368?itemId=7099348115&vendorItemId=74391284162&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/144330046359637-072feae6-7b3c-440b-9dc1-40ece5ba5288.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "밀로앤개비 마이크로화이버 미니 베개솜 가로 50cm x 세로 30cm",
+        "brand": "밀로앤개비",
+        "uid": "585e1ff8-0029-4ee5-b629-10d3a97ebc29",
+        "sale_price": "13,880원",
+        "link": "https://www.coupang.com/vp/products/89835208?itemId=280262093&vendorItemId=3684535393&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/19/3684535393/509e1a93-aaaa-4902-9317-b0dc0ff725e5.jpg"
     },
     {
         "category": "침구류",
@@ -883,12 +910,12 @@
     },
     {
         "category": "침구류",
-        "name": "시오나 더라운드핏 아이보리 아이보리 트라이크유모차범용",
-        "brand": "시오나",
-        "uid": "fe6ea0c9-003c-4675-9c9b-a71d92987b71",
-        "sale_price": "38,700원",
-        "link": "https://www.coupang.com/vp/products/8353196710?itemId=21998959956&vendorItemId=89046508443&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9772/28edd8f2d1b34b80348e74b54024caefb122536887cf3e2d9d460a4ea2f4.png"
+        "name": "아꼬모베베 애착 필로우 짱구베개 그레이 52 x 63 cm 1개",
+        "brand": "아꼬모베베",
+        "uid": "13d83266-c41f-4e40-a5cb-25b404cd19f1",
+        "sale_price": "31,500원",
+        "link": "https://www.coupang.com/vp/products/6084752890?itemId=170579485&vendorItemId=3406980784&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/11/17/17/1/cc9f5fc2-6122-421f-8bd9-fe191f278ddf.JPG"
     },
     {
         "category": "침구류",
@@ -910,39 +937,12 @@
     },
     {
         "category": "침구류",
-        "name": "롤베이비 유아 플레인 줄누비 침대 패드 크림 M70 x 100 cm 1개",
-        "brand": "롤베이비",
-        "uid": "b911798a-3a13-41ee-819a-bcd631f42887",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/6455146046?itemId=14028926256&vendorItemId=81277320678&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/w0wljmct/30b5e65713ed41dd9d1e463ac4704cfc.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "밀로앤개비 마이크로화이버 미니 베개솜 가로 50cm x 세로 30cm",
-        "brand": "밀로앤개비",
-        "uid": "585e1ff8-0029-4ee5-b629-10d3a97ebc29",
-        "sale_price": "13,880원",
-        "link": "https://www.coupang.com/vp/products/89835208?itemId=280262093&vendorItemId=3684535393&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/19/3684535393/509e1a93-aaaa-4902-9317-b0dc0ff725e5.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 유아용 에디 순면 방수패드 베이지 소형75 x 100 cm 1개",
-        "brand": "쁘리엘르",
-        "uid": "1d9b770a-1e88-439d-9e53-c52d2b283e8f",
-        "sale_price": "13,550원",
-        "link": "https://www.coupang.com/vp/products/8164168364?itemId=23288087300&vendorItemId=90320332705&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/6gwdcnyz/fa251757551546bc9550a9d8a0d8bb0a.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아꼬모베베 애착 필로우 짱구베개 그레이 52 x 63 cm 1개",
-        "brand": "아꼬모베베",
-        "uid": "13d83266-c41f-4e40-a5cb-25b404cd19f1",
-        "sale_price": "31,500원",
-        "link": "https://www.coupang.com/vp/products/6084752890?itemId=170579485&vendorItemId=3406980784&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/11/17/17/1/cc9f5fc2-6122-421f-8bd9-fe191f278ddf.JPG"
+        "name": "베베누보 유아용 하이퍼닉 듀라론 냉감 바디필로우 다람이 랜덤발송패턴 S",
+        "brand": "베베누보",
+        "uid": "8a5c33a8-e991-480a-a308-72a600611614",
+        "sale_price": "23,900원",
+        "link": "https://www.coupang.com/vp/products/8253494316?itemId=23764985786&vendorItemId=90789348673&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/25/12/4/e3449e00-5338-4f26-ae7e-39f893a12ec3.jpg"
     },
     {
         "category": "침구류",
@@ -955,24 +955,6 @@
     },
     {
         "category": "침구류",
-        "name": "베베누보 유아용 하이퍼닉 듀라론 냉감 바디필로우 다람이 랜덤발송패턴 S",
-        "brand": "베베누보",
-        "uid": "8a5c33a8-e991-480a-a308-72a600611614",
-        "sale_price": "23,900원",
-        "link": "https://www.coupang.com/vp/products/8253494316?itemId=23764985786&vendorItemId=90789348673&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/25/12/4/e3449e00-5338-4f26-ae7e-39f893a12ec3.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "예스베베 양면 극세사 담요 블랭킷 레인보우",
-        "brand": "예스베베",
-        "uid": "53a1eb07-f022-4a5b-b0b0-3a09f4ab7d9c",
-        "sale_price": "11,800원",
-        "link": "https://www.coupang.com/vp/products/8291713392?itemId=16952186610&vendorItemId=84129531818&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/eb32/43585a7d4e7b3c7818beeb8ced14fd24b9a8ddc381d3d865bcbb8c501d85.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "뱅온더도어 카시트유모차 동물 목베게 Rabbits 가로 300 x 폭 130 x 높이 250 mm",
         "brand": "뱅온더도어",
         "uid": "5758fe39-3631-4bb9-9b64-bc6045058d54",
@@ -982,48 +964,30 @@
     },
     {
         "category": "침구류",
+        "name": "롤베이비 유아 플레인 줄누비 침대 패드 크림 M70 x 100 cm 1개",
+        "brand": "롤베이비",
+        "uid": "b911798a-3a13-41ee-819a-bcd631f42887",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/6455146046?itemId=14028926256&vendorItemId=81277320678&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/w0wljmct/30b5e65713ed41dd9d1e463ac4704cfc.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 유아용 에디 순면 방수패드 베이지 소형75 x 100 cm 1개",
+        "brand": "쁘리엘르",
+        "uid": "1d9b770a-1e88-439d-9e53-c52d2b283e8f",
+        "sale_price": "13,550원",
+        "link": "https://www.coupang.com/vp/products/8164168364?itemId=23288087300&vendorItemId=90320332705&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/6gwdcnyz/fa251757551546bc9550a9d8a0d8bb0a.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "스와들미 순면 벨크로 1종 기적의 속싸개 57350 S  M",
         "brand": "스와들미",
         "uid": "05c2201f-d99b-4f61-b9e5-7b4c7d70c9a4",
         "sale_price": "14,190원",
         "link": "https://www.coupang.com/vp/products/7645812745?itemId=20329526806&vendorItemId=87487788313&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/94a7/4cb9053aa0b639f68fcbf74fa02b134c2d4a0bf1a827ead4ea3d9414ccb5.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "밀로앤개비 애착 동물베개 커버  마이크로 베개솜 세트 딜런공룡 70 x 50 cm",
-        "brand": "밀로앤개비",
-        "uid": "363d0cae-f779-43d6-95a6-c4ffb4f65f4f",
-        "sale_price": "42,890원",
-        "link": "https://www.coupang.com/vp/products/4896786122?itemId=8891403&vendorItemId=3012587903&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/02/28/3012587903/aeeb8646-60b7-426a-b36f-f86550b9c5b8.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "더자리 에일린키즈 에코항균 DTP 애착 유아동 베개커버 2p 야미 40 x 60 cm",
-        "brand": "더자리",
-        "uid": "10556452-3caf-48a7-bc76-26aafd570fdb",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002877&vendorItemId=80176805895&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4986355858717851-b542ef9f-0195-4bb4-8068-0bd36b86cd70.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아띠래빗 양면 사계절 어린이집 낮잠이불 일체형 레몬크림 패드 53 x 117 cm 이불 75 x 88 cm 베개 53 x 254 cm",
-        "brand": "아띠래빗",
-        "uid": "92f4042d-8ee0-4f43-8f7b-58f52a3ae75b",
-        "sale_price": "38,900원",
-        "link": "https://www.coupang.com/vp/products/7721563450?itemId=20724555520&vendorItemId=88049070453&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/612931810350397-16ccd8b6-97b1-457b-837d-7316e6c06c55.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "그리에티 신생아 아기 짱구 베개 1개 40x25 토끼",
-        "brand": "그리에티",
-        "uid": "011f2d0b-4bec-4b1c-aa7f-46b8d9fc1d87",
-        "sale_price": "13,000원",
-        "link": "https://www.coupang.com/vp/products/8310770656?itemId=23980749241&vendorItemId=91057020597&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6341/3d235b8be4b6658ac629e663adf290939c3acd267312a1e70ce3f89ce815.jpg"
     },
     {
         "category": "침구류",
@@ -1054,12 +1018,48 @@
     },
     {
         "category": "침구류",
+        "name": "시은데코 뽀로로 월드 베개커버 블루 30 x 70 cm",
+        "brand": "시은데코",
+        "uid": "2b49e5ff-717e-440f-8184-6edb548fcd00",
+        "sale_price": "10,060원",
+        "link": "https://www.coupang.com/vp/products/88401469?itemId=276721433&vendorItemId=3671476309&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/980084159580736-c54f12ec-f001-4962-b20e-b3f3c57ba711.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "비비엔다 순수 아이싱 듀얼 낮잠이불패드 세트 분리형 베베밍 패드75 x 140 cm 이불120 x 100 cm",
         "brand": "비비엔다",
         "uid": "b50f82c6-473b-4520-9743-803e51d7a06d",
         "sale_price": "136,000원",
         "link": "https://www.coupang.com/vp/products/8574861412?itemId=22085574158&vendorItemId=89132616377&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ik1ra6hy/50a0480fd49146e185bb49605138b5dc.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "예스베베 양면 극세사 담요 블랭킷 레인보우",
+        "brand": "예스베베",
+        "uid": "53a1eb07-f022-4a5b-b0b0-3a09f4ab7d9c",
+        "sale_price": "11,800원",
+        "link": "https://www.coupang.com/vp/products/8291713392?itemId=16952186610&vendorItemId=84129531818&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/eb32/43585a7d4e7b3c7818beeb8ced14fd24b9a8ddc381d3d865bcbb8c501d85.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "그리에티 신생아 아기 짱구 베개 1개 40x25 토끼",
+        "brand": "그리에티",
+        "uid": "011f2d0b-4bec-4b1c-aa7f-46b8d9fc1d87",
+        "sale_price": "13,000원",
+        "link": "https://www.coupang.com/vp/products/8310770656?itemId=23980749241&vendorItemId=91057020597&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6341/3d235b8be4b6658ac629e663adf290939c3acd267312a1e70ce3f89ce815.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아띠래빗 양면 사계절 어린이집 낮잠이불 일체형 레몬크림 패드 53 x 117 cm 이불 75 x 88 cm 베개 53 x 254 cm",
+        "brand": "아띠래빗",
+        "uid": "92f4042d-8ee0-4f43-8f7b-58f52a3ae75b",
+        "sale_price": "38,900원",
+        "link": "https://www.coupang.com/vp/products/7721563450?itemId=20724555520&vendorItemId=88049070453&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/612931810350397-16ccd8b6-97b1-457b-837d-7316e6c06c55.jpg"
     },
     {
         "category": "침구류",
@@ -1081,12 +1081,21 @@
     },
     {
         "category": "침구류",
-        "name": "더자리 에일린키즈 에코항균 DTP 애착 유아동 베개커버 2p 야미 40 x 60 cm",
-        "brand": "더자리",
-        "uid": "4777b4ab-601d-4f47-8f86-1840b60d61e7",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002877&vendorItemId=80176805895&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4986355858717851-b542ef9f-0195-4bb4-8068-0bd36b86cd70.jpg"
+        "name": "비비엔다 순수 아이싱 듀얼 낮잠이불패드 세트 분리형 베베밍 패드75 x 140 cm 이불120 x 100 cm",
+        "brand": "비비엔다",
+        "uid": "b50f82c6-473b-4520-9743-803e51d7a06d",
+        "sale_price": "136,000원",
+        "link": "https://www.coupang.com/vp/products/8574861412?itemId=22085574158&vendorItemId=89132616377&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ik1ra6hy/50a0480fd49146e185bb49605138b5dc.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "시은데코 뽀로로 월드 베개커버 블루 30 x 70 cm",
+        "brand": "시은데코",
+        "uid": "ae68eb97-cee0-4972-aec7-b041c43dbe8d",
+        "sale_price": "10,060원",
+        "link": "https://www.coupang.com/vp/products/88401469?itemId=276721433&vendorItemId=3671476309&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/980084159580736-c54f12ec-f001-4962-b20e-b3f3c57ba711.jpg"
     },
     {
         "category": "침구류",
@@ -1099,12 +1108,39 @@
     },
     {
         "category": "침구류",
+        "name": "댕댕이 자수 순면 유아 방수패드 아이보리 소형75 x 100 cm 1개",
+        "brand": "댕댕이",
+        "uid": "61fd1d0b-559f-483b-a7dc-2c194b53ed1c",
+        "sale_price": "14,900원",
+        "link": "https://www.coupang.com/vp/products/6069830700?itemId=11200988657&vendorItemId=78478701753&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/09/06/13/0/9c240045-fb0b-4f70-b992-64865fcad015.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "미소네이처 유아용 침대 패드 누빔 인견 양면 쿨매트 아이보리  화이트 1개 리안드림콧",
+        "brand": "미소네이처",
+        "uid": "1db44b38-786a-41f6-8e61-3982fffc01b2",
+        "sale_price": "31,200원",
+        "link": "https://www.coupang.com/vp/products/8443504486?itemId=24424560892&vendorItemId=91438906461&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xcq9exts/19d56d82a77b4d0d8b31a2f82923b5c4.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "시은데코 뽀로로 플라워가든 베개커버 25  45 cm 블루 25 x 45 cm",
         "brand": "시은데코",
         "uid": "0bfc91f2-c82b-46e6-a909-dc5eb8a5be5b",
         "sale_price": "9,060원",
         "link": "https://www.coupang.com/vp/products/32997673?itemId=124141747&vendorItemId=3252895861&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/08/23/12/8/7665362b-5547-4036-b5c6-20ac5f4df6e3.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "태열베개 1등 아이누오 100 듀라론 쿨쿨 아기 신생아 두상 베개 쿨쿨베개 1개",
+        "brand": "태열베개",
+        "uid": "fa3fcdf4-35fc-42f2-9ef3-583f9ea64cc2",
+        "sale_price": "69,000원",
+        "link": "https://www.coupang.com/vp/products/8059055695?itemId=22632503632&vendorItemId=91402259776&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8f55/aeb70fa60a848070490a38c271ad7f7e13f666b0a7bdc333cf09bdb2fccb.jpg"
     },
     {
         "category": "침구류",
@@ -1126,39 +1162,12 @@
     },
     {
         "category": "침구류",
-        "name": "미소네이처 유아용 침대 패드 누빔 인견 양면 쿨매트 아이보리  화이트 1개 리안드림콧",
-        "brand": "미소네이처",
-        "uid": "1db44b38-786a-41f6-8e61-3982fffc01b2",
-        "sale_price": "31,200원",
-        "link": "https://www.coupang.com/vp/products/8443504486?itemId=24424560892&vendorItemId=91438906461&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xcq9exts/19d56d82a77b4d0d8b31a2f82923b5c4.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "베이비앤아이 소프트 유아방수요 라미 소형40 x 60 cm 1개",
         "brand": "베이비앤아이",
         "uid": "c5e1c0f0-e99a-4984-9523-7a84a54e28f8",
         "sale_price": "9,120원",
         "link": "https://www.coupang.com/vp/products/7090368277?itemId=17667119621&vendorItemId=84832541477&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/26/11/3/7a24e0ca-d59b-47a3-ae17-27b1bc728454.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "태열베개 1등 아이누오 100 듀라론 쿨쿨 아기 신생아 두상 베개 쿨쿨베개 1개",
-        "brand": "태열베개",
-        "uid": "fa3fcdf4-35fc-42f2-9ef3-583f9ea64cc2",
-        "sale_price": "69,000원",
-        "link": "https://www.coupang.com/vp/products/8059055695?itemId=22632503632&vendorItemId=91402259776&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8f55/aeb70fa60a848070490a38c271ad7f7e13f666b0a7bdc333cf09bdb2fccb.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "도도야 유니크 베어민트 3D 에어메쉬 베개 혼합색상 47 x 32 x 9 cm",
-        "brand": "도도야",
-        "uid": "ce171b14-8e27-4748-a455-78adbc64683f",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/8420764515?itemId=24355727554&vendorItemId=91371115942&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/28/10/8/fab59abc-b10f-40e6-b54f-aa8b12c72bde.jpg"
     },
     {
         "category": "침구류",
@@ -1171,15 +1180,6 @@
     },
     {
         "category": "침구류",
-        "name": "제이유니 인견 주니어 베개 로건 47 x 32 x 8 cm",
-        "brand": "제이유니",
-        "uid": "82aef864-94f3-48c4-bb16-23d529653cd8",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/5624824892?itemId=9129741393&vendorItemId=76415773473&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/yznli81q/04f351cd22f94f74a245ac72eb3f0c0b.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "불로홈 유아용 아기 오가닉 순면 논슬립 방수 패드 1개 휴대용 미니35x60cm 밤부",
         "brand": "불로홈",
         "uid": "86648e6d-00c3-4358-9f06-2d337867967e",
@@ -1189,93 +1189,12 @@
     },
     {
         "category": "침구류",
-        "name": "아띠블랑 코튼 경추 유아동 베개 코코 30 x 50 cm",
-        "brand": "아띠블랑",
-        "uid": "c7edda9b-1e22-4e27-934a-80133596e377",
-        "sale_price": "21,300원",
-        "link": "https://www.coupang.com/vp/products/4543875714?itemId=5504181553&vendorItemId=72803774107&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9787/2aac65db11d7bc09c128f7ebda7d3b298e50469b5f3021e6514afedbb514.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "댕댕이 자수 순면 유아 방수패드 아이보리 소형75 x 100 cm 1개",
-        "brand": "댕댕이",
-        "uid": "61fd1d0b-559f-483b-a7dc-2c194b53ed1c",
-        "sale_price": "14,900원",
-        "link": "https://www.coupang.com/vp/products/6069830700?itemId=11200988657&vendorItemId=78478701753&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/09/06/13/0/9c240045-fb0b-4f70-b992-64865fcad015.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "루시드슬립 시원보송 오션 시어서커 여름 배이불 블랭킷 낮잠이불 2p S 80 x 110 cm 화이트",
-        "brand": "루시드슬립",
-        "uid": "c43755a4-e044-4af8-8086-b77bed637d1f",
-        "sale_price": "8,910원",
-        "link": "https://www.coupang.com/vp/products/8200461753?itemId=23504544092&vendorItemId=90530952415&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d8cb/dc782ae735a3eb3eb2b95c7ba95b11cd4d5a461b35d130e63efa8f5cd066.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "MODERN HOUSE 중계점 스웰스트로베리래빗 알러지케어 베개커버 4060 CZ0325001 스트로베리래빗 40x60",
-        "brand": "MODERN",
-        "uid": "cbdb1976-59af-4aed-a5ed-11433f297e0f",
-        "sale_price": "13,900원",
-        "link": "https://www.coupang.com/vp/products/8489157623?itemId=24570075108&vendorItemId=91582077687&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f1e8/f62eeb1c1cb2021cf96c105adbded3befe9cd78e0c5851086f20417ebc96.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "롤베이비 유아 플레인 줄누비패드 그레이 M70 x 100 cm 1개",
-        "brand": "롤베이비",
-        "uid": "abcd41f3-6ec9-4acd-a34a-d7aa4c7573e4",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/6455146046?itemId=3823285140&vendorItemId=81205501385&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/hruv2zis/35d7c033507541dc9353267f44b10ced.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "파스텔 순면 유아 방수패드 민트 소형75 x 100 cm 1개",
-        "brand": "파스텔",
-        "uid": "78044a56-681b-4e1c-8dca-3cc234a94844",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/2138807477?itemId=3632338563&vendorItemId=71617914351&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ab51/d6700a3eb0edb7e18222b19c298772eff066526e14bb02847fd23e52bd6d.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "롤베이비 유아용 줄 누빔 패드 M75 x 100 cm 허니비 1개",
-        "brand": "롤베이비",
-        "uid": "cc155e5c-7059-432f-a44e-1d7f353d2219",
-        "sale_price": "15,800원",
-        "link": "https://www.coupang.com/vp/products/6962417475?itemId=16954655071&vendorItemId=84131951009&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379449520458619-a1d96fcb-64b6-4ef7-a01d-9ecdd9b32073.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "루비앙베이비 순면 아기이불 신생아겉싸개출산선물",
-        "brand": "루비앙베이비",
-        "uid": "3b0b95c0-1b9b-4641-8a38-466316c7bdfd",
-        "sale_price": "22,100원",
-        "link": "https://www.coupang.com/vp/products/8518550782?itemId=24662813388&vendorItemId=71969875770&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/14c3/11fa99cf53691ec82aa7a34b48f145ba92f9eeae37e72b21e607309bab76.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 튤립 자수 삼중 거즈 블랭킷 소형 피치 65 x 100 cm",
-        "brand": "쁘리엘르",
-        "uid": "4e5fcec7-9bc0-4be2-92d4-e28dd125f1d1",
-        "sale_price": "17,000원",
-        "link": "https://www.coupang.com/vp/products/5498020246?itemId=8531917465&vendorItemId=75819351160&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bpfvr9ph/8a38f1e551844567941d4416179004e4.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쉬즈홈 DTP 마이크로 베개  솜포함 헬로레오옐로우 30 x 50 cm",
-        "brand": "쉬즈홈",
-        "uid": "5f9c8626-4a70-4cea-98a6-e398267b5706",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=24076999129&vendorItemId=91096643535&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qcxhuuoq/141cce2ce4a144b1b0d810556c23659b.jpg"
+        "name": "도도야 유니크 베어민트 3D 에어메쉬 베개 혼합색상 47 x 32 x 9 cm",
+        "brand": "도도야",
+        "uid": "ce171b14-8e27-4748-a455-78adbc64683f",
+        "sale_price": "9,800원",
+        "link": "https://www.coupang.com/vp/products/8420764515?itemId=24355727554&vendorItemId=91371115942&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/28/10/8/fab59abc-b10f-40e6-b54f-aa8b12c72bde.jpg"
     },
     {
         "category": "침구류",
@@ -1288,12 +1207,93 @@
     },
     {
         "category": "침구류",
-        "name": "엘라바 무소음 스와들 스트랩 면메쉬 M",
-        "brand": "엘라바",
-        "uid": "e0ec3a17-913f-4d97-96d2-c40b14e00350",
-        "sale_price": "18,900원",
-        "link": "https://www.coupang.com/vp/products/5159032347?itemId=8553620331&vendorItemId=75841026868&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xl2igjiw/1c1741abf4874058b7dd34efcae3492f.jpg"
+        "name": "제이유니 인견 주니어 베개 로건 47 x 32 x 8 cm",
+        "brand": "제이유니",
+        "uid": "82aef864-94f3-48c4-bb16-23d529653cd8",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/5624824892?itemId=9129741393&vendorItemId=76415773473&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/yznli81q/04f351cd22f94f74a245ac72eb3f0c0b.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "MODERN HOUSE 중계점 스웰스트로베리래빗 알러지케어 베개커버 4060 CZ0325001 스트로베리래빗 40x60",
+        "brand": "MODERN",
+        "uid": "cbdb1976-59af-4aed-a5ed-11433f297e0f",
+        "sale_price": "13,900원",
+        "link": "https://www.coupang.com/vp/products/8489157623?itemId=24570075108&vendorItemId=91582077687&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f1e8/f62eeb1c1cb2021cf96c105adbded3befe9cd78e0c5851086f20417ebc96.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아띠블랑 코튼 경추 유아동 베개 코코 30 x 50 cm",
+        "brand": "아띠블랑",
+        "uid": "c7edda9b-1e22-4e27-934a-80133596e377",
+        "sale_price": "21,300원",
+        "link": "https://www.coupang.com/vp/products/4543875714?itemId=5504181553&vendorItemId=72803774107&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9787/2aac65db11d7bc09c128f7ebda7d3b298e50469b5f3021e6514afedbb514.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "루시드슬립 시원보송 오션 시어서커 여름 배이불 블랭킷 낮잠이불 2p S 80 x 110 cm 화이트",
+        "brand": "루시드슬립",
+        "uid": "c43755a4-e044-4af8-8086-b77bed637d1f",
+        "sale_price": "8,910원",
+        "link": "https://www.coupang.com/vp/products/8200461753?itemId=23504544092&vendorItemId=90530952415&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d8cb/dc782ae735a3eb3eb2b95c7ba95b11cd4d5a461b35d130e63efa8f5cd066.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쉬즈홈 DTP 마이크로 베개  솜포함 헬로레오옐로우 30 x 50 cm",
+        "brand": "쉬즈홈",
+        "uid": "5f9c8626-4a70-4cea-98a6-e398267b5706",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=24076999129&vendorItemId=91096643535&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qcxhuuoq/141cce2ce4a144b1b0d810556c23659b.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "루비앙베이비 순면 아기이불 신생아겉싸개출산선물",
+        "brand": "루비앙베이비",
+        "uid": "3b0b95c0-1b9b-4641-8a38-466316c7bdfd",
+        "sale_price": "22,100원",
+        "link": "https://www.coupang.com/vp/products/8518550782?itemId=24662813388&vendorItemId=71969875770&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/14c3/11fa99cf53691ec82aa7a34b48f145ba92f9eeae37e72b21e607309bab76.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "파스텔 순면 유아 방수패드 민트 소형75 x 100 cm 1개",
+        "brand": "파스텔",
+        "uid": "78044a56-681b-4e1c-8dca-3cc234a94844",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/2138807477?itemId=3632338563&vendorItemId=71617914351&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ab51/d6700a3eb0edb7e18222b19c298772eff066526e14bb02847fd23e52bd6d.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "롤베이비 유아 플레인 줄누비패드 그레이 M70 x 100 cm 1개",
+        "brand": "롤베이비",
+        "uid": "abcd41f3-6ec9-4acd-a34a-d7aa4c7573e4",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/6455146046?itemId=3823285140&vendorItemId=81205501385&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/hruv2zis/35d7c033507541dc9353267f44b10ced.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "롤베이비 유아용 줄 누빔 패드 M75 x 100 cm 허니비 1개",
+        "brand": "롤베이비",
+        "uid": "cc155e5c-7059-432f-a44e-1d7f353d2219",
+        "sale_price": "15,800원",
+        "link": "https://www.coupang.com/vp/products/6962417475?itemId=16954655071&vendorItemId=84131951009&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379449520458619-a1d96fcb-64b6-4ef7-a01d-9ecdd9b32073.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 튤립 자수 삼중 거즈 블랭킷 소형 피치 65 x 100 cm",
+        "brand": "쁘리엘르",
+        "uid": "4e5fcec7-9bc0-4be2-92d4-e28dd125f1d1",
+        "sale_price": "17,000원",
+        "link": "https://www.coupang.com/vp/products/5498020246?itemId=8531917465&vendorItemId=75819351160&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bpfvr9ph/8a38f1e551844567941d4416179004e4.jpg"
     },
     {
         "category": "침구류",
@@ -1315,12 +1315,39 @@
     },
     {
         "category": "침구류",
+        "name": "원아방 신생아용 래빗 속싸개 1501NB",
+        "brand": "원아방",
+        "uid": "87dbd0d1-4bc6-48af-bedf-9923f7fbd53c",
+        "sale_price": "6,900원",
+        "link": "https://www.coupang.com/vp/products/1154568?itemId=4976817&vendorItemId=3006158965&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/19/3006158965/5f188cdb-a457-42d0-b2db-15977d244efe.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "엘라바 무소음 스와들 스트랩 면메쉬 M",
+        "brand": "엘라바",
+        "uid": "e0ec3a17-913f-4d97-96d2-c40b14e00350",
+        "sale_price": "18,900원",
+        "link": "https://www.coupang.com/vp/products/5159032347?itemId=8553620331&vendorItemId=75841026868&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xl2igjiw/1c1741abf4874058b7dd34efcae3492f.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "벨몽 뱀부 코튼 머슬린 퍼펙트 스와들 블랭킷 속싸개 리틀 베니 2종 세트",
         "brand": "벨몽",
         "uid": "0899743b-9965-43e2-bdd8-c9ac0aef7c8c",
         "sale_price": "39,800원",
         "link": "https://www.coupang.com/vp/products/1859090279?itemId=18793227436&vendorItemId=85924251515&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/05/10/10/5/01a77dec-ae7f-4ab3-acf1-2168ba9a5d84.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "유아용 고슴도치핑크 3D에어메쉬 베개 혼합색상 1개 47 x 32 x 9 cm",
+        "brand": "유아용",
+        "uid": "6eafcf20-44f3-4969-95ee-e4feecfdd652",
+        "sale_price": "9,800원",
+        "link": "https://www.coupang.com/vp/products/8422754128?itemId=24363974710&vendorItemId=91379280703&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/29/11/8/92080242-d3b0-45e5-93dd-df1392de5ac2.jpg"
     },
     {
         "category": "침구류",
@@ -1333,48 +1360,21 @@
     },
     {
         "category": "침구류",
-        "name": "원아방 신생아용 래빗 속싸개 1501NB",
-        "brand": "원아방",
-        "uid": "87dbd0d1-4bc6-48af-bedf-9923f7fbd53c",
-        "sale_price": "6,900원",
-        "link": "https://www.coupang.com/vp/products/1154568?itemId=4976817&vendorItemId=3006158965&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/19/3006158965/5f188cdb-a457-42d0-b2db-15977d244efe.jpg"
+        "name": "아띠빠스 옆으로 재우는 코끼리 유아 베개 81 x 42 cm 베이지 1개",
+        "brand": "아띠빠스",
+        "uid": "0c1d519d-7518-474f-a4c6-3c27a1c89463",
+        "sale_price": "69,000원",
+        "link": "https://www.coupang.com/vp/products/7166950355?itemId=18047720843&vendorItemId=86703674680&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a449/7d941c1c246101f28e0ea7ba39e31131b4257d070980084815f993039ec6.jpg"
     },
     {
         "category": "침구류",
-        "name": "코니아일랜드 일체형 낮잠이불 방수가방 위드트라이앵글 815 x 425 x 11 cm",
-        "brand": "코니아일랜드",
-        "uid": "bc7b7c1c-6c2a-4b96-b8bf-d6dc93321705",
-        "sale_price": "9,430원",
-        "link": "https://www.coupang.com/vp/products/1291778939?itemId=2302955119&vendorItemId=70299859090&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/02/19/12/0/5aeb5eb8-a4da-40ca-8795-e589e5245216.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "이몽 유아용 버터 애착 바디필로우 혼합색상 57 x 72 cm",
-        "brand": "이몽",
-        "uid": "49020abf-7813-4988-92e4-b339250330b2",
-        "sale_price": "50,000원",
-        "link": "https://www.coupang.com/vp/products/7166097871?itemId=18044011911&vendorItemId=85198280871&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/07tpr39o/74873d73d58a404f9a6d47df1bfc9cdb.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "투토츠 유아용 인디 거즈 블랭킷 포 스트롤러 인디 블루 90 x 120 cm",
-        "brand": "투토츠",
-        "uid": "0f95f763-58fd-408b-8b7a-2459256c5247",
-        "sale_price": "13,640원",
-        "link": "https://www.coupang.com/vp/products/88549481?itemId=277074389&vendorItemId=3672594666&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/06/18/3672594666/fe053c9f-04a6-4fb0-a68f-f5d930cd8596.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 유아용 디유 순면 방수 패드 진그레이 소형75 x 100 cm 1개",
-        "brand": "쁘리엘르",
-        "uid": "1cbdb5ea-eb8b-4387-8918-917f99b95d18",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/7201801599?itemId=18205763453&vendorItemId=85354068235&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ym08cp9l/21d18d591d5b4b689678a9913b9dc399.jpg"
+        "name": "아리베베 유아용 순면 누빔 방수패드 누빔무지 52 x 82 cm 1개",
+        "brand": "아리베베",
+        "uid": "6ff38b9c-cecc-4de7-b4e3-544432dafb7f",
+        "sale_price": "26,150원",
+        "link": "https://www.coupang.com/vp/products/8528499591?itemId=24693952467&vendorItemId=91703722084&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bee6d2jt/4322f3dcce4a45ff8bc90003739a8d0f.jpg"
     },
     {
         "category": "침구류",
@@ -1387,12 +1387,48 @@
     },
     {
         "category": "침구류",
-        "name": "허밍 순면 유아 롱베개 아이보리 30 x 70 cm",
-        "brand": "허밍",
-        "uid": "2d4e2658-20c5-4be9-ac1e-2d97a4dcfa4c",
-        "sale_price": "24,900원",
-        "link": "https://www.coupang.com/vp/products/4320600014?itemId=5028102722&vendorItemId=72337926836&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13952258332520848-e5b7ee13-932a-42b8-a83d-bccb4a5c7be4.jpg"
+        "name": "이몽 유아용 버터 애착 바디필로우 혼합색상 57 x 72 cm",
+        "brand": "이몽",
+        "uid": "49020abf-7813-4988-92e4-b339250330b2",
+        "sale_price": "50,000원",
+        "link": "https://www.coupang.com/vp/products/7166097871?itemId=18044011911&vendorItemId=85198280871&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/07tpr39o/74873d73d58a404f9a6d47df1bfc9cdb.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "코니아일랜드 일체형 낮잠이불 방수가방 위드트라이앵글 815 x 425 x 11 cm",
+        "brand": "코니아일랜드",
+        "uid": "bc7b7c1c-6c2a-4b96-b8bf-d6dc93321705",
+        "sale_price": "9,430원",
+        "link": "https://www.coupang.com/vp/products/1291778939?itemId=2302955119&vendorItemId=70299859090&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/02/19/12/0/5aeb5eb8-a4da-40ca-8795-e589e5245216.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "투토츠 유아용 인디 거즈 블랭킷 포 스트롤러 인디 블루 90 x 120 cm",
+        "brand": "투토츠",
+        "uid": "0f95f763-58fd-408b-8b7a-2459256c5247",
+        "sale_price": "13,640원",
+        "link": "https://www.coupang.com/vp/products/88549481?itemId=277074389&vendorItemId=3672594666&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/06/18/3672594666/fe053c9f-04a6-4fb0-a68f-f5d930cd8596.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "마롤로뜨 유아용 프린팅 면 방수 패드 싱싱올리브 S40 x 60 cm 1개",
+        "brand": "마롤로뜨",
+        "uid": "bc7e9baa-66e7-4b09-bb47-76eb4a98ced2",
+        "sale_price": "10,400원",
+        "link": "https://www.coupang.com/vp/products/7345621969?itemId=18890360546&vendorItemId=86018474874&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/05/19/17/3/4933f1e6-1a67-49c2-9e38-a72ebed62e3e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 유아용 디유 순면 방수 패드 진그레이 소형75 x 100 cm 1개",
+        "brand": "쁘리엘르",
+        "uid": "1cbdb5ea-eb8b-4387-8918-917f99b95d18",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/7201801599?itemId=18205763453&vendorItemId=85354068235&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ym08cp9l/21d18d591d5b4b689678a9913b9dc399.jpg"
     },
     {
         "category": "침구류",
@@ -1414,21 +1450,12 @@
     },
     {
         "category": "침구류",
-        "name": "아리베베 유아용 순면 누빔 방수패드 누빔무지 52 x 82 cm 1개",
-        "brand": "아리베베",
-        "uid": "6ff38b9c-cecc-4de7-b4e3-544432dafb7f",
-        "sale_price": "26,150원",
-        "link": "https://www.coupang.com/vp/products/8528499591?itemId=24693952467&vendorItemId=91703722084&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bee6d2jt/4322f3dcce4a45ff8bc90003739a8d0f.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "말랑하니 논슬립 아기 방수패드 퓨어화이트 미듐 1개",
-        "brand": "말랑하니",
-        "uid": "d90b39ba-4719-4c73-9ebe-861b42598142",
-        "sale_price": "16,800원",
-        "link": "https://www.coupang.com/vp/products/2280469433?itemId=3916356104&vendorItemId=71900900725&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/10/22/12/2/6c2f92f6-3ab5-4ab1-95a5-17ce7c49efb5.jpg"
+        "name": "허밍 순면 유아 롱베개 아이보리 30 x 70 cm",
+        "brand": "허밍",
+        "uid": "2d4e2658-20c5-4be9-ac1e-2d97a4dcfa4c",
+        "sale_price": "24,900원",
+        "link": "https://www.coupang.com/vp/products/4320600014?itemId=5028102722&vendorItemId=72337926836&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13952258332520848-e5b7ee13-932a-42b8-a83d-bccb4a5c7be4.jpg"
     },
     {
         "category": "침구류",
@@ -1441,12 +1468,21 @@
     },
     {
         "category": "침구류",
-        "name": "아띠빠스 옆으로 재우는 코끼리 유아 베개 81 x 42 cm 베이지 1개",
-        "brand": "아띠빠스",
-        "uid": "0c1d519d-7518-474f-a4c6-3c27a1c89463",
-        "sale_price": "69,000원",
-        "link": "https://www.coupang.com/vp/products/7166950355?itemId=18047720843&vendorItemId=86703674680&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a449/7d941c1c246101f28e0ea7ba39e31131b4257d070980084815f993039ec6.jpg"
+        "name": "말랑하니 논슬립 아기 방수패드 퓨어화이트 미듐 1개",
+        "brand": "말랑하니",
+        "uid": "d90b39ba-4719-4c73-9ebe-861b42598142",
+        "sale_price": "16,800원",
+        "link": "https://www.coupang.com/vp/products/2280469433?itemId=3916356104&vendorItemId=71900900725&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/10/22/12/2/6c2f92f6-3ab5-4ab1-95a5-17ce7c49efb5.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아이자리 키즈케어 애착 낮잠이불세트 분리형 고잉카잉",
+        "brand": "아이자리",
+        "uid": "d4be9482-7540-421d-a618-7261c058d695",
+        "sale_price": "33,890원",
+        "link": "https://www.coupang.com/vp/products/173502871?itemId=12925568380&vendorItemId=80190113183&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/357701713431818-4f113590-f1d3-43a9-9aa2-c74696c372a6.jpg"
     },
     {
         "category": "침구류",
@@ -1459,30 +1495,12 @@
     },
     {
         "category": "침구류",
-        "name": "유아용 고슴도치핑크 3D에어메쉬 베개 혼합색상 1개 47 x 32 x 9 cm",
-        "brand": "유아용",
-        "uid": "6eafcf20-44f3-4969-95ee-e4feecfdd652",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/8422754128?itemId=24363974710&vendorItemId=91379280703&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/29/11/8/92080242-d3b0-45e5-93dd-df1392de5ac2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "라비킷 유아용 라이너루프트 커들업 옆잠 바디필로우 좌측형 화이트 71 x 34 cm",
-        "brand": "라비킷",
-        "uid": "3b4ff273-d4fc-4c08-898d-3cfdf4b85e72",
-        "sale_price": "65,000원",
-        "link": "https://www.coupang.com/vp/products/8219984127?itemId=23623920663&vendorItemId=90649480511&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/186616699369518-485bb422-956b-408e-8409-f072a7df8517.png"
-    },
-    {
-        "category": "침구류",
-        "name": "시은데코 뽀로로베개 플라워가든 순면 유아베개 25x45 솜포함 블루",
-        "brand": "시은데코",
-        "uid": "4ade3f9a-9724-4c89-8ce1-e9fb830aa410",
-        "sale_price": "15,800원",
-        "link": "https://www.coupang.com/vp/products/72361520?itemId=241289988&vendorItemId=3594382347&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/964a/3715ed7b97d560996a9bed92bc516caed7e3a214c53bf7d87ad76259af2f.jpg"
+        "name": "에일린키즈 에코항균 DTP 애착 베개커버 2p 로미 40 x 60 cm",
+        "brand": "에일린키즈",
+        "uid": "6dbc758d-cf75-4fc7-96c2-484f6b7e6288",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002859&vendorItemId=80176805872&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13323660347105190-05358fd0-2987-4c30-acac-786591993eb2.jpg"
     },
     {
         "category": "침구류",
@@ -1504,57 +1522,21 @@
     },
     {
         "category": "침구류",
-        "name": "에일린키즈 낮잠이불세트 일체형  낮잠이불 보관 가방 죠디",
-        "brand": "에일린키즈",
-        "uid": "448566cc-5dd3-4036-a5e5-1f216c227070",
-        "sale_price": "49,900원",
-        "link": "https://www.coupang.com/vp/products/51381682?itemId=2132198097&vendorItemId=74262490675&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8208/4c4f05e272407ca1b2f4003c8aea4f1966b8e36847a1d16c41aa0d7b3dd5.jpg"
+        "name": "라비킷 유아용 라이너루프트 커들업 옆잠 바디필로우 좌측형 화이트 71 x 34 cm",
+        "brand": "라비킷",
+        "uid": "3b4ff273-d4fc-4c08-898d-3cfdf4b85e72",
+        "sale_price": "65,000원",
+        "link": "https://www.coupang.com/vp/products/8219984127?itemId=23623920663&vendorItemId=90649480511&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/186616699369518-485bb422-956b-408e-8409-f072a7df8517.png"
     },
     {
         "category": "침구류",
-        "name": "에일린키즈 에코항균 DTP 애착 베개커버 2p 로미 40 x 60 cm",
-        "brand": "에일린키즈",
-        "uid": "6dbc758d-cf75-4fc7-96c2-484f6b7e6288",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/6283118904?itemId=12912002859&vendorItemId=80176805872&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13323660347105190-05358fd0-2987-4c30-acac-786591993eb2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 애니팜 순면 극세사 유아블랭킷 화이트 75 x 100 cm",
-        "brand": "쁘리엘르",
-        "uid": "0a41de0a-0de6-4bdd-b930-9ab5ada165df",
-        "sale_price": "13,900원",
-        "link": "https://www.coupang.com/vp/products/6747832400?itemId=5033201293&vendorItemId=72342997143&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13952142034677395-a5b8b25d-3cea-468c-98fc-3b7811bf606d.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "마롤로뜨 유아용 프린팅 면 방수 패드 싱싱올리브 S40 x 60 cm 1개",
-        "brand": "마롤로뜨",
-        "uid": "bc7e9baa-66e7-4b09-bb47-76eb4a98ced2",
-        "sale_price": "10,400원",
-        "link": "https://www.coupang.com/vp/products/7345621969?itemId=18890360546&vendorItemId=86018474874&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/05/19/17/3/4933f1e6-1a67-49c2-9e38-a72ebed62e3e.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "베이비베어 베어짱구 베개 핑크 28 x 22cm 1개",
-        "brand": "베이비베어",
-        "uid": "eee6333d-e452-4330-8b0d-9c2f46f6dee3",
-        "sale_price": "8,820원",
-        "link": "https://www.coupang.com/vp/products/1303710?itemId=5658928&vendorItemId=3007177521&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2016/04/01/3007177521/6c05aa21-81b7-4de3-bb89-9043dc364177.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "에시앙 신생아 태열 방지 유아동 베개 아이보리 40 x 25cm",
-        "brand": "에시앙",
-        "uid": "9f087b65-1b43-42cf-918a-f767c2867058",
-        "sale_price": "13,900원",
-        "link": "https://www.coupang.com/vp/products/1550836118?itemId=2653660424&vendorItemId=74618791886&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/03/22/15/3/9593277b-5198-4838-a18e-071ca8c97589.jpg"
+        "name": "시은데코 뽀로로베개 플라워가든 순면 유아베개 25x45 솜포함 블루",
+        "brand": "시은데코",
+        "uid": "4ade3f9a-9724-4c89-8ce1-e9fb830aa410",
+        "sale_price": "15,800원",
+        "link": "https://www.coupang.com/vp/products/72361520?itemId=241289988&vendorItemId=3594382347&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/964a/3715ed7b97d560996a9bed92bc516caed7e3a214c53bf7d87ad76259af2f.jpg"
     },
     {
         "category": "침구류",
@@ -1567,12 +1549,48 @@
     },
     {
         "category": "침구류",
+        "name": "에일린키즈 낮잠이불세트 일체형  낮잠이불 보관 가방 죠디",
+        "brand": "에일린키즈",
+        "uid": "448566cc-5dd3-4036-a5e5-1f216c227070",
+        "sale_price": "49,900원",
+        "link": "https://www.coupang.com/vp/products/51381682?itemId=2132198097&vendorItemId=74262490675&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8208/4c4f05e272407ca1b2f4003c8aea4f1966b8e36847a1d16c41aa0d7b3dd5.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 애니팜 순면 극세사 유아블랭킷 화이트 75 x 100 cm",
+        "brand": "쁘리엘르",
+        "uid": "0a41de0a-0de6-4bdd-b930-9ab5ada165df",
+        "sale_price": "13,900원",
+        "link": "https://www.coupang.com/vp/products/6747832400?itemId=5033201293&vendorItemId=72342997143&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13952142034677395-a5b8b25d-3cea-468c-98fc-3b7811bf606d.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "베이비베어 베어짱구 베개 핑크 28 x 22cm 1개",
+        "brand": "베이비베어",
+        "uid": "eee6333d-e452-4330-8b0d-9c2f46f6dee3",
+        "sale_price": "8,820원",
+        "link": "https://www.coupang.com/vp/products/1303710?itemId=5658928&vendorItemId=3007177521&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2016/04/01/3007177521/6c05aa21-81b7-4de3-bb89-9043dc364177.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "마롤로뜨 누빔 무지 씬 필로우 유아동 베개 아이보리 27 x 48 cm",
         "brand": "마롤로뜨",
         "uid": "ebcc5f63-c555-4022-81b0-62da77ac1e2f",
         "sale_price": "14,700원",
         "link": "https://www.coupang.com/vp/products/6203572062?itemId=12324464918&vendorItemId=79594501708&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/z2fotxzx/79dc1a5777be413e85163ae802a3df35.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "에시앙 신생아 태열 방지 유아동 베개 아이보리 40 x 25cm",
+        "brand": "에시앙",
+        "uid": "9f087b65-1b43-42cf-918a-f767c2867058",
+        "sale_price": "13,900원",
+        "link": "https://www.coupang.com/vp/products/1550836118?itemId=2653660424&vendorItemId=74618791886&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/03/22/15/3/9593277b-5198-4838-a18e-071ca8c97589.jpg"
     },
     {
         "category": "침구류",
@@ -1594,24 +1612,6 @@
     },
     {
         "category": "침구류",
-        "name": "메리투투 또리곰 다용도 어린이집 영유아낮잠이불 방수가방 오트밀 50 x 34 x 18 cm",
-        "brand": "메리투투",
-        "uid": "0948caa9-09f9-411a-8832-b0a9650e6ea0",
-        "sale_price": "25,000원",
-        "link": "https://www.coupang.com/vp/products/7554250985?itemId=19669110412&vendorItemId=86987674717&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/08/25/17/6/3647f804-6c23-40c3-865d-250f324a4e59.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아이자리 키즈케어 애착 낮잠이불세트 분리형 고잉카잉",
-        "brand": "아이자리",
-        "uid": "d4be9482-7540-421d-a618-7261c058d695",
-        "sale_price": "33,890원",
-        "link": "https://www.coupang.com/vp/products/173502871?itemId=12925568380&vendorItemId=80190113183&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/357701713431818-4f113590-f1d3-43a9-9aa2-c74696c372a6.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "밀로앤개비 유아용 애착 미니 베개커버  매쉬베개솜 세트 미니티티 공룡 하늘색 1개 50 x 30 cm",
         "brand": "밀로앤개비",
         "uid": "178b57eb-7f3c-4612-a357-5115e7cfe6c8",
@@ -1630,15 +1630,6 @@
     },
     {
         "category": "침구류",
-        "name": "베이비앤아이 유아용 소프트 누빔 자수 베개 고미 40 x 24 x 45 cm",
-        "brand": "베이비앤아이",
-        "uid": "589e3fa9-2985-44f4-b329-633820056fb6",
-        "sale_price": "19,800원",
-        "link": "https://www.coupang.com/vp/products/7153796043?itemId=17990643049&vendorItemId=85147217233&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/02/22/12/0/2e2bea0a-6a2a-442a-91c4-fffe3bad5447.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "아띠블랑 순면 와이드 아기베개 말랑베어 70 x 30 cm",
         "brand": "아띠블랑",
         "uid": "756af134-3990-488c-b921-49a11fb20f4d",
@@ -1648,48 +1639,21 @@
     },
     {
         "category": "침구류",
-        "name": "굿나잇 양면 생리방수패드 논슬립 기능성 순면 매트 침대 이불 매트리스 깔개 월경 초경 방수요 선물 XS size 35x45cm 해피플래닛 1개",
-        "brand": "굿나잇",
-        "uid": "c1b67ac9-5ebe-434c-bb82-fecc45a2c7c7",
-        "sale_price": "5,900원",
-        "link": "https://www.coupang.com/vp/products/8088099329?itemId=22832161398&vendorItemId=89866908506&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/dcbe/d0f70d5ac8385bb06ff0e79ef2f6c56475119df5a4c8afba634d7a8fed23.jpg"
+        "name": "베이비앤아이 유아용 소프트 누빔 자수 베개 고미 40 x 24 x 45 cm",
+        "brand": "베이비앤아이",
+        "uid": "589e3fa9-2985-44f4-b329-633820056fb6",
+        "sale_price": "19,800원",
+        "link": "https://www.coupang.com/vp/products/7153796043?itemId=17990643049&vendorItemId=85147217233&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/02/22/12/0/2e2bea0a-6a2a-442a-91c4-fffe3bad5447.jpg"
     },
     {
         "category": "침구류",
-        "name": "아띠블랑 유아용 순면 베개 디노월드 50 x 30 cm 1개",
-        "brand": "아띠블랑",
-        "uid": "386bcbf2-de35-40e3-af8d-fc5eb2d11dce",
-        "sale_price": "21,800원",
-        "link": "https://www.coupang.com/vp/products/8462804629?itemId=24483296146&vendorItemId=91496679517&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/svbwou3l/8c4adad941e54e269c656fa320d34fd6.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아이레빗 유아용 양면 극세사 블랭킷 곰자수 M90 x 70 cm",
-        "brand": "아이레빗",
-        "uid": "96a2e386-ef6c-41c3-840e-c9a8aecebd68",
-        "sale_price": "20,400원",
-        "link": "https://www.coupang.com/vp/products/8427829789?itemId=24379742351&vendorItemId=91394850992&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/1w7ehatw/9a83af3bf27547d08460c54d0ac71c7f.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "롤베이비 유아용 겨울 자수 극세사 블랭킷 리본 토끼 M70 x 90 cm",
-        "brand": "롤베이비",
-        "uid": "4258b061-ba70-4688-be7e-10f5eec850cb",
-        "sale_price": "34,800원",
-        "link": "https://www.coupang.com/vp/products/8491666137?itemId=24575679514&vendorItemId=91587555225&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ugmcqv0k/fa918a3bf12f47a99adf60cf33823e07.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아이자리 키즈케어 애착 낮잠이불세트 분리형 다롱다롱",
-        "brand": "아이자리",
-        "uid": "ef005918-7379-49f3-94fb-10c6e7ffd024",
-        "sale_price": "34,900원",
-        "link": "https://www.coupang.com/vp/products/173502871?itemId=2185535300&vendorItemId=70183550644&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/25161794202507-9dea501e-6780-47fc-bf91-8cbc93512c33.jpg"
+        "name": "유아용 짱구 베개 베이지 30 x 21 x 4 cm 1개",
+        "brand": "유아용",
+        "uid": "86a8cfb0-1a12-4c75-8ccd-241e34dd097b",
+        "sale_price": "6,000원",
+        "link": "https://www.coupang.com/vp/products/7606286770?itemId=20133576851&vendorItemId=87227479564&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/09/18/18/5/21b1837c-7bd8-42c5-9fd0-582a5b3052a3.jpg"
     },
     {
         "category": "침구류",
@@ -1702,12 +1666,30 @@
     },
     {
         "category": "침구류",
-        "name": "투토츠 유아용 사계절 카시트 목베개 해피독블루 1개",
-        "brand": "투토츠",
-        "uid": "64d3a579-4117-44c6-a0a9-57874cb1b644",
-        "sale_price": "18,800원",
-        "link": "https://www.coupang.com/vp/products/7276461835?itemId=18568810057&vendorItemId=85706035532&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/jvep6tyo/cbb7cc7321b2480a85568c54aaf251a6.jpg"
+        "name": "아띠블랑 유아용 순면 베개 디노월드 50 x 30 cm 1개",
+        "brand": "아띠블랑",
+        "uid": "386bcbf2-de35-40e3-af8d-fc5eb2d11dce",
+        "sale_price": "21,800원",
+        "link": "https://www.coupang.com/vp/products/8462804629?itemId=24483296146&vendorItemId=91496679517&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/svbwou3l/8c4adad941e54e269c656fa320d34fd6.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아이자리 키즈케어 애착 낮잠이불세트 분리형 다롱다롱",
+        "brand": "아이자리",
+        "uid": "ef005918-7379-49f3-94fb-10c6e7ffd024",
+        "sale_price": "34,900원",
+        "link": "https://www.coupang.com/vp/products/173502871?itemId=2185535300&vendorItemId=70183550644&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/25161794202507-9dea501e-6780-47fc-bf91-8cbc93512c33.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "굿나잇 양면 생리방수패드 논슬립 기능성 순면 매트 침대 이불 매트리스 깔개 월경 초경 방수요 선물 XS size 35x45cm 해피플래닛 1개",
+        "brand": "굿나잇",
+        "uid": "c1b67ac9-5ebe-434c-bb82-fecc45a2c7c7",
+        "sale_price": "5,900원",
+        "link": "https://www.coupang.com/vp/products/8088099329?itemId=22832161398&vendorItemId=89866908506&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/dcbe/d0f70d5ac8385bb06ff0e79ef2f6c56475119df5a4c8afba634d7a8fed23.jpg"
     },
     {
         "category": "침구류",
@@ -1729,21 +1711,30 @@
     },
     {
         "category": "침구류",
-        "name": "보드래 순면 유아 낮잠이불 뛰뛰빵빵 S110 x 130",
-        "brand": "보드래",
-        "uid": "34adcf2f-2047-49c5-a265-91109394dd66",
-        "sale_price": "35,120원",
-        "link": "https://www.coupang.com/vp/products/14386697?itemId=59513998&vendorItemId=3093179105&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/02/07/18/5/01d3623a-cfb5-473c-b586-26a97b82b771.jpg"
+        "name": "아이레빗 유아용 양면 극세사 블랭킷 곰자수 M90 x 70 cm",
+        "brand": "아이레빗",
+        "uid": "96a2e386-ef6c-41c3-840e-c9a8aecebd68",
+        "sale_price": "20,400원",
+        "link": "https://www.coupang.com/vp/products/8427829789?itemId=24379742351&vendorItemId=91394850992&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/1w7ehatw/9a83af3bf27547d08460c54d0ac71c7f.jpg"
     },
     {
         "category": "침구류",
-        "name": "도노도노 뱀부 코튼 아기 블랭킷 플라워힐스베이지",
-        "brand": "도노도노",
-        "uid": "5135e7cc-8bb4-4dde-aa1a-34a692d55cf4",
-        "sale_price": "21,990원",
-        "link": "https://www.coupang.com/vp/products/5166127340?itemId=24631499246&vendorItemId=91206932527&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/1l5ayd52/15bb432ce122450db0e22ba8adf94248.jpg"
+        "name": "롤베이비 유아용 겨울 자수 극세사 블랭킷 리본 토끼 M70 x 90 cm",
+        "brand": "롤베이비",
+        "uid": "4258b061-ba70-4688-be7e-10f5eec850cb",
+        "sale_price": "34,800원",
+        "link": "https://www.coupang.com/vp/products/8491666137?itemId=24575679514&vendorItemId=91587555225&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ugmcqv0k/fa918a3bf12f47a99adf60cf33823e07.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "투토츠 유아용 사계절 카시트 목베개 해피독블루 1개",
+        "brand": "투토츠",
+        "uid": "64d3a579-4117-44c6-a0a9-57874cb1b644",
+        "sale_price": "18,800원",
+        "link": "https://www.coupang.com/vp/products/7276461835?itemId=18568810057&vendorItemId=85706035532&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/jvep6tyo/cbb7cc7321b2480a85568c54aaf251a6.jpg"
     },
     {
         "category": "침구류",
@@ -1756,12 +1747,30 @@
     },
     {
         "category": "침구류",
-        "name": "도노도노 라이트 블랭킷 도노래빗 106 x 106 cm",
+        "name": "도노도노 뱀부 코튼 아기 블랭킷 플라워힐스베이지",
         "brand": "도노도노",
-        "uid": "97a2f0f7-9c53-4d80-8e4f-ca6cbd457d56",
-        "sale_price": "17,760원",
-        "link": "https://www.coupang.com/vp/products/23215594?itemId=15405298442&vendorItemId=82625191715&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2261577259780362-18a604f5-b7f4-4667-9478-f816b610b652.jpg"
+        "uid": "5135e7cc-8bb4-4dde-aa1a-34a692d55cf4",
+        "sale_price": "21,990원",
+        "link": "https://www.coupang.com/vp/products/5166127340?itemId=24631499246&vendorItemId=91206932527&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/1l5ayd52/15bb432ce122450db0e22ba8adf94248.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "보드래 순면 유아 낮잠이불 뛰뛰빵빵 S110 x 130",
+        "brand": "보드래",
+        "uid": "34adcf2f-2047-49c5-a265-91109394dd66",
+        "sale_price": "35,120원",
+        "link": "https://www.coupang.com/vp/products/14386697?itemId=59513998&vendorItemId=3093179105&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/02/07/18/5/01d3623a-cfb5-473c-b586-26a97b82b771.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "밀로앤개비 유아용 동물 미니 베개 커버 허그 블라썸 라라 50 x 30 cm",
+        "brand": "밀로앤개비",
+        "uid": "9f89c69e-a6bc-48cb-851a-4bb0d0acbaeb",
+        "sale_price": "18,850원",
+        "link": "https://www.coupang.com/vp/products/7915075442?itemId=24420859562&vendorItemId=91435261100&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/07/15/9/89e4c85b-107c-4df9-88e7-aea209a28d10.jpg"
     },
     {
         "category": "침구류",
@@ -1774,30 +1783,21 @@
     },
     {
         "category": "침구류",
-        "name": "투토츠 유아용 카시트 목베개 판다바오 블루 1개",
-        "brand": "투토츠",
-        "uid": "69f17913-dc68-4ef1-81e3-72a8e8358430",
-        "sale_price": "18,800원",
-        "link": "https://www.coupang.com/vp/products/7276461835?itemId=24490143843&vendorItemId=91503408447&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/2aggvt1q/5ab7381b1b364158b2a42e54d807bd06.jpg"
+        "name": "도노도노 라이트 블랭킷 도노래빗 106 x 106 cm",
+        "brand": "도노도노",
+        "uid": "97a2f0f7-9c53-4d80-8e4f-ca6cbd457d56",
+        "sale_price": "17,760원",
+        "link": "https://www.coupang.com/vp/products/23215594?itemId=15405298442&vendorItemId=82625191715&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2261577259780362-18a604f5-b7f4-4667-9478-f816b610b652.jpg"
     },
     {
         "category": "침구류",
-        "name": "마롤로뜨 유아 말랑베개 신생아 프린팅 짱구베개 해피곰프린팅 말랑베개 34 x 25cm 1개",
-        "brand": "마롤로뜨",
-        "uid": "ece9deae-661e-4201-9f12-e67233f59ac0",
-        "sale_price": "17,000원",
-        "link": "https://www.coupang.com/vp/products/7136618188?itemId=17908506545&vendorItemId=87537068216&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b421/1e44979d11d58a78a6a04a8241ac3c72d38b27c9a054ed943251e8c7bf67.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "헬로키티 귀여운 숙면 캐릭터 베개 바리스타 3종 중 택1 솜포함 핑크바리스타 30x70cm",
-        "brand": "헬로키티",
-        "uid": "e47f7a9d-e597-481a-af48-992fca102403",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/5299936749?itemId=5225933283&vendorItemId=72535017669&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3b9a/b771310b9cd40cd26a11b3f15538bab21c76fa85e73e0c65293d74df9f62.jpg"
+        "name": "롤베이비 유아 착한 러그 매트 연그레이 105 x 105 cm 1개",
+        "brand": "롤베이비",
+        "uid": "0a4bb88d-4c03-4e89-9aac-29f2e696ae9f",
+        "sale_price": "42,740원",
+        "link": "https://www.coupang.com/vp/products/7149036006?itemId=17969531422&vendorItemId=85126792570&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/sltwgn0i/59a0dcc70dc04130accb5aee7a9de5b0.jpg"
     },
     {
         "category": "침구류",
@@ -1819,15 +1819,6 @@
     },
     {
         "category": "침구류",
-        "name": "제이유니 슈슈 화이트 49328",
-        "brand": "제이유니",
-        "uid": "39e74f32-3711-4f80-b9b1-ca5059b4456a",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/30853040?itemId=116796457&vendorItemId=3235372297&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2017/08/11/16/4/f7728bb5-8634-4565-b58c-f1414850f050.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "라베베 썸머 메쉬 스와들 M 뱀부라이트 여름속싸개",
         "brand": "라베베",
         "uid": "9021d457-8f85-48be-97e5-2ebfbeeb3a3e",
@@ -1837,30 +1828,39 @@
     },
     {
         "category": "침구류",
-        "name": "밀로앤개비 유아용 동물 미니 베개 커버 허그 블라썸 라라 50 x 30 cm",
-        "brand": "밀로앤개비",
-        "uid": "9f89c69e-a6bc-48cb-851a-4bb0d0acbaeb",
-        "sale_price": "18,850원",
-        "link": "https://www.coupang.com/vp/products/7915075442?itemId=24420859562&vendorItemId=91435261100&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/07/15/9/89e4c85b-107c-4df9-88e7-aea209a28d10.jpg"
+        "name": "마롤로뜨 유아 말랑베개 신생아 프린팅 짱구베개 해피곰프린팅 말랑베개 34 x 25cm 1개",
+        "brand": "마롤로뜨",
+        "uid": "ece9deae-661e-4201-9f12-e67233f59ac0",
+        "sale_price": "17,000원",
+        "link": "https://www.coupang.com/vp/products/7136618188?itemId=17908506545&vendorItemId=87537068216&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b421/1e44979d11d58a78a6a04a8241ac3c72d38b27c9a054ed943251e8c7bf67.jpg"
     },
     {
         "category": "침구류",
-        "name": "롤베이비 유아 착한 러그 매트 연그레이 105 x 105 cm 1개",
-        "brand": "롤베이비",
-        "uid": "0a4bb88d-4c03-4e89-9aac-29f2e696ae9f",
-        "sale_price": "42,740원",
-        "link": "https://www.coupang.com/vp/products/7149036006?itemId=17969531422&vendorItemId=85126792570&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/sltwgn0i/59a0dcc70dc04130accb5aee7a9de5b0.jpg"
+        "name": "투토츠 유아용 카시트 목베개 판다바오 블루 1개",
+        "brand": "투토츠",
+        "uid": "69f17913-dc68-4ef1-81e3-72a8e8358430",
+        "sale_price": "18,800원",
+        "link": "https://www.coupang.com/vp/products/7276461835?itemId=24490143843&vendorItemId=91503408447&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/2aggvt1q/5ab7381b1b364158b2a42e54d807bd06.jpg"
     },
     {
         "category": "침구류",
-        "name": "제이유니 인견 주니어베개 로티카",
-        "brand": "제이유니",
-        "uid": "0cec1369-6400-43c5-acc7-135c7954381d",
+        "name": "헬로키티 귀여운 숙면 캐릭터 베개 바리스타 3종 중 택1 솜포함 핑크바리스타 30x70cm",
+        "brand": "헬로키티",
+        "uid": "e47f7a9d-e597-481a-af48-992fca102403",
         "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/7792313509?itemId=21084721721&vendorItemId=88146814051&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d1bd/fbddd2be32969703efec67fbc9f4adc34863dd32c7881f667b0f3b3efc8e.jpg"
+        "link": "https://www.coupang.com/vp/products/5299936749?itemId=5225933283&vendorItemId=72535017669&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3b9a/b771310b9cd40cd26a11b3f15538bab21c76fa85e73e0c65293d74df9f62.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "제이유니 슈슈 화이트 49328",
+        "brand": "제이유니",
+        "uid": "39e74f32-3711-4f80-b9b1-ca5059b4456a",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/30853040?itemId=116796457&vendorItemId=3235372297&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2017/08/11/16/4/f7728bb5-8634-4565-b58c-f1414850f050.jpg"
     },
     {
         "category": "침구류",
@@ -1882,6 +1882,24 @@
     },
     {
         "category": "침구류",
+        "name": "제이유니 인견 주니어베개 로티카",
+        "brand": "제이유니",
+        "uid": "0cec1369-6400-43c5-acc7-135c7954381d",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/7792313509?itemId=21084721721&vendorItemId=88146814051&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d1bd/fbddd2be32969703efec67fbc9f4adc34863dd32c7881f667b0f3b3efc8e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "메르베 신생아 코튼메쉬 달잠 스와들 수트 베이직썸머 리뉴얼 달잠슈트 태열 속싸개",
+        "brand": "메르베",
+        "uid": "263276c8-672b-48c9-b921-5cb13a249af8",
+        "sale_price": "32,900원",
+        "link": "https://www.coupang.com/vp/products/7955721022?itemId=21980147956&vendorItemId=89027806979&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/16cd/45a74c477e2109338c462eeb0584e4dc403097172c071244a6c126263b81.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "마롤로뜨 유아용 프린팅 낮은 짱구베개 캐롯로뜨 34x23x6cm 1개",
         "brand": "마롤로뜨",
         "uid": "f84f05f4-d0eb-4094-9714-20b8cd20c1fe",
@@ -1900,15 +1918,6 @@
     },
     {
         "category": "침구류",
-        "name": "남달라 둥실 누빔 원형러그 신생아 아기 놀이매트 순면 100수 미끄럼방지 1개 지름100 무지프릴",
-        "brand": "남달라",
-        "uid": "57ef7dd7-a9c9-4c0c-8b6b-4862f868e415",
-        "sale_price": "49,800원",
-        "link": "https://www.coupang.com/vp/products/8457488328?itemId=24463452228&vendorItemId=91454275743&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cda3/04ed52dcbd32b42c221a28fb9e96c2a1c4d71a364b4e1841e5625c11de1e.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "쉬즈홈 DTP 마이크로 유아동 베개 솜 차차 핑크 30 x 50 cm",
         "brand": "쉬즈홈",
         "uid": "032f23e0-0605-4e1e-9fb4-1d47643d8831",
@@ -1918,12 +1927,12 @@
     },
     {
         "category": "침구류",
-        "name": "메르베 신생아 코튼메쉬 달잠 스와들 수트 베이직썸머 리뉴얼 달잠슈트 태열 속싸개",
-        "brand": "메르베",
-        "uid": "263276c8-672b-48c9-b921-5cb13a249af8",
-        "sale_price": "32,900원",
-        "link": "https://www.coupang.com/vp/products/7955721022?itemId=21980147956&vendorItemId=89027806979&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/16cd/45a74c477e2109338c462eeb0584e4dc403097172c071244a6c126263b81.jpg"
+        "name": "남달라 둥실 누빔 원형러그 신생아 아기 놀이매트 순면 100수 미끄럼방지 1개 지름100 무지프릴",
+        "brand": "남달라",
+        "uid": "57ef7dd7-a9c9-4c0c-8b6b-4862f868e415",
+        "sale_price": "49,800원",
+        "link": "https://www.coupang.com/vp/products/8457488328?itemId=24463452228&vendorItemId=91454275743&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cda3/04ed52dcbd32b42c221a28fb9e96c2a1c4d71a364b4e1841e5625c11de1e.jpg"
     },
     {
         "category": "침구류",
@@ -1933,6 +1942,24 @@
         "sale_price": "16,900원",
         "link": "https://www.coupang.com/vp/products/6858761439?itemId=16367282810&vendorItemId=83558833257&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3489533493153317-ca4eaa2a-9a6f-4cac-b904-3a1b6367d1a2.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "오가닉붐 착한 유기농 문스타 좁쌀 베개 블루 1개",
+        "brand": "오가닉붐",
+        "uid": "2e91fc70-d509-41dc-be35-0b65167a52cd",
+        "sale_price": "15,680원",
+        "link": "https://www.coupang.com/vp/products/68176626?itemId=227591801&vendorItemId=3554625867&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/03/02/13/1/31b4e0b6-2bd4-489b-b326-9f7ab64f9fec.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "아솜느 유아용 순면 100수 누빔 패드 베이직 아이보리 M80 x 110 cm 1개",
+        "brand": "아솜느",
+        "uid": "714b9873-098b-4b3f-bfe9-4956545b2aae",
+        "sale_price": "32,900원",
+        "link": "https://www.coupang.com/vp/products/6811979378?itemId=16117858112&vendorItemId=83314745395&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ei3uoghr/b83d01d1749d4be99af5bb28bdc63e63.jpg"
     },
     {
         "category": "침구류",
@@ -1963,33 +1990,6 @@
     },
     {
         "category": "침구류",
-        "name": "아솜느 유아용 순면 100수 누빔 패드 베이직 아이보리 M80 x 110 cm 1개",
-        "brand": "아솜느",
-        "uid": "714b9873-098b-4b3f-bfe9-4956545b2aae",
-        "sale_price": "32,900원",
-        "link": "https://www.coupang.com/vp/products/6811979378?itemId=16117858112&vendorItemId=83314745395&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ei3uoghr/b83d01d1749d4be99af5bb28bdc63e63.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "오가닉붐 착한 유기농 문스타 좁쌀 베개 블루 1개",
-        "brand": "오가닉붐",
-        "uid": "2e91fc70-d509-41dc-be35-0b65167a52cd",
-        "sale_price": "15,680원",
-        "link": "https://www.coupang.com/vp/products/68176626?itemId=227591801&vendorItemId=3554625867&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/03/02/13/1/31b4e0b6-2bd4-489b-b326-9f7ab64f9fec.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "돗투돗 사계절 30수 씬필로우 유아 신생아 돌 아기 베개 동물친구들 낮은베개 베이비바니  씬필로우",
-        "brand": "돗투돗",
-        "uid": "37905038-c64a-4aa6-bc7a-7da87f3c32db",
-        "sale_price": "14,560원",
-        "link": "https://www.coupang.com/vp/products/6957197466?itemId=16923361084&vendorItemId=87537067071&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cf9d/7d6e9a30a53463242bc15e4a79e03f0c1939ec83c785e1ab655833e78aa0.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "아리베베 코코 순면 자수 낮잠이불세트 분리형 곰돌이 이불90 x 110 cm 패드75 x 130 cm 베개45 x 25 cm",
         "brand": "아리베베",
         "uid": "4aea3baf-842d-444a-b1ea-11b7ce221315",
@@ -2008,30 +2008,12 @@
     },
     {
         "category": "침구류",
-        "name": "헬로미니미 신생아 아기 겉싸개 사계절 곰누빔",
-        "brand": "헬로미니미",
-        "uid": "d4b6e64b-0044-4348-b476-8491af75c7a2",
-        "sale_price": "25,900원",
-        "link": "https://www.coupang.com/vp/products/7561445074?itemId=19921692331&vendorItemId=91748137658&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c361/8a6f05097718c92c10d60e1b6aa513b03f7111a5d63cd39a5cdb95236148.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "마롤로뜨 돗투돗 유아용 소프트 에어 베개 바니베어 25 x 45 cm",
-        "brand": "마롤로뜨",
-        "uid": "f237a868-ef6b-49a0-9056-92142bcb3df2",
-        "sale_price": "22,700원",
-        "link": "https://www.coupang.com/vp/products/6083190411?itemId=11288268196&vendorItemId=78565014904&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/s41ofazs/3b596e099d5a4d47a42f23d777a47d0b.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "그린베베 국내생산 신생아 여름용 스몰도트 쟈가드 속싸개",
-        "brand": "그린베베",
-        "uid": "4ed40f5a-f0db-402f-a618-41d30f388ea9",
-        "sale_price": "7,650원",
-        "link": "https://www.coupang.com/vp/products/7403655430?itemId=19167936055&vendorItemId=86286237556&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1b27/25a9df1a3d0bc7576b2a756cc828be6c2f6fb6ef8c1561913b575084e370.jpg"
+        "name": "돗투돗 사계절 30수 씬필로우 유아 신생아 돌 아기 베개 동물친구들 낮은베개 베이비바니  씬필로우",
+        "brand": "돗투돗",
+        "uid": "37905038-c64a-4aa6-bc7a-7da87f3c32db",
+        "sale_price": "14,560원",
+        "link": "https://www.coupang.com/vp/products/6957197466?itemId=16923361084&vendorItemId=87537067071&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cf9d/7d6e9a30a53463242bc15e4a79e03f0c1939ec83c785e1ab655833e78aa0.jpg"
     },
     {
         "category": "침구류",
@@ -2044,57 +2026,12 @@
     },
     {
         "category": "침구류",
-        "name": "꿈꾸는두부 신생아 납작베개 매쉬양면 20 x 40 cm",
-        "brand": "꿈꾸는두부",
-        "uid": "576bab53-ae06-422e-9e64-476f1b70f7fb",
-        "sale_price": "14,320원",
-        "link": "https://www.coupang.com/vp/products/5103057500?itemId=6953243593&vendorItemId=74245677574&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/990376391146296-65848917-b426-4ba7-8480-658474285072.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "말랑하니 아기 방수 패드 내추럴아이보리 미듐 1개",
-        "brand": "말랑하니",
-        "uid": "80c5fc97-ac5d-4330-a2a9-e295a90c686d",
-        "sale_price": "16,800원",
-        "link": "https://www.coupang.com/vp/products/2280469433?itemId=3916356108&vendorItemId=71900900792&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/10/22/12/5/fca86fe5-8707-44ed-8d86-c84201fc24de.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "헬로미니미 낮잠이불 방수 가방 도트 토끼",
-        "brand": "헬로미니미",
-        "uid": "3eb54637-157c-4505-8b9f-a744233deea0",
-        "sale_price": "18,900원",
-        "link": "https://www.coupang.com/vp/products/8291719311?itemId=21622237994&vendorItemId=88673285232&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bca0/9fc8b96cd74a30324134ad7d7624c39be29bfa11da7871c759c6966f83bc.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쁘리엘르 유아용 에디 순면 롱베개 솜포함 베이지 30 x 70 cm",
-        "brand": "쁘리엘르",
-        "uid": "0c278cf8-a01e-4f7f-a2a0-4e2596946b8a",
-        "sale_price": "24,900원",
-        "link": "https://www.coupang.com/vp/products/8273563768?itemId=23846905941&vendorItemId=90870345692&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ppxk0uhi/549bb362f632418a870c1b92589789d8.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "신생아 무지 면스판 속싸개 워싱무형광면100",
-        "brand": "신생아",
-        "uid": "a8a313df-0e20-44d0-a267-33665fe0ce52",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/83437414?itemId=264698020&vendorItemId=3642059681&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/490f/f202bfc2391db14f96e7854afea0a30c225e5f6d0a41331915639537ae8f.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "투토츠 트리플 에어 거즈 블랭킷 크림바닐라 130 x 90 cm",
-        "brand": "투토츠",
-        "uid": "1e115044-3717-45df-b21e-7465cc39e417",
-        "sale_price": "18,800원",
-        "link": "https://www.coupang.com/vp/products/5614683616?itemId=9099124250&vendorItemId=76385315357&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/w5w1ylxu/94f970ddea5648e5bafc563f53601d8b.jpg"
+        "name": "마롤로뜨 돗투돗 유아용 소프트 에어 베개 바니베어 25 x 45 cm",
+        "brand": "마롤로뜨",
+        "uid": "f237a868-ef6b-49a0-9056-92142bcb3df2",
+        "sale_price": "22,700원",
+        "link": "https://www.coupang.com/vp/products/6083190411?itemId=11288268196&vendorItemId=78565014904&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/s41ofazs/3b596e099d5a4d47a42f23d777a47d0b.jpg"
     },
     {
         "category": "침구류",
@@ -2107,6 +2044,51 @@
     },
     {
         "category": "침구류",
+        "name": "헬로미니미 신생아 아기 겉싸개 사계절 곰누빔",
+        "brand": "헬로미니미",
+        "uid": "d4b6e64b-0044-4348-b476-8491af75c7a2",
+        "sale_price": "25,900원",
+        "link": "https://www.coupang.com/vp/products/7561445074?itemId=19921692331&vendorItemId=91748137658&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c361/8a6f05097718c92c10d60e1b6aa513b03f7111a5d63cd39a5cdb95236148.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "말랑하니 아기 방수 패드 내추럴아이보리 미듐 1개",
+        "brand": "말랑하니",
+        "uid": "80c5fc97-ac5d-4330-a2a9-e295a90c686d",
+        "sale_price": "16,800원",
+        "link": "https://www.coupang.com/vp/products/2280469433?itemId=3916356108&vendorItemId=71900900792&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/10/22/12/5/fca86fe5-8707-44ed-8d86-c84201fc24de.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쁘리엘르 유아용 에디 순면 롱베개 솜포함 베이지 30 x 70 cm",
+        "brand": "쁘리엘르",
+        "uid": "0c278cf8-a01e-4f7f-a2a0-4e2596946b8a",
+        "sale_price": "24,900원",
+        "link": "https://www.coupang.com/vp/products/8273563768?itemId=23846905941&vendorItemId=90870345692&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ppxk0uhi/549bb362f632418a870c1b92589789d8.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "그린베베 국내생산 신생아 여름용 스몰도트 쟈가드 속싸개",
+        "brand": "그린베베",
+        "uid": "4ed40f5a-f0db-402f-a618-41d30f388ea9",
+        "sale_price": "7,650원",
+        "link": "https://www.coupang.com/vp/products/7403655430?itemId=19167936055&vendorItemId=86286237556&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1b27/25a9df1a3d0bc7576b2a756cc828be6c2f6fb6ef8c1561913b575084e370.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "꿈꾸는두부 신생아 납작베개 매쉬양면 20 x 40 cm",
+        "brand": "꿈꾸는두부",
+        "uid": "576bab53-ae06-422e-9e64-476f1b70f7fb",
+        "sale_price": "14,320원",
+        "link": "https://www.coupang.com/vp/products/5103057500?itemId=6953243593&vendorItemId=74245677574&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/990376391146296-65848917-b426-4ba7-8480-658474285072.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "비비엔다 유아용 모달 극세사 블랭킷 웜옐로우 M100 x 70 cm",
         "brand": "비비엔다",
         "uid": "dbae8808-a148-44a4-b8be-6b460c527531",
@@ -2116,21 +2098,39 @@
     },
     {
         "category": "침구류",
+        "name": "헬로미니미 낮잠이불 방수 가방 도트 토끼",
+        "brand": "헬로미니미",
+        "uid": "3eb54637-157c-4505-8b9f-a744233deea0",
+        "sale_price": "18,900원",
+        "link": "https://www.coupang.com/vp/products/8291719311?itemId=21622237994&vendorItemId=88673285232&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bca0/9fc8b96cd74a30324134ad7d7624c39be29bfa11da7871c759c6966f83bc.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "돗투돗 쿨 패드 리얼돗꼼 M85cm x 50cm x 100mm 1개",
+        "brand": "돗투돗",
+        "uid": "a2ecda7f-d75e-498d-a282-98c03cbb2b9c",
+        "sale_price": "25,300원",
+        "link": "https://www.coupang.com/vp/products/6259794793?itemId=12738942182&vendorItemId=80005352166&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/12/28/14/9/5bce2e74-2da6-432b-8e46-c07e6c715188.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "투토츠 트리플 에어 거즈 블랭킷 크림바닐라 130 x 90 cm",
+        "brand": "투토츠",
+        "uid": "1e115044-3717-45df-b21e-7465cc39e417",
+        "sale_price": "18,800원",
+        "link": "https://www.coupang.com/vp/products/5614683616?itemId=9099124250&vendorItemId=76385315357&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/w5w1ylxu/94f970ddea5648e5bafc563f53601d8b.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "불로홈 유아 아기 듀라론 인견 순면 줄누빔 100수 오가닉 땀 베개 유아27x40cm 듀라론큐트러브",
         "brand": "불로홈",
         "uid": "a55917be-bb78-4cff-a668-ddc5bfe6c07f",
         "sale_price": "9,000원",
         "link": "https://www.coupang.com/vp/products/8378902201?itemId=24211881969&vendorItemId=91229258049&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8ce3/0e1120f55d4eb458311ba6210dfaa20c85ca00a1d56b77327283e3556160.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "라비킷 라이너루프트필로우 아기 두상베개 아기짱구베개 전용 캐릭터 커버 토끼핑크버니 31 x 23 x 05 cm 1개",
-        "brand": "라비킷",
-        "uid": "9d6898c7-0647-4fcc-bb62-84fbc30782e0",
-        "sale_price": "16,900원",
-        "link": "https://www.coupang.com/vp/products/7312610560?itemId=18737230287&vendorItemId=85869606253&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bjjgtmse/dc3c51caef0a44449c6f9e7e1aad2326.jpg"
     },
     {
         "category": "침구류",
@@ -2161,30 +2161,21 @@
     },
     {
         "category": "침구류",
+        "name": "신생아 무지 면스판 속싸개 워싱무형광면100",
+        "brand": "신생아",
+        "uid": "a8a313df-0e20-44d0-a267-33665fe0ce52",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/83437414?itemId=264698020&vendorItemId=3642059681&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/490f/f202bfc2391db14f96e7854afea0a30c225e5f6d0a41331915639537ae8f.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "마롤로뜨 돗투돗 뽀글이 신생아 쿨베개 체크꼼바니 ONE SIZE25 x 45 cm",
         "brand": "마롤로뜨",
         "uid": "59de61e0-0ee3-4adf-8715-88b55afbc90a",
         "sale_price": "18,700원",
         "link": "https://www.coupang.com/vp/products/6550131435?itemId=14619440114&vendorItemId=86627910357&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/19/17/8/ea9d1392-f18d-440c-8d91-ba69f75c6138.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "모던하우스 보들보들 뱀부100 거즈블랑켓 120x120 2P 세트 토끼하트",
-        "brand": "모던하우스",
-        "uid": "9ade397a-2aa6-4fc6-bbdb-793e09f1d3c2",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/7210379175?itemId=21760733030&vendorItemId=88949213427&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b003/28f284777ebd35b5182219fcfeaf3a89666bfe8906ad458e95c0766d6062.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "코니아일랜드 일체형 낮잠이불 방수가방 코코애니멀 815 x 425 x 11 cm",
-        "brand": "코니아일랜드",
-        "uid": "6c9e2ef5-a9b0-41d3-ae60-5466b1005c50",
-        "sale_price": "9,430원",
-        "link": "https://www.coupang.com/vp/products/1291778939?itemId=2302955122&vendorItemId=70299859116&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/02/19/12/4/68c13324-35ce-4601-9702-256718fe0fed.jpg"
     },
     {
         "category": "침구류",
@@ -2197,12 +2188,12 @@
     },
     {
         "category": "침구류",
-        "name": "돗투돗 쿨 패드 리얼돗꼼 M85cm x 50cm x 100mm 1개",
-        "brand": "돗투돗",
-        "uid": "a2ecda7f-d75e-498d-a282-98c03cbb2b9c",
-        "sale_price": "25,300원",
-        "link": "https://www.coupang.com/vp/products/6259794793?itemId=12738942182&vendorItemId=80005352166&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/12/28/14/9/5bce2e74-2da6-432b-8e46-c07e6c715188.jpg"
+        "name": "프랑떼 메모리폼 워셔블 유아용 경추 베개 그레이 390 x 220 x 70 mm",
+        "brand": "프랑떼",
+        "uid": "9fd175b1-641c-4ae5-857d-193493b1c999",
+        "sale_price": "29,800원",
+        "link": "https://www.coupang.com/vp/products/2234701352?itemId=3814041913&vendorItemId=71798935073&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/09/10/11/5/35125cb7-ba20-4733-8d88-5308c84ccbea.jpg"
     },
     {
         "category": "침구류",
@@ -2215,48 +2206,12 @@
     },
     {
         "category": "침구류",
-        "name": "Miracle baby 유아 방수패드 기저귀매트 11 1세트 75100cm100150cm 토끼",
-        "brand": "Miracle",
-        "uid": "49b64fd7-5961-4c11-bec6-f395c279b8a8",
-        "sale_price": "25,550원",
-        "link": "https://www.coupang.com/vp/products/8439073047?itemId=24409318352&vendorItemId=91423988781&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8d46/1b16d038d8a53230bf71f53aec459bc071cf2c3db5eca89741ef034c46cb.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "프랑떼 메모리폼 워셔블 유아용 경추 베개 그레이 390 x 220 x 70 mm",
-        "brand": "프랑떼",
-        "uid": "9fd175b1-641c-4ae5-857d-193493b1c999",
-        "sale_price": "29,800원",
-        "link": "https://www.coupang.com/vp/products/2234701352?itemId=3814041913&vendorItemId=71798935073&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/09/10/11/5/35125cb7-ba20-4733-8d88-5308c84ccbea.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "유아용 돗투돗 30수 동물친구들 프린팅 짱구베개 해피돗꼼 1개 ONE SIZE23 x 34 cm",
-        "brand": "유아용",
-        "uid": "c9092830-2f4e-411d-84a4-24d01e4ce11a",
-        "sale_price": "17,700원",
-        "link": "https://www.coupang.com/vp/products/6802102285?itemId=16059765518&vendorItemId=86535294848&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/10/16/1/a64f026b-3a2a-4a8f-a5f0-efb0307edd9e.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쉬즈홈 버니 DTP 마이크로 베개 버니 핑크 30 x 50 cm",
-        "brand": "쉬즈홈",
-        "uid": "96359134-26f8-4e52-ad54-6f41c78ea582",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240434&vendorItemId=3846163223&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/786d/aaf3269b60f9e89681bb06b56cbd9d2f0ffe3e07cf6890bbfae3aed2a7b6.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "지오필로우 아기 베게 마린베어 small 1개",
-        "brand": "지오필로우",
-        "uid": "163726b8-e926-492e-b049-ca41cc13b50b",
-        "sale_price": "45,500원",
-        "link": "https://www.coupang.com/vp/products/8296019834?itemId=24086865653&vendorItemId=91106370790&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2fe8/aa6517876038c375b17ca8bcb3823f05e26cd4797410c1adb52de8a4a007.jpg"
+        "name": "라비킷 라이너루프트필로우 아기 두상베개 아기짱구베개 전용 캐릭터 커버 토끼핑크버니 31 x 23 x 05 cm 1개",
+        "brand": "라비킷",
+        "uid": "9d6898c7-0647-4fcc-bb62-84fbc30782e0",
+        "sale_price": "16,900원",
+        "link": "https://www.coupang.com/vp/products/7312610560?itemId=18737230287&vendorItemId=85869606253&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bjjgtmse/dc3c51caef0a44449c6f9e7e1aad2326.jpg"
     },
     {
         "category": "침구류",
@@ -2269,6 +2224,33 @@
     },
     {
         "category": "침구류",
+        "name": "모던하우스 보들보들 뱀부100 거즈블랑켓 120x120 2P 세트 토끼하트",
+        "brand": "모던하우스",
+        "uid": "9ade397a-2aa6-4fc6-bbdb-793e09f1d3c2",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/7210379175?itemId=21760733030&vendorItemId=88949213427&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b003/28f284777ebd35b5182219fcfeaf3a89666bfe8906ad458e95c0766d6062.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "유아용 돗투돗 30수 동물친구들 프린팅 짱구베개 해피돗꼼 1개 ONE SIZE23 x 34 cm",
+        "brand": "유아용",
+        "uid": "c9092830-2f4e-411d-84a4-24d01e4ce11a",
+        "sale_price": "17,700원",
+        "link": "https://www.coupang.com/vp/products/6802102285?itemId=16059765518&vendorItemId=86535294848&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/10/16/1/a64f026b-3a2a-4a8f-a5f0-efb0307edd9e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "코니아일랜드 일체형 낮잠이불 방수가방 코코애니멀 815 x 425 x 11 cm",
+        "brand": "코니아일랜드",
+        "uid": "6c9e2ef5-a9b0-41d3-ae60-5466b1005c50",
+        "sale_price": "9,430원",
+        "link": "https://www.coupang.com/vp/products/1291778939?itemId=2302955122&vendorItemId=70299859116&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/02/19/12/4/68c13324-35ce-4601-9702-256718fe0fed.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "베이비스토리 유아용 스와들 라인 M 01 곰하트 아이보리",
         "brand": "베이비스토리",
         "uid": "fab40367-cddc-482a-8559-f2078a150ea2",
@@ -2278,21 +2260,12 @@
     },
     {
         "category": "침구류",
-        "name": "쉬즈홈 순면베개 솜포함 두잉 옐로우 30x50 cm",
-        "brand": "쉬즈홈",
-        "uid": "e38d5126-1340-4860-a0e0-06282c411409",
-        "sale_price": "10,800원",
-        "link": "https://www.coupang.com/vp/products/115555745?itemId=20131070011&vendorItemId=87225075822&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/wiejgmxc/cb23dfa4b3434dfbb3679fe9663c7609.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "헬로미니미 아기블랭킷 신생아 담요 아기이불 겨울 밍크 극세사 아이보리 S7090",
-        "brand": "헬로미니미",
-        "uid": "09108a27-b8a2-42b8-9802-5f3aab15dad0",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/7772076148?itemId=20984879476&vendorItemId=91748141919&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4026/602395dc5dd479851e638ddc59dd46fe0478147d0ac12a97d1e9e9b97f89.jpg"
+        "name": "아리베베 마이크로화이버 유아용 베개솜 화이트 60 x 30 cm",
+        "brand": "아리베베",
+        "uid": "bfc08e4c-e4a7-4e8c-971a-a41d599290ab",
+        "sale_price": "9,900원",
+        "link": "https://www.coupang.com/vp/products/144069214?itemId=418230656&vendorItemId=4027536123&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/10/11/14/2/e20ca431-12c4-4a08-97c6-6079627f4ad9.jpg"
     },
     {
         "category": "침구류",
@@ -2314,75 +2287,21 @@
     },
     {
         "category": "침구류",
-        "name": "아리베베 마이크로화이버 유아용 베개솜 화이트 60 x 30 cm",
-        "brand": "아리베베",
-        "uid": "bfc08e4c-e4a7-4e8c-971a-a41d599290ab",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/144069214?itemId=418230656&vendorItemId=4027536123&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/10/11/14/2/e20ca431-12c4-4a08-97c6-6079627f4ad9.jpg"
+        "name": "Miracle baby 유아 방수패드 기저귀매트 11 1세트 75100cm100150cm 토끼",
+        "brand": "Miracle",
+        "uid": "49b64fd7-5961-4c11-bec6-f395c279b8a8",
+        "sale_price": "25,550원",
+        "link": "https://www.coupang.com/vp/products/8439073047?itemId=24409318352&vendorItemId=91423988781&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8d46/1b16d038d8a53230bf71f53aec459bc071cf2c3db5eca89741ef034c46cb.jpg"
     },
     {
         "category": "침구류",
-        "name": "밀로앤개비 애착 동물 미니베개  매쉬 원단 베개솜 세트 50 x 30 cm 고래 베리",
-        "brand": "밀로앤개비",
-        "uid": "3debc7aa-3016-43e6-a679-e28fead80f53",
-        "sale_price": "28,740원",
-        "link": "https://www.coupang.com/vp/products/6697332452?itemId=24513381536&vendorItemId=88847752129&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/29/14/9/84f9c1f0-7b08-4de5-b2d5-61a7694794f7.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "아리베베 유아용 알래스카 냉감 바디필로우 세트 공룡 60 x 10 cm",
-        "brand": "아리베베",
-        "uid": "57388933-382a-4648-b115-348d8b018c92",
-        "sale_price": "35,430원",
-        "link": "https://www.coupang.com/vp/products/8232284475?itemId=23694809939&vendorItemId=90719926387&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zgrxypx4/e761d7f1fe9842a7898070d462341c15.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "더자리 에일린키즈 포근해 따뜻해 다운필 고밀도 극세사 담요 야미 소형75 x 100 cm",
-        "brand": "더자리",
-        "uid": "73692cba-5289-4b40-b957-2ff0734cf390",
-        "sale_price": "16,600원",
-        "link": "https://www.coupang.com/vp/products/7584548108?itemId=20028248709&vendorItemId=87124845050&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2319446013419967-585d5f64-54dc-439a-a226-5ccd6aeb30e4.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "돗투돗 어린이집 컴팩트 낮잠이불 가방 아기 패드 일체형 가방 귀염돗람이블루",
-        "brand": "돗투돗",
-        "uid": "a13381a0-1471-449c-937b-80f2315bd0eb",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/7723428095?itemId=20734196625&vendorItemId=88779221197&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b872/05fbbc9c4b8e939687ebc40215dc9e6f38cba48d9e85bec0fa440ebff458.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "에이트룸 100수 순면 워싱 누빔 유아 베개커버 25x45 100수누빔 25x45 차콜",
-        "brand": "에이트룸",
-        "uid": "14139249-b814-436f-812a-ecd267680f2c",
+        "name": "쉬즈홈 버니 DTP 마이크로 베개 버니 핑크 30 x 50 cm",
+        "brand": "쉬즈홈",
+        "uid": "96359134-26f8-4e52-ad54-6f41c78ea582",
         "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/1541589662?itemId=2640261787&vendorItemId=70631100487&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/13ed/0421817ade203dd368f77a8c9a5d2a49a720352f32dc0d091028205eaab9.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "밤부베베 아동용 얌얌쑥쑥 모달 블랭킷 그린어니언 베이지 70 x 100 cm",
-        "brand": "밤부베베",
-        "uid": "e7518a3d-9182-4cc8-8279-1ee2080533fc",
-        "sale_price": "22,000원",
-        "link": "https://www.coupang.com/vp/products/8065770657?itemId=22683362388&vendorItemId=89719293469&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/3bycx5ia/0b9b1d2a27db4266b988483f8e2c2fa2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "라비킷 코지 쿨 플랫 유아 베개커버 리틀래빗 FREE34 x 73 cm",
-        "brand": "라비킷",
-        "uid": "933ac09c-7195-4134-b147-dcb40124ef25",
-        "sale_price": "21,900원",
-        "link": "https://www.coupang.com/vp/products/8302148241?itemId=23951384707&vendorItemId=90973079547&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/14302456579273-c5ca48e8-5f05-429d-bccd-cc937cdb6cbc.png"
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240434&vendorItemId=3846163223&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/786d/aaf3269b60f9e89681bb06b56cbd9d2f0ffe3e07cf6890bbfae3aed2a7b6.jpg"
     },
     {
         "category": "침구류",
@@ -2395,12 +2314,57 @@
     },
     {
         "category": "침구류",
-        "name": "달콤베이비 면 에어매쉬 유아동 짱구베개 귀요미북극곰 30 x 21 x 4 cm 1개",
-        "brand": "달콤베이비",
-        "uid": "bceaded2-a3e3-4fc4-898d-559fef3c1611",
-        "sale_price": "12,800원",
-        "link": "https://www.coupang.com/vp/products/80532589?itemId=257429314&vendorItemId=4608453151&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/04/08/22/2/f917268c-ab1c-4452-9ac1-84a1533dcbeb.jpg"
+        "name": "쉬즈홈 순면베개 솜포함 두잉 옐로우 30x50 cm",
+        "brand": "쉬즈홈",
+        "uid": "e38d5126-1340-4860-a0e0-06282c411409",
+        "sale_price": "10,800원",
+        "link": "https://www.coupang.com/vp/products/115555745?itemId=20131070011&vendorItemId=87225075822&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/wiejgmxc/cb23dfa4b3434dfbb3679fe9663c7609.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "지오필로우 아기 베게 마린베어 small 1개",
+        "brand": "지오필로우",
+        "uid": "163726b8-e926-492e-b049-ca41cc13b50b",
+        "sale_price": "45,500원",
+        "link": "https://www.coupang.com/vp/products/8296019834?itemId=24086865653&vendorItemId=91106370790&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2fe8/aa6517876038c375b17ca8bcb3823f05e26cd4797410c1adb52de8a4a007.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "밀로앤개비 애착 동물 미니베개  매쉬 원단 베개솜 세트 50 x 30 cm 고래 베리",
+        "brand": "밀로앤개비",
+        "uid": "3debc7aa-3016-43e6-a679-e28fead80f53",
+        "sale_price": "28,740원",
+        "link": "https://www.coupang.com/vp/products/6697332452?itemId=24513381536&vendorItemId=88847752129&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/29/14/9/84f9c1f0-7b08-4de5-b2d5-61a7694794f7.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "라비킷 코지 쿨 플랫 유아 베개커버 리틀래빗 FREE34 x 73 cm",
+        "brand": "라비킷",
+        "uid": "933ac09c-7195-4134-b147-dcb40124ef25",
+        "sale_price": "21,900원",
+        "link": "https://www.coupang.com/vp/products/8302148241?itemId=23951384707&vendorItemId=90973079547&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/14302456579273-c5ca48e8-5f05-429d-bccd-cc937cdb6cbc.png"
+    },
+    {
+        "category": "침구류",
+        "name": "아리베베 유아용 알래스카 냉감 바디필로우 세트 공룡 60 x 10 cm",
+        "brand": "아리베베",
+        "uid": "57388933-382a-4648-b115-348d8b018c92",
+        "sale_price": "35,430원",
+        "link": "https://www.coupang.com/vp/products/8232284475?itemId=23694809939&vendorItemId=90719926387&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zgrxypx4/e761d7f1fe9842a7898070d462341c15.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "밤부베베 아동용 얌얌쑥쑥 모달 블랭킷 그린어니언 베이지 70 x 100 cm",
+        "brand": "밤부베베",
+        "uid": "e7518a3d-9182-4cc8-8279-1ee2080533fc",
+        "sale_price": "22,000원",
+        "link": "https://www.coupang.com/vp/products/8065770657?itemId=22683362388&vendorItemId=89719293469&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/3bycx5ia/0b9b1d2a27db4266b988483f8e2c2fa2.jpg"
     },
     {
         "category": "침구류",
@@ -2413,39 +2377,12 @@
     },
     {
         "category": "침구류",
-        "name": "베고자니 국내생산 트윙클스타 메밀 유아동 베개 20x40 숯색",
-        "brand": "베고자니",
-        "uid": "a016547d-761f-43e1-a835-79ee1226a6a6",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/8090609119?itemId=22848607392&vendorItemId=90380028177&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5cac/4cb65cbbdae8df8539e64bb1e1ceb5027276b4a726e36e07d54b6cfa2563.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "쉬즈홈 라떼 DTP 마이크로 베개 화이트 30x50 cm",
-        "brand": "쉬즈홈",
-        "uid": "6bc4053d-7703-49c1-b002-9a78be63be44",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240418&vendorItemId=3846163196&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/20/3846163196/fdf315af-fe88-47ae-88f4-d9a2a9eeeab2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "마롤로뜨 어린이집 프린팅 낮잠패드 분리형 초코베어 70 x 120 cm",
-        "brand": "마롤로뜨",
-        "uid": "f14a53ac-bf6a-41fe-abb9-7ef13131e6af",
-        "sale_price": "39,700원",
-        "link": "https://www.coupang.com/vp/products/8509543774?itemId=24630920039&vendorItemId=91641947388&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/12/16/14/8/b3388ca7-f96a-4be8-9fc4-09eb6b9f7ad2.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "보드래 순면 유아동 침구세트 쁘띠걸 패드 100 x 110 cm 이불 110 x 130 cm 베개커버 30 x 50 cm 베개솜 30 x 50 cm",
-        "brand": "보드래",
-        "uid": "dc087911-a913-448f-a7f6-40ef8eeee627",
-        "sale_price": "67,780원",
-        "link": "https://www.coupang.com/vp/products/14386713?itemId=59514104&vendorItemId=3093179141&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/02/07/18/1/b4e0f43f-39fb-468b-b22b-37eb06b728e8.jpg"
+        "name": "헬로미니미 아기블랭킷 신생아 담요 아기이불 겨울 밍크 극세사 아이보리 S7090",
+        "brand": "헬로미니미",
+        "uid": "09108a27-b8a2-42b8-9802-5f3aab15dad0",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/7772076148?itemId=20984879476&vendorItemId=91748141919&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4026/602395dc5dd479851e638ddc59dd46fe0478147d0ac12a97d1e9e9b97f89.jpg"
     },
     {
         "category": "침구류",
@@ -2458,12 +2395,30 @@
     },
     {
         "category": "침구류",
-        "name": "헬로카봇 극세사 담요 헬로 카봇 100x150cm",
-        "brand": "헬로카봇",
-        "uid": "81b31e0f-c2b5-4271-aaf3-2a0b6845e5d9",
-        "sale_price": "35,000원",
-        "link": "https://www.coupang.com/vp/products/1215816624?itemId=2205511785&vendorItemId=91555477816&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f5c8/284b2fee4855e5084068e17cdfd69ba0884cbdb27342b2c907ff0ccd0535.jpg"
+        "name": "보드래 순면 유아동 침구세트 쁘띠걸 패드 100 x 110 cm 이불 110 x 130 cm 베개커버 30 x 50 cm 베개솜 30 x 50 cm",
+        "brand": "보드래",
+        "uid": "dc087911-a913-448f-a7f6-40ef8eeee627",
+        "sale_price": "67,780원",
+        "link": "https://www.coupang.com/vp/products/14386713?itemId=59514104&vendorItemId=3093179141&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/02/07/18/1/b4e0f43f-39fb-468b-b22b-37eb06b728e8.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "에이트룸 100수 순면 워싱 누빔 유아 베개커버 25x45 100수누빔 25x45 차콜",
+        "brand": "에이트룸",
+        "uid": "14139249-b814-436f-812a-ecd267680f2c",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/1541589662?itemId=2640261787&vendorItemId=70631100487&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/13ed/0421817ade203dd368f77a8c9a5d2a49a720352f32dc0d091028205eaab9.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "돗투돗 어린이집 컴팩트 낮잠이불 가방 아기 패드 일체형 가방 귀염돗람이블루",
+        "brand": "돗투돗",
+        "uid": "a13381a0-1471-449c-937b-80f2315bd0eb",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/7723428095?itemId=20734196625&vendorItemId=88779221197&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b872/05fbbc9c4b8e939687ebc40215dc9e6f38cba48d9e85bec0fa440ebff458.jpg"
     },
     {
         "category": "침구류",
@@ -2476,12 +2431,21 @@
     },
     {
         "category": "침구류",
-        "name": "마롤로뜨 프린팅 유아 짱구베개 해피곰 FREE34 x 23 x 6 cm 1개",
-        "brand": "마롤로뜨",
-        "uid": "1a96e793-f981-4bb0-b9c6-e8f1cefd22e8",
-        "sale_price": "12,700원",
-        "link": "https://www.coupang.com/vp/products/6674325475?itemId=15366581021&vendorItemId=86535145859&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/a9atrba8/0251eff2318e4dd585f346e1ee598d6a.jpg"
+        "name": "더자리 에일린키즈 포근해 따뜻해 다운필 고밀도 극세사 담요 야미 소형75 x 100 cm",
+        "brand": "더자리",
+        "uid": "73692cba-5289-4b40-b957-2ff0734cf390",
+        "sale_price": "16,600원",
+        "link": "https://www.coupang.com/vp/products/7584548108?itemId=20028248709&vendorItemId=87124845050&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2319446013419967-585d5f64-54dc-439a-a226-5ccd6aeb30e4.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "달콤베이비 면 에어매쉬 유아동 짱구베개 귀요미북극곰 30 x 21 x 4 cm 1개",
+        "brand": "달콤베이비",
+        "uid": "bceaded2-a3e3-4fc4-898d-559fef3c1611",
+        "sale_price": "12,800원",
+        "link": "https://www.coupang.com/vp/products/80532589?itemId=257429314&vendorItemId=4608453151&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/04/08/22/2/f917268c-ab1c-4452-9ac1-84a1533dcbeb.jpg"
     },
     {
         "category": "침구류",
@@ -2494,24 +2458,6 @@
     },
     {
         "category": "침구류",
-        "name": "롤베이비 휴대용 착한 방수 패드 그레이 70 x 40 cm 1개",
-        "brand": "롤베이비",
-        "uid": "74a67ba2-5ec8-4984-ba2c-4d6369e1b5ac",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419485&vendorItemId=84388273275&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/p9qpgox9/5996e5bb55064755ba274ea76236770e.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "MODERN HOUSE 중계점 스웰스트로베리래빗 알러지케어 차렵이불 150200 CZ0225001 스트로베리래빗 150x200",
-        "brand": "MODERN",
-        "uid": "4202c988-224b-4d77-8b71-90c470eea1ab",
-        "sale_price": "49,900원",
-        "link": "https://www.coupang.com/vp/products/8489142209?itemId=24570020271&vendorItemId=91586153613&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c273/f7a929ff9acc9ac7614760968c598117b1db6408aa92504772f60e346e33.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "마롤로뜨 프린팅 유아 짱구베개 싱싱올리브 FREE34 x 23 x 6 cm 1개",
         "brand": "마롤로뜨",
         "uid": "ae026db6-c5b7-4442-b3c7-1bd97690e8c8",
@@ -2521,12 +2467,12 @@
     },
     {
         "category": "침구류",
-        "name": "조우니 쥬쥬 베개 공룡블루그린 소40 x 20cm 1개",
-        "brand": "조우니",
-        "uid": "f950a89b-2e86-4109-a36b-5ff78e402827",
-        "sale_price": "11,660원",
-        "link": "https://www.coupang.com/vp/products/345617717?itemId=1097628720&vendorItemId=5619994953&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/11/29/16/5/6e668a09-5f10-44bf-b9be-cbc476bfc774.jpg"
+        "name": "쉬즈홈 라떼 DTP 마이크로 베개 화이트 30x50 cm",
+        "brand": "쉬즈홈",
+        "uid": "6bc4053d-7703-49c1-b002-9a78be63be44",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240418&vendorItemId=3846163196&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/12/20/3846163196/fdf315af-fe88-47ae-88f4-d9a2a9eeeab2.jpg"
     },
     {
         "category": "침구류",
@@ -2539,12 +2485,39 @@
     },
     {
         "category": "침구류",
-        "name": "조우니 쥬쥬 베개 토끼핑크 소40 x 20cm 1개",
-        "brand": "조우니",
-        "uid": "29994259-46f6-4560-bd7d-a354d018ed37",
-        "sale_price": "11,660원",
-        "link": "https://www.coupang.com/vp/products/345617717?itemId=1097628702&vendorItemId=5619994774&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/11/29/16/7/48083223-b7be-4356-ba40-14637f57074a.jpg"
+        "name": "마롤로뜨 프린팅 유아 짱구베개 해피곰 FREE34 x 23 x 6 cm 1개",
+        "brand": "마롤로뜨",
+        "uid": "1a96e793-f981-4bb0-b9c6-e8f1cefd22e8",
+        "sale_price": "12,700원",
+        "link": "https://www.coupang.com/vp/products/6674325475?itemId=15366581021&vendorItemId=86535145859&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/a9atrba8/0251eff2318e4dd585f346e1ee598d6a.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "베고자니 국내생산 트윙클스타 메밀 유아동 베개 20x40 숯색",
+        "brand": "베고자니",
+        "uid": "a016547d-761f-43e1-a835-79ee1226a6a6",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/8090609119?itemId=22848607392&vendorItemId=90380028177&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5cac/4cb65cbbdae8df8539e64bb1e1ceb5027276b4a726e36e07d54b6cfa2563.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "마롤로뜨 어린이집 프린팅 낮잠패드 분리형 초코베어 70 x 120 cm",
+        "brand": "마롤로뜨",
+        "uid": "f14a53ac-bf6a-41fe-abb9-7ef13131e6af",
+        "sale_price": "39,700원",
+        "link": "https://www.coupang.com/vp/products/8509543774?itemId=24630920039&vendorItemId=91641947388&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/12/16/14/8/b3388ca7-f96a-4be8-9fc4-09eb6b9f7ad2.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "헬로카봇 극세사 담요 헬로 카봇 100x150cm",
+        "brand": "헬로카봇",
+        "uid": "81b31e0f-c2b5-4271-aaf3-2a0b6845e5d9",
+        "sale_price": "35,000원",
+        "link": "https://www.coupang.com/vp/products/1215816624?itemId=2205511785&vendorItemId=91555477816&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f5c8/284b2fee4855e5084068e17cdfd69ba0884cbdb27342b2c907ff0ccd0535.jpg"
     },
     {
         "category": "침구류",
@@ -2557,21 +2530,75 @@
     },
     {
         "category": "침구류",
-        "name": "쉬즈홈 DTP 마이크로 베개 솜포함 버니 차콜 30 x 50 cm",
-        "brand": "쉬즈홈",
-        "uid": "84349079-fdfc-416d-83ea-8a2160cd2b15",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240450&vendorItemId=3846163239&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2437479716568034-96607ef8-8bad-48d1-abba-34cb28d1bd42.jpg"
-    },
-    {
-        "category": "침구류",
         "name": "아리베베 코코 자수 낮잠 이불  패드  베개 세트 분리형 토끼 이불90 x 110 cm 패드75 x 130 cm 베개45 x 25 cm",
         "brand": "아리베베",
         "uid": "0e1f90d8-8887-463f-80d2-932d43bad7de",
         "sale_price": "79,000원",
         "link": "https://www.coupang.com/vp/products/7835280554?itemId=21316751604&vendorItemId=88376193272&sourceType=CATEGORY&categoryId=221842",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1856544305454259-15e1f69c-6633-4041-bf6e-95e88245b681.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "롤베이비 휴대용 착한 방수 패드 그레이 70 x 40 cm 1개",
+        "brand": "롤베이비",
+        "uid": "74a67ba2-5ec8-4984-ba2c-4d6369e1b5ac",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/7008961765?itemId=17216419485&vendorItemId=84388273275&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/p9qpgox9/5996e5bb55064755ba274ea76236770e.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "밤부베베 아기이불세트 속베개 화이트 25 x 50cm",
+        "brand": "밤부베베",
+        "uid": "21733f33-0acd-43eb-817c-fbda820a06ad",
+        "sale_price": "14,750원",
+        "link": "https://www.coupang.com/vp/products/6638719049?itemId=15167069941&vendorItemId=82388450257&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4295701627494417-155e4173-2c25-4468-9807-81610f9f29f5.png"
+    },
+    {
+        "category": "침구류",
+        "name": "조우니 쥬쥬 베개 공룡블루그린 소40 x 20cm 1개",
+        "brand": "조우니",
+        "uid": "f950a89b-2e86-4109-a36b-5ff78e402827",
+        "sale_price": "11,660원",
+        "link": "https://www.coupang.com/vp/products/345617717?itemId=1097628720&vendorItemId=5619994953&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/11/29/16/5/6e668a09-5f10-44bf-b9be-cbc476bfc774.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "롤베이비 유아용 에어로웜 토퍼 크림 핑크 L100 x 150 cm 1개",
+        "brand": "롤베이비",
+        "uid": "dd5bf3eb-9eb1-40a9-9958-531172b3eae7",
+        "sale_price": "49,800원",
+        "link": "https://www.coupang.com/vp/products/6931209438?itemId=16771989999&vendorItemId=83953196245&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/18/18/6/38fff550-c6be-403a-9466-5df8abc1401b.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "조우니 쥬쥬 베개 토끼핑크 소40 x 20cm 1개",
+        "brand": "조우니",
+        "uid": "29994259-46f6-4560-bd7d-a354d018ed37",
+        "sale_price": "11,660원",
+        "link": "https://www.coupang.com/vp/products/345617717?itemId=1097628702&vendorItemId=5619994774&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/11/29/16/7/48083223-b7be-4356-ba40-14637f57074a.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "마롤로뜨 신생아 라떼 말랑 베개 바닐라라떼 34 x 25 cm 1개",
+        "brand": "마롤로뜨",
+        "uid": "618244c6-18d4-46e3-9309-6292cae06f13",
+        "sale_price": "15,900원",
+        "link": "https://www.coupang.com/vp/products/7000097880?itemId=17163880466&vendorItemId=91329707757&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f10c/0ac99b9fdd843be50539214d9ae23e5cccd147f984ee3448e529edc4f456.jpg"
+    },
+    {
+        "category": "침구류",
+        "name": "쉬즈홈 DTP 마이크로 베개 솜포함 버니 차콜 30 x 50 cm",
+        "brand": "쉬즈홈",
+        "uid": "84349079-fdfc-416d-83ea-8a2160cd2b15",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/115555595?itemId=346240450&vendorItemId=3846163239&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2437479716568034-96607ef8-8bad-48d1-abba-34cb28d1bd42.jpg"
     },
     {
         "category": "침구류",
@@ -2593,6 +2620,15 @@
     },
     {
         "category": "침구류",
+        "name": "MODERN HOUSE 중계점 스웰스트로베리래빗 알러지케어 차렵이불 150200 CZ0225001 스트로베리래빗 150x200",
+        "brand": "MODERN",
+        "uid": "4202c988-224b-4d77-8b71-90c470eea1ab",
+        "sale_price": "49,900원",
+        "link": "https://www.coupang.com/vp/products/8489142209?itemId=24570020271&vendorItemId=91586153613&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c273/f7a929ff9acc9ac7614760968c598117b1db6408aa92504772f60e346e33.jpg"
+    },
+    {
+        "category": "침구류",
         "name": "캐치티니핑 순면베개 25x45cm마이크로화이버 베개 솜 핑크 25 x 45cm",
         "brand": "캐치티니핑",
         "uid": "5d5395a7-a67a-412b-9db2-8c59cb610fe7",
@@ -2611,30 +2647,12 @@
     },
     {
         "category": "침구류",
-        "name": "밤부베베 아기이불세트 속베개 화이트 25 x 50cm",
-        "brand": "밤부베베",
-        "uid": "21733f33-0acd-43eb-817c-fbda820a06ad",
-        "sale_price": "14,750원",
-        "link": "https://www.coupang.com/vp/products/6638719049?itemId=15167069941&vendorItemId=82388450257&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4295701627494417-155e4173-2c25-4468-9807-81610f9f29f5.png"
-    },
-    {
-        "category": "침구류",
-        "name": "롤베이비 유아용 에어로웜 토퍼 크림 핑크 L100 x 150 cm 1개",
-        "brand": "롤베이비",
-        "uid": "dd5bf3eb-9eb1-40a9-9958-531172b3eae7",
-        "sale_price": "49,800원",
-        "link": "https://www.coupang.com/vp/products/6931209438?itemId=16771989999&vendorItemId=83953196245&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/18/18/6/38fff550-c6be-403a-9466-5df8abc1401b.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "에일린키즈 에코항균 애착 낮잠이불 4종 세트 분리형 디노 이불100 x 115 cm 패드100 x 105 cm 베개커버베개솜40 x 60 cm",
-        "brand": "에일린키즈",
-        "uid": "2cbf0209-2a76-45a1-b68b-65aad03e940a",
-        "sale_price": "33,890원",
-        "link": "https://www.coupang.com/vp/products/7060241526?itemId=17503685684&vendorItemId=84670994429&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ykgnm3dj/0c2e6803de0b46998aa7c942cb126165.jpg"
+        "name": "슬립스파 아기 뒤집기 방지 쿠션 풀밭의토끼 10 x 30 x 30 cm",
+        "brand": "슬립스파",
+        "uid": "baa4c928-b94f-45a3-93b1-ba1bca677b6f",
+        "sale_price": "38,400원",
+        "link": "https://www.coupang.com/vp/products/7683278605?itemId=2488593637&vendorItemId=70481835415&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/10874210037592242-b470e042-0b21-455d-bb0a-26571c1a43d0.jpg"
     },
     {
         "category": "침구류",
@@ -2647,39 +2665,21 @@
     },
     {
         "category": "침구류",
-        "name": "슬립스파 아기 뒤집기 방지 쿠션 풀밭의토끼 10 x 30 x 30 cm",
-        "brand": "슬립스파",
-        "uid": "baa4c928-b94f-45a3-93b1-ba1bca677b6f",
-        "sale_price": "38,400원",
-        "link": "https://www.coupang.com/vp/products/7683278605?itemId=2488593637&vendorItemId=70481835415&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/10874210037592242-b470e042-0b21-455d-bb0a-26571c1a43d0.jpg"
+        "name": "에일린키즈 에코항균 애착 낮잠이불 4종 세트 분리형 디노 이불100 x 115 cm 패드100 x 105 cm 베개커버베개솜40 x 60 cm",
+        "brand": "에일린키즈",
+        "uid": "2cbf0209-2a76-45a1-b68b-65aad03e940a",
+        "sale_price": "33,890원",
+        "link": "https://www.coupang.com/vp/products/7060241526?itemId=17503685684&vendorItemId=84670994429&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ykgnm3dj/0c2e6803de0b46998aa7c942cb126165.jpg"
     },
     {
         "category": "침구류",
-        "name": "마롤로뜨 신생아 라떼 말랑 베개 바닐라라떼 34 x 25 cm 1개",
-        "brand": "마롤로뜨",
-        "uid": "618244c6-18d4-46e3-9309-6292cae06f13",
-        "sale_price": "15,900원",
-        "link": "https://www.coupang.com/vp/products/7000097880?itemId=17163880466&vendorItemId=91329707757&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f10c/0ac99b9fdd843be50539214d9ae23e5cccd147f984ee3448e529edc4f456.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "유트러스 유아 극세사 블랭킷 체리 M",
-        "brand": "유트러스",
-        "uid": "46276f77-ffdd-45bd-9e52-ec1a80298ea6",
-        "sale_price": "17,240원",
-        "link": "https://www.coupang.com/vp/products/8261105552?itemId=23798556355&vendorItemId=90822513185&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ktpzod2a/da9d4207871944029239712d9329c795.jpg"
-    },
-    {
-        "category": "침구류",
-        "name": "소피 순면 유아 롱베개 멀티 30 x 70 cm",
-        "brand": "소피",
-        "uid": "6fa0b34e-5f00-422a-8871-d9fdddc51531",
-        "sale_price": "22,950원",
-        "link": "https://www.coupang.com/vp/products/4320448220?itemId=5027712600&vendorItemId=72337536410&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/13952852416612577-98c0f800-52b7-414a-b1c9-0169f0970f67.jpg"
+        "name": "밀로앤개비 애착 동물베개 커버  마이크로 베개솜 밤비사슴 70 x 50 cm",
+        "brand": "밀로앤개비",
+        "uid": "67a99c96-dab8-4c2d-b0ec-55f8c72c82db",
+        "sale_price": "41,350원",
+        "link": "https://www.coupang.com/vp/products/4896786122?itemId=23973270027&vendorItemId=90994599952&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/26/13/6/1c2de5f6-c12b-4cb6-be4d-1bba3147e221.jpg"
     },
     {
         "category": "침구류",
@@ -2692,11 +2692,11 @@
     },
     {
         "category": "침구류",
-        "name": "밀로앤개비 애착 동물베개 커버  마이크로 베개솜 밤비사슴 70 x 50 cm",
-        "brand": "밀로앤개비",
-        "uid": "67a99c96-dab8-4c2d-b0ec-55f8c72c82db",
-        "sale_price": "41,350원",
-        "link": "https://www.coupang.com/vp/products/4896786122?itemId=23973270027&vendorItemId=90994599952&sourceType=CATEGORY&categoryId=221842",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/26/13/6/1c2de5f6-c12b-4cb6-be4d-1bba3147e221.jpg"
+        "name": "원아방 유아용 동물원 겉싸개 85 x 85 cm",
+        "brand": "원아방",
+        "uid": "e54304f9-6048-428b-b8ca-5c7ff34e1939",
+        "sale_price": "24,700원",
+        "link": "https://www.coupang.com/vp/products/5856474367?itemId=10205770249&vendorItemId=77488264972&sourceType=CATEGORY&categoryId=221842",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/kk0ubmsq/4074a5a47e5e472a9088d206f761cf73.JPG"
     }
 ]

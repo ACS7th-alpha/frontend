@@ -64,21 +64,21 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "몽실이 귀달이퍼안감 패딩 점퍼",
-        "brand": "몽실이",
-        "uid": "ca5c0335-7c7d-4976-a9be-81aefce12760",
-        "sale_price": "28,900원",
-        "link": "https://www.coupang.com/vp/products/6868302278?itemId=16422122285&vendorItemId=83612994353&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b53a/9fdda1fab0ee33258c52e711e935fe5c3679ab81f92f736eb3c170911f64.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "올로미미 아동용 메르시 9부 코튼 실내복 상하의 세트",
         "brand": "올로미미",
         "uid": "a520f50b-05d3-42e1-b814-374dd1d6534f",
         "sale_price": "12,820원",
         "link": "https://www.coupang.com/vp/products/8323329092?itemId=24025735820&vendorItemId=91046199712&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6f76/7ea79f95c5dd30540edab30d820c79714b8b50e5bff8fe97bd0416c1f021.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "몽실이 귀달이퍼안감 패딩 점퍼",
+        "brand": "몽실이",
+        "uid": "ca5c0335-7c7d-4976-a9be-81aefce12760",
+        "sale_price": "28,900원",
+        "link": "https://www.coupang.com/vp/products/6868302278?itemId=16422122285&vendorItemId=83612994353&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b53a/9fdda1fab0ee33258c52e711e935fe5c3679ab81f92f736eb3c170911f64.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -109,15 +109,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "아동용 시나모롤 비스킷 방한샌들",
-        "brand": "아동용",
-        "uid": "3c4b466c-1283-4f77-807b-eb104aee7f72",
-        "sale_price": "23,660원",
-        "link": "https://www.coupang.com/vp/products/8376091355?itemId=24202196378&vendorItemId=91533320182&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c8d0/a2abd3ebb35da91161ec35ec7e084583a6b48b7974507ff82d9a00e4dcfd.JPG"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "아이엠베베 아동용 이글루 곰돌이 털 모자 머플러",
         "brand": "아이엠베베",
         "uid": "c715f7c5-0c93-4124-a94b-3ecb84621a20",
@@ -127,12 +118,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "고양이 크로스백 귀여운 인형 가방 냐옹이 여아 초등학생",
-        "brand": "고양이",
-        "uid": "e6c10be4-a23e-4b05-b1f5-9affcc485f37",
-        "sale_price": "10,300원",
-        "link": "https://www.coupang.com/vp/products/8250779092?itemId=23753091893&vendorItemId=90777573039&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/171c/da74fd5776c544fe58f6f457494425878780592dd666e74cb4d052bb2d7d.jpg"
+        "name": "아동용 시나모롤 비스킷 방한샌들",
+        "brand": "아동용",
+        "uid": "3c4b466c-1283-4f77-807b-eb104aee7f72",
+        "sale_price": "23,660원",
+        "link": "https://www.coupang.com/vp/products/8376091355?itemId=24202196378&vendorItemId=91533320182&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c8d0/a2abd3ebb35da91161ec35ec7e084583a6b48b7974507ff82d9a00e4dcfd.JPG"
     },
     {
         "category": "패션의류_잡화",
@@ -145,21 +136,30 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "그린베베 영유아용 겨울용 포포 보아퍼 상하복 2종세트",
-        "brand": "그린베베",
-        "uid": "05ab0a16-f0b0-4e1b-b6e6-2a6d4dc63393",
-        "sale_price": "17,010원",
-        "link": "https://www.coupang.com/vp/products/7017004599?itemId=17266190491&vendorItemId=84437402753&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/37ac/3d9901c2a33c29ece1419caafbfb69fae5b4d344c0f8800658bc0a209a40.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "탑텐키즈 여아 지금부터 초봄까지 보들보들한 촉감으로 따뜻하게 입을 수 있는 벨보아 조거 팬츠",
         "brand": "탑텐키즈",
         "uid": "0a6f0957-1183-4c91-8998-759b06f427f4",
         "sale_price": "14,900원",
         "link": "https://www.coupang.com/vp/products/8425203764?itemId=24374291609&vendorItemId=91389451511&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5b3f/ecd1ed77ebcc472778b111f7b594dd1ae0565161c6d8150612d9940bafa7.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "고양이 크로스백 귀여운 인형 가방 냐옹이 여아 초등학생",
+        "brand": "고양이",
+        "uid": "e6c10be4-a23e-4b05-b1f5-9affcc485f37",
+        "sale_price": "10,300원",
+        "link": "https://www.coupang.com/vp/products/8250779092?itemId=23753091893&vendorItemId=90777573039&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/171c/da74fd5776c544fe58f6f457494425878780592dd666e74cb4d052bb2d7d.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "그린베베 영유아용 겨울용 포포 보아퍼 상하복 2종세트",
+        "brand": "그린베베",
+        "uid": "05ab0a16-f0b0-4e1b-b6e6-2a6d4dc63393",
+        "sale_price": "17,010원",
+        "link": "https://www.coupang.com/vp/products/7017004599?itemId=17266190491&vendorItemId=84437402753&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/37ac/3d9901c2a33c29ece1419caafbfb69fae5b4d344c0f8800658bc0a209a40.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -226,15 +226,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "구름위에햇님 겨울 아기기모상하복세트 ST2281401",
-        "brand": "구름위에햇님",
-        "uid": "19375b6a-f217-415c-b6de-3499d56c75ca",
-        "sale_price": "22,500원",
-        "link": "https://www.coupang.com/vp/products/8270703124?itemId=23835421986&vendorItemId=90858980388&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7bfb/0c9432710b51ee810a4d53b131169e124281d74edfed87b28bbbbdfce360.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "하이베이비키즈 유아용 파스텔 롱골지 양말 6켤레",
         "brand": "하이베이비키즈",
         "uid": "367614d0-1b26-42d6-acd8-2b86953cbe2f",
@@ -244,12 +235,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "엣지랜드 여아용 유니콘 투피스",
-        "brand": "엣지랜드",
-        "uid": "17d888b5-a8b1-4a05-b98d-22dd976197ea",
-        "sale_price": "7,960원",
-        "link": "https://www.coupang.com/vp/products/6453421584?itemId=14018513443&vendorItemId=81267044339&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/edb4/32302d2d3f07534e9845b29a517d516ee65dc56d9f501dfe618a026ab777.jpg"
+        "name": "구름위에햇님 겨울 아기기모상하복세트 ST2281401",
+        "brand": "구름위에햇님",
+        "uid": "19375b6a-f217-415c-b6de-3499d56c75ca",
+        "sale_price": "22,500원",
+        "link": "https://www.coupang.com/vp/products/8270703124?itemId=23835421986&vendorItemId=90858980388&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7bfb/0c9432710b51ee810a4d53b131169e124281d74edfed87b28bbbbdfce360.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -259,6 +250,15 @@
         "sale_price": "10,490원",
         "link": "https://www.coupang.com/vp/products/8302258239?itemId=23951911372&vendorItemId=90973598568&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2695/e318709eee1a029333896d887dffb371939a80e79a14f162b9a3af33f47b.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "엣지랜드 여아용 유니콘 투피스",
+        "brand": "엣지랜드",
+        "uid": "17d888b5-a8b1-4a05-b98d-22dd976197ea",
+        "sale_price": "7,960원",
+        "link": "https://www.coupang.com/vp/products/6453421584?itemId=14018513443&vendorItemId=81267044339&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/edb4/32302d2d3f07534e9845b29a517d516ee65dc56d9f501dfe618a026ab777.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -325,15 +325,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "캐치티니핑 여아용 하츄핑 프릴 앞치마 PR056",
-        "brand": "캐치티니핑",
-        "uid": "257819e0-b0f6-4557-81a1-eeef3ffeca0b",
-        "sale_price": "16,900원",
-        "link": "https://www.coupang.com/vp/products/8463335774?itemId=24485544951&vendorItemId=91498885372&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xjchixqm/1a94a9e8793f4924b3fa0299d113804d.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "여아용 시나모롤 벨벳큐빅 머리띠",
         "brand": "여아용",
         "uid": "c471a388-3e74-4b95-8ad9-5be59abe71e6",
@@ -343,12 +334,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "신생아 돌 아기 후리스 우주복 방한 패딩 곰돌이 겨울 옷",
-        "brand": "신생아",
-        "uid": "c1c32eb4-44cc-4f32-9a6f-f4b4200296fd",
-        "sale_price": "22,000원",
-        "link": "https://www.coupang.com/vp/products/8505387292?itemId=24617843064&vendorItemId=91629079542&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8cf2/dd6f7dc310925027adf79adc7e02c812f2ca9005ac3bd6744f3ba760a717.jpg"
+        "name": "캐치티니핑 여아용 하츄핑 프릴 앞치마 PR056",
+        "brand": "캐치티니핑",
+        "uid": "257819e0-b0f6-4557-81a1-eeef3ffeca0b",
+        "sale_price": "16,900원",
+        "link": "https://www.coupang.com/vp/products/8463335774?itemId=24485544951&vendorItemId=91498885372&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/xjchixqm/1a94a9e8793f4924b3fa0299d113804d.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -358,6 +349,15 @@
         "sale_price": "11,900원",
         "link": "https://www.coupang.com/vp/products/284221282?itemId=902232269&vendorItemId=5261391778&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/baed/f7ae72150648e7164fda2f560c6f3dbdf97ebd7ef326133ae201e324f37e.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "신생아 돌 아기 후리스 우주복 방한 패딩 곰돌이 겨울 옷",
+        "brand": "신생아",
+        "uid": "c1c32eb4-44cc-4f32-9a6f-f4b4200296fd",
+        "sale_price": "22,000원",
+        "link": "https://www.coupang.com/vp/products/8505387292?itemId=24617843064&vendorItemId=91629079542&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8cf2/dd6f7dc310925027adf79adc7e02c812f2ca9005ac3bd6744f3ba760a717.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -397,15 +397,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "뉴발란스키즈 아동용 투포켓 몰드 초등학생 책가방 세트",
-        "brand": "뉴발란스키즈",
-        "uid": "e270f639-b78d-4951-8519-ef41339c07d0",
-        "sale_price": "125,580원",
-        "link": "https://www.coupang.com/vp/products/7816681800?itemId=21217704018&vendorItemId=88297540859&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4084/1103ecf688125b95e0c1ed768e6277fb8630e76990df6dc35cca8bc8f90e.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "은꽃밴드 쌍쌍 헤어핀 10p 세트",
         "brand": "은꽃밴드",
         "uid": "fd3b0b03-7d36-45d4-b68b-4169d6974679",
@@ -424,21 +415,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "조이멀티 아동용 7부 컬러곰 패턴 자가드 실내복 상하의 세트",
-        "brand": "조이멀티",
-        "uid": "1f1d4738-8dc8-486a-afa8-2913745f51e0",
-        "sale_price": "8,830원",
-        "link": "https://www.coupang.com/vp/products/8024796858?itemId=22426479582&vendorItemId=89471171805&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/fd64/19d010ed50157edae7dd34c29ffbd0d442b394711f084ebcfed78e7b2921.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "더예한복 한복소품 머리띠 QT 458",
-        "brand": "더예한복",
-        "uid": "abf88ece-cd07-4617-827f-407e2c4d3716",
-        "sale_price": "10,500원",
-        "link": "https://www.coupang.com/vp/products/261337698?itemId=817162184&vendorItemId=5078833010&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/07/15/18/6/c2ceadc4-f5bf-41fd-a5ff-3455bfcc5b69.jpg"
+        "name": "뉴발란스키즈 아동용 투포켓 몰드 초등학생 책가방 세트",
+        "brand": "뉴발란스키즈",
+        "uid": "e270f639-b78d-4951-8519-ef41339c07d0",
+        "sale_price": "92,450원",
+        "link": "https://www.coupang.com/vp/products/7816681800?itemId=21217704018&vendorItemId=88278700540&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1064386857316616-847bfdde-4e4c-4890-927c-3e2d4cf475ef.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -460,12 +442,30 @@
     },
     {
         "category": "패션의류_잡화",
+        "name": "조이멀티 아동용 7부 컬러곰 패턴 자가드 실내복 상하의 세트",
+        "brand": "조이멀티",
+        "uid": "1f1d4738-8dc8-486a-afa8-2913745f51e0",
+        "sale_price": "8,830원",
+        "link": "https://www.coupang.com/vp/products/8024796858?itemId=22426479582&vendorItemId=89471171805&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/fd64/19d010ed50157edae7dd34c29ffbd0d442b394711f084ebcfed78e7b2921.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
         "name": "하이베이비키즈 무지 아기 니삭스 3종 세트",
         "brand": "하이베이비키즈",
         "uid": "3bc1cf5a-d442-4ff1-b267-64414c171894",
         "sale_price": "8,700원",
         "link": "https://www.coupang.com/vp/products/1257113018?itemId=2257834682&vendorItemId=70255145218&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/346209484530993-b358ed24-9071-45ba-8dac-296ea3d689d8.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "더예한복 한복소품 머리띠 QT 458",
+        "brand": "더예한복",
+        "uid": "abf88ece-cd07-4617-827f-407e2c4d3716",
+        "sale_price": "10,500원",
+        "link": "https://www.coupang.com/vp/products/261337698?itemId=817162184&vendorItemId=5078833010&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/07/15/18/6/c2ceadc4-f5bf-41fd-a5ff-3455bfcc5b69.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -505,15 +505,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "11 방수 심플 깔끔한 앞치마 공방 작업 주방 서빙",
-        "brand": "11",
-        "uid": "ffbaff54-9620-479d-acf6-d281ad5d3978",
-        "sale_price": "5,320원",
-        "link": "https://www.coupang.com/vp/products/8425471790?itemId=23607695235&vendorItemId=91522492576&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e9fc/983c25e254ce8117a5fe9cc67baaaf1bbc74ddffaddefcc6ca17f85d3514.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "롤리트리 아동용 30수 싱글 9부 스트라이프 실내복 상하의 세트",
         "brand": "롤리트리",
         "uid": "1e346be7-85f0-48ce-9da9-325787566aa0",
@@ -538,6 +529,24 @@
         "sale_price": "9,990원",
         "link": "https://www.coupang.com/vp/products/8411077355?itemId=24319716708&vendorItemId=91335477371&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/22/14/4/75ee6e7a-7649-42fa-9790-bafde229aa6c.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "캠피셔스 키즈 이중기모 바라클라바 넥워머",
+        "brand": "캠피셔스",
+        "uid": "f8f8f780-be74-48e1-9dc9-1adfc4392cf9",
+        "sale_price": "19,800원",
+        "link": "https://www.coupang.com/vp/products/7749071223?itemId=20874547060&vendorItemId=87935279000&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bced/d96a1868084398eca5b03b9908d3c587cddf8501348b7e6ced6cf2f993ee.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "11 방수 심플 깔끔한 앞치마 공방 작업 주방 서빙",
+        "brand": "11",
+        "uid": "ffbaff54-9620-479d-acf6-d281ad5d3978",
+        "sale_price": "5,320원",
+        "link": "https://www.coupang.com/vp/products/8425471790?itemId=23607695235&vendorItemId=91522492576&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e9fc/983c25e254ce8117a5fe9cc67baaaf1bbc74ddffaddefcc6ca17f85d3514.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -1054,15 +1063,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "노디자인 아동용 미끄럼 방지 패드 베이직 중목 양말 3켤레 세트",
-        "brand": "노디자인",
-        "uid": "de3d98b7-ba37-44c4-b45a-9eed822a5ac8",
-        "sale_price": "5,490원",
-        "link": "https://www.coupang.com/vp/products/8000403712?itemId=22277153378&vendorItemId=89322779127&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/cmxyjk9i/bd7443eafbb243638ead6c145d7a30b0.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "스와들 미 업 신생아 스트랩 아기 속싸개 모로반사 방지 모자 세트 찍찍이 베넷저고리",
         "brand": "스와들",
         "uid": "dd04e5bc-c0ea-4c63-8f86-5f3f5c2e6ab1",
@@ -1078,6 +1078,15 @@
         "sale_price": "3,450원",
         "link": "https://www.coupang.com/vp/products/5986428630?itemId=10795441756&vendorItemId=78295456639&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6915081418696029-da823c6b-4eb6-41af-84f7-8218d960ca67.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "베베코지 나그랑 수영복 래쉬가드 아기 유아 남아 여아 실내",
+        "brand": "베베코지",
+        "uid": "80dee348-6282-49d7-b028-a9d0544a1e4a",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8135839576?itemId=23110776493&vendorItemId=90144021045&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a7ff/911b49416c7268337090b3abd4ae814f5672b47d34fb0cafa63af5013ef9.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -1603,21 +1612,30 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "IDAHUM 캐릭터 입체 마스크 새부리형 개별포장 유아용",
-        "brand": "IDAHUM",
-        "uid": "e624b6a4-291a-45dd-b8f8-f8f18b25eeae",
-        "sale_price": "10,000원",
-        "link": "https://www.coupang.com/vp/products/6273453030?itemId=12842572150&vendorItemId=80225792723&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2940385015796945-4570c043-607d-42bb-9fcf-c4dc89c3e726.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "마벨슈슈 여아용 해피데이래빗 소프트웜 원피스 잠옷",
         "brand": "마벨슈슈",
         "uid": "7a3e4793-e19d-4e91-8e34-7d4be31a6b1d",
         "sale_price": "13,000원",
         "link": "https://www.coupang.com/vp/products/8335283805?itemId=24067780802&vendorItemId=91087548809&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/iatujjyw/20d882115e014e9d977b68b6e301b334.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "캐릭토피아 남아용 쥬라기 삼각팬티 5p 세트",
+        "brand": "캐릭토피아",
+        "uid": "406434b0-fa96-4031-9170-b758149fa3af",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/106109654?itemId=320954344&vendorItemId=3786542787&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/4d7a/9767c20a2fd654b0ec6c2dea4cf37a065e93e6d2eabc4b7246f39c0c904c.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "채니봉봉 크림 밀크 무광 똑딱핀세트",
+        "brand": "채니봉봉",
+        "uid": "1f7a5e59-3dcb-420f-9375-1eb45c553269",
+        "sale_price": "6,430원",
+        "link": "https://www.coupang.com/vp/products/6651177177?itemId=15240971084&vendorItemId=82461768269&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/b1fb/a7e1a9d785059f1cb70d9593dbb462dec277d1f27a30cb4b25ae4377dd70.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2035,15 +2053,6 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "메이키즈 아동용 워크카 30수 후라이스 상하의 세트",
-        "brand": "메이키즈",
-        "uid": "eaec1abe-486c-42c9-b46b-7b71df73e1a7",
-        "sale_price": "9,920원",
-        "link": "https://www.coupang.com/vp/products/274903878?itemId=868590205&vendorItemId=5197713513&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1387752971108910-60a6712e-c2d4-4681-80a9-971daa09192b.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "베키노우 영유아 소음 방지 비행기 귀마개",
         "brand": "베키노우",
         "uid": "6b489f63-a41c-4d7e-8f3f-8d90fb6cc0cc",
@@ -2134,6 +2143,33 @@
     },
     {
         "category": "패션의류_잡화",
+        "name": "보누맘 아동용 웜히트텍 실내복 상하세트",
+        "brand": "보누맘",
+        "uid": "a60cc628-591a-4a8f-995c-b65782158743",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/6703658197?itemId=15536794013&vendorItemId=82755979523&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7368616787779764-8f5655bc-dc52-4a8a-aebb-ce3371843371.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "bayb 아동용 패딩 손모아 장갑 솔리드",
+        "brand": "bayb",
+        "uid": "1e72c5cf-b26a-4bc6-a12f-6cbb443c673e",
+        "sale_price": "11,500원",
+        "link": "https://www.coupang.com/vp/products/309517273?itemId=975600233&vendorItemId=5389421168&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6292585805331-1ea8d0fd-38cc-42fe-b7a3-e1c982d288ae.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "금동이아가한복 여아용 여보라꽃보 아동한복세트 AW133",
+        "brand": "금동이아가한복",
+        "uid": "a21079fd-9072-4eea-a32c-e260851eb3ab",
+        "sale_price": "52,000원",
+        "link": "https://www.coupang.com/vp/products/5926210070?itemId=10517302625&vendorItemId=77798915039&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3221233665303896-79df3268-598a-4074-a890-92c286ecd728.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
         "name": "책가방 보조 버클 가방 흘러내림방지 스트랩 구매시 버클 1개 더 증정",
         "brand": "책가방",
         "uid": "fceaf8c8-5861-461f-83ed-201bb15e5414",
@@ -2152,48 +2188,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "bayb 아동용 패딩 손모아 장갑 솔리드",
-        "brand": "bayb",
-        "uid": "1e72c5cf-b26a-4bc6-a12f-6cbb443c673e",
-        "sale_price": "11,500원",
-        "link": "https://www.coupang.com/vp/products/309517273?itemId=975600233&vendorItemId=5389421168&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6292585805331-1ea8d0fd-38cc-42fe-b7a3-e1c982d288ae.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "밤부베베 순한대나무 시그니처 아기꽃망울 엠보손수건 5p",
-        "brand": "밤부베베",
-        "uid": "3f1e82d2-d54f-42d3-b6e4-31e8c969f0db",
-        "sale_price": "18,900원",
-        "link": "https://www.coupang.com/vp/products/6150225810?itemId=11865762577&vendorItemId=79138885975&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/10/29/10/7/0c95f8c3-9884-4e57-a59b-502c2be2a036.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "브리드케어 캐치티니핑 시즌5 어린이 마스크 20매",
-        "brand": "브리드케어",
-        "uid": "44fdb8e3-8df4-4948-b6f4-9388bb509f57",
-        "sale_price": "15,800원",
-        "link": "https://www.coupang.com/vp/products/8499788644?itemId=24604014541&vendorItemId=91615441563&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c6e0/eec1d229ec232ac6475fa82cf3d3acf569a5e053c4a681ef16bf1bf15ffc.png"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "책가방 보조 버클 가방 흘러내림방지 스트랩 구매시 버클 1개 더 증정",
-        "brand": "책가방",
-        "uid": "fceaf8c8-5861-461f-83ed-201bb15e5414",
-        "sale_price": "6,700원",
-        "link": "https://www.coupang.com/vp/products/7689418535?itemId=20559172736&vendorItemId=88740094831&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0827/18c66ecf4e02b829e6c1090841f2ba8e08063f78469add8b5712c8e8aa34.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "코코비도로시 샤샤 아동양말 5종 세트",
-        "brand": "코코비도로시",
-        "uid": "0a8c46ae-057e-478a-973e-26fb8531e255",
-        "sale_price": "9,500원",
-        "link": "https://www.coupang.com/vp/products/6069949991?itemId=11201704927&vendorItemId=78479403810&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7902739988516489-d85bdb75-7d94-42ab-9bd5-4e66d9eb7b2d.jpg"
+        "name": "이쁨달다 펄베일 곱창밴드 3종 세트 RK95",
+        "brand": "이쁨달다",
+        "uid": "0577679c-0721-4ade-88b0-1bba68eb0e41",
+        "sale_price": "5,900원",
+        "link": "https://www.coupang.com/vp/products/7344795530?itemId=18886742056&vendorItemId=86014970523&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/037d/64926fbcbcafd7f94b9b5f1b5bfe1162edb769d82c73b50b9e2fc17634a1.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2206,21 +2206,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "월튼키즈 아동용 베이직 패치 썰매 팬츠",
-        "brand": "월튼키즈",
-        "uid": "93ad8926-6ad4-485c-b965-3fd1e4ded32c",
-        "sale_price": "31,600원",
-        "link": "https://www.coupang.com/vp/products/7670902881?itemId=20462726416&vendorItemId=87501370756&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5665610200165430-9f13e8ce-b88a-4cef-92ba-eae1d56d0d0c.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "롤리트리 아동용 30수 싱글 9부 솔리드 실내복 상하의 세트",
-        "brand": "롤리트리",
-        "uid": "53e1853f-c303-4af7-8779-d946570be60e",
-        "sale_price": "8,940원",
-        "link": "https://www.coupang.com/vp/products/7419624901?itemId=19243942501&vendorItemId=86360094805&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3496570011137397-d9b57eb8-05fb-497e-a2cc-2f9d0541033b.jpg"
+        "name": "더예한복 여아용 한복 머리핀 QT811",
+        "brand": "더예한복",
+        "uid": "3bbb0b69-03b0-466a-910e-e9f3f0a677db",
+        "sale_price": "7,880원",
+        "link": "https://www.coupang.com/vp/products/1067336169?itemId=2014338739&vendorItemId=70014111306&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/12/03/12/9/be0b931a-4375-431e-a94e-614c6567a9a4.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2233,57 +2224,21 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "드레스하우스 비단 색동 복주머니",
-        "brand": "드레스하우스",
-        "uid": "27bc5014-d7ef-4ea8-81db-8caab3ee152d",
-        "sale_price": "4,550원",
-        "link": "https://www.coupang.com/vp/products/6241364?itemId=27900582&vendorItemId=3041580377&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/58625796340867-02dd7f16-f088-48a3-a0b8-e1a8023066b9.jpg"
+        "name": "스파오키즈 아동용 파스텔 푸퍼 다운",
+        "brand": "스파오키즈",
+        "uid": "55151b5f-8a01-4bc6-b0a3-8936ceb9868b",
+        "sale_price": "69,900원",
+        "link": "https://www.coupang.com/vp/products/8463233607?itemId=24485154149&vendorItemId=91498504244&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/19/15/3/7956f025-aa9f-4c3b-beb0-b400a0db722f.jpg"
     },
     {
         "category": "패션의류_잡화",
-        "name": "아이뿜 여아용 토끼와 딸기 수면 양말 4켤레 세트 H85",
-        "brand": "아이뿜",
-        "uid": "3664434c-5a3d-4099-80a4-3f1927474135",
-        "sale_price": "8,800원",
-        "link": "https://www.coupang.com/vp/products/8386351905?itemId=24238993323&vendorItemId=91256066738&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/08/13/6/3e10b0b7-51d3-4213-90c4-b7cc6bebf7ea.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "더예한복 여아용 한복 머리띠 478",
-        "brand": "더예한복",
-        "uid": "6493df2b-3cbf-480a-9b59-7b520b473b7d",
-        "sale_price": "13,950원",
-        "link": "https://www.coupang.com/vp/products/2039137448?itemId=3467109651&vendorItemId=71453462727&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/08/24/19/7/af65db9c-6627-4a55-8817-7f98166b272a.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "필테라 남녀공용 포그니아동슬림기모내의상하복세트 2개",
-        "brand": "필테라",
-        "uid": "57ec6489-67ae-44f7-a13e-77b3bd60de11",
-        "sale_price": "10,030원",
-        "link": "https://www.coupang.com/vp/products/6793553759?itemId=16011846132&vendorItemId=83216501185&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/819a/3bf54cc09bd3c017df40e1add8d1523f796a8c05787c6c5a8f8e9a1efeaf.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "피닉스 아동 미러 수경 PN505JM 화이트 32 x 26mm 1개",
-        "brand": "피닉스",
-        "uid": "f42ff7a4-07e8-48c7-a8cb-569caf90f1e3",
-        "sale_price": "13,410원",
-        "link": "https://www.coupang.com/vp/products/134961571?itemId=396064436&vendorItemId=3964787787&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/109815271257157-82227c58-f21c-43db-b477-ab86f094ce27.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "베베쥬 여아용 딜라잇 부츠컷 팬츠",
-        "brand": "베베쥬",
-        "uid": "5d738a6b-f545-49ae-8381-895b53eb6922",
-        "sale_price": "7,650원",
-        "link": "https://www.coupang.com/vp/products/8351247465?itemId=24126992593&vendorItemId=91209765449&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/30/13/3/7176e9a8-e1b2-43e5-babc-74fcb4ee9fb9.jpg"
+        "name": "브리드케어 캐치티니핑 시즌5 어린이 마스크 20매",
+        "brand": "브리드케어",
+        "uid": "44fdb8e3-8df4-4948-b6f4-9388bb509f57",
+        "sale_price": "15,800원",
+        "link": "https://www.coupang.com/vp/products/8499788644?itemId=24604014541&vendorItemId=91615441563&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c6e0/eec1d229ec232ac6475fa82cf3d3acf569a5e053c4a681ef16bf1bf15ffc.png"
     },
     {
         "category": "패션의류_잡화",
@@ -2296,30 +2251,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "슈펜키즈 아동용 NEW 베이직 실내화 HPKRUEA987",
-        "brand": "슈펜키즈",
-        "uid": "6799b051-22ca-4687-8c21-b5afe2caf776",
-        "sale_price": "4,990원",
-        "link": "https://www.coupang.com/vp/products/8148890554?itemId=23181307506&vendorItemId=90214004831&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/137410920666910-0310d73e-5113-417c-950c-a7fc5a4565f2.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "따블리에 여아용 발레 타이즈 스타킹 2p",
-        "brand": "따블리에",
-        "uid": "45a53c7e-67e3-4fea-b8b9-1a1372539406",
-        "sale_price": "8,600원",
-        "link": "https://www.coupang.com/vp/products/8334104143?itemId=24063310088&vendorItemId=91083164190&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2370246478695762-b76cd1b0-f1f6-46a7-a73e-cb3dbe51ef4b.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "키즈트리 유아동용 손가락 스키 방한 패딩 장갑 ST105",
-        "brand": "키즈트리",
-        "uid": "8460b9f8-9ffb-4ff9-b1c9-44ff5ab36159",
-        "sale_price": "17,900원",
-        "link": "https://www.coupang.com/vp/products/6922130244?itemId=16720039473&vendorItemId=91873112792&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fd25/226afe661fa76097700a481182bdb851037a90d4257cd5863c7ac4b0891d.jpg"
+        "name": "롤리트리 아동용 30수 싱글 9부 솔리드 실내복 상하의 세트",
+        "brand": "롤리트리",
+        "uid": "53e1853f-c303-4af7-8779-d946570be60e",
+        "sale_price": "8,940원",
+        "link": "https://www.coupang.com/vp/products/7419624901?itemId=19243942501&vendorItemId=86360094805&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3496570011137397-d9b57eb8-05fb-497e-a2cc-2f9d0541033b.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2332,12 +2269,75 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "동산 방수 아동장갑 스키장갑 방한 어린이장갑",
-        "brand": "동산",
-        "uid": "8726a2ff-0ac9-4b23-9339-6b40b7cc6e94",
-        "sale_price": "11,400원",
-        "link": "https://www.coupang.com/vp/products/9704041?itemId=162543959&vendorItemId=3383773451&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5966/adda4047d85bc761e7b805332afd7c7acc2bf3b69552723440603e78d233.jpg"
+        "name": "월튼키즈 아동용 베이직 패치 썰매 팬츠",
+        "brand": "월튼키즈",
+        "uid": "93ad8926-6ad4-485c-b965-3fd1e4ded32c",
+        "sale_price": "31,600원",
+        "link": "https://www.coupang.com/vp/products/7670902881?itemId=20462726416&vendorItemId=87501370756&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5665610200165430-9f13e8ce-b88a-4cef-92ba-eae1d56d0d0c.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "드레스하우스 비단 색동 복주머니",
+        "brand": "드레스하우스",
+        "uid": "27bc5014-d7ef-4ea8-81db-8caab3ee152d",
+        "sale_price": "4,550원",
+        "link": "https://www.coupang.com/vp/products/6241364?itemId=27900582&vendorItemId=3041580377&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/58625796340867-02dd7f16-f088-48a3-a0b8-e1a8023066b9.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "필테라 남녀공용 포그니아동슬림기모내의상하복세트 2개",
+        "brand": "필테라",
+        "uid": "57ec6489-67ae-44f7-a13e-77b3bd60de11",
+        "sale_price": "10,030원",
+        "link": "https://www.coupang.com/vp/products/6793553759?itemId=16011846132&vendorItemId=83216501185&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/819a/3bf54cc09bd3c017df40e1add8d1523f796a8c05787c6c5a8f8e9a1efeaf.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "더예한복 여아용 한복 머리띠 478",
+        "brand": "더예한복",
+        "uid": "6493df2b-3cbf-480a-9b59-7b520b473b7d",
+        "sale_price": "13,950원",
+        "link": "https://www.coupang.com/vp/products/2039137448?itemId=3467109651&vendorItemId=71453462727&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/08/24/19/7/af65db9c-6627-4a55-8817-7f98166b272a.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "슈펜키즈 아동용 NEW 베이직 실내화 HPKRUEA987",
+        "brand": "슈펜키즈",
+        "uid": "6799b051-22ca-4687-8c21-b5afe2caf776",
+        "sale_price": "4,990원",
+        "link": "https://www.coupang.com/vp/products/8148890554?itemId=23181307506&vendorItemId=90214004831&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/137410920666910-0310d73e-5113-417c-950c-a7fc5a4565f2.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "피닉스 아동 미러 수경 PN505JM 화이트 32 x 26mm 1개",
+        "brand": "피닉스",
+        "uid": "f42ff7a4-07e8-48c7-a8cb-569caf90f1e3",
+        "sale_price": "13,410원",
+        "link": "https://www.coupang.com/vp/products/134961571?itemId=396064436&vendorItemId=3964787787&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/109815271257157-82227c58-f21c-43db-b477-ab86f094ce27.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "따블리에 여아용 발레 타이즈 스타킹 2p",
+        "brand": "따블리에",
+        "uid": "45a53c7e-67e3-4fea-b8b9-1a1372539406",
+        "sale_price": "8,600원",
+        "link": "https://www.coupang.com/vp/products/8334104143?itemId=24063310088&vendorItemId=91083164190&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2370246478695762-b76cd1b0-f1f6-46a7-a73e-cb3dbe51ef4b.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "베베쥬 여아용 딜라잇 부츠컷 팬츠",
+        "brand": "베베쥬",
+        "uid": "5d738a6b-f545-49ae-8381-895b53eb6922",
+        "sale_price": "7,650원",
+        "link": "https://www.coupang.com/vp/products/8351247465?itemId=24126992593&vendorItemId=91209765449&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/30/13/3/7176e9a8-e1b2-43e5-babc-74fcb4ee9fb9.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2359,21 +2359,21 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "스타키드 유아용 사랑스러운 양면 내의세트",
-        "brand": "스타키드",
-        "uid": "83bca8e0-0dab-4428-a638-7551d21396a3",
-        "sale_price": "10,890원",
-        "link": "https://www.coupang.com/vp/products/2333848140?itemId=4040616095&vendorItemId=72024776636&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6d50/49b7e4f531cdfd0f7e1e28fb2a89c6d2b55ee8d0ec2cefe9398921f1d368.jpg"
+        "name": "위삭스앤파파맘 아동용 도톰골지 타이즈",
+        "brand": "위삭스앤파파맘",
+        "uid": "4c6d297b-07f7-403a-aa59-e7153ffccc37",
+        "sale_price": "6,400원",
+        "link": "https://www.coupang.com/vp/products/130902870?itemId=385297933&vendorItemId=3936392242&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/11/15/3936392242/6a2c9d02-8fe2-4c7e-9c4f-53e3a8bc60d9.jpg"
     },
     {
         "category": "패션의류_잡화",
-        "name": "아기 베레모 니트 돌 두돌",
-        "brand": "아기",
-        "uid": "c1a7bcb6-aba7-4e4f-bb7c-6f948522612d",
-        "sale_price": "7,900원",
-        "link": "https://www.coupang.com/vp/products/8273379211?itemId=23846216088&vendorItemId=90869661457&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9b3d/f37077d278b5abe77a45ce5ce3a1798155ffe7a41526f69e7896d2cc0c5f.jpg"
+        "name": "동산 방수 아동장갑 스키장갑 방한 어린이장갑",
+        "brand": "동산",
+        "uid": "8726a2ff-0ac9-4b23-9339-6b40b7cc6e94",
+        "sale_price": "11,400원",
+        "link": "https://www.coupang.com/vp/products/9704041?itemId=162543959&vendorItemId=3383773451&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5966/adda4047d85bc761e7b805332afd7c7acc2bf3b69552723440603e78d233.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2386,48 +2386,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "겨울왕국2 여아용 눈꽃 미끄럼방지 덧신 PN115",
-        "brand": "겨울왕국2",
-        "uid": "9af447f7-3ccc-424b-8192-cc711b718512",
-        "sale_price": "5,730원",
-        "link": "https://www.coupang.com/vp/products/1422503286?itemId=2461326400&vendorItemId=70454823664&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/03/25/12/1/31a943ce-ac30-4a17-a799-47d1b85b4915.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "큐비앤맘 레빗 스카프 손수건 10p 세트",
-        "brand": "큐비앤맘",
-        "uid": "789f787d-2c72-48ae-8fe3-e615ecb1c336",
-        "sale_price": "11,150원",
-        "link": "https://www.coupang.com/vp/products/65517040?itemId=220987796&vendorItemId=3534883412&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/11/23/3534883412/6b338437-841f-4b1e-bbc7-e7abeecdc374.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "로토토베베 남아용 모달드로즈 세트",
-        "brand": "로토토베베",
-        "uid": "56ffb9eb-7c6c-4bb4-b989-a7a2d637b721",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8452541375?itemId=24456001252&vendorItemId=91469759441&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/14/10/5/1cb61158-479d-41fd-8acf-6875a542e5a1.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "하이베이비키즈 꽈배기양말 5족세트",
-        "brand": "하이베이비키즈",
-        "uid": "bc12f3d2-41c5-427b-8264-70a1f914701b",
-        "sale_price": "13,860원",
-        "link": "https://www.coupang.com/vp/products/1937330491?itemId=3288663555&vendorItemId=71275631801&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/df39/977591e49a86aaea071a51ce033a55f48f8e367f890086d05bb839981510.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "아가방 캉캉내의 YELLOW RED 77P757652",
-        "brand": "아가방",
-        "uid": "f00cccb4-9762-4580-bdfe-af850104f7b6",
-        "sale_price": "14,920원",
-        "link": "https://www.coupang.com/vp/products/6893859980?itemId=16558046298&vendorItemId=83744288579&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2929/d9b9d9991cd45e446de857beea9ee533534d4fa55318f0027359717470a4.jpg"
+        "name": "키즈트리 유아동용 손가락 스키 방한 패딩 장갑 ST105",
+        "brand": "키즈트리",
+        "uid": "8460b9f8-9ffb-4ff9-b1c9-44ff5ab36159",
+        "sale_price": "17,900원",
+        "link": "https://www.coupang.com/vp/products/6922130244?itemId=16720039473&vendorItemId=91873112792&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fd25/226afe661fa76097700a481182bdb851037a90d4257cd5863c7ac4b0891d.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2440,21 +2404,39 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "스파오키즈 아동용 파스텔 푸퍼 다운",
-        "brand": "스파오키즈",
-        "uid": "55151b5f-8a01-4bc6-b0a3-8936ceb9868b",
-        "sale_price": "69,900원",
-        "link": "https://www.coupang.com/vp/products/8463233607?itemId=24485154149&vendorItemId=91498504244&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/19/15/3/7956f025-aa9f-4c3b-beb0-b400a0db722f.jpg"
+        "name": "아기 베레모 니트 돌 두돌",
+        "brand": "아기",
+        "uid": "c1a7bcb6-aba7-4e4f-bb7c-6f948522612d",
+        "sale_price": "7,900원",
+        "link": "https://www.coupang.com/vp/products/8273379211?itemId=23846216088&vendorItemId=90869661457&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9b3d/f37077d278b5abe77a45ce5ce3a1798155ffe7a41526f69e7896d2cc0c5f.jpg"
     },
     {
         "category": "패션의류_잡화",
-        "name": "아티나 부력보조복 넥베스트 50 네온옐로우 W35 x L40 x H37 cm",
-        "brand": "아티나",
-        "uid": "559c4061-a358-4e13-b66d-28d2baec9e71",
-        "sale_price": "18,710원",
-        "link": "https://www.coupang.com/vp/products/6640480158?itemId=18206655892&vendorItemId=85354928472&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1049621913636053-8f1b0d68-ea39-484c-b12c-2cb3d5d52d32.jpg"
+        "name": "아가방 캉캉내의 YELLOW RED 77P757652",
+        "brand": "아가방",
+        "uid": "f00cccb4-9762-4580-bdfe-af850104f7b6",
+        "sale_price": "14,920원",
+        "link": "https://www.coupang.com/vp/products/6893859980?itemId=16558046298&vendorItemId=83744288579&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2929/d9b9d9991cd45e446de857beea9ee533534d4fa55318f0027359717470a4.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "하이베이비키즈 유아용 미니미 양말 토끼 5종 세트",
+        "brand": "하이베이비키즈",
+        "uid": "96ac8673-f179-4eb1-ab95-abcade0da079",
+        "sale_price": "11,870원",
+        "link": "https://www.coupang.com/vp/products/8075047736?itemId=22745300900&vendorItemId=89780528310&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/354825564892334-40f267dc-680f-4a71-b87d-791f899178cf.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "큐비앤맘 레빗 스카프 손수건 10p 세트",
+        "brand": "큐비앤맘",
+        "uid": "789f787d-2c72-48ae-8fe3-e615ecb1c336",
+        "sale_price": "11,150원",
+        "link": "https://www.coupang.com/vp/products/65517040?itemId=220987796&vendorItemId=3534883412&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/11/23/3534883412/6b338437-841f-4b1e-bbc7-e7abeecdc374.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2467,6 +2449,33 @@
     },
     {
         "category": "패션의류_잡화",
+        "name": "하이베이비키즈 꽈배기양말 5족세트",
+        "brand": "하이베이비키즈",
+        "uid": "bc12f3d2-41c5-427b-8264-70a1f914701b",
+        "sale_price": "13,860원",
+        "link": "https://www.coupang.com/vp/products/1937330491?itemId=3288663555&vendorItemId=71275631801&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/df39/977591e49a86aaea071a51ce033a55f48f8e367f890086d05bb839981510.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "아티나 부력보조복 넥베스트 50 네온옐로우 W35 x L40 x H37 cm",
+        "brand": "아티나",
+        "uid": "559c4061-a358-4e13-b66d-28d2baec9e71",
+        "sale_price": "18,710원",
+        "link": "https://www.coupang.com/vp/products/6640480158?itemId=18206655892&vendorItemId=85354928472&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1049621913636053-8f1b0d68-ea39-484c-b12c-2cb3d5d52d32.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "스타키드 유아용 사랑스러운 양면 내의세트",
+        "brand": "스타키드",
+        "uid": "83bca8e0-0dab-4428-a638-7551d21396a3",
+        "sale_price": "10,890원",
+        "link": "https://www.coupang.com/vp/products/2333848140?itemId=4040616095&vendorItemId=72024776636&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6d50/49b7e4f531cdfd0f7e1e28fb2a89c6d2b55ee8d0ec2cefe9398921f1d368.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
         "name": "롤리트리 아동용 30수 싱글 9부 포인트 솔리드 실내복 상하의 세트",
         "brand": "롤리트리",
         "uid": "4e619a2d-c023-4d25-8484-f8a3acd9ee23",
@@ -2476,12 +2485,30 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "서브22 아동 어린이 패딩 눈썰매 스키바지",
-        "brand": "서브22",
-        "uid": "486dd01a-1faf-4955-aede-2c00c4c39454",
+        "name": "지앤 아동용 스마일 체크 밴드 양말 5족 세트",
+        "brand": "지앤",
+        "uid": "232a7180-a3ba-4e5a-9d91-168f63795644",
+        "sale_price": "8,370원",
+        "link": "https://www.coupang.com/vp/products/7650873058?itemId=20356720363&vendorItemId=87440959638&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/54a1/841e536fe3754ef223ce885688476ec9aeaaca83ae40044dd00749ad7f08.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "겨울왕국2 여아용 눈꽃 미끄럼방지 덧신 PN115",
+        "brand": "겨울왕국2",
+        "uid": "9af447f7-3ccc-424b-8192-cc711b718512",
+        "sale_price": "5,730원",
+        "link": "https://www.coupang.com/vp/products/1422503286?itemId=2461326400&vendorItemId=70454823664&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/03/25/12/1/31a943ce-ac30-4a17-a799-47d1b85b4915.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "로토토베베 남아용 모달드로즈 세트",
+        "brand": "로토토베베",
+        "uid": "56ffb9eb-7c6c-4bb4-b989-a7a2d637b721",
         "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8421519357?itemId=24358769153&vendorItemId=91381055498&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6da0/9574f60d714311aeeb86f66cf4534c4b801c5191670a705f0c650ee28d59.jpg"
+        "link": "https://www.coupang.com/vp/products/8452541375?itemId=24456001252&vendorItemId=91469759441&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/11/14/10/5/1cb61158-479d-41fd-8acf-6875a542e5a1.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2494,12 +2521,21 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "위삭스앤파파맘 아동용 도톰골지 타이즈",
-        "brand": "위삭스앤파파맘",
-        "uid": "4c6d297b-07f7-403a-aa59-e7153ffccc37",
-        "sale_price": "6,400원",
-        "link": "https://www.coupang.com/vp/products/130902870?itemId=385297933&vendorItemId=3936392242&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/11/15/3936392242/6a2c9d02-8fe2-4c7e-9c4f-53e3a8bc60d9.jpg"
+        "name": "베이비앤아이 핑크퐁 남아용 삼각팬티 5종 세트",
+        "brand": "베이비앤아이",
+        "uid": "5160c405-651f-4bd9-b5d9-8faa0fb8ab61",
+        "sale_price": "11,500원",
+        "link": "https://www.coupang.com/vp/products/1736238118?itemId=2955322072&vendorItemId=70943840167&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1806978954239043-a3517b73-95d0-428c-b9ff-5566a9de9015.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "서브22 아동 어린이 패딩 눈썰매 스키바지",
+        "brand": "서브22",
+        "uid": "486dd01a-1faf-4955-aede-2c00c4c39454",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8421519357?itemId=24358769153&vendorItemId=91381055498&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6da0/9574f60d714311aeeb86f66cf4534c4b801c5191670a705f0c650ee28d59.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2521,21 +2557,30 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "하이베이비키즈 유아용 미니미 양말 토끼 5종 세트",
-        "brand": "하이베이비키즈",
-        "uid": "96ac8673-f179-4eb1-ab95-abcade0da079",
-        "sale_price": "11,870원",
-        "link": "https://www.coupang.com/vp/products/8075047736?itemId=22745300900&vendorItemId=89780528310&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/354825564892334-40f267dc-680f-4a71-b87d-791f899178cf.jpg"
+        "name": "금동이아가한복 여아용 눈꽃보 아동한복세트 AW113",
+        "brand": "금동이아가한복",
+        "uid": "70784376-6b77-4faf-9a78-37e4c0e5bddd",
+        "sale_price": "41,900원",
+        "link": "https://www.coupang.com/vp/products/1890397615?itemId=3212046863&vendorItemId=71199373040&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4524303388818233-472a0bfc-c553-4162-bbc7-be6513a24992.jpg"
     },
     {
         "category": "패션의류_잡화",
-        "name": "지앤 아동용 스마일 체크 밴드 양말 5족 세트",
-        "brand": "지앤",
-        "uid": "232a7180-a3ba-4e5a-9d91-168f63795644",
-        "sale_price": "8,370원",
-        "link": "https://www.coupang.com/vp/products/7650873058?itemId=20356720363&vendorItemId=87440959638&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/54a1/841e536fe3754ef223ce885688476ec9aeaaca83ae40044dd00749ad7f08.jpg"
+        "name": "아티나 아동용 착용형 수영보조 버블 넥베스트 25kg W 32cm x L 33cm x H 35cm 베이비핑크 1개",
+        "brand": "아티나",
+        "uid": "5dcef1e5-fe00-44fb-9ca7-b2924b352ef9",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8177000414?itemId=23369429839&vendorItemId=90399626469&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1383318610388150-851f154e-5d94-41b0-8612-d023a5a2d466.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "하랑한복 여아용 해피랑 한복 3단 속치마",
+        "brand": "하랑한복",
+        "uid": "ebcca993-eefc-49a7-8359-cd2076098793",
+        "sale_price": "18,900원",
+        "link": "https://www.coupang.com/vp/products/1960421909?itemId=3331853352&vendorItemId=71318675330&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1943634916371138-62cf9958-935c-4501-8767-718cd6c058e8.png"
     },
     {
         "category": "패션의류_잡화",
@@ -2557,39 +2602,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "아티나 아동용 착용형 수영보조 버블 넥베스트 25kg W 32cm x L 33cm x H 35cm 베이비핑크 1개",
-        "brand": "아티나",
-        "uid": "5dcef1e5-fe00-44fb-9ca7-b2924b352ef9",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8177000414?itemId=23369429839&vendorItemId=90399626469&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1383318610388150-851f154e-5d94-41b0-8612-d023a5a2d466.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "르브니 주니어 심플 요일 팬티 5종세트 사계절 소녀감성 면스판 기본 깔끔 항균 CW코아5종",
-        "brand": "르브니",
-        "uid": "671a6c27-2ae3-4815-89a6-b6a4726e8f83",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/7568125339?itemId=19952775037&vendorItemId=87051698322&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fe70/b95525b7cc24f4c81c0ff544c8ccc50e22e3d538f2a04f2862ad2c0e0abf.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "그린코코 귀여운 미니 크로스 가방 크로스백 핸드폰 가방 휴대폰가방  곰돌이뱃지포함",
-        "brand": "그린코코",
-        "uid": "c4da3a8e-6881-4e88-885d-24b73039dc4b",
-        "sale_price": "11,950원",
-        "link": "https://www.coupang.com/vp/products/7462409283?itemId=19453652666&vendorItemId=86564262117&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b443/6c25c402ddf42d1c3c703117e7136519a13be92ebd77a22cb1cc9d47540d.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "베이비앤아이 핑크퐁 남아용 삼각팬티 5종 세트",
-        "brand": "베이비앤아이",
-        "uid": "5160c405-651f-4bd9-b5d9-8faa0fb8ab61",
-        "sale_price": "11,500원",
-        "link": "https://www.coupang.com/vp/products/1736238118?itemId=2955322072&vendorItemId=70943840167&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1806978954239043-a3517b73-95d0-428c-b9ff-5566a9de9015.jpg"
+        "name": "더예한복 남아용 512 어진별이 한복세트",
+        "brand": "더예한복",
+        "uid": "7a05d30a-b018-4d21-8000-700e94a5496f",
+        "sale_price": "42,900원",
+        "link": "https://www.coupang.com/vp/products/6221435895?itemId=12453528451&vendorItemId=79722590839&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/g73wfeaa/7e17126c097a40fd91dc6b0b2d075a71.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2602,30 +2620,21 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "아이윙크 유아동 퍼들점퍼 가로 57cm x 세로 18cm 핑크 1개",
-        "brand": "아이윙크",
-        "uid": "85946eae-e7cb-4b3a-a2bd-d7c7e9d603b6",
-        "sale_price": "12,840원",
-        "link": "https://www.coupang.com/vp/products/7151238128?itemId=17979339548&vendorItemId=3725303529&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/05/28/11/0/e1f023ad-480c-4199-9e07-24a97e384ade.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "더예한복 남아용 512 어진별이 한복세트",
-        "brand": "더예한복",
-        "uid": "7a05d30a-b018-4d21-8000-700e94a5496f",
-        "sale_price": "42,900원",
-        "link": "https://www.coupang.com/vp/products/6221435895?itemId=12453528451&vendorItemId=79722590839&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/g73wfeaa/7e17126c097a40fd91dc6b0b2d075a71.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
         "name": "베네통키즈 아동용 유니화섬 장갑 양손 착용 세트 QCGLP1461",
         "brand": "베네통키즈",
         "uid": "42e2777a-afb5-44ea-a97d-2b586666ca57",
         "sale_price": "25,140원",
         "link": "https://www.coupang.com/vp/products/8413486565?itemId=24328269367&vendorItemId=91343917708&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/23/18/4/8afa84fc-6bb2-4984-94e6-64f1a596fb4e.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "그린코코 귀여운 미니 크로스 가방 크로스백 핸드폰 가방 휴대폰가방  곰돌이뱃지포함",
+        "brand": "그린코코",
+        "uid": "c4da3a8e-6881-4e88-885d-24b73039dc4b",
+        "sale_price": "11,950원",
+        "link": "https://www.coupang.com/vp/products/7462409283?itemId=19453652666&vendorItemId=86564262117&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b443/6c25c402ddf42d1c3c703117e7136519a13be92ebd77a22cb1cc9d47540d.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2638,12 +2647,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "롤리트리 아동용 기본 목폴라 티셔츠",
-        "brand": "롤리트리",
-        "uid": "2d37fda7-694f-4804-9577-fa66444e1f9e",
-        "sale_price": "8,210원",
-        "link": "https://www.coupang.com/vp/products/6628865540?itemId=15104486478&vendorItemId=82326434891&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7303237169667483-f002d46b-94d9-4c3a-bd8f-90e9b5ceedef.jpg"
+        "name": "르브니 주니어 심플 요일 팬티 5종세트 사계절 소녀감성 면스판 기본 깔끔 항균 CW코아5종",
+        "brand": "르브니",
+        "uid": "671a6c27-2ae3-4815-89a6-b6a4726e8f83",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/7568125339?itemId=19952775037&vendorItemId=87051698322&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fe70/b95525b7cc24f4c81c0ff544c8ccc50e22e3d538f2a04f2862ad2c0e0abf.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2656,30 +2665,12 @@
     },
     {
         "category": "패션의류_잡화",
-        "name": "지구촌 베이직 신주머니 W163",
-        "brand": "지구촌",
-        "uid": "993df8fa-ca22-4323-96e6-c4c86ceb045b",
-        "sale_price": "6,600원",
-        "link": "https://www.coupang.com/vp/products/6125691663?itemId=11643978721&vendorItemId=78918479661&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/804195110128275-fbf6d6ca-cea5-4d1a-8d67-1055bcfd13df.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "꼼제 유아용 RC도톰배색67 도톰한 수면 방한양말 4족 세트",
-        "brand": "꼼제",
-        "uid": "9b943e68-134d-465f-af51-e43d557ac6d0",
-        "sale_price": "10,300원",
-        "link": "https://www.coupang.com/vp/products/7637166918?itemId=20282463507&vendorItemId=91492036401&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/hzd5brs8/07d39369687f4b41905a4b2cdd702170.jpg"
-    },
-    {
-        "category": "패션의류_잡화",
-        "name": "발산마켓 키즈카페 미끄럼방지 양말 7켤레 세트 아동 논슬립",
-        "brand": "발산마켓",
-        "uid": "a09f1b7b-bb76-4c54-9e73-ed05b6eaa2ae",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/8384506085?itemId=24232099101&vendorItemId=91255099328&sourceType=CATEGORY&categoryId=508465",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b790/a0377270661b0ce1794ddd8bf6a2e22ee879e2d03d688f8ca6fd782dcf0a.png"
+        "name": "아이윙크 유아동 퍼들점퍼 가로 57cm x 세로 18cm 핑크 1개",
+        "brand": "아이윙크",
+        "uid": "85946eae-e7cb-4b3a-a2bd-d7c7e9d603b6",
+        "sale_price": "12,840원",
+        "link": "https://www.coupang.com/vp/products/7151238128?itemId=17979339548&vendorItemId=3725303529&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/05/28/11/0/e1f023ad-480c-4199-9e07-24a97e384ade.jpg"
     },
     {
         "category": "패션의류_잡화",
@@ -2689,6 +2680,15 @@
         "sale_price": "17,630원",
         "link": "https://www.coupang.com/vp/products/7632462458?itemId=20260543606&vendorItemId=87348093250&sourceType=CATEGORY&categoryId=508465",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1661929782446171-7b0c3003-9053-4313-8e19-8541592c1565.jpg"
+    },
+    {
+        "category": "패션의류_잡화",
+        "name": "채니봉봉 하트 헤어핀 세트",
+        "brand": "채니봉봉",
+        "uid": "ffcd216b-9d9d-4fbb-bf7b-fbb1c4c504d1",
+        "sale_price": "6,090원",
+        "link": "https://www.coupang.com/vp/products/6687645759?itemId=15443790679&vendorItemId=82663413263&sourceType=CATEGORY&categoryId=508465",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/f2c4/4578d2c0c3f1290bdcebe64b56f7d8652e48edaa233de636ea1493cd7520.jpg"
     },
     {
         "category": "패션의류_잡화",

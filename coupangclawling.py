@@ -72,10 +72,19 @@ def generate_uid(name, existing_uids):
 def click_next_page(driver, page, category_name):
     """ 특정 카테고리별 페이지 이동 처리 """
     try:
-        if category_name in ["생활_위생용품", "완구용품", "침구류"]:
-            next_page_xpath = f"//*[@id='product-list-paging']/div/a[{page + 2}]"
+        if category_name == "완구용품":
+            if page == 3:  # 4페이지 이동
+                next_page_xpath = "/html/body/div[3]/section/form/div/div/div[1]/div[5]/div[4]/div/a[5]"
+            elif page == 4:  # 5페이지 이동
+                next_page_xpath = "/html/body/div[3]/section/form/div/div/div[1]/div[5]/div[4]/div/a[6]"
+            else:
+                next_page_xpath = f"//*[@id='product-list-paging']/div/a[{page + 2}]"  # 기본 이동
+
+        elif category_name in ["생활_위생용품", "침구류"]:
+            next_page_xpath = f"//*[@id='product-list-paging']/div/a[{min(page + 2, 6)}]"  # 6페이지로 안 넘어가도록 제한
+
         else:
-            next_page_xpath = f"/html/body/div[3]/section/form/div/div/div[1]/div[2]/div[4]/div/a[{page + 2}]"
+            next_page_xpath = f"/html/body/div[3]/section/form/div/div/div[1]/div[2]/div[4]/div/a[{min(page + 2, 6)}]"  # 6페이지 제한 적용
 
         next_button = driver.find_element(By.XPATH, next_page_xpath)
         if next_button.is_displayed():

@@ -28,21 +28,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "퍼실 센서티브 젤 유아 세제 135L 1개",
-        "brand": "퍼실",
-        "uid": "29637487-6393-4d2e-b32e-c6525c81bcf3",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/73837753?itemId=9047944585&vendorItemId=3000149224&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2265524411426466-55a0643c-c2bc-4c19-b910-ff5ff0f220ef.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "폴메디슨 키즈 아토 캡슐세제 코튼향 40개입 560g 1개",
         "brand": "폴메디슨",
         "uid": "c92d9c82-75b9-4d2b-8d8e-e12eae7497ed",
         "sale_price": "8,970원",
         "link": "https://www.coupang.com/vp/products/7733263764?itemId=20786168677&vendorItemId=87855830518&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/e530/c19b8f2a4e4c85f2996aea50d94c0d3d69f8d403d60895dca74e8a2b0fe2.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "퍼실 센서티브 젤 유아 세제 135L 1개",
+        "brand": "퍼실",
+        "uid": "29637487-6393-4d2e-b32e-c6525c81bcf3",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/73837753?itemId=9047944585&vendorItemId=3000149224&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2265524411426466-55a0643c-c2bc-4c19-b910-ff5ff0f220ef.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -64,15 +64,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "마더케이 멸균 구강티슈 30p 120g 1개",
-        "brand": "마더케이",
-        "uid": "f9b84379-10bc-4a56-b21f-b95f185a195d",
-        "sale_price": "8,200원",
-        "link": "https://www.coupang.com/vp/products/5274151519?itemId=8510803036&vendorItemId=75798277964&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/nbz0el64/0d737275407340fcb52c2d2c80d35d50.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "마데카 쿨링시트 15개입 1개",
         "brand": "마데카",
         "uid": "8105ad4d-d7f9-47f1-acde-b9b0efedb52c",
@@ -82,12 +73,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "카스 디지털 온습도계 T023 화이트 1개",
-        "brand": "카스",
-        "uid": "49344a3d-0fb7-4a10-a193-82c07f297a30",
-        "sale_price": "9,680원",
-        "link": "https://www.coupang.com/vp/products/72986941?itemId=243287302&vendorItemId=71474316987&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0c07/b2cb3aa6c5015555ef733a16ad83f832bdb0b71ebc954d121a1c14409a90.jpg"
+        "name": "마더케이 멸균 구강티슈 30p 120g 1개",
+        "brand": "마더케이",
+        "uid": "f9b84379-10bc-4a56-b21f-b95f185a195d",
+        "sale_price": "8,200원",
+        "link": "https://www.coupang.com/vp/products/5274151519?itemId=8510803036&vendorItemId=75798277964&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/nbz0el64/0d737275407340fcb52c2d2c80d35d50.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -97,6 +88,15 @@
         "sale_price": "1,730원",
         "link": "https://www.coupang.com/vp/products/7679673685?itemId=20757813329&vendorItemId=83983013159&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8bda/7160af01ba7feb7fe79889381b08b02d2855e15d504d33ebd33f42696676.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "카스 디지털 온습도계 T023 화이트 1개",
+        "brand": "카스",
+        "uid": "49344a3d-0fb7-4a10-a193-82c07f297a30",
+        "sale_price": "9,680원",
+        "link": "https://www.coupang.com/vp/products/72986941?itemId=243287302&vendorItemId=71474316987&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0c07/b2cb3aa6c5015555ef733a16ad83f832bdb0b71ebc954d121a1c14409a90.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -136,21 +136,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 유아용품 제균 스프레이 용기형 300ml 1개",
-        "brand": "비앤비",
-        "uid": "f4922b5a-8eb9-47b9-a315-cd3610f86a76",
-        "sale_price": "9,200원",
-        "link": "https://www.coupang.com/vp/products/950862?itemId=23169936431&vendorItemId=91145306233&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/20/13/3/40d94bb3-a428-4d41-b43b-690a6483601a.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "네이쳐러브메레 유아용 면봉 원통형 100개입 1개",
         "brand": "네이쳐러브메레",
         "uid": "fa9f3460-67da-46ab-9c83-d575d31c7ba1",
         "sale_price": "1,900원",
         "link": "https://www.coupang.com/vp/products/48008871?itemId=170034506&vendorItemId=3405282424&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2017/11/16/15/3/b82ed071-b502-4d32-ac7e-f499617df525.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 유아용품 제균 스프레이 용기형 300ml 1개",
+        "brand": "비앤비",
+        "uid": "f4922b5a-8eb9-47b9-a315-cd3610f86a76",
+        "sale_price": "9,200원",
+        "link": "https://www.coupang.com/vp/products/950862?itemId=23169936431&vendorItemId=91145306233&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/09/20/13/3/40d94bb3-a428-4d41-b43b-690a6483601a.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -298,12 +298,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 순면 유아면봉 사각 100개입 3개",
+        "name": "비앤비 주방세제 액상형 1L 1개",
         "brand": "비앤비",
-        "uid": "f72bddd2-6a12-481f-b09d-1cf539716b76",
-        "sale_price": "4,900원",
-        "link": "https://www.coupang.com/vp/products/6132805621?itemId=567372261&vendorItemId=85917012942&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/ec9cc59e-f87f-4047-a597-c201bc73aa701239256678907748272.png"
+        "uid": "7383ee23-ec88-4a2b-8a72-69ea65da92ed",
+        "sale_price": "8,770원",
+        "link": "https://www.coupang.com/vp/products/7014947509?itemId=17252850136&vendorItemId=3000105373&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/94e4/d3593c653bf1e7ffcfed87c16d7ff60c257472009e181f07b8bd48839212.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -316,12 +316,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 주방세제 액상형 1L 1개",
+        "name": "비앤비 순면 유아면봉 사각 100개입 3개",
         "brand": "비앤비",
-        "uid": "7383ee23-ec88-4a2b-8a72-69ea65da92ed",
-        "sale_price": "8,770원",
-        "link": "https://www.coupang.com/vp/products/7014947509?itemId=17252850136&vendorItemId=3000105373&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/94e4/d3593c653bf1e7ffcfed87c16d7ff60c257472009e181f07b8bd48839212.jpg"
+        "uid": "f72bddd2-6a12-481f-b09d-1cf539716b76",
+        "sale_price": "4,900원",
+        "link": "https://www.coupang.com/vp/products/6132805621?itemId=567372261&vendorItemId=85917012942&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/ec9cc59e-f87f-4047-a597-c201bc73aa701239256678907748272.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "미유 3중필터 소형 일회용 마스크 어린이용 50개입 1개 화이트",
+        "brand": "미유",
+        "uid": "8ebdfc26-f284-474a-ae39-f6f1639bc136",
+        "sale_price": "3,320원",
+        "link": "https://www.coupang.com/vp/products/5262729532?itemId=2723062526&vendorItemId=70713265451&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/eb60/7b16841d8aaf03f0e026872d417e31eacd6bfc9a122870857d412f558fd4.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -340,15 +349,6 @@
         "sale_price": "3,500원",
         "link": "https://www.coupang.com/vp/products/6346266130?itemId=13335806521&vendorItemId=87152108382&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/09/11/17/2/1588ff3b-016f-4b05-a4a7-7ffaf585a160.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "미유 3중필터 소형 일회용 마스크 어린이용 50개입 1개 화이트",
-        "brand": "미유",
-        "uid": "8ebdfc26-f284-474a-ae39-f6f1639bc136",
-        "sale_price": "3,320원",
-        "link": "https://www.coupang.com/vp/products/5262729532?itemId=2723062526&vendorItemId=70713265451&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/eb60/7b16841d8aaf03f0e026872d417e31eacd6bfc9a122870857d412f558fd4.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -406,12 +406,30 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "피셔프라이스 베이비점착면봉 개별포장 50매 2개",
+        "brand": "피셔프라이스",
+        "uid": "adf902a7-4b33-4272-b26a-60c966c2e3f8",
+        "sale_price": "6,950원",
+        "link": "https://www.coupang.com/vp/products/21536495?itemId=84098704&vendorItemId=3017110053&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/181512938228878-9c7b4781-e9ad-4ea8-8c2f-f30e6c85d846.jpg"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "조르단 스텝 1단계 영유아 칫솔 4개",
         "brand": "조르단",
         "uid": "aae202f1-25bf-47fc-911e-b976e83df8f8",
         "sale_price": "9,980원",
         "link": "https://www.coupang.com/vp/products/6078535627?itemId=1001503714&vendorItemId=3008071880&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4284563283197917-0c8367e0-4c02-4a47-9eaa-07102aca5975.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 유아 구강청결 멸균티슈 30매 60g 1개",
+        "brand": "비앤비",
+        "uid": "239a7890-a345-483c-92bf-06e84697efdc",
+        "sale_price": "5,560원",
+        "link": "https://www.coupang.com/vp/products/126810?itemId=234025&vendorItemId=3012948490&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ca9a/024f28d64a8825195b9a8abf92cd946d7e3817422e54b31b307b07649e62.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -424,21 +442,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "피셔프라이스 베이비점착면봉 개별포장 50매 2개",
-        "brand": "피셔프라이스",
-        "uid": "adf902a7-4b33-4272-b26a-60c966c2e3f8",
-        "sale_price": "6,950원",
-        "link": "https://www.coupang.com/vp/products/21536495?itemId=84098704&vendorItemId=3017110053&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/181512938228878-9c7b4781-e9ad-4ea8-8c2f-f30e6c85d846.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "조르단 스텝 2단계 유아칫솔 랜덤발송 1개입 6개",
-        "brand": "조르단",
-        "uid": "53f2013b-c695-4f6f-aceb-eaef219078ed",
-        "sale_price": "15,370원",
-        "link": "https://www.coupang.com/vp/products/7235518876?itemId=2743900156&vendorItemId=3071822810&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/610660065792381-d9b1c18a-bdd0-4223-9607-5de337a2230e.jpg"
+        "name": "페리오 키즈 피카츄 양치세트 1세트",
+        "brand": "페리오",
+        "uid": "9b5782c2-b463-4008-8440-2baffc12a4aa",
+        "sale_price": "8,920원",
+        "link": "https://www.coupang.com/vp/products/6312182597?itemId=19005949391&vendorItemId=88333204027&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/113826369919400-f0d7bdde-829b-4daa-9a77-eaa3d371e3a3.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -460,30 +469,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 유아 구강청결 멸균티슈 30매 60g 1개",
-        "brand": "비앤비",
-        "uid": "239a7890-a345-483c-92bf-06e84697efdc",
-        "sale_price": "5,560원",
-        "link": "https://www.coupang.com/vp/products/126810?itemId=234025&vendorItemId=3012948490&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ca9a/024f28d64a8825195b9a8abf92cd946d7e3817422e54b31b307b07649e62.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "마더케이 실리콘 손가락 영유아 칫솔 2종 세트 혼합색상 2개입 1세트",
         "brand": "마더케이",
         "uid": "dd13f1aa-72d7-439a-9bf2-4b840b9db7b9",
         "sale_price": "7,000원",
         "link": "https://www.coupang.com/vp/products/1335851195?itemId=8402016900&vendorItemId=75689800145&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/77d856lw/55de7e835cf64ba78ae62cb538611205.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "페리오 키즈 피카츄 양치세트 1세트",
-        "brand": "페리오",
-        "uid": "9b5782c2-b463-4008-8440-2baffc12a4aa",
-        "sale_price": "8,920원",
-        "link": "https://www.coupang.com/vp/products/6312182597?itemId=19005949391&vendorItemId=88333204027&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/113826369919400-f0d7bdde-829b-4daa-9a77-eaa3d371e3a3.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -505,12 +496,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "가그린 어린이용 구강세정제 사과향 380ml 3개",
-        "brand": "가그린",
-        "uid": "14615a56-009a-419c-8a32-f4b01e63dc54",
-        "sale_price": "10,000원",
-        "link": "https://www.coupang.com/vp/products/7657561030?itemId=20391946804&vendorItemId=80925868559&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/7abe/4b418573fdf67f1e53bd32776324c811a6d1b89e383f0af971bbcd097c0f.jpg"
+        "name": "조르단 스텝 2단계 유아칫솔 랜덤발송 1개입 6개",
+        "brand": "조르단",
+        "uid": "53f2013b-c695-4f6f-aceb-eaef219078ed",
+        "sale_price": "15,370원",
+        "link": "https://www.coupang.com/vp/products/7235518876?itemId=2743900156&vendorItemId=3071822810&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/610660065792381-d9b1c18a-bdd0-4223-9607-5de337a2230e.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -532,12 +523,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "퍼펙션 신생아 엠보싱 면봉 4개 200개입",
-        "brand": "퍼펙션",
-        "uid": "e7611bc2-59b6-41a3-a8e4-157dbded5f91",
-        "sale_price": "7,810원",
-        "link": "https://www.coupang.com/vp/products/5643537534?itemId=9211669542&vendorItemId=76497360289&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/06/08/16/8/db785176-abba-4837-aa15-30416ad18205.jpg"
+        "name": "비앤비 원형 순면 유아 면봉 200개입 1개",
+        "brand": "비앤비",
+        "uid": "06ede4a6-8c46-4b19-9452-76a394424f8f",
+        "sale_price": "2,100원",
+        "link": "https://www.coupang.com/vp/products/7510776189?itemId=19679252632&vendorItemId=86784661487&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/548122916601629-1a941a17-fd62-4e04-a6c0-156d0786e2f5.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 베리 식초 담은 비건 젖병  식기 세정제 용기형 1개 600ml",
+        "brand": "비앤비",
+        "uid": "82553734-4109-42a0-baf4-ae8e3e3a0433",
+        "sale_price": "8,000원",
+        "link": "https://www.coupang.com/vp/products/5911375124?itemId=10450781281&vendorItemId=77732601494&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/950865564787567-668b5925-632b-47b3-8a9d-eccec2d45415.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1047,7 +1047,7 @@
         "category": "생활_위생용품",
         "name": "블랑키즐 유아용 고불소 치약 애플망고향 60g 1개",
         "brand": "블랑키즐",
-        "uid": "a7689408-c868-4af2-aebf-5af43e8790c1",
+        "uid": "7e350e8f-6010-4b02-b6a7-1b2ded845f05",
         "sale_price": "7,970원",
         "link": "https://www.coupang.com/vp/products/7575239396?itemId=19979210268&vendorItemId=87077522057&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/09/04/17/4/daefb74f-7148-44ef-babe-0570a0c8c5b0.jpg"
@@ -1081,12 +1081,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "네이쳐러브메레 꽃을 담은 세탁세제 국화꽃향 18L 1개",
-        "brand": "네이쳐러브메레",
-        "uid": "09c91c79-0479-4d78-b82a-a9a823832039",
-        "sale_price": "8,130원",
-        "link": "https://www.coupang.com/vp/products/3546270?itemId=208373&vendorItemId=3000142180&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1602563046772165-7f9ea250-09a1-4909-a36e-addc1423be6b.jpg"
+        "name": "크리오 펌프팝 키즈 2단계 어린이 칫솔 혼합색상 10개입 1개",
+        "brand": "크리오",
+        "uid": "76ebae2c-dd7c-42f9-970c-a173c54f1631",
+        "sale_price": "9,850원",
+        "link": "https://www.coupang.com/vp/products/7708628408?itemId=20657818444&vendorItemId=86915270697&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/b9d7/f7ebf73d8561decbfd8b4c624d6d4904991943c3dd899cf20df1e5d2a2d6.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1096,6 +1096,15 @@
         "sale_price": "6,860원",
         "link": "https://www.coupang.com/vp/products/7215982501?itemId=22212989404&vendorItemId=3015220146&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/622459935678824-466b9b22-7b61-47c2-b2e1-2df9b5ec5413.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "리틀클라우드 유아 안전 네일트리머 베이지 1개",
+        "brand": "리틀클라우드",
+        "uid": "52f5f139-3209-4fc7-b582-43297a30cc8f",
+        "sale_price": "14,900원",
+        "link": "https://www.coupang.com/vp/products/7322075360?itemId=18781879860&vendorItemId=86421481897&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bec6/550e778f9234e8ce70b7c543e1eb140666894314ead7ee12ffd7f2af82b9.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1114,15 +1123,6 @@
         "sale_price": "18,000원",
         "link": "https://www.coupang.com/vp/products/944009?itemId=502886102&vendorItemId=88353312649&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/550927178423832-3eb6936a-f0bd-411f-aff6-270cb19cc588.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "리틀클라우드 유아 안전 네일트리머 베이지 1개",
-        "brand": "리틀클라우드",
-        "uid": "52f5f139-3209-4fc7-b582-43297a30cc8f",
-        "sale_price": "14,900원",
-        "link": "https://www.coupang.com/vp/products/7322075360?itemId=18781879860&vendorItemId=86421481897&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bec6/550e778f9234e8ce70b7c543e1eb140666894314ead7ee12ffd7f2af82b9.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1162,6 +1162,15 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "레드빈 네일트리머 핑크 1개",
+        "brand": "레드빈",
+        "uid": "253d1359-7ea7-4b90-bdf1-fb7c9cbe782b",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/2243553778?itemId=3834158258&vendorItemId=71818998844&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8404943632842690-4e2bb8af-aae0-4ece-bbd8-7851d2eeb0d8.jpg"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "아텍스 산리오 캐릭터즈 칫솔 세트 혼합색상 6개입 1세트",
         "brand": "아텍스",
         "uid": "4c31bc01-1ef6-4d70-8c18-6a21576b19d3",
@@ -1189,12 +1198,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "레드빈 네일트리머 핑크 1개",
-        "brand": "레드빈",
-        "uid": "253d1359-7ea7-4b90-bdf1-fb7c9cbe782b",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/2243553778?itemId=3834158258&vendorItemId=71818998844&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8404943632842690-4e2bb8af-aae0-4ece-bbd8-7851d2eeb0d8.jpg"
+        "name": "키즈세이프 유아 치약 포도향 90g 1개",
+        "brand": "키즈세이프",
+        "uid": "874943d2-3485-4538-b404-4ecfe5f0c8af",
+        "sale_price": "1,420원",
+        "link": "https://www.coupang.com/vp/products/7149249871?itemId=1202045&vendorItemId=3000025348&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/852767308143881-664698f6-cee9-434c-9f8d-adeb2b3720a0.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1207,15 +1216,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "닥터노아 마루 유아 치약 불소 라즈베리 레몬향 75g 2개",
-        "brand": "닥터노아",
-        "uid": "cc50ffe0-cb89-4cb2-8566-942c9cf1fb21",
-        "sale_price": "9,080원",
-        "link": "https://www.coupang.com/vp/products/6422565931?itemId=20405900569&vendorItemId=87427179196&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cde8/e0b5c75052860c2e6c9ac0ff8f8af613892097f651ff87191b88722e69d2.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "2080 키즈 브레드이발소 3스텝 칫솔 블루 24개",
         "brand": "2080",
         "uid": "66493e81-165e-498d-99ed-ef1454e85b94",
@@ -1225,12 +1225,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "키즈세이프 유아 치약 포도향 90g 1개",
-        "brand": "키즈세이프",
-        "uid": "874943d2-3485-4538-b404-4ecfe5f0c8af",
-        "sale_price": "1,420원",
-        "link": "https://www.coupang.com/vp/products/7149249871?itemId=1202045&vendorItemId=3000025348&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/852767308143881-664698f6-cee9-434c-9f8d-adeb2b3720a0.jpg"
+        "name": "닥터노아 마루 유아 치약 불소 라즈베리 레몬향 75g 2개",
+        "brand": "닥터노아",
+        "uid": "cc50ffe0-cb89-4cb2-8566-942c9cf1fb21",
+        "sale_price": "9,080원",
+        "link": "https://www.coupang.com/vp/products/6422565931?itemId=20405900569&vendorItemId=87427179196&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cde8/e0b5c75052860c2e6c9ac0ff8f8af613892097f651ff87191b88722e69d2.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "폴메디슨 키즈 아토 표백 세제  계량스푼 세트 1kg 2세트",
+        "brand": "폴메디슨",
+        "uid": "8bcb71e9-53f0-462f-a996-311c2f2a377a",
+        "sale_price": "20,870원",
+        "link": "https://www.coupang.com/vp/products/7608447802?itemId=20144401040&vendorItemId=79021305948&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/4617/5e29edb2e1de3a6f724dc93edd18fb3eb383bf481e2ca9e81cad25a1429c.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1243,21 +1252,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "폴메디슨 키즈 아토 표백 세제  계량스푼 세트 1kg 2세트",
-        "brand": "폴메디슨",
-        "uid": "de091b6b-d77e-451b-aeda-8827bd92ca21",
-        "sale_price": "20,870원",
-        "link": "https://www.coupang.com/vp/products/7608447802?itemId=20144401040&vendorItemId=79021305948&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/4617/5e29edb2e1de3a6f724dc93edd18fb3eb383bf481e2ca9e81cad25a1429c.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "해피홈 파워캡슐 베이비앤미니 유아 캡슐세제 60개입 450g 1개",
         "brand": "해피홈",
         "uid": "b0566d45-953d-4757-8697-3b16d12c1d13",
         "sale_price": "16,900원",
         "link": "https://www.coupang.com/vp/products/8399196814?itemId=24278574484&vendorItemId=91294957121&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/275863628647592-b47b4420-a1cf-41f3-b475-f8d65c052dfe.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 섬유유연제 자스민 앤 로즈 본품 15L 1개",
+        "brand": "비앤비",
+        "uid": "49046fd0-de8d-4f39-89cf-ad7a6a08c3f7",
+        "sale_price": "8,400원",
+        "link": "https://www.coupang.com/vp/products/3083611?itemId=174274&vendorItemId=87539373915&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b338/0e18c817ace3fee7adb75b71b041d192046c19840efeb594f9790f21ee6f.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1279,15 +1288,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 섬유유연제 자스민 앤 로즈 본품 15L 1개",
-        "brand": "비앤비",
-        "uid": "49046fd0-de8d-4f39-89cf-ad7a6a08c3f7",
-        "sale_price": "8,400원",
-        "link": "https://www.coupang.com/vp/products/3083611?itemId=174274&vendorItemId=87539373915&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b338/0e18c817ace3fee7adb75b71b041d192046c19840efeb594f9790f21ee6f.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "마미바티 아기 주방세제 청귤향 500g 2개",
         "brand": "마미바티",
         "uid": "23c1ea1a-b600-46f6-8553-3c6f7c5d5b04",
@@ -1297,30 +1297,30 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "비앤비 섬유유연제 베르가못 앤 그레이프프루츠 리필형 15L 1개",
+        "brand": "비앤비",
+        "uid": "c9f0a17b-dd52-4927-8079-8936a423a1aa",
+        "sale_price": "6,270원",
+        "link": "https://www.coupang.com/vp/products/1245779?itemId=317460877&vendorItemId=3779605349&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1841303177852973-1508fe70-3395-4055-870a-13e9e7efe20c.jpg"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "래디어스 유아칫솔 토츠 혼합색상 6개입 1세트",
         "brand": "래디어스",
         "uid": "5a2197ff-ba0e-48dd-81cd-49460d0e513f",
-        "sale_price": "28,500원",
-        "link": "https://www.coupang.com/vp/products/7680495968?itemId=14828903510&vendorItemId=90539826898&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fb0b/ab45c620b8f0be168230c89fb234ae3dd0c2936404460cf4091dca8c282d.jpg"
+        "sale_price": "25,000원",
+        "link": "https://www.coupang.com/vp/products/7680495968?itemId=14828903510&vendorItemId=84016367239&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bd04/c34b364c5eb1e184dc882817d1ed4994d1e9eba2ade7289cbeb2abe08662.jpg"
     },
     {
         "category": "생활_위생용품",
-        "name": "레드루트 유아 섬유유연제 바닐라코튼향 플러스 본품 4개 1L",
-        "brand": "레드루트",
-        "uid": "6205aeac-f5da-42dc-80b6-45c78b0c4971",
-        "sale_price": "35,440원",
-        "link": "https://www.coupang.com/vp/products/7670513716?itemId=23944651657&vendorItemId=85874046014&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/711302844608324-8ed2eeb7-67a1-432d-b4dc-04617fa2ecf0.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "마더케이 디아 젖병 유아 주방세제 무향 1개 500ml",
-        "brand": "마더케이",
-        "uid": "b1e62562-2b77-417c-b3d4-2b51557d3c3e",
-        "sale_price": "9,380원",
-        "link": "https://www.coupang.com/vp/products/7192104209?itemId=8068603392&vendorItemId=75357076567&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ff2e/6fb4f374a0d15675ac79bf713d01d421dbc2db68d67fd447f563433e7089.jpg"
+        "name": "에코블랑 유아 세제 21L  섬유유연제 21L 세트 베이비파우더향 1세트",
+        "brand": "에코블랑",
+        "uid": "b40ddc76-62dd-4c5a-8f02-5d68b1a15379",
+        "sale_price": "23,000원",
+        "link": "https://www.coupang.com/vp/products/29704142?itemId=113480129&vendorItemId=3223021976&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f982/666672bda7d6b19df4f2efd9d98bf508ab2710c89e5a06b2028b4d88ecee.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1333,12 +1333,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "에코블랑 유아 세제 21L  섬유유연제 21L 세트 베이비파우더향 1세트",
-        "brand": "에코블랑",
-        "uid": "b40ddc76-62dd-4c5a-8f02-5d68b1a15379",
-        "sale_price": "23,000원",
-        "link": "https://www.coupang.com/vp/products/29704142?itemId=113480129&vendorItemId=3223021976&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/f982/666672bda7d6b19df4f2efd9d98bf508ab2710c89e5a06b2028b4d88ecee.jpg"
+        "name": "마더케이 디아 젖병 유아 주방세제 무향 1개 500ml",
+        "brand": "마더케이",
+        "uid": "b1e62562-2b77-417c-b3d4-2b51557d3c3e",
+        "sale_price": "9,380원",
+        "link": "https://www.coupang.com/vp/products/7192104209?itemId=8068603392&vendorItemId=75357076567&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/ff2e/6fb4f374a0d15675ac79bf713d01d421dbc2db68d67fd447f563433e7089.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "레드루트 유아 섬유유연제 바닐라코튼향 플러스 본품 4개 1L",
+        "brand": "레드루트",
+        "uid": "6205aeac-f5da-42dc-80b6-45c78b0c4971",
+        "sale_price": "35,440원",
+        "link": "https://www.coupang.com/vp/products/7670513716?itemId=23944651657&vendorItemId=85874046014&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/711302844608324-8ed2eeb7-67a1-432d-b4dc-04617fa2ecf0.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1360,15 +1369,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 섬유유연제 베르가못 앤 그레이프프루츠 리필형 15L 1개",
-        "brand": "비앤비",
-        "uid": "c9f0a17b-dd52-4927-8079-8936a423a1aa",
-        "sale_price": "6,270원",
-        "link": "https://www.coupang.com/vp/products/1245779?itemId=317460877&vendorItemId=3779605349&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1841303177852973-1508fe70-3395-4055-870a-13e9e7efe20c.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "벨레다 어린이 치약 50ml 1개",
         "brand": "벨레다",
         "uid": "b91f63d2-680f-4290-ba30-0cbd8c0dbc8c",
@@ -1384,6 +1384,15 @@
         "sale_price": "12,690원",
         "link": "https://www.coupang.com/vp/products/6887697943?itemId=16525779357&vendorItemId=83712757364&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2022/11/02/13/1/26c03640-8b27-4cda-a014-07473db5b9eb.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "네이쳐러브메레 유아 녹두 유연제 리필형 13L 2개",
+        "brand": "네이쳐러브메레",
+        "uid": "68f2c656-d813-4499-9900-deae8e88390d",
+        "sale_price": "9,380원",
+        "link": "https://www.coupang.com/vp/products/15900899?itemId=93866566&vendorItemId=3166046533&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5492299893449356-d39cffcc-69a6-4682-94fd-164b379b6748.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1405,21 +1414,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "네이쳐러브메레 유아 녹두 유연제 리필형 13L 2개",
-        "brand": "네이쳐러브메레",
-        "uid": "68f2c656-d813-4499-9900-deae8e88390d",
-        "sale_price": "9,380원",
-        "link": "https://www.coupang.com/vp/products/15900899?itemId=93866566&vendorItemId=3166046533&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5492299893449356-d39cffcc-69a6-4682-94fd-164b379b6748.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "노보핀 코쿠보 열 냉각시트 어린이용 무향 16개입 2개",
         "brand": "노보핀",
         "uid": "48170b20-59b0-4667-8b82-bb3f7b77ea3b",
         "sale_price": "10,600원",
         "link": "https://www.coupang.com/vp/products/2201875839?itemId=18741424371&vendorItemId=85873692629&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7d48b24c-e753-4d10-90de-661570f27c585703161502626911170.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "네이쳐러브메레 식기 세정제 유아세제 500ml 3개",
+        "brand": "네이쳐러브메레",
+        "uid": "07981297-98a0-43b4-a240-588de6fa0d9c",
+        "sale_price": "11,100원",
+        "link": "https://www.coupang.com/vp/products/7599868400?itemId=24217213319&vendorItemId=3102933472&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8623/27882fab328e8d83c40737d10b73c01f3df2b81f6a0b9615400f0f5933f6.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1432,12 +1441,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "네이쳐러브메레 식기 세정제 유아세제 500ml 3개",
+        "name": "네이쳐러브메레 꽃을 담은 유아 섬유유연제 국화꽃향 18L 1개",
         "brand": "네이쳐러브메레",
-        "uid": "07981297-98a0-43b4-a240-588de6fa0d9c",
-        "sale_price": "11,100원",
-        "link": "https://www.coupang.com/vp/products/7599868400?itemId=24217213319&vendorItemId=3102933472&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8623/27882fab328e8d83c40737d10b73c01f3df2b81f6a0b9615400f0f5933f6.jpg"
+        "uid": "693ac41e-bd32-43b4-9f63-3d59d0e3b393",
+        "sale_price": "6,980원",
+        "link": "https://www.coupang.com/vp/products/3546108?itemId=208319&vendorItemId=3000142126&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/94691371776387-7e0229aa-19c6-4766-a318-383f33cccca7.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1456,15 +1465,6 @@
         "sale_price": "18,020원",
         "link": "https://www.coupang.com/vp/products/20190576?itemId=80174359&vendorItemId=3136330180&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/299992033990318-21ade8cb-ab9e-416d-b981-76add0f41c19.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "네이쳐러브메레 꽃을 담은 유아 섬유유연제 국화꽃향 18L 1개",
-        "brand": "네이쳐러브메레",
-        "uid": "693ac41e-bd32-43b4-9f63-3d59d0e3b393",
-        "sale_price": "6,980원",
-        "link": "https://www.coupang.com/vp/products/3546108?itemId=208319&vendorItemId=3000142126&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/94691371776387-7e0229aa-19c6-4766-a318-383f33cccca7.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1504,21 +1504,21 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "베르블랑 유아용 세탁 세제 화이트향 1L 1개",
+        "brand": "베르블랑",
+        "uid": "d13f7357-3b44-45be-a4a9-892832048594",
+        "sale_price": "12,740원",
+        "link": "https://www.coupang.com/vp/products/6529822069?itemId=14498487434&vendorItemId=81741548610&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1466616625008870-1c9211e4-1035-4bfb-b32a-e4b0306b1d7c.crdownload"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "라이온 키즈세이프 충치 집중케어 어린이 치약 60g 5개",
         "brand": "라이온",
         "uid": "4746a565-a52f-4358-b364-24229dd565cb",
         "sale_price": "9,680원",
         "link": "https://www.coupang.com/vp/products/6185905318?itemId=18764011661&vendorItemId=85895816847&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1051730621115455-babfccdd-e7cb-4b7e-824c-307b4341fa83.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "온비유 유아용 손톱깎이 4종 세트 블루 1세트",
-        "brand": "온비유",
-        "uid": "447e3ca4-15bf-488e-a388-a57518bbbce5",
-        "sale_price": "6,700원",
-        "link": "https://www.coupang.com/vp/products/6750421495?itemId=15786178570&vendorItemId=82999065950&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/358658620862852-6a0c20a7-0c3f-45cb-a02c-783ab3f94127.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -1531,21 +1531,30 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "온비유 유아용 손톱깎이 4종 세트 블루 1세트",
+        "brand": "온비유",
+        "uid": "447e3ca4-15bf-488e-a388-a57518bbbce5",
+        "sale_price": "6,700원",
+        "link": "https://www.coupang.com/vp/products/6750421495?itemId=15786178570&vendorItemId=82999065950&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/358658620862852-6a0c20a7-0c3f-45cb-a02c-783ab3f94127.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "네이쳐러브메레 아기 국화 유연제 리필 13L 2개",
+        "brand": "네이쳐러브메레",
+        "uid": "73f7f2e7-6c08-4e96-a121-ae116a0f9305",
+        "sale_price": "8,640원",
+        "link": "https://www.coupang.com/vp/products/8416588609?itemId=24167723114&vendorItemId=3166046531&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5492299105332532-8a8f0c5b-9b6c-4044-980e-93a8893f80f7.png"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "비앤비 젖병세정제 거품형 리필 400ml 5개",
         "brand": "비앤비",
         "uid": "d11f538f-cab2-402f-a29d-f3c8452a8b45",
         "sale_price": "10,110원",
         "link": "https://www.coupang.com/vp/products/6162212368?itemId=9703507326&vendorItemId=85191357549&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1f0540cd-7bfa-4f96-86ef-4dd8132da6b02267379850723509201.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "베르블랑 유아용 세탁 세제 화이트향 1L 1개",
-        "brand": "베르블랑",
-        "uid": "d13f7357-3b44-45be-a4a9-892832048594",
-        "sale_price": "12,740원",
-        "link": "https://www.coupang.com/vp/products/6529822069?itemId=14498487434&vendorItemId=81741548610&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1466616625008870-1c9211e4-1035-4bfb-b32a-e4b0306b1d7c.crdownload"
     },
     {
         "category": "생활_위생용품",
@@ -1573,15 +1582,6 @@
         "sale_price": "11,200원",
         "link": "https://www.coupang.com/vp/products/7608447802?itemId=20144371346&vendorItemId=77953378940&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/107722593473832-b57b7654-3170-41e0-a80a-8f140a4cf7ea.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "네이쳐러브메레 아기 국화 유연제 리필 13L 2개",
-        "brand": "네이쳐러브메레",
-        "uid": "73f7f2e7-6c08-4e96-a121-ae116a0f9305",
-        "sale_price": "8,640원",
-        "link": "https://www.coupang.com/vp/products/8416588609?itemId=24167723114&vendorItemId=3166046531&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5492299105332532-8a8f0c5b-9b6c-4044-980e-93a8893f80f7.png"
     },
     {
         "category": "생활_위생용품",
@@ -1618,6 +1618,15 @@
         "sale_price": "5,340원",
         "link": "https://www.coupang.com/vp/products/155741722?itemId=448402141&vendorItemId=85489042401&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d6f9/5233d8161d0973b850590f5c853afe488c4791b7bd3a44ad208e2ca7d672.PNG"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 유아의류용 세탁비누 카모마일 200g 6개",
+        "brand": "비앤비",
+        "uid": "7349f909-2c60-423d-a219-021c7e042582",
+        "sale_price": "9,760원",
+        "link": "https://www.coupang.com/vp/products/2751584?itemId=42951922&vendorItemId=3000431366&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/232215338937094-25157736-e2fa-4a67-936d-a7c94cd7d1e6.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2116,15 +2125,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "래디어스 토츠 2단계 유아칫솔 핑크 1개입 1개",
-        "brand": "래디어스",
-        "uid": "83448e59-0562-4419-bb43-9ecf876322c8",
-        "sale_price": "3,800원",
-        "link": "https://www.coupang.com/vp/products/1427778?itemId=19837253507&vendorItemId=86938867659&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1566480640379772-97c09de3-b205-48b0-b63e-fa3d35d0adae.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "코크린 베이비 전동식 의료용 흡인기 COB200 1개",
         "brand": "코크린",
         "uid": "6e10d28e-cfd9-4c15-b53f-7fde5e6c92fc",
@@ -2161,48 +2161,21 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "LFGB 독일식품인증 NO유해물질 어린이집 양치컵 스텐304 이름 이모티콘 각인 유치원 단체 단면 1개",
+        "brand": "LFGB",
+        "uid": "756e66da-efe4-4677-83ba-c2d276324672",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/7871944851?itemId=21506940698&vendorItemId=88560475570&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/87b1/3901eea82beddb19dac4e58ea8bd9cf0dc92a6622ca38635d59b280d4290.jpg"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "지앤마 써니비 1단계 유아칫솔 남아용 1개입 20개",
         "brand": "지앤마",
         "uid": "33b234df-19d0-45fb-895d-77fe0b349c28",
         "sale_price": "9,500원",
         "link": "https://www.coupang.com/vp/products/5164207451?itemId=7112575842&vendorItemId=74404436711&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/rstc3735/256491b4524c46fc93ce2abab60166dd.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "미유 3중필터 소형 일회용 마스크 어린이용 50개입 1개 핑크",
-        "brand": "미유",
-        "uid": "9922a4ad-6c48-4a0f-a1c1-5aa47bf74b4a",
-        "sale_price": "3,750원",
-        "link": "https://www.coupang.com/vp/products/5262729532?itemId=2723059422&vendorItemId=70713265427&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/05/18/16/9/596cffae-a1ee-4c20-b0c2-6587bf7f630a.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "궁중비책 베이비 세탁비누 200g 5개",
-        "brand": "궁중비책",
-        "uid": "5455e1a9-51a4-4f66-bb13-8bb72a707d94",
-        "sale_price": "6,240원",
-        "link": "https://www.coupang.com/vp/products/7136847594?itemId=18146535968&vendorItemId=85296880815&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/ab3d7f7e-0f46-4a93-8196-4d204ea34b067548367450769080912.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "비앤비 유아용품 제균 스프레이 용기형 300ml 3개",
-        "brand": "비앤비",
-        "uid": "e1016100-1e8a-48d0-8865-e8d8ef8ddf30",
-        "sale_price": "24,600원",
-        "link": "https://www.coupang.com/vp/products/950862?itemId=24132629557&vendorItemId=91151606780&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/f64224fd-ee9f-47f5-8007-f506eedd083f2156452983284446419.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "휴대용 전동 칫솔 보관 케이스 화이트 1개",
-        "brand": "휴대용",
-        "uid": "d9d30b17-4284-4721-a2e5-cfa12a4e1c28",
-        "sale_price": "3,450원",
-        "link": "https://www.coupang.com/vp/products/6489305076?itemId=14239640158&vendorItemId=81484865317&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/643172653516834-c347c08b-f69e-424b-994e-51a63ca7f9e7.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2224,12 +2197,30 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "페리오 키즈 꼬부기 양치세트 2개",
-        "brand": "페리오",
-        "uid": "9633c703-92ad-438a-8519-67b8d49b0193",
-        "sale_price": "13,860원",
-        "link": "https://www.coupang.com/vp/products/7159468467?itemId=21474552414&vendorItemId=88528822055&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/650331107752032-c1def8f9-3a59-49ce-af1e-44a5bba29288.jpg"
+        "name": "미유 3중필터 소형 일회용 마스크 어린이용 50개입 1개 핑크",
+        "brand": "미유",
+        "uid": "9922a4ad-6c48-4a0f-a1c1-5aa47bf74b4a",
+        "sale_price": "3,750원",
+        "link": "https://www.coupang.com/vp/products/5262729532?itemId=2723059422&vendorItemId=70713265427&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/05/18/16/9/596cffae-a1ee-4c20-b0c2-6587bf7f630a.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "궁중비책 베이비 세탁비누 200g 5개",
+        "brand": "궁중비책",
+        "uid": "5455e1a9-51a4-4f66-bb13-8bb72a707d94",
+        "sale_price": "6,240원",
+        "link": "https://www.coupang.com/vp/products/7136847594?itemId=18146535968&vendorItemId=85296880815&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/ab3d7f7e-0f46-4a93-8196-4d204ea34b067548367450769080912.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "휴대용 전동 칫솔 보관 케이스 화이트 1개",
+        "brand": "휴대용",
+        "uid": "d9d30b17-4284-4721-a2e5-cfa12a4e1c28",
+        "sale_price": "3,450원",
+        "link": "https://www.coupang.com/vp/products/6489305076?itemId=14239640158&vendorItemId=81484865317&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/643172653516834-c347c08b-f69e-424b-994e-51a63ca7f9e7.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2239,6 +2230,15 @@
         "sale_price": "5,620원",
         "link": "https://www.coupang.com/vp/products/60847776?itemId=208661250&vendorItemId=3494570163&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/84249943107053-1b47307b-440b-470f-834b-5ce66d9d7b36.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "페리오 키즈 꼬부기 양치세트 2개",
+        "brand": "페리오",
+        "uid": "9633c703-92ad-438a-8519-67b8d49b0193",
+        "sale_price": "13,860원",
+        "link": "https://www.coupang.com/vp/products/7159468467?itemId=21474552414&vendorItemId=88528822055&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/650331107752032-c1def8f9-3a59-49ce-af1e-44a5bba29288.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2260,24 +2260,6 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 섬유유연제 베르가못  그레이후르츠향 리필 18L 3개",
-        "brand": "비앤비",
-        "uid": "a75e35e2-2c4a-4c9e-9257-d64364a85b50",
-        "sale_price": "20,980원",
-        "link": "https://www.coupang.com/vp/products/1245779?itemId=16278582634&vendorItemId=86399346445&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4e92/de9ca0bbd00ff7671aba9c399ed16129ac5eae7faf510849fe49a97cf57f.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "맘앤쥬 뉴 펭귄 뽁뽁이 유아 칫솔 퍼플 1개입 12개",
-        "brand": "맘앤쥬",
-        "uid": "2ade1c72-76d7-48a1-94d8-4dd67c3079a8",
-        "sale_price": "5,900원",
-        "link": "https://www.coupang.com/vp/products/26035779?itemId=101212113&vendorItemId=90842238020&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2e15/b8f4260c37a502f903d1eb5c6d0e46721d47ae981c1679fd7a7d750ae60b.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "제니튼 닥터제니 저불소 어린이 치약 60g 1개",
         "brand": "제니튼",
         "uid": "8a5f8b21-57d0-43f9-a947-1dbd33cde38d",
@@ -2287,21 +2269,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "코도모 6세이상 어린이 칫솔 랜덤 발송 1개입 6개",
-        "brand": "코도모",
-        "uid": "9dd00920-c7fe-49ed-9ae9-1b85c2f2a4c5",
-        "sale_price": "15,780원",
-        "link": "https://www.coupang.com/vp/products/1250789150?itemId=19714211018&vendorItemId=86818509765&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8dbc33e9-0229-41d3-a3f2-03df6fd2f5f42471436602458727267.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "태양생활건강 포켓몬 피카츄 프리미엄 패션밴드 혼합색상 48개입 1개",
-        "brand": "태양생활건강",
-        "uid": "4cf6eb84-c3c1-409d-9cf7-f4ae1e2a6b63",
-        "sale_price": "4,400원",
-        "link": "https://www.coupang.com/vp/products/7989040487?itemId=23356327484&vendorItemId=90386949849&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/06/18/11/4/a94afd53-6c4d-4ea0-b3e9-e78a2badab1f.jpg"
+        "name": "비앤비 섬유유연제 베르가못  그레이후르츠향 리필 18L 3개",
+        "brand": "비앤비",
+        "uid": "a75e35e2-2c4a-4c9e-9257-d64364a85b50",
+        "sale_price": "20,980원",
+        "link": "https://www.coupang.com/vp/products/1245779?itemId=16278582634&vendorItemId=86399346445&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4e92/de9ca0bbd00ff7671aba9c399ed16129ac5eae7faf510849fe49a97cf57f.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2314,12 +2287,39 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "DOS 아동용 360도 칫솔 3단계 3종 세트 화이트  아이보리  그레이 1세트",
+        "brand": "DOS",
+        "uid": "1636cc1c-0fee-461b-8a2f-b66b7a4ede3b",
+        "sale_price": "15,000원",
+        "link": "https://www.coupang.com/vp/products/8533718149?itemId=24702605067&vendorItemId=91712216850&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2025/01/02/15/4/68b6be48-b7b4-4072-b97b-76d4bc4df4e0.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "코도모 6세이상 어린이 칫솔 랜덤 발송 1개입 6개",
+        "brand": "코도모",
+        "uid": "9dd00920-c7fe-49ed-9ae9-1b85c2f2a4c5",
+        "sale_price": "15,780원",
+        "link": "https://www.coupang.com/vp/products/1250789150?itemId=19714211018&vendorItemId=86818509765&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8dbc33e9-0229-41d3-a3f2-03df6fd2f5f42471436602458727267.png"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "제니튼 닥터제니 스틱 어린이 가글 사과자두향 10p 100ml 1개",
         "brand": "제니튼",
         "uid": "d8940f01-ade2-4116-bf2b-41b3c45c1f0c",
         "sale_price": "5,980원",
         "link": "https://www.coupang.com/vp/products/7813774593?itemId=21689182616&vendorItemId=88739026123&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/20/10/4/8956fb1a-815f-4a75-b771-ff8e4aa9402a.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "태양생활건강 포켓몬 피카츄 프리미엄 패션밴드 혼합색상 48개입 1개",
+        "brand": "태양생활건강",
+        "uid": "4cf6eb84-c3c1-409d-9cf7-f4ae1e2a6b63",
+        "sale_price": "4,400원",
+        "link": "https://www.coupang.com/vp/products/7989040487?itemId=23356327484&vendorItemId=90386949849&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/06/18/11/4/a94afd53-6c4d-4ea0-b3e9-e78a2badab1f.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2332,12 +2332,39 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "DOS 아동용 360도 칫솔 3단계 3종 세트 화이트  아이보리  그레이 1세트",
-        "brand": "DOS",
-        "uid": "1636cc1c-0fee-461b-8a2f-b66b7a4ede3b",
-        "sale_price": "15,000원",
-        "link": "https://www.coupang.com/vp/products/8533718149?itemId=24702605067&vendorItemId=91712216850&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2025/01/02/15/4/68b6be48-b7b4-4072-b97b-76d4bc4df4e0.png"
+        "name": "닥터노아 마루 유아 치약 불소 라즈베리 레몬향 75g 3개",
+        "brand": "닥터노아",
+        "uid": "77dc0010-d854-4b6b-9135-a7afaafb9e49",
+        "sale_price": "14,120원",
+        "link": "https://www.coupang.com/vp/products/6422565931?itemId=23314399585&vendorItemId=81383425817&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1752127436441910-64a43a25-b0e4-4ba8-a894-f0f1cdec45f7.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "닥터헬퍼 순면 성인 면봉 100p X 3개 개별포장 멸균면봉 100개입",
+        "brand": "닥터헬퍼",
+        "uid": "7a07e49d-0ed9-47a3-85ec-b561d10677c2",
+        "sale_price": "9,970원",
+        "link": "https://www.coupang.com/vp/products/4992121523?itemId=23799781982&vendorItemId=85059579585&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6241/68a49c67c984cade57c40515e09c8f2d817ff285def5f0eab7249cc011e9.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "브리스틱 에르고 1단계 유아칫솔 세트 Mint  Lime  Grape  Mango  Raspberry 5개입 1세트",
+        "brand": "브리스틱",
+        "uid": "af33fa16-e2b9-41ed-b596-65cf2541b98b",
+        "sale_price": "14,600원",
+        "link": "https://www.coupang.com/vp/products/6545000731?itemId=19077610762&vendorItemId=5589787568&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/5820/06df8e45d537d10742883600b855cad3c64e517128ca667ebd3d1f18f795.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "맘앤쥬 뉴 펭귄 뽁뽁이 유아 칫솔 퍼플 1개입 12개",
+        "brand": "맘앤쥬",
+        "uid": "2ade1c72-76d7-48a1-94d8-4dd67c3079a8",
+        "sale_price": "5,900원",
+        "link": "https://www.coupang.com/vp/products/26035779?itemId=101212113&vendorItemId=90842238020&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2e15/b8f4260c37a502f903d1eb5c6d0e46721d47ae981c1679fd7a7d750ae60b.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2350,30 +2377,21 @@
     },
     {
         "category": "생활_위생용품",
+        "name": "비지엔젤 포근한 유아세제 파우더향 2L 1개",
+        "brand": "비지엔젤",
+        "uid": "3d21db05-d5b2-4e64-8d27-2dfa11a9e483",
+        "sale_price": "4,360원",
+        "link": "https://www.coupang.com/vp/products/193613359?itemId=554363748&vendorItemId=4456646937&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/164302026142578-d509cb1e-1bb8-4a49-95c8-fb986b5acc43.jpg"
+    },
+    {
+        "category": "생활_위생용품",
         "name": "닥터이엘 유아용 쁘띠에르 펌핑 치약 220g 2개",
         "brand": "닥터이엘",
         "uid": "f7866288-2cd2-48d0-917c-896f7157c8a2",
         "sale_price": "8,140원",
         "link": "https://www.coupang.com/vp/products/6631362721?itemId=18798590624&vendorItemId=89549875351&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e943/ec029271fc8dc4dcae0622f698f01bc61531826283af8f4051a74e7d165b.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "닥터노아 마루 유아 치약 불소 라즈베리 레몬향 75g 3개",
-        "brand": "닥터노아",
-        "uid": "77dc0010-d854-4b6b-9135-a7afaafb9e49",
-        "sale_price": "14,120원",
-        "link": "https://www.coupang.com/vp/products/6422565931?itemId=23314399585&vendorItemId=81383425817&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1752127436441910-64a43a25-b0e4-4ba8-a894-f0f1cdec45f7.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "브리스틱 에르고 1단계 유아칫솔 세트 Mint  Lime  Grape  Mango  Raspberry 5개입 1세트",
-        "brand": "브리스틱",
-        "uid": "af33fa16-e2b9-41ed-b596-65cf2541b98b",
-        "sale_price": "14,600원",
-        "link": "https://www.coupang.com/vp/products/6545000731?itemId=19077610762&vendorItemId=5589787568&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/5820/06df8e45d537d10742883600b855cad3c64e517128ca667ebd3d1f18f795.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2395,48 +2413,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비지엔젤 포근한 유아세제 파우더향 2L 1개",
-        "brand": "비지엔젤",
-        "uid": "3d21db05-d5b2-4e64-8d27-2dfa11a9e483",
-        "sale_price": "4,360원",
-        "link": "https://www.coupang.com/vp/products/193613359?itemId=554363748&vendorItemId=4456646937&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/164302026142578-d509cb1e-1bb8-4a49-95c8-fb986b5acc43.jpg"
-    },
-    {
-        "category": "생활_위생용품",
         "name": "비앤비 순면 면봉 200개입 1개",
         "brand": "비앤비",
         "uid": "27c207cc-4b3e-46a8-985d-4ea253eef983",
         "sale_price": "2,330원",
         "link": "https://www.coupang.com/vp/products/8204719652?itemId=23530944335&vendorItemId=86785060163&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5371364949541931-f6059c92-d39e-4b56-965e-40ccc8fc318f.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "비앤비 세탁비누 유아의류 카모마일 200g 5개",
-        "brand": "비앤비",
-        "uid": "566f167f-7b87-43f3-b134-883152311df5",
-        "sale_price": "8,300원",
-        "link": "https://www.coupang.com/vp/products/2751584?itemId=18036953828&vendorItemId=85191364835&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/94eace12-76ca-4e63-abce-ac5d85ef33623236747292174853363.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "네이쳐러브메레 신생아 앤 아기 손톱가위  깎이  파일  핀셋 세트 다크그린 1세트",
-        "brand": "네이쳐러브메레",
-        "uid": "8b46e437-8943-4db2-9a4b-0e147a6a1d22",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/4970430110?itemId=6597708973&vendorItemId=73891654277&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/02/09/14/6/78057842-4f57-4377-875c-eb791fd74e0b.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "예꼬맘 어린이 소형 치약 15g 3단계 6개입 고불소 6개",
-        "brand": "예꼬맘",
-        "uid": "8501e741-4e61-44d4-b9af-2c181774737c",
-        "sale_price": "6,900원",
-        "link": "https://www.coupang.com/vp/products/2317139814?itemId=20195531625&vendorItemId=70845300599&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fb16/689705bf7095825dfe007c00a5b6880861b645274b5ffdaa73ff0f755f72.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2458,12 +2440,30 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "ABPLUS 아텍스 핑크퐁 아기상어 열냉각 해열시트 6개입 6개",
-        "brand": "ABPLUS",
-        "uid": "e1fb90a9-37bc-4265-b6e6-0fd9ac8929ba",
-        "sale_price": "20,290원",
-        "link": "https://www.coupang.com/vp/products/1486400802?itemId=19026845397&vendorItemId=86151035714&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/103167883498790-6d660eb5-6ad3-48aa-8868-228820504959.jpg"
+        "name": "비앤비 세탁비누 유아의류 카모마일 200g 5개",
+        "brand": "비앤비",
+        "uid": "566f167f-7b87-43f3-b134-883152311df5",
+        "sale_price": "8,300원",
+        "link": "https://www.coupang.com/vp/products/2751584?itemId=18036953828&vendorItemId=85191364835&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/94eace12-76ca-4e63-abce-ac5d85ef33623236747292174853363.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "더블하트 맑은 젖병세정제 액상형 720ml용기 720ml 1개",
+        "brand": "더블하트",
+        "uid": "e6c3b6ef-becf-4a42-89ab-a245a3403a9c",
+        "sale_price": "7,700원",
+        "link": "https://www.coupang.com/vp/products/6630902012?itemId=15115528980&vendorItemId=88410247027&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9f40/19fc6b4a92b605522f10ca884016897be3a36f2acfafea2b8eb52d84cf0e.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "예꼬맘 어린이 소형 치약 15g 3단계 6개입 고불소 6개",
+        "brand": "예꼬맘",
+        "uid": "8501e741-4e61-44d4-b9af-2c181774737c",
+        "sale_price": "6,900원",
+        "link": "https://www.coupang.com/vp/products/2317139814?itemId=20195531625&vendorItemId=70845300599&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fb16/689705bf7095825dfe007c00a5b6880861b645274b5ffdaa73ff0f755f72.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2485,30 +2485,21 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "오랄비 스테이지스 어린이 칫솔 3단계 프로즌 2개입 1개",
-        "brand": "오랄비",
-        "uid": "33786b4f-6431-48d7-a671-7b921dfdde45",
-        "sale_price": "4,900원",
-        "link": "https://www.coupang.com/vp/products/1487610053?itemId=2554173431&vendorItemId=70546713087&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3787561738952-0fe5a9ed-14cc-4109-bc40-fbbaa4e3c9ae.jpg"
+        "name": "베베블랑 시그니처 신생아 아기 세탁 세제 무향 4개 1500ml",
+        "brand": "베베블랑",
+        "uid": "d23b0d0a-2699-45f5-8d40-db39a8697b9f",
+        "sale_price": "23,500원",
+        "link": "https://www.coupang.com/vp/products/8011468142?itemId=24083856250&vendorItemId=91742740638&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e07f/c8e2d476c68ef2df894ba340457135caad806e3b1528d536d9e877b3520f.png"
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 순면 면봉 200개입 4개",
-        "brand": "비앤비",
-        "uid": "1f698b10-8da1-4ba4-a7b7-90526c5b8be0",
-        "sale_price": "7,920원",
-        "link": "https://www.coupang.com/vp/products/6132805621?itemId=18173428158&vendorItemId=85322695293&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5f8b015d-3724-4a1e-a34d-7ed3c3472188235787120469163237.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "코끼리 뻥코3 플러스 콧물 쏙 유아 콧물흡입기 2개",
-        "brand": "코끼리",
-        "uid": "d2b609df-aea0-4e4d-8af6-692404a6fb14",
-        "sale_price": "5,680원",
-        "link": "https://www.coupang.com/vp/products/5795912645?itemId=18741625701&vendorItemId=85873888863&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/590d/a08695cbbafa45dc2380d4d49d65886a870a73d6ad36e61bbc7deef63793.jpg"
+        "name": "ABPLUS 아텍스 핑크퐁 아기상어 열냉각 해열시트 6개입 6개",
+        "brand": "ABPLUS",
+        "uid": "e1fb90a9-37bc-4265-b6e6-0fd9ac8929ba",
+        "sale_price": "20,290원",
+        "link": "https://www.coupang.com/vp/products/1486400802?itemId=19026845397&vendorItemId=86151035714&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/103167883498790-6d660eb5-6ad3-48aa-8868-228820504959.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2521,66 +2512,30 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "러버드림 11 휴대용 코끼리 칫솔통 칫솔케이스 양치컵 양치케이스 1개 블루핑크",
-        "brand": "러버드림",
-        "uid": "f2c073f7-cdf9-4da9-9c78-679a601c37f8",
-        "sale_price": "6,380원",
-        "link": "https://www.coupang.com/vp/products/7826535250?itemId=21273547979&vendorItemId=88839867694&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9890/415cba8711ce04d49bf5a0e944400d67f398ddf94f1d5194782820d149ec.jpg"
+        "name": "닥터레이 고고다이노 칫솔 세트 공룡 유아 어린이 공룡탐험대 렉스 로키 토모 비키 장난감 렉스  로키  토모  비키 1개입 8개",
+        "brand": "닥터레이",
+        "uid": "dc03f0cd-72ba-4584-b744-6c3c933718e8",
+        "sale_price": "22,800원",
+        "link": "https://www.coupang.com/vp/products/6481685180?itemId=14191565701&vendorItemId=82662603073&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/29df/c75025773bc5afa3a71e89a8be0121affe3ed8713868617a396bd91f6336.jpg"
     },
     {
         "category": "생활_위생용품",
-        "name": "데일리라이크 젤리베어 실리콘 약병 3P 세트 파스텔  봉봉x젤리 베어 실리콘 약병 3P 1세트 파스텔  젤리 베어 실리콘 약병 3P 세트",
-        "brand": "데일리라이크",
-        "uid": "25febe24-edd0-4e08-a5b8-48cffa446259",
-        "sale_price": "16,900원",
-        "link": "https://www.coupang.com/vp/products/8247614682?itemId=23740098418&vendorItemId=90764715928&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/03be/547db816727fbcca11ac137f7a2d97842cba6120bb7b93bbf1061fd29df0.jpg"
+        "name": "코끼리 뻥코3 플러스 콧물 쏙 유아 콧물흡입기 2개",
+        "brand": "코끼리",
+        "uid": "d2b609df-aea0-4e4d-8af6-692404a6fb14",
+        "sale_price": "5,680원",
+        "link": "https://www.coupang.com/vp/products/5795912645?itemId=18741625701&vendorItemId=85873888863&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/590d/a08695cbbafa45dc2380d4d49d65886a870a73d6ad36e61bbc7deef63793.jpg"
     },
     {
         "category": "생활_위생용품",
-        "name": "뷰카 아동용 마일드 고불소 치약 바나나향 110g 4개",
-        "brand": "뷰카",
-        "uid": "5d9adfa0-c510-420a-8c01-cf96fee87c85",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/8539462329?itemId=24722706328&vendorItemId=91731914150&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2025/01/07/10/3/55c3f4cd-538a-430d-93b3-18b5bca1e580.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "닥터헬퍼 순면 성인 면봉 100p X 3개 개별포장 멸균면봉 100개입",
-        "brand": "닥터헬퍼",
-        "uid": "7a07e49d-0ed9-47a3-85ec-b561d10677c2",
-        "sale_price": "9,970원",
-        "link": "https://www.coupang.com/vp/products/4992121523?itemId=23799781982&vendorItemId=85059579585&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6241/68a49c67c984cade57c40515e09c8f2d817ff285def5f0eab7249cc011e9.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "예꼬맘 노스클린 콧물흡입기 NS1 1개",
-        "brand": "예꼬맘",
-        "uid": "1b0b611e-411e-4c4b-add1-86bc67ed8160",
-        "sale_price": "22,000원",
-        "link": "https://www.coupang.com/vp/products/126639?itemId=856561&vendorItemId=3000167170&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/38928397172952-7b703e45-52b3-42dd-bc1a-e0108cf9b078.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "아텍스 산리오 캐릭터즈 피규어 칫솔 세트 6세이상 시나모롤  쿠로미  마이멜로디  폼폼푸린 4개입 1세트",
-        "brand": "아텍스",
-        "uid": "13b4a3a7-7b91-42d6-bcf2-e09f9502e718",
-        "sale_price": "10,900원",
-        "link": "https://www.coupang.com/vp/products/8133198564?itemId=23099841389&vendorItemId=90133187960&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2890048713635951-8a1f59f9-a138-4a8c-a230-5f36fa28c0e8.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "더트웰브 STEP 2 토들러 유아칫솔 12종 세트 비비드 12개입 1세트",
-        "brand": "더트웰브",
-        "uid": "489a6ea8-c357-4ad0-826c-464f2faa59d0",
-        "sale_price": "19,400원",
-        "link": "https://www.coupang.com/vp/products/1237073281?itemId=20422093805&vendorItemId=87468255009&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cf42/25b74c105904755adf0997e8dafdb8a295ce4c29fb0362fde6e1aab87af2.jpg"
+        "name": "비앤비 순면 면봉 200개입 4개",
+        "brand": "비앤비",
+        "uid": "1f698b10-8da1-4ba4-a7b7-90526c5b8be0",
+        "sale_price": "7,920원",
+        "link": "https://www.coupang.com/vp/products/6132805621?itemId=18173428158&vendorItemId=85322695293&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5f8b015d-3724-4a1e-a34d-7ed3c3472188235787120469163237.png"
     },
     {
         "category": "생활_위생용품",
@@ -2593,12 +2548,75 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "닥터레이 고고다이노 칫솔 세트 공룡 유아 어린이 공룡탐험대 렉스 로키 토모 비키 장난감 렉스  로키  토모  비키 1개입 8개",
-        "brand": "닥터레이",
-        "uid": "dc03f0cd-72ba-4584-b744-6c3c933718e8",
-        "sale_price": "22,800원",
-        "link": "https://www.coupang.com/vp/products/6481685180?itemId=14191565701&vendorItemId=82662603073&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/29df/c75025773bc5afa3a71e89a8be0121affe3ed8713868617a396bd91f6336.jpg"
+        "name": "러버드림 11 휴대용 코끼리 칫솔통 칫솔케이스 양치컵 양치케이스 1개 블루핑크",
+        "brand": "러버드림",
+        "uid": "f2c073f7-cdf9-4da9-9c78-679a601c37f8",
+        "sale_price": "6,380원",
+        "link": "https://www.coupang.com/vp/products/7826535250?itemId=21273547979&vendorItemId=88839867694&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9890/415cba8711ce04d49bf5a0e944400d67f398ddf94f1d5194782820d149ec.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "오랄비 스테이지스 어린이 칫솔 3단계 프로즌 2개입 1개",
+        "brand": "오랄비",
+        "uid": "33786b4f-6431-48d7-a671-7b921dfdde45",
+        "sale_price": "4,900원",
+        "link": "https://www.coupang.com/vp/products/1487610053?itemId=2554173431&vendorItemId=70546713087&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3787561738952-0fe5a9ed-14cc-4109-bc40-fbbaa4e3c9ae.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "데일리라이크 젤리베어 실리콘 약병 3P 세트 파스텔  봉봉x젤리 베어 실리콘 약병 3P 1세트 파스텔  젤리 베어 실리콘 약병 3P 세트",
+        "brand": "데일리라이크",
+        "uid": "25febe24-edd0-4e08-a5b8-48cffa446259",
+        "sale_price": "16,900원",
+        "link": "https://www.coupang.com/vp/products/8247614682?itemId=23740098418&vendorItemId=90764715928&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/03be/547db816727fbcca11ac137f7a2d97842cba6120bb7b93bbf1061fd29df0.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "아텍스 산리오 캐릭터즈 피규어 칫솔 세트 6세이상 시나모롤  쿠로미  마이멜로디  폼폼푸린 4개입 1세트",
+        "brand": "아텍스",
+        "uid": "13b4a3a7-7b91-42d6-bcf2-e09f9502e718",
+        "sale_price": "10,900원",
+        "link": "https://www.coupang.com/vp/products/8133198564?itemId=23099841389&vendorItemId=90133187960&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2890048713635951-8a1f59f9-a138-4a8c-a230-5f36fa28c0e8.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "예꼬맘 노스클린 콧물흡입기 NS1 1개",
+        "brand": "예꼬맘",
+        "uid": "1b0b611e-411e-4c4b-add1-86bc67ed8160",
+        "sale_price": "22,000원",
+        "link": "https://www.coupang.com/vp/products/126639?itemId=856561&vendorItemId=3000167170&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/38928397172952-7b703e45-52b3-42dd-bc1a-e0108cf9b078.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "더트웰브 STEP 2 토들러 유아칫솔 12종 세트 비비드 12개입 1세트",
+        "brand": "더트웰브",
+        "uid": "489a6ea8-c357-4ad0-826c-464f2faa59d0",
+        "sale_price": "19,400원",
+        "link": "https://www.coupang.com/vp/products/1237073281?itemId=20422093805&vendorItemId=87468255009&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cf42/25b74c105904755adf0997e8dafdb8a295ce4c29fb0362fde6e1aab87af2.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "네이쳐러브메레 신생아 앤 아기 손톱가위  깎이  파일  핀셋 세트 다크그린 1세트",
+        "brand": "네이쳐러브메레",
+        "uid": "8b46e437-8943-4db2-9a4b-0e147a6a1d22",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/4970430110?itemId=6597708973&vendorItemId=73891654277&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/02/09/14/6/78057842-4f57-4377-875c-eb791fd74e0b.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "비앤비 원형 유아용 면봉 200개입 2개",
+        "brand": "비앤비",
+        "uid": "264cb860-cba7-45fd-97d8-b4ff5e0364ff",
+        "sale_price": "4,200원",
+        "link": "https://www.coupang.com/vp/products/7510776189?itemId=19679252949&vendorItemId=86784661847&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/9f1df454-6e65-42d2-ac85-48e63a91aed45312811544402181204.png"
     },
     {
         "category": "생활_위생용품",
@@ -2608,6 +2626,33 @@
         "sale_price": "7,950원",
         "link": "https://www.coupang.com/vp/products/6633056665?itemId=15130232147&vendorItemId=90466988068&sourceType=CATEGORY&categoryId=221845",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/34c9/f203af19ebf00985228866e0b72baf15a9013b1d7f10bf6726758343ec9a.png"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "폴메디슨 키즈 아토 표백 세제  계량스푼 세트 1kg 2세트",
+        "brand": "폴메디슨",
+        "uid": "8bcb71e9-53f0-462f-a996-311c2f2a377a",
+        "sale_price": "20,870원",
+        "link": "https://www.coupang.com/vp/products/7735486911?itemId=20797738084&vendorItemId=87866983476&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/4617/5e29edb2e1de3a6f724dc93edd18fb3eb383bf481e2ca9e81cad25a1429c.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "아가드 유아성인겸용 변기커버 베이지",
+        "brand": "아가드",
+        "uid": "cbdee962-4879-4ab2-8c4d-d610ca5d8697",
+        "sale_price": "25,550원",
+        "link": "https://www.coupang.com/vp/products/7225958465?itemId=20993777822&vendorItemId=90798376391&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4ed8/87e5872c90e81f47c7b8b56f83478d7bc6d60f0e5f442b46eb6d796e3e6c.jpg"
+    },
+    {
+        "category": "생활_위생용품",
+        "name": "블랑101 섬유유연제 본품 16L 1개",
+        "brand": "블랑101",
+        "uid": "e1466485-acf8-448c-826f-a3c21909b1ab",
+        "sale_price": "27,000원",
+        "link": "https://www.coupang.com/vp/products/7104349297?itemId=20207509887&vendorItemId=71390039166&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/547979352163651-81d73535-f41f-49ed-bcf4-8537330bfa0a.jpg"
     },
     {
         "category": "생활_위생용품",
@@ -2638,57 +2683,12 @@
     },
     {
         "category": "생활_위생용품",
-        "name": "비앤비 원형 유아용 면봉 200개입 2개",
-        "brand": "비앤비",
-        "uid": "264cb860-cba7-45fd-97d8-b4ff5e0364ff",
-        "sale_price": "4,200원",
-        "link": "https://www.coupang.com/vp/products/7510776189?itemId=19679252949&vendorItemId=86784661847&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/9f1df454-6e65-42d2-ac85-48e63a91aed45312811544402181204.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "아가드 유아성인겸용 변기커버 베이지",
-        "brand": "아가드",
-        "uid": "cbdee962-4879-4ab2-8c4d-d610ca5d8697",
-        "sale_price": "25,550원",
-        "link": "https://www.coupang.com/vp/products/7225958465?itemId=20993777822&vendorItemId=90798376391&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4ed8/87e5872c90e81f47c7b8b56f83478d7bc6d60f0e5f442b46eb6d796e3e6c.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "베베블랑 시그니처 신생아 아기 세탁 세제 무향 4개 1500ml",
-        "brand": "베베블랑",
-        "uid": "d23b0d0a-2699-45f5-8d40-db39a8697b9f",
-        "sale_price": "23,500원",
-        "link": "https://www.coupang.com/vp/products/8011468142?itemId=24083856250&vendorItemId=91742740638&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e07f/c8e2d476c68ef2df894ba340457135caad806e3b1528d536d9e877b3520f.png"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "블랑101 섬유유연제 본품 16L 1개",
-        "brand": "블랑101",
-        "uid": "e1466485-acf8-448c-826f-a3c21909b1ab",
-        "sale_price": "27,000원",
-        "link": "https://www.coupang.com/vp/products/7104349297?itemId=20207509887&vendorItemId=71390039166&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/547979352163651-81d73535-f41f-49ed-bcf4-8537330bfa0a.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "폴메디슨 키즈 아토 표백 세제  계량스푼 세트 1kg 2세트",
-        "brand": "폴메디슨",
-        "uid": "8bcb71e9-53f0-462f-a996-311c2f2a377a",
-        "sale_price": "20,870원",
-        "link": "https://www.coupang.com/vp/products/7735486911?itemId=20797738084&vendorItemId=87866983476&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/4617/5e29edb2e1de3a6f724dc93edd18fb3eb383bf481e2ca9e81cad25a1429c.jpg"
-    },
-    {
-        "category": "생활_위생용품",
-        "name": "보우마켓 귀집게 핀셋 1개 1개입",
-        "brand": "보우마켓",
-        "uid": "1d99f958-d4da-4201-bea1-b65e6e02eeba",
-        "sale_price": "7,600원",
-        "link": "https://www.coupang.com/vp/products/7460840796?itemId=19446089278&vendorItemId=91724073978&sourceType=CATEGORY&categoryId=221845",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e02f/e223f631689c242d762fac4d11091d8ede6a7c4ef76c177c0eff79c68e0e.jpg"
+        "name": "뷰카 아동용 마일드 고불소 치약 바나나향 110g 4개",
+        "brand": "뷰카",
+        "uid": "5d9adfa0-c510-420a-8c01-cf96fee87c85",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/8539462329?itemId=24722706328&vendorItemId=91731914150&sourceType=CATEGORY&categoryId=221845",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2025/01/07/10/3/55c3f4cd-538a-430d-93b3-18b5bca1e580.jpg"
     },
     {
         "category": "생활_위생용품",

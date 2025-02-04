@@ -1,24 +1,6 @@
 [
     {
         "category": "식품",
-        "name": "맛있는풍경 유기농 블루베리 쌀떡뻥 블루베리맛 25g 1개",
-        "brand": "맛있는풍경",
-        "uid": "0aec57bf-3022-4e88-bdc3-1c4dbe5a18ee",
-        "sale_price": "2,680원",
-        "link": "https://www.coupang.com/vp/products/7297179791?itemId=18664496980&vendorItemId=85799030086&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/04/27/10/1/bbbf83e1-4319-45d9-b744-beae53104b40.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "프로엠 맘스케어 유기농까까 별과자 40g 곡물맛 1개",
-        "brand": "프로엠",
-        "uid": "ab1644bf-96e9-48d8-bdf1-7a3c6d7ac0ba",
-        "sale_price": "2,980원",
-        "link": "https://www.coupang.com/vp/products/118474721?itemId=20159925541&vendorItemId=3864121708&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/774554307488698-b99b0dd4-df86-4326-9f9d-a4bbc7f9fc81.jpg"
-    },
-    {
-        "category": "식품",
         "name": "상하목장 베이비 유기농 요거트 85g 4개입",
         "brand": "상하목장",
         "uid": "e019b19f-1c5c-4087-9f03-fd6ea3f75e60",
@@ -28,273 +10,39 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 처음먹는 빼빼롱뻥 30g 2개 단호박",
-        "brand": "베베쿡",
-        "uid": "1c5706b1-53b9-462f-97b5-3233dfc7b4cd",
-        "sale_price": "6,200원",
-        "link": "https://www.coupang.com/vp/products/7680102922?itemId=17972724477&vendorItemId=85129876254&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/324c/28f68d21b2405c66a2e2553ca652f7cafdee72b90975a8df21a1a1aac2b6.jpg"
+        "name": "상하목장 베이비 유기농 요거트 딸기 바나나 340g 1개",
+        "brand": "상하목장",
+        "uid": "bea5c9dc-c06f-4544-bd66-91ede57eb416",
+        "sale_price": "4,480원",
+        "link": "https://www.coupang.com/vp/products/116345529?itemId=348494231&vendorItemId=3850674894&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2244284149177852-d911a161-9f90-4205-a316-124403d04ec8.jpg"
     },
     {
         "category": "식품",
-        "name": "일동후디스 아이얌 구워만든 순곡물바 실속형 5g 50입 바나나맛 250g 1개",
-        "brand": "일동후디스",
-        "uid": "1db2ec0f-4b16-4aa1-bc7b-a030c944da7b",
-        "sale_price": "15,100원",
-        "link": "https://www.coupang.com/vp/products/6181265139?itemId=14280477676&vendorItemId=81525468709&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/f7a8/9c9740fdb073820593a6744f4833ce14e4dc7aa608cc6cb3ccf0e5188b52.jpg"
+        "name": "상하목장 베이비 유기농 요거트 사과당근 85g 4개입",
+        "brand": "상하목장",
+        "uid": "d750e4a4-b682-480e-8322-14d109441cdf",
+        "sale_price": "4,250원",
+        "link": "https://www.coupang.com/vp/products/111229591?itemId=335041518&vendorItemId=3822103278&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1758899370693255-03cc09c7-1236-47c5-8be2-d46aa967e9c8.jpg"
     },
     {
         "category": "식품",
-        "name": "아이배냇 꼬마 끙아젤리 포도 2개 포도맛 100g",
-        "brand": "아이배냇",
-        "uid": "11156a62-a698-4097-b948-3dbc6703f99a",
-        "sale_price": "5,800원",
-        "link": "https://www.coupang.com/vp/products/7159223330?itemId=18036364867&vendorItemId=85190807455&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/67b8ffc6-bf2e-4e61-ac03-06b9fcee44c75825696091990150412.png"
+        "name": "고등어밥상 가시제거연구소 고등어 냉동 800g 1개",
+        "brand": "고등어밥상",
+        "uid": "e3ef4e67-0e18-40b5-b6af-d6bf762ff6c0",
+        "sale_price": "18,200원",
+        "link": "https://www.coupang.com/vp/products/7923609064?itemId=21776217388&vendorItemId=88825026276&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1305606882642145-ebc1881f-ac39-48f3-8b51-f6738d158aed.jpg"
     },
     {
         "category": "식품",
-        "name": "아이배냇 꼬마 한끼 영양밥 혼합맛쇠고기시금치 150g 3개",
-        "brand": "아이배냇",
-        "uid": "08f58703-bf8f-4ac4-9287-16422beb4508",
-        "sale_price": "8,500원",
-        "link": "https://www.coupang.com/vp/products/7110317510?itemId=18172695375&vendorItemId=85321992873&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/64dacc31-bcdf-4800-802b-a55d709483f46807525539574886208.png"
-    },
-    {
-        "category": "식품",
-        "name": "리틀파스타오가닉스 유기농 파스타 리틀스타 250g 1개",
-        "brand": "리틀파스타오가닉스",
-        "uid": "25da0524-197c-4c93-a86e-4d1041e86fbf",
-        "sale_price": "7,490원",
-        "link": "https://www.coupang.com/vp/products/8341724891?itemId=24091160955&vendorItemId=87697188697&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1238232563688514-b5de70a4-c9cd-40d7-87cc-937419f5d416.png"
-    },
-    {
-        "category": "식품",
-        "name": "엘빈즈 11곡물 영양그대로 곡물바 블루베리맛 40g 1개",
-        "brand": "엘빈즈",
-        "uid": "9a34949f-b326-4c0c-987d-64510d45a1d3",
-        "sale_price": "2,500원",
-        "link": "https://www.coupang.com/vp/products/7348811248?itemId=18988498149&vendorItemId=86113745547&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/05/29/9/0/36639469-3673-4646-a73c-98c036d982b6.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "일동후디스 아이얌 유기농 쌀과자 사과떡뻥 30g 사과맛 6개",
-        "brand": "일동후디스",
-        "uid": "508b8b99-0425-4e5f-b8ea-c48e34e2abf6",
-        "sale_price": "13,500원",
-        "link": "https://www.coupang.com/vp/products/6299130369?itemId=16203442867&vendorItemId=83397998577&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6029/6932fa7bcc1097eb15c7dc4af1f623d15cec141f8d26c3489df99d3e7445.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "일동후디스 아이얌 칼슘웨하스 딸기 36g 3개",
-        "brand": "일동후디스",
-        "uid": "3525fcf0-1a0a-47bc-8b6f-e449838bc08a",
-        "sale_price": "6,990원",
-        "link": "https://www.coupang.com/vp/products/7826040853?itemId=19145373244&vendorItemId=86264534500&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/58f4/0fe5b5000d6d76b14371fe895673647f431bbd1ab1915ec18bdb85b7b48f.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "요미요미 주스 125ml 8개 혼합맛사과배포도",
-        "brand": "요미요미",
-        "uid": "ff06ed26-dd8a-42ba-8c94-7a499ceb7a55",
-        "sale_price": "4,300원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=20733952770&vendorItemId=85727883850&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6237142096542906-d35eb07b-bf73-4644-be45-529a24c9d105.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "베베쿡 처음먹는 빼빼롱뻥 30g 2개 사과",
-        "brand": "베베쿡",
-        "uid": "bb01161d-bc5d-433d-ab70-8897380605be",
-        "sale_price": "6,200원",
-        "link": "https://www.coupang.com/vp/products/7680102922?itemId=17972724310&vendorItemId=85129876112&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/32876251120781-3831632d-c67f-4681-b018-73d6efce2250.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "서울우유치즈 앙팡 유기농 아기치즈 STEP1 20매입 360g 1개",
+        "name": "서울우유치즈 앙팡 유기농 아기치즈 STEP2 20매입 360g 1개",
         "brand": "서울우유치즈",
-        "uid": "57592573-bcda-4087-bc2d-6acfe13aa309",
-        "sale_price": "6,520원",
-        "link": "https://www.coupang.com/vp/products/4354956162?itemId=5114376845&vendorItemId=72423893554&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/17024338746982-fbc0e1eb-4d76-4fd4-881e-7812cf12c5a3.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "퍼기 풀 먹고 자란 소고기칩 1개 40g 소고기맛",
-        "brand": "퍼기",
-        "uid": "1bd37f8c-5dec-4450-9a8e-b738859d7641",
-        "sale_price": "19,900원",
-        "link": "https://www.coupang.com/vp/products/8351345626?itemId=24127367565&vendorItemId=91203756658&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1313467301880821-de4c8d6e-9812-4f57-a383-3f67e12d3edc.png"
-    },
-    {
-        "category": "식품",
-        "name": "요미요미 유기농 쌀과자 25g 빨강 4개",
-        "brand": "요미요미",
-        "uid": "8369ce3d-7d45-43f0-bce5-9f096c9ebbe4",
-        "sale_price": "8,600원",
-        "link": "https://www.coupang.com/vp/products/1444127?itemId=19458615811&vendorItemId=86569125099&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3843bf72-983f-43a1-83f9-ae425d8270145969271468187482700.png"
-    },
-    {
-        "category": "식품",
-        "name": "졸리팝 무설탕 막대사탕 딸기 40g 1개",
-        "brand": "졸리팝",
-        "uid": "c958b03a-3a5e-4bf6-972b-4be672a5a6e0",
-        "sale_price": "3,400원",
-        "link": "https://www.coupang.com/vp/products/7889707593?itemId=358445683&vendorItemId=3872380801&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/580f/e6401375fb2ddbe9d9b85806cc437a0ca873f5f7a4cd43c752cf01615789.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "에코맘의산골이유식 산골쌀참 자색고구마 25g 1개",
-        "brand": "에코맘의산골이유식",
-        "uid": "79001507-7c52-43d2-935d-eb23499e5320",
-        "sale_price": "1,970원",
-        "link": "https://www.coupang.com/vp/products/7654629001?itemId=20376608640&vendorItemId=90747088084&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/19/12/1/d16a264d-33ee-42d7-b9c7-3f592a3d0209.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 꼬마 우리한우 사골곰탕 200g 사골맛 2개",
-        "brand": "아이배냇",
-        "uid": "b046ff0e-c8d3-4589-8efd-d4a27d7c186d",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/7141981449?itemId=18591617309&vendorItemId=85727882751&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/af1825c2-442c-4ec2-bea2-0187214784c81646829316198621140.png"
-    },
-    {
-        "category": "식품",
-        "name": "베베스트 처음먹는 칼슘츄러스 딸기 130g 1개",
-        "brand": "베베스트",
-        "uid": "f01f8d48-44b6-463e-bf1b-575f82e4c313",
-        "sale_price": "11,260원",
-        "link": "https://www.coupang.com/vp/products/7757705477?itemId=20912919392&vendorItemId=82337812731&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d6ec/c3535fb9decf36ba5a65a6589103a169ed44222116fbd53cc26bbddde0d1.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "앱솔루트 플래티넘 산양분유 1단계 350g 1개",
-        "brand": "앱솔루트",
-        "uid": "7f4794d8-afd1-4b65-940c-6d30f826f7ea",
-        "sale_price": "23,460원",
-        "link": "https://www.coupang.com/vp/products/7783940106?itemId=21043474930&vendorItemId=82986797842&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/b1ed/8af5a09fdf509707a776f8b83ce0b313980b8996958c99437a902edb297b.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "남양 우리아이 처음먹는 새우얌얌 40g 2개 새우",
-        "brand": "남양",
-        "uid": "aae8bb97-cc54-41e3-b119-fe3425f426ff",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/7232856823?itemId=19714209475&vendorItemId=86818508647&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/58c3/990ae66fe63c8a84aeb9bd1031cc4b7383c925aafe0043d423609822cc95.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 유아용 김자반 야채 25g 2개",
-        "brand": "아이배냇",
-        "uid": "14d6ed47-7c87-4ff0-82c9-373985ff7cfb",
-        "sale_price": "3,400원",
-        "link": "https://www.coupang.com/vp/products/302303364?itemId=18865281525&vendorItemId=85994165112&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/559188070834311-09ba1f9a-1ee0-4211-bdb4-e89eb19be0f2.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "베베쿡 처음먹는 장조림 100g 1개 메추리알",
-        "brand": "베베쿡",
-        "uid": "3d261f9b-0d6d-46b7-8363-027008eb5850",
-        "sale_price": "3,720원",
-        "link": "https://www.coupang.com/vp/products/7047802540?itemId=19212426995&vendorItemId=86329494551&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/06/20/15/8/b76ffa9e-c87d-4d43-9683-d4bb0751b8f7.png"
-    },
-    {
-        "category": "식품",
-        "name": "남양 우리아이 처음먹는 양파얌얌 35g 2개 양파",
-        "brand": "남양",
-        "uid": "6db35ad5-4d2d-4d1c-adae-7177b9b0522f",
-        "sale_price": "9,150원",
-        "link": "https://www.coupang.com/vp/products/7232856823?itemId=19714209653&vendorItemId=90041936414&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4e6d/d2fcf8f418dc62defdd635351dcc7f1d1929a88d3ac08af03d81432d10d5.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이얌 우리아이 바로 먹는 소스 야채 160g 2개",
-        "brand": "아이얌",
-        "uid": "c207146d-6052-417a-99f3-7a2c18a1e2bc",
-        "sale_price": "7,590원",
-        "link": "https://www.coupang.com/vp/products/7235466175?itemId=12411631953&vendorItemId=80181244592&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/19bf/d5ea4b9ef62830496fae1e58888428015e028c7ee76e944e98eed00412b5.png"
-    },
-    {
-        "category": "식품",
-        "name": "매일유업 요미요미 오가닉퍼프 혼합세트바나나망고1딸기블루베리1단호박고구마1 3개 42g 바나나망고딸기블루베리단호박고구마",
-        "brand": "매일유업",
-        "uid": "f26f1532-c7a0-42b9-a44b-0b3c36407930",
-        "sale_price": "14,000원",
-        "link": "https://www.coupang.com/vp/products/8358731495?itemId=24154459850&vendorItemId=71637864550&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1a8f/af8f1aa0cc33b8ebd850accc03765995b757a4eb872bd90a4bb1f6fe32b4.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 꼬마 조아햄 200g 햄 3개",
-        "brand": "아이배냇",
-        "uid": "6e36a3de-5e96-4d68-8ee3-0fb95f81a066",
-        "sale_price": "12,500원",
-        "link": "https://www.coupang.com/vp/products/7260696208?itemId=18492954039&vendorItemId=5264291592&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4777443569104352-6067be22-20ea-408e-a77d-27e4936e6a40.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 베베 핑거 요거트 20g 딸기 8개",
-        "brand": "아이배냇",
-        "uid": "a126337b-51b8-4ae4-a6d8-384bf3a0d679",
-        "sale_price": "19,600원",
-        "link": "https://www.coupang.com/vp/products/6643550098?itemId=39121437&vendorItemId=3058562047&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1646326336009075-2cc07d19-6216-4389-9432-4881561550ad.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 유아용 쏙쌀과자 40g 인절미 1개",
-        "brand": "아이배냇",
-        "uid": "704e2c75-f4d5-4561-90e4-8ee32f4805ca",
-        "sale_price": "3,000원",
-        "link": "https://www.coupang.com/vp/products/6482596282?itemId=14480764182&vendorItemId=85166688311&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/btdquowb/10a94495b61f4bd28479dcf891e6b3a6.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "엘빈즈 11곡물 영양그대로 곡물바 우유맛 40g 1개",
-        "brand": "엘빈즈",
-        "uid": "75576b43-680c-4d57-a6cb-fc950579a45f",
-        "sale_price": "2,500원",
-        "link": "https://www.coupang.com/vp/products/7348811248?itemId=18988498146&vendorItemId=86113745537&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/05/29/9/6/a396393e-8f91-40c6-9add-8ab38dc20273.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "맘마밀요미요미 유기농 쌀과자 25g 빨강 2개",
-        "brand": "맘마밀요미요미",
-        "uid": "fca3e96f-8216-48be-9de4-aa8a0562f946",
-        "sale_price": "4,300원",
-        "link": "https://www.coupang.com/vp/products/1444127?itemId=18130737626&vendorItemId=85281498319&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/bd06b310-5eb8-47a0-8854-1f8b3ff8ca382393186412455609755.png"
-    },
-    {
-        "category": "식품",
-        "name": "맘마밀 안심 이유식 퓨레 6개월부터 사과와 고구마 100g 3개",
-        "brand": "맘마밀",
-        "uid": "1b2d74a7-7b2c-45e2-a395-61c22131261c",
-        "sale_price": "5,640원",
-        "link": "https://www.coupang.com/vp/products/7680287471?itemId=18841576127&vendorItemId=85971218065&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/311880260151143-6f176f36-6d01-4320-ac9b-8f79cc206525.jpg"
+        "uid": "af0e066d-8a98-4307-b551-991ac8697713",
+        "sale_price": "7,480원",
+        "link": "https://www.coupang.com/vp/products/4354956175?itemId=5114376946&vendorItemId=72423893642&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1329568325437909-4f48c07d-7948-4097-9232-4687cadf9465.jpg"
     },
     {
         "category": "식품",
@@ -307,30 +55,156 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 쌀쿵 시금치와 당근 15g 3개 혼합맛시금치당근",
-        "brand": "베베쿡",
-        "uid": "998164ef-44d5-48d5-9b2d-98af9b8b3ccc",
-        "sale_price": "5,610원",
-        "link": "https://www.coupang.com/vp/products/8525309975?itemId=11384006033&vendorItemId=86329785872&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3127346376312523-3470164b-5f03-44e2-93ae-4832c6b5a617.jpg"
+        "name": "상하치즈 유기농 첫치즈 20매 1STEP 360g 1개",
+        "brand": "상하치즈",
+        "uid": "5fb8cfa4-3d34-409e-831c-80d3ae358b3e",
+        "sale_price": "9,400원",
+        "link": "https://www.coupang.com/vp/products/5080394755?itemId=6891306661&vendorItemId=74183841097&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/535346052038386-dfb97afd-233b-41fa-ae10-b7945e529579.jpg"
     },
     {
         "category": "식품",
-        "name": "일동후디스 아동용 아이얌 칼슘웨하스 6g x 50p 딸기 300g 1개",
-        "brand": "일동후디스",
-        "uid": "c34cc454-7866-4f57-8a32-50ed76da758c",
-        "sale_price": "15,530원",
-        "link": "https://www.coupang.com/vp/products/7826040853?itemId=15445956866&vendorItemId=82665569613&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4248019912986336-c800c939-a2d3-4739-8d37-9c3d304afaea.jpg"
+        "name": "팔도 뽀로로 아기보리차 220ml 24개",
+        "brand": "팔도",
+        "uid": "306f5123-e58c-4717-bd73-9b6935e5ed67",
+        "sale_price": "17,050원",
+        "link": "https://www.coupang.com/vp/products/21569963?itemId=84202538&vendorItemId=3051375661&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/e63f/9da46f2859b19f7643da0f71fb87ed197322f49eecae476f26fdc6fdf155.jpg"
     },
     {
         "category": "식품",
-        "name": "내아이애 유기농 떡뻥 쌀과자 4종 세트 비트 연근 당근 바나나 30g 1세트",
-        "brand": "내아이애",
-        "uid": "49930ef8-81a4-4a84-a68d-fd3f99b453e9",
-        "sale_price": "11,200원",
-        "link": "https://www.coupang.com/vp/products/214182211?itemId=651814849&vendorItemId=4692140698&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/fb80/877bb8b39b80efbd493090f26b232f3d8dccef2c1156b82cde27cc60c0d2.jpg"
+        "name": "상하치즈 유기농 어린이치즈 20매 3STEP 360g 1개",
+        "brand": "상하치즈",
+        "uid": "b5046aa0-e033-46ff-9e93-f71ec048fd84",
+        "sale_price": "9,400원",
+        "link": "https://www.coupang.com/vp/products/5080394749?itemId=6891306636&vendorItemId=74183841082&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/166201481914040-e55338b2-7945-432c-bc6a-2564bab5e727.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "앱솔루트 명작 2FL 분유 2단계 800g 3개",
+        "brand": "앱솔루트",
+        "uid": "705d8115-c772-4567-b0b0-f5b37bc48108",
+        "sale_price": "52,990원",
+        "link": "https://www.coupang.com/vp/products/7308156780?itemId=11615060339&vendorItemId=78889733722&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7877462581180319-619609bc-fe1c-4214-ae69-a4a09766a12d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "앱솔루트 플래티넘 산양분유 1단계 350g 2개",
+        "brand": "앱솔루트",
+        "uid": "66f4dcfe-0531-4556-a82d-ded1531d71a0",
+        "sale_price": "46,920원",
+        "link": "https://www.coupang.com/vp/products/7783940106?itemId=21043483319&vendorItemId=85192618214&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/2852/7a45e32d277f235a5f3990a595ac1f5603ca390f9beac15736dc2ff6bbdd.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 끙아 과일야채주스 80ml 10개 씨",
+        "brand": "아이배냇",
+        "uid": "6a2cf812-6a78-4537-bdf0-9283563fc461",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/7694639770?itemId=20585542470&vendorItemId=3033506356&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/159274444526461-3f47e816-47dc-4f49-a6fc-f32eac1735c2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베이비본죽 후기 이유식만911개월 A세트 한우미역깨죽  시금치콩나물죽  한우백만송이비타민죽  닭녹두버섯죽 x 180g 1세트",
+        "brand": "베이비본죽",
+        "uid": "a1b075d3-2cac-442d-8677-5d685693e32e",
+        "sale_price": "19,270원",
+        "link": "https://www.coupang.com/vp/products/245163394?itemId=777229870&vendorItemId=4965956441&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8144382614542057-adb2fe82-6dbf-40bd-9adf-7787487dc1c6.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 순창 한식 된장 150g 1개",
+        "brand": "아이배냇",
+        "uid": "479b347c-bf49-4107-a493-8629babe4390",
+        "sale_price": "5,200원",
+        "link": "https://www.coupang.com/vp/products/7260543199?itemId=18492246031&vendorItemId=3070966528&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/3873/dd634dce815bd8aad9396ed4c18200fd24de0516502cdd3877c87475522e.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이엠마더 분유 2단계 800g 1개",
+        "brand": "아이엠마더",
+        "uid": "68d437ae-e916-45c0-81c8-e0e74f69b7c6",
+        "sale_price": "27,600원",
+        "link": "https://www.coupang.com/vp/products/7055016168?itemId=17477124791&vendorItemId=84644698793&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/10/14/9/913713fc-9775-4160-a22c-397076b8cf59.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "요미요미 유기농 주스 125ml 24개 과일믹스",
+        "brand": "요미요미",
+        "uid": "0ab8c915-1e38-4db4-89fe-408a2908fa33",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=18626124407&vendorItemId=3051735988&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1049978344715166-89765f05-0301-42c0-a510-52cbb19751c2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "또또맘 리얼 빼빼구마 250g 1개",
+        "brand": "또또맘",
+        "uid": "5039d6d9-9ffc-4a32-9883-49ae4d9ff9ed",
+        "sale_price": "16,900원",
+        "link": "https://www.coupang.com/vp/products/7596106709?itemId=20497064234&vendorItemId=87575478158&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/10/26/13/1/5b301cc6-66fd-415c-8079-5880a7e63875.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "신라명과 셀레브르쿠키 대 850g 1세트",
+        "brand": "신라명과",
+        "uid": "d7264be9-87a2-4f21-b6ed-6b249084d8d1",
+        "sale_price": "22,270원",
+        "link": "https://www.coupang.com/vp/products/7550843871?itemId=23949941740&vendorItemId=88552477706&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8f1e/d52532d930fb1079bcb957a40d5ba09af7ad873aae4d6808f81d1fa3aeca.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "해슬로 가시없는 어린이 순살가자미 냉동 400g 1팩",
+        "brand": "해슬로",
+        "uid": "0db27eb5-2aba-4980-acb2-7ee039a20c98",
+        "sale_price": "8,990원",
+        "link": "https://www.coupang.com/vp/products/7835241336?itemId=21316524410&vendorItemId=88375977557&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/0andidpm/9a5d7b7f6f7f48d0990a342c0ae4f308.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "남양 우리아이 처음먹는 새우얌얌 40g 2개 새우",
+        "brand": "남양",
+        "uid": "aae8bb97-cc54-41e3-b119-fe3425f426ff",
+        "sale_price": "3,900원",
+        "link": "https://www.coupang.com/vp/products/7232856823?itemId=19714209475&vendorItemId=86818508647&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/58c3/990ae66fe63c8a84aeb9bd1031cc4b7383c925aafe0043d423609822cc95.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "힙 유기농 콤비오틱 분유 2단계 800g 1개",
+        "brand": "힙",
+        "uid": "05a3eb36-7093-4daf-8b01-62ccece57d12",
+        "sale_price": "44,800원",
+        "link": "https://www.coupang.com/vp/products/204402279?itemId=20176602386&vendorItemId=4574072301&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/201978227098634-00d05679-fe6e-4f0c-9bde-303c83efcc9d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "고등어밥상 가시제거연구소 고등어 냉동 800g 2개",
+        "brand": "고등어밥상",
+        "uid": "8e9415aa-578f-45a3-9828-892373029023",
+        "sale_price": "35,300원",
+        "link": "https://www.coupang.com/vp/products/7923609064?itemId=21776235815&vendorItemId=88825044207&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/530910fc-d837-4ca5-b1b2-1ed01c48a16d1360558614274949985.png"
+    },
+    {
+        "category": "식품",
+        "name": "압타밀 프로푸트라 듀오어드밴스 1단계 800g 1개",
+        "brand": "압타밀",
+        "uid": "b6f34ae9-a2c2-4f5c-93ab-3b3490474768",
+        "sale_price": "44,900원",
+        "link": "https://www.coupang.com/vp/products/7116177395?itemId=17804673630&vendorItemId=84968713450&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/2cd3/12f55ee6b6699896ad73d615d59af1834eb14c26820df064651b347ceefb.jpg"
     },
     {
         "category": "식품",
@@ -343,210 +217,318 @@
     },
     {
         "category": "식품",
-        "name": "에코맘의산골이유식 산골쌀참 혼합맛사과당근 25g 1개",
-        "brand": "에코맘의산골이유식",
-        "uid": "685a6adf-c75c-492c-9b85-4a4cb6dd21e5",
-        "sale_price": "2,700원",
-        "link": "https://www.coupang.com/vp/products/7654629001?itemId=23722261352&vendorItemId=90747088111&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/19/12/2/44cf07e5-daf5-40b3-b2ac-e8b1863ebc60.png"
-    },
-    {
-        "category": "식품",
-        "name": "졸리팝 무설탕 막대사탕 125g 1개",
-        "brand": "졸리팝",
-        "uid": "27f8f87a-fab4-4a25-bec9-ae41ef031513",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/7889707593?itemId=18075180448&vendorItemId=3271396878&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/8209/c4304d1a4ebdb74d28fef583dd0ce7ef8130de2d5340f2824b93781a1c20.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 꼬마 육포 오리지널 30g 2개",
-        "brand": "아이배냇",
-        "uid": "27e451d3-be3f-4206-9dd4-81ab22b2a77b",
-        "sale_price": "7,600원",
-        "link": "https://www.coupang.com/vp/products/7257862236?itemId=18625692677&vendorItemId=85761075135&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/45e6f746-d179-4418-b0d5-bdd1290d48025409688024479686018.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이꼬야 남양 불가리스 요거트 과자 17g 3개 블루베리",
-        "brand": "아이꼬야",
-        "uid": "33f8a87a-263e-4ced-abf5-780805449dc0",
-        "sale_price": "7,470원",
-        "link": "https://www.coupang.com/vp/products/8253713731?itemId=14581794014&vendorItemId=86264535845&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/83b7a09c-50e0-45a5-9a85-4a99fca6117a6590966561587906149.png"
-    },
-    {
-        "category": "식품",
-        "name": "엘빈즈 유기농 라이스팝 과자 혼합맛바나나블루베리비트 15g 20개",
-        "brand": "엘빈즈",
-        "uid": "1d20f0ff-29a3-4061-b10a-13590b7d0296",
-        "sale_price": "17,000원",
-        "link": "https://www.coupang.com/vp/products/50715548?itemId=14189277205&vendorItemId=3427703689&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/75b5/c9aaebc89b37bddaebdb0d8cece3d9b047cf064a2eb460f59a4375fcde4f.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "퍼기 티딩러스크 치발과자 바나나고구마맛 120g 1개",
-        "brand": "퍼기",
-        "uid": "cbd1254f-5c11-498e-9d60-c6a0a6bf6b31",
-        "sale_price": "9,900원",
-        "link": "https://www.coupang.com/vp/products/7250892702?itemId=20356402628&vendorItemId=87501876335&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/38503796892631-35ddf6ba-d09e-40a9-9910-f59c881da104.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 순 간장소스 국물용 190ml 1개",
-        "brand": "아이배냇",
-        "uid": "dae4f27e-5ab1-4154-b827-daaba88d8f20",
-        "sale_price": "3,880원",
-        "link": "https://www.coupang.com/vp/products/7240638809?itemId=18396353606&vendorItemId=3520952150&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1709372662227772-845eab23-f867-4a69-9627-f88b2972be46.png"
-    },
-    {
-        "category": "식품",
-        "name": "서울우유치즈 앙팡 유기농 아기치즈 STEP1 20매입 360g 2개",
-        "brand": "서울우유치즈",
-        "uid": "3e554e9f-c7c7-40c5-8095-96e80e3da845",
-        "sale_price": "12,470원",
-        "link": "https://www.coupang.com/vp/products/4354956162?itemId=19225304573&vendorItemId=86341955972&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/17097203455120-4623ac62-bb06-462a-b23a-b61762e3c012.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "팔도 뽀로로 홍삼쏙쏙 건강음료 100ml 1L 1개",
-        "brand": "팔도",
-        "uid": "36b0d9ad-9a3c-4d0e-878e-6324081e139f",
-        "sale_price": "6,350원",
-        "link": "https://www.coupang.com/vp/products/7688527385?itemId=20220740873&vendorItemId=4215831429&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2018/12/18/11/8/2baecd25-8314-4bb2-8c87-02012e96968c.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "남양유업 우리아이 처음먹는 양파얌얌 과자 35g 2개 감자맛",
-        "brand": "남양유업",
-        "uid": "1f7d8b79-0c1a-4282-bb5f-94f2c03f9c54",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/7232856823?itemId=18042649011&vendorItemId=85196959430&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/303e/85b89a902e8c4908a654720060164cbe32276fe1a43ab8513fc891345901.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "일동후디스 아동용 아이얌 DHA웨하스 6g x 50p 요구르트 300g 1개",
-        "brand": "일동후디스",
-        "uid": "e0f2482b-c75d-490f-b4bd-d53c2ad18aa1",
-        "sale_price": "19,250원",
-        "link": "https://www.coupang.com/vp/products/7826040853?itemId=15445957246&vendorItemId=82665570182&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5841322820526860-37a25bf6-1acc-419e-9cc5-d08ca824ec15.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "프로엠 코코몽 요거팜 딸기 플러스 스낵 30g 3개",
-        "brand": "프로엠",
-        "uid": "88e2e1d2-58b3-42ff-b1e1-91279a5cfa2c",
-        "sale_price": "6,000원",
-        "link": "https://www.coupang.com/vp/products/7622996811?itemId=20260991208&vendorItemId=87348507171&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/18a224a0-9e0b-47f4-85c9-753ef1f9d54a6618047182092943928.png"
-    },
-    {
-        "category": "식품",
-        "name": "풀무원 뽀로로 키즈 두부봉 치즈 28g 두부 18개",
-        "brand": "풀무원",
-        "uid": "7757a9cc-0850-4bd3-9e13-5ce1378cd741",
-        "sale_price": "11,780원",
-        "link": "https://www.coupang.com/vp/products/7199447422?itemId=18194472932&vendorItemId=85343144314&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/658c/8dfe97ede30d6d4e72e67464793b45f0cabc00ae15437bfff0630d6935bf.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "앱솔루트 킨더밀쉬 200ml 24개",
+        "name": "앱솔루트 플래티넘 산양분유 1단계 350g 1개",
         "brand": "앱솔루트",
-        "uid": "89961f09-eda4-49aa-a881-391a10b2c366",
-        "sale_price": "24,200원",
-        "link": "https://www.coupang.com/vp/products/6065154611?itemId=3800433483&vendorItemId=71785412257&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/14df/77235d2aae73f8e08b588bc72a152a2e3734bbbe29c3eef6458538fc5f78.jpg"
+        "uid": "7f4794d8-afd1-4b65-940c-6d30f826f7ea",
+        "sale_price": "23,460원",
+        "link": "https://www.coupang.com/vp/products/7783940106?itemId=21043474930&vendorItemId=82986797842&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/b1ed/8af5a09fdf509707a776f8b83ce0b313980b8996958c99437a902edb297b.jpg"
     },
     {
         "category": "식품",
-        "name": "그린원푸드 100 유기농 스틱 쌀과자 5종 세트 자색고구마시금치단호박브로콜리양파사과당근 자색고구마시금치단호박브로콜리양파사과당근 40g 5개",
-        "brand": "그린원푸드",
-        "uid": "c07c25dc-f1ea-470d-b9c7-64f7301d3cc7",
-        "sale_price": "18,000원",
-        "link": "https://www.coupang.com/vp/products/8096470026?itemId=17161236840&vendorItemId=88607865860&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/71c8/d802837bf20ee184ee633a72f77c73c5f8834b866c5db70bb775270fb0b3.jpg"
+        "name": "담은수 채수 티백 20g 1개",
+        "brand": "담은수",
+        "uid": "8783a30d-4ff6-45b3-a886-dfdaab8aa9ce",
+        "sale_price": "10,500원",
+        "link": "https://www.coupang.com/vp/products/7826063395?itemId=21271305433&vendorItemId=76234847418&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1321921499499586-808ffda3-5a91-429f-a157-f4148c797c17.jpg"
     },
     {
         "category": "식품",
-        "name": "임페리얼드림XO 애프터 포뮬러 분유 5단계 800g 3개",
-        "brand": "임페리얼드림XO",
-        "uid": "b82c5f21-bbeb-4849-8aa8-a4e29d21409e",
-        "sale_price": "53,700원",
-        "link": "https://www.coupang.com/vp/products/5761123776?itemId=18561917785&vendorItemId=85861487238&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5d07edda-5557-4bec-93d1-de8670b6884c1912634816424458731.png"
+        "name": "앱솔루트 유기농 궁 분유 1단계 06개월 800g 2개",
+        "brand": "앱솔루트",
+        "uid": "e72063c1-3b36-438b-b8f7-e7faf645835d",
+        "sale_price": "56,000원",
+        "link": "https://www.coupang.com/vp/products/4550724570?itemId=6151022481&vendorItemId=85101032221&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ed92/200c1e5af0094f4cb10d42427ef56ac7157b1700c557b9d91973db581a1b.jpg"
     },
     {
         "category": "식품",
-        "name": "베베쿡 처음먹는 요리가케 06처음 먹는 요리가케크림새우와버섯 28g 1개",
+        "name": "일동후디스 시그니처 산양분유 1단계 800g 1개",
+        "brand": "일동후디스",
+        "uid": "2d09c95e-574e-48d9-91b4-5dddd6c65be6",
+        "sale_price": "54,900원",
+        "link": "https://www.coupang.com/vp/products/7214178857?itemId=24549850758&vendorItemId=91274557172&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/11/15/6/136e38e9-264d-4cbd-a28f-cab35dcd8a15.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 순 발아 참기름 참깨 75ml 1개",
+        "brand": "아이배냇",
+        "uid": "c90f98f6-1b94-44a3-aa6a-cf96003f38fe",
+        "sale_price": "10,500원",
+        "link": "https://www.coupang.com/vp/products/7260640923?itemId=21003959171&vendorItemId=3000059726&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5731625635276949-e506ac47-e241-4490-be15-7a40f58f5d80.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 쌀쿵 쌀과자 자색고구마  단호박 혼합맛 15g 10개",
         "brand": "베베쿡",
-        "uid": "ba9a78eb-d1d4-4e5c-8c39-4022e5384fe5",
-        "sale_price": "4,900원",
-        "link": "https://www.coupang.com/vp/products/7047802617?itemId=5686949629&vendorItemId=84747610301&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/526426377241898-8631ebae-5c7f-499b-8cc2-2b86d4807e20.jpg"
+        "uid": "b3de4151-09ae-43f4-98f5-7d2a3ff3db5d",
+        "sale_price": "13,700원",
+        "link": "https://www.coupang.com/vp/products/228716656?itemId=38579399&vendorItemId=3057506625&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/bd80/50396201a715d179ed577a79368fcee577c2a28cf688bc1c624d423ccb15.jpg"
     },
     {
         "category": "식품",
-        "name": "프로엠 맘스케어 유기농까까 별과자 현미  백미 혼합맛 13g 4개",
-        "brand": "프로엠",
-        "uid": "fd2c7859-54f5-4a88-a3c6-8def70c9d19c",
-        "sale_price": "4,400원",
-        "link": "https://www.coupang.com/vp/products/118474721?itemId=546568576&vendorItemId=4433178833&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/776725892759588-69754486-c51a-4c13-adf2-82876af9fe90.jpg"
+        "name": "모구모구 복숭아맛 320ml 24개",
+        "brand": "모구모구",
+        "uid": "1cab0fc2-6d84-4092-8de7-680979b0e3f1",
+        "sale_price": "19,870원",
+        "link": "https://www.coupang.com/vp/products/232099727?itemId=20743862234&vendorItemId=81834069248&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e300/7df9a8a7bb3f1605be283deef87907a276459a87e835bbdac3043d592b01.jpg"
     },
     {
         "category": "식품",
-        "name": "핑크퐁 까꿍 곡물 크리스피롤 24p 치즈맛 120g 1개",
-        "brand": "핑크퐁",
-        "uid": "2c2a30ca-11f3-4433-a51b-b09a5e666984",
-        "sale_price": "10,120원",
-        "link": "https://www.coupang.com/vp/products/1309762197?itemId=10118951603&vendorItemId=77401725664&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2670/ebb53d10a6fa1f5636ab170a4b0683e1bd236cb70aaff8f307d63e7dfb7b.jpg"
+        "name": "임페리얼XO 분유 1단계 800g 1개",
+        "brand": "임페리얼XO",
+        "uid": "ef482ea5-f642-4cf6-92ff-78091d92ca3e",
+        "sale_price": "23,300원",
+        "link": "https://www.coupang.com/vp/products/7750218300?itemId=17443781125&vendorItemId=84612405333&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/11/5/e8385187-ce94-4704-9d84-b8aa1ce46ddc.jpg"
     },
     {
         "category": "식품",
-        "name": "남양 우리아이 처음먹는 새우얌얌 40g 4개 새우",
-        "brand": "남양",
-        "uid": "150122d2-81a3-4ac7-9895-c10f4a4deb30",
-        "sale_price": "7,800원",
-        "link": "https://www.coupang.com/vp/products/7232856823?itemId=19714209622&vendorItemId=86818508709&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/36f43da1-1763-4c70-985b-cd0710b623478594516671552155507.png"
+        "name": "일동후디스 트루맘 뉴클래스 슈퍼프리미엄 분유 1단계 06개월 800g 1개",
+        "brand": "일동후디스",
+        "uid": "841d7d53-049f-440e-9ca8-6358d6213b95",
+        "sale_price": "39,800원",
+        "link": "https://www.coupang.com/vp/products/8316217025?itemId=24000462112&vendorItemId=91021323078&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/03/12/14/9/c40c309a-d175-4550-83b0-1c6e4ffbc395.jpg"
     },
     {
         "category": "식품",
-        "name": "엘빈즈 바삭바삭 어린이 현미가케 빨강마을  노랑마을  푸른마을 빨강마을 노랑마을 푸른마을 84g 1세트",
-        "brand": "엘빈즈",
-        "uid": "5b4b32c5-3dfa-4939-8a77-05bf5a4a4fc4",
-        "sale_price": "11,400원",
-        "link": "https://www.coupang.com/vp/products/118962724?itemId=354692718&vendorItemId=3864101620&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/93c8/461104088aa38b2bdf8f2fb30a85d15137d5824527d508608631d8448779.jpg"
+        "name": "신라명과 셀레브르쿠키중선물세트 쇼핑백 증정 640g 1개",
+        "brand": "신라명과",
+        "uid": "2e370f0d-ccab-4511-b6a7-1b28944fa4e5",
+        "sale_price": "16,900원",
+        "link": "https://www.coupang.com/vp/products/7550843871?itemId=23122533560&vendorItemId=90541331227&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b8c8/dcc887f2684051e4f44d94de25be961be463349ee085ffb07a3627138aa5.jpg"
     },
     {
         "category": "식품",
-        "name": "맘마밀 안심 이유식 9개월부터 100g 2개 시금치와 연근소고기",
-        "brand": "맘마밀",
-        "uid": "42228b35-068f-4765-9c36-d5c6d8f8917d",
-        "sale_price": "3,000원",
-        "link": "https://www.coupang.com/vp/products/7012285027?itemId=19155106566&vendorItemId=86273948524&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/d1c5ffd7-332d-465a-aa4c-cb4dd1b125d16843547331549272270.png"
+        "name": "파스퇴르 위드맘 제왕 100일 750g 1개",
+        "brand": "파스퇴르",
+        "uid": "fb3c65e1-4995-414b-8477-c97faa8c7936",
+        "sale_price": "31,680원",
+        "link": "https://www.coupang.com/vp/products/7733232520?itemId=17115012532&vendorItemId=84144188775&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2412727904979305-3c4f3503-4e32-47f5-a1d2-196dce4df57f.jpg"
     },
     {
         "category": "식품",
-        "name": "베베스트 처음먹는 칼슘 츄러스 딸기맛 455g 3개",
-        "brand": "베베스트",
-        "uid": "7223ab6f-d894-4ba9-bbe6-ac51c633a23b",
-        "sale_price": "8,560원",
-        "link": "https://www.coupang.com/vp/products/7757705477?itemId=20912771005&vendorItemId=70302706940&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/1ea6/b4dead74adbe0f0b652f952e8270000fb3ed00b03a62a2bc083be14e76b7.jpg"
+        "name": "서울우유치즈 앙팡 유기농 아기치즈 STEP2 20매입 360g 2개",
+        "brand": "서울우유치즈",
+        "uid": "6ff7b153-1445-45b2-887c-55b7adc22f74",
+        "sale_price": "14,510원",
+        "link": "https://www.coupang.com/vp/products/4354956175?itemId=19225304851&vendorItemId=86341956203&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1329652366356038-9107c6e3-2549-4220-b27d-9e251c012b12.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "일동후디스 프리미엄 산양분유 2단계 800g 1개",
+        "brand": "일동후디스",
+        "uid": "266d9020-9a93-4194-a952-8494614ba1f6",
+        "sale_price": "54,900원",
+        "link": "https://www.coupang.com/vp/products/8417718391?itemId=15685015784&vendorItemId=91274557167&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/11/15/0/b4e9eb54-039d-4b0b-8ac9-b7c61bded13d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "내아이애 유기농 순수 야채링 쌀과자 4종 세트 단호박 자색고구마 양파 브로콜리 40g 1세트",
+        "brand": "내아이애",
+        "uid": "0f5a3f7c-a500-4290-ae2d-e7fea4fd9504",
+        "sale_price": "9,600원",
+        "link": "https://www.coupang.com/vp/products/7434086295?itemId=19315588956&vendorItemId=4692140680&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/8e5c/0188ea1ec33bd3d1b1abae3179cb61b7489aee38b65cfebc8d55ecde2860.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "지구로운 유기농아기과자 12종세트 400g 1세트 스틱4종 롱스틱4종 소프트링4종  총12종",
+        "brand": "지구로운",
+        "uid": "e055d5b7-6e4b-43d7-b3ec-4bdd108b1c04",
+        "sale_price": "19,900원",
+        "link": "https://www.coupang.com/vp/products/8391373911?itemId=24313012432&vendorItemId=91214650696&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/14fd/998772b20d1fd37a0a8dd4e0767153dea89dd3f9ed3d474534dfe23f6100.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "순작 유기농 우리아이 첫 보리차 160g 3개",
+        "brand": "순작",
+        "uid": "53c1752c-0070-43f6-9996-539faa92e16a",
+        "sale_price": "7,680원",
+        "link": "https://www.coupang.com/vp/products/7196530315?itemId=18180811383&vendorItemId=3010808113&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1947493011414954-12d062e4-d5aa-4a9c-b462-361c0f7dc587.png"
+    },
+    {
+        "category": "식품",
+        "name": "일루마 분유 1단계 1개 810g",
+        "brand": "일루마",
+        "uid": "f8e530bb-fdfb-47f4-8f84-f9e8085dd8a8",
+        "sale_price": "64,080원",
+        "link": "https://www.coupang.com/vp/products/8207326315?itemId=23141069332&vendorItemId=89719977467&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1786469241914616-c60020a4-3006-451f-955f-23e636c956e5.png"
+    },
+    {
+        "category": "식품",
+        "name": "서울대밥스누 우아한 포켓김자반 김맛 105g 1개",
+        "brand": "서울대밥스누",
+        "uid": "4f3c4cec-b4db-474d-b9e5-92fcee361a55",
+        "sale_price": "17,800원",
+        "link": "https://www.coupang.com/vp/products/8026933171?itemId=22435322182&vendorItemId=76658186195&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/684140035500453-21355760-f902-4896-8c8c-6ec9db75bd86.png"
+    },
+    {
+        "category": "식품",
+        "name": "로지오가닉 유기농 쌀과자 3종 x 2p 세트 사과당근 단호박 자색고구마 1세트",
+        "brand": "로지오가닉",
+        "uid": "81603fea-b471-4653-a211-59e8cbc061a6",
+        "sale_price": "13,410원",
+        "link": "https://www.coupang.com/vp/products/6339665905?itemId=13294627994&vendorItemId=80552024571&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/868505254886216-fed65d47-b1f1-4fb2-8149-b63c4ea29749.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아올다 hello 아이 유기농 보리보리 보리차 100ml 20개",
+        "brand": "아올다",
+        "uid": "097b9bd7-83c2-425b-9fab-436fcf89b2a3",
+        "sale_price": "18,710원",
+        "link": "https://www.coupang.com/vp/products/7458499411?itemId=19518140606&vendorItemId=86626833592&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/19/15/8/48f9b2e1-1c0a-4e17-b13d-72368eda1a07.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "졸리팝 무설탕 막대사탕 딸기 40g 1개",
+        "brand": "졸리팝",
+        "uid": "c958b03a-3a5e-4bf6-972b-4be672a5a6e0",
+        "sale_price": "3,400원",
+        "link": "https://www.coupang.com/vp/products/7889707593?itemId=358445683&vendorItemId=3872380801&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/580f/e6401375fb2ddbe9d9b85806cc437a0ca873f5f7a4cd43c752cf01615789.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "상하목장 유기농주스 사과오렌지케일4  사과블루베리케일4 사과딸기케일4총12팩 1세트 125ml",
+        "brand": "상하목장",
+        "uid": "200bbd63-bab3-4fd7-98cf-5d1ceced23fd",
+        "sale_price": "12,490원",
+        "link": "https://www.coupang.com/vp/products/7605384871?itemId=20129125061&vendorItemId=87223249175&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b1d8/fd18c0a2065bb63155d577f3af2091ed0218e99fe58f62f48e65f503fde5.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베당 유기농 현미스틱 3종세트 현미 고구마 당근플러스 30g 1세트",
+        "brand": "베베당",
+        "uid": "6b1c062e-ce50-480d-a6d4-c30df080c0c3",
+        "sale_price": "7,200원",
+        "link": "https://www.coupang.com/vp/products/169251014?itemId=484367018&vendorItemId=4219879738&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ce4b/66a4bcd12fb5c735e971137b2b06faf08318e7b14fad8999a490fc5fc5a2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "임페리얼XO 분유 1단계 800g 2개",
+        "brand": "임페리얼XO",
+        "uid": "f69ee818-466e-4498-944f-2353d556914a",
+        "sale_price": "44,000원",
+        "link": "https://www.coupang.com/vp/products/7750218300?itemId=17910001913&vendorItemId=85193102017&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/43ace1ea-8911-4d59-888f-ff9b4c5c11558072773074072923554.png"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 유아용 사르르쿵 과자 딸기맛 23g 2개",
+        "brand": "베베쿡",
+        "uid": "274ad97a-1f07-4f30-ae72-3f78fe9df615",
+        "sale_price": "6,840원",
+        "link": "https://www.coupang.com/vp/products/7063519752?itemId=18036369026&vendorItemId=85190811213&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6582/2521f8aeb480e92ba7a6691b6b5d04208c0ff0eba542695b7955c6d7c3ac.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 처음먹는 유기농 순떡뻥 백미 20g 2개",
+        "brand": "베베쿡",
+        "uid": "93fc8b31-5f78-499f-a25d-40ec220d7076",
+        "sale_price": "6,760원",
+        "link": "https://www.coupang.com/vp/products/7246436213?itemId=19132384637&vendorItemId=86251990875&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/48ed/745950a36caa0b52abc42c06c2adff5ef89b6529a7854ef3a73af583c42a.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "서울대밥스누 우아한 오가닉 어린이 김 무조미 15g 4개",
+        "brand": "서울대밥스누",
+        "uid": "ed71cb40-8669-4581-9ace-3b53802996ea",
+        "sale_price": "17,800원",
+        "link": "https://www.coupang.com/vp/products/6398710233?itemId=13673905768&vendorItemId=80925875059&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fc30/e7433dc9999d1e4e1e68ad4c86a7be18cb3c66c6bb88bd1f428a8315be09.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "힙 유기농 콤비오틱 분유 2단계 800g 3개",
+        "brand": "힙",
+        "uid": "02dc84a0-abe4-4416-a4ae-971ac9229db0",
+        "sale_price": "134,400원",
+        "link": "https://www.coupang.com/vp/products/204402279?itemId=20176617809&vendorItemId=70450892681&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/201978305733162-77e83b6f-e80a-495e-ba24-612ab41d0577.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "앙팡 유기가공식품인증 어린이치즈 STEP3 10매입 180g 1개",
+        "brand": "앙팡",
+        "uid": "9d546537-b57f-483a-be12-1095ba8a3d23",
+        "sale_price": "5,360원",
+        "link": "https://www.coupang.com/vp/products/130577772?itemId=384335572&vendorItemId=3933268987&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/425878926234900-be1a28dd-17b5-41ac-9491-7ce6c4947f78.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "샘표 우리 아이 순한 간장 비빔 볶음용 200ml 1개",
+        "brand": "샘표",
+        "uid": "9b24d9d4-eefa-4f5e-822b-bd2e43e7a470",
+        "sale_price": "5,820원",
+        "link": "https://www.coupang.com/vp/products/7200738817?itemId=18201006601&vendorItemId=3560153984&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/5a39/f6c61bd2d4a910f496d6299bd4aecb44429ac70fcddc85b5464ac7f08b32.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "후디스 하이키드 유아 킨더밀쉬 200ml 우유 24개",
+        "brand": "후디스",
+        "uid": "873dc9f6-c3c9-40f7-951f-49a5d7749856",
+        "sale_price": "28,450원",
+        "link": "https://www.coupang.com/vp/products/2242800862?itemId=21267530734&vendorItemId=71817713763&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3548253243419035-1ff6ab84-f1d2-4428-88d5-32c03b7a0015.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베이비본죽 완료기 이유식만12개월이상 B세트 한우잡채진밥  비프스튜진밥  치킨카레진밥  크림버섯리조또 x 200g 1세트",
+        "brand": "베이비본죽",
+        "uid": "0f18e83d-87c7-4573-a391-f8c4c84c478b",
+        "sale_price": "20,610원",
+        "link": "https://www.coupang.com/vp/products/245163396?itemId=777229886&vendorItemId=4965956459&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4174038671398543-51fb66ec-0b11-44a3-96ea-714e5bcc421a.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "파파루 간편레시피 유기농 쌀가루 백미 고운입자 초기 350g 1개",
+        "brand": "파파루",
+        "uid": "4adabf8d-206e-47b8-b062-ce56c8c9de49",
+        "sale_price": "6,900원",
+        "link": "https://www.coupang.com/vp/products/18388267?itemId=73950602&vendorItemId=3122146018&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/495607758521187-935424ac-df96-4970-b3da-61fbb577c66e.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "팔도 뽀로로 블루베리맛 어린이음료 235ml 24개",
+        "brand": "팔도",
+        "uid": "70e166f9-8ebf-41a5-9bfd-7859e8ced7b1",
+        "sale_price": "16,370원",
+        "link": "https://www.coupang.com/vp/products/8250122235?itemId=43526218&vendorItemId=3051339661&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3544601733238-75ee6954-087e-486e-9c9f-e0804d6498b0.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베당 유기농 롱스틱 6종 세트 사과당근 감귤현미 단호박흑임자 1세트",
+        "brand": "베베당",
+        "uid": "b58d37f7-e681-46dc-b7df-8a7e5a995b10",
+        "sale_price": "15,900원",
+        "link": "https://www.coupang.com/vp/products/6195326831?itemId=12258748775&vendorItemId=79529324585&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d712/fef3b6ea6d7fef0106a1ade5f180fd65f21a73bcf074c0d1d82836675abe.jpg"
     },
     {
         "category": "식품",
@@ -559,6 +541,15 @@
     },
     {
         "category": "식품",
+        "name": "베베스트 처음먹는 칼슘 츄러스 딸기맛 455g 3개",
+        "brand": "베베스트",
+        "uid": "7223ab6f-d894-4ba9-bbe6-ac51c633a23b",
+        "sale_price": "8,560원",
+        "link": "https://www.coupang.com/vp/products/7757705477?itemId=20912771005&vendorItemId=70302706940&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/1ea6/b4dead74adbe0f0b652f952e8270000fb3ed00b03a62a2bc083be14e76b7.jpg"
+    },
+    {
+        "category": "식품",
         "name": "베베쿡 더 맛있는 빼빼롱뻥 40g 2개 블루베리",
         "brand": "베베쿡",
         "uid": "cb70b284-3b28-4c11-a37f-1771cb352607",
@@ -568,21 +559,12 @@
     },
     {
         "category": "식품",
-        "name": "일동후디스 아이얌 유기농 쌀과자 떡뻥 고구마맛 30g 6개",
-        "brand": "일동후디스",
-        "uid": "b6ae5242-ae79-423a-8249-b7c190b20eb4",
-        "sale_price": "13,500원",
-        "link": "https://www.coupang.com/vp/products/6299130369?itemId=12140185611&vendorItemId=3053149315&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4772288325986424-f6d6cd31-9fb8-497a-91fd-05af04968b60.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "상하치즈 유기농 아기치즈 20매 2STEP 360g 1개",
-        "brand": "상하치즈",
-        "uid": "a8637981-3d67-4ead-9bbe-f8e548817c5e",
-        "sale_price": "8,600원",
-        "link": "https://www.coupang.com/vp/products/5080394723?itemId=6891306599&vendorItemId=74183841058&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1159425215991246-e6f599d3-812e-44e6-b2d0-c30be007d3d0.jpg"
+        "name": "아이얌 우리아이 바로 먹는 소스 짜장 160g 3개",
+        "brand": "아이얌",
+        "uid": "e545ce96-27c5-4552-8f01-fe5da5bf2073",
+        "sale_price": "7,500원",
+        "link": "https://www.coupang.com/vp/products/7235466175?itemId=18680102443&vendorItemId=85814282345&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/de5a2b87-f724-49a2-be96-1fd60f67b0c34217488321688563347.png"
     },
     {
         "category": "식품",
@@ -595,12 +577,12 @@
     },
     {
         "category": "식품",
-        "name": "아이얌 우리아이 바로 먹는 소스 짜장 160g 3개",
-        "brand": "아이얌",
-        "uid": "e545ce96-27c5-4552-8f01-fe5da5bf2073",
-        "sale_price": "7,500원",
-        "link": "https://www.coupang.com/vp/products/7235466175?itemId=18680102443&vendorItemId=85814282345&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/de5a2b87-f724-49a2-be96-1fd60f67b0c34217488321688563347.png"
+        "name": "상하치즈 유기농 아기치즈 20매 2STEP 360g 1개",
+        "brand": "상하치즈",
+        "uid": "a8637981-3d67-4ead-9bbe-f8e548817c5e",
+        "sale_price": "8,600원",
+        "link": "https://www.coupang.com/vp/products/5080394723?itemId=6891306599&vendorItemId=74183841058&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1159425215991246-e6f599d3-812e-44e6-b2d0-c30be007d3d0.jpg"
     },
     {
         "category": "식품",
@@ -622,12 +604,30 @@
     },
     {
         "category": "식품",
+        "name": "요미요미 미니팝 25g 6개 구운옥수수",
+        "brand": "요미요미",
+        "uid": "f33cf709-254b-456d-b2eb-b5915e8aa1a6",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/1712330237?itemId=18293803113&vendorItemId=70902816020&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d59a/a9cedf5e091029c1d4d4220ef62207e29d5a9ee5b855f9ef8c31a0903d54.jpg"
+    },
+    {
+        "category": "식품",
         "name": "베베스트 처음먹는 아이 김스낵 멸치맛 20g 2개",
         "brand": "베베스트",
         "uid": "37137da3-3d58-4663-b3a9-62daff3facc4",
         "sale_price": "6,920원",
         "link": "https://www.coupang.com/vp/products/6048114543?itemId=17972724365&vendorItemId=85129876150&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b098/4a061b82590ba487442c026195ac9b72f05182a7ecb3bc98449e26d1c216.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "일동후디스 아이얌 유기농 쌀과자 떡뻥 고구마맛 30g 6개",
+        "brand": "일동후디스",
+        "uid": "b6ae5242-ae79-423a-8249-b7c190b20eb4",
+        "sale_price": "13,500원",
+        "link": "https://www.coupang.com/vp/products/6299130369?itemId=12140185611&vendorItemId=3053149315&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4772288325986424-f6d6cd31-9fb8-497a-91fd-05af04968b60.jpg"
     },
     {
         "category": "식품",
@@ -649,21 +649,12 @@
     },
     {
         "category": "식품",
-        "name": "앱솔루트 명작 2FL 분유 2단계 800g 1개",
-        "brand": "앱솔루트",
-        "uid": "77b15365-0c7b-415f-92f2-e9cd3fcdbcd3",
-        "sale_price": "19,700원",
-        "link": "https://www.coupang.com/vp/products/7308156780?itemId=18716568196&vendorItemId=78889733735&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7877462761458524-5ed6ac6c-8e66-444f-8fc9-fea4a0127e54.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "요미요미 미니팝 25g 6개 구운옥수수",
-        "brand": "요미요미",
-        "uid": "f33cf709-254b-456d-b2eb-b5915e8aa1a6",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/1712330237?itemId=18293803113&vendorItemId=70902816020&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d59a/a9cedf5e091029c1d4d4220ef62207e29d5a9ee5b855f9ef8c31a0903d54.jpg"
+        "name": "베베쿡 처음 먹는 어린이 김자반 오리지널 25g 3개",
+        "brand": "베베쿡",
+        "uid": "fa0ace0f-8227-4cd4-94b0-2b05ee49359c",
+        "sale_price": "8,800원",
+        "link": "https://www.coupang.com/vp/products/7339672039?itemId=18940319137&vendorItemId=86066812999&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/987008308195269-382b8cd7-a536-40de-a272-7b071f683695.jpg"
     },
     {
         "category": "식품",
@@ -676,30 +667,21 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 처음 먹는 어린이 김자반 오리지널 25g 3개",
-        "brand": "베베쿡",
-        "uid": "fa0ace0f-8227-4cd4-94b0-2b05ee49359c",
-        "sale_price": "8,800원",
-        "link": "https://www.coupang.com/vp/products/7339672039?itemId=18940319137&vendorItemId=86066812999&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/987008308195269-382b8cd7-a536-40de-a272-7b071f683695.jpg"
+        "name": "앱솔루트 명작 2FL 분유 2단계 800g 1개",
+        "brand": "앱솔루트",
+        "uid": "77b15365-0c7b-415f-92f2-e9cd3fcdbcd3",
+        "sale_price": "19,700원",
+        "link": "https://www.coupang.com/vp/products/7308156780?itemId=18716568196&vendorItemId=78889733735&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7877462761458524-5ed6ac6c-8e66-444f-8fc9-fea4a0127e54.jpg"
     },
     {
         "category": "식품",
-        "name": "베베쿡 처음먹는 유기농 순떡뻥 백미 20g 2개",
-        "brand": "베베쿡",
-        "uid": "93fc8b31-5f78-499f-a25d-40ec220d7076",
-        "sale_price": "6,760원",
-        "link": "https://www.coupang.com/vp/products/7246436213?itemId=19132384637&vendorItemId=86251990875&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/48ed/745950a36caa0b52abc42c06c2adff5ef89b6529a7854ef3a73af583c42a.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "일동후디스 아이얌 유기농 쌀과자 떡뻥 백미맛 30g 6개",
-        "brand": "일동후디스",
-        "uid": "28127388-711f-4e02-9c5f-200f184302ae",
-        "sale_price": "13,500원",
-        "link": "https://www.coupang.com/vp/products/6299130369?itemId=12140198964&vendorItemId=3053146339&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/8bd9/dd77a4c19c741fd9cf2b4acd9629b3445edbf591eac9f1f457342d30ce18.jpg"
+        "name": "야미얼스 막대사탕 패밀리팩 349g 1개",
+        "brand": "야미얼스",
+        "uid": "9c2bb640-e9ad-4096-b566-f1a61e6a859e",
+        "sale_price": "15,400원",
+        "link": "https://www.coupang.com/vp/products/7751117053?itemId=20878173052&vendorItemId=88010888707&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/94aa/15c399cf673299f88e93326c7ca31e37ea256a3d2f422a9fa61d9ba2682e.jpg"
     },
     {
         "category": "식품",
@@ -721,30 +703,30 @@
     },
     {
         "category": "식품",
-        "name": "야미얼스 막대사탕 패밀리팩 349g 1개",
-        "brand": "야미얼스",
-        "uid": "9c2bb640-e9ad-4096-b566-f1a61e6a859e",
-        "sale_price": "15,400원",
-        "link": "https://www.coupang.com/vp/products/7751117053?itemId=20878173052&vendorItemId=88010888707&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/94aa/15c399cf673299f88e93326c7ca31e37ea256a3d2f422a9fa61d9ba2682e.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "락피도 캐치티니핑 아이클때 아르기닌젤리 15p 225g 1개 자두맛",
-        "brand": "락피도",
-        "uid": "b3bd5b36-1a3f-4fb0-af94-642999cd755a",
-        "sale_price": "16,990원",
-        "link": "https://www.coupang.com/vp/products/8451278393?itemId=24451286914&vendorItemId=91465116070&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/630205726114609-885d0387-729d-450c-85e4-202511065c97.jpg"
-    },
-    {
-        "category": "식품",
         "name": "팔도 뽀로로 워터젤리 포도 120ml 10개",
         "brand": "팔도",
         "uid": "93d59121-4ee8-4fba-ae4e-41205fe14c2e",
         "sale_price": "7,950원",
         "link": "https://www.coupang.com/vp/products/7495774640?itemId=567083476&vendorItemId=5012245589&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/9314/6e750845387f9734499caf91dd80238900de7059f1b1df54d9740d2816e2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 처음먹는 유기농 순떡뻥 백미 20g 2개",
+        "brand": "베베쿡",
+        "uid": "93fc8b31-5f78-499f-a25d-40ec220d7076",
+        "sale_price": "6,760원",
+        "link": "https://www.coupang.com/vp/products/7246436213?itemId=19132384637&vendorItemId=86251990875&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/48ed/745950a36caa0b52abc42c06c2adff5ef89b6529a7854ef3a73af583c42a.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "일동후디스 아이얌 유기농 쌀과자 떡뻥 백미맛 30g 6개",
+        "brand": "일동후디스",
+        "uid": "28127388-711f-4e02-9c5f-200f184302ae",
+        "sale_price": "13,500원",
+        "link": "https://www.coupang.com/vp/products/6299130369?itemId=12140198964&vendorItemId=3053146339&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/8bd9/dd77a4c19c741fd9cf2b4acd9629b3445edbf591eac9f1f457342d30ce18.jpg"
     },
     {
         "category": "식품",
@@ -757,30 +739,21 @@
     },
     {
         "category": "식품",
+        "name": "일동후디스 아이얌 순곡물바 당근 40g 3개",
+        "brand": "일동후디스",
+        "uid": "d14720c6-5b0e-4453-bcfc-cbdc16a865e0",
+        "sale_price": "8,980원",
+        "link": "https://www.coupang.com/vp/products/6181265139?itemId=22599239469&vendorItemId=81999551089&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8f0f/e30af3ec397d3470177e8e492deb35b5af7a1a95d58469d49c82096ebe98.jpg"
+    },
+    {
+        "category": "식품",
         "name": "팔도 뽀로로 과일맛 젤리 53g 12개",
         "brand": "팔도",
         "uid": "658a9949-9d2d-40aa-9bfd-68cd4494cffa",
         "sale_price": "10,000원",
         "link": "https://www.coupang.com/vp/products/6344461492?itemId=13324217421&vendorItemId=73966001558&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6ee4/638ef6fe1ec5610e5967c6d17e3a871d46430536e99c25071045048442a8.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 칼슘 순 소금 1개 130g",
-        "brand": "아이배냇",
-        "uid": "277f3ddb-6fdc-4e92-8a9f-cd13cc2de1e7",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/7851799678?itemId=21403261984&vendorItemId=88459856394&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1358270321544596-4afc8b89-f840-4773-bfde-a457f3ea34d5.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "웅진 유기농 하늘보리차 보리 200ml 24개",
-        "brand": "웅진",
-        "uid": "026e161f-b698-4922-bc7a-a40723edb3d7",
-        "sale_price": "13,700원",
-        "link": "https://www.coupang.com/vp/products/611206?itemId=12082780399&vendorItemId=3000026797&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/117701354724684-54e6f74b-73b8-43be-8581-1aa45a8b0dd7.jpg"
     },
     {
         "category": "식품",
@@ -793,21 +766,12 @@
     },
     {
         "category": "식품",
-        "name": "일동후디스 아이얌 순곡물바 당근 40g 3개",
-        "brand": "일동후디스",
-        "uid": "d14720c6-5b0e-4453-bcfc-cbdc16a865e0",
-        "sale_price": "8,980원",
-        "link": "https://www.coupang.com/vp/products/6181265139?itemId=22599239469&vendorItemId=81999551089&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8f0f/e30af3ec397d3470177e8e492deb35b5af7a1a95d58469d49c82096ebe98.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "잼먹 유기농 이유식 저온압착 통참깨 돌 아기 참기름 참깨 119ml 1개",
-        "brand": "잼먹",
-        "uid": "b22fcdde-7237-4341-86c0-d10dc0025ce8",
-        "sale_price": "12,800원",
-        "link": "https://www.coupang.com/vp/products/7039107088?itemId=17401678430&vendorItemId=91813524352&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a64b/d0769530d0b574e37050b43785fe8719e023e4ac4dc7c78ed5621ed43713.jpg"
+        "name": "아이배냇 칼슘 순 소금 1개 130g",
+        "brand": "아이배냇",
+        "uid": "277f3ddb-6fdc-4e92-8a9f-cd13cc2de1e7",
+        "sale_price": "3,900원",
+        "link": "https://www.coupang.com/vp/products/7851799678?itemId=21403261984&vendorItemId=88459856394&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1358270321544596-4afc8b89-f840-4773-bfde-a457f3ea34d5.jpg"
     },
     {
         "category": "식품",
@@ -820,30 +784,12 @@
     },
     {
         "category": "식품",
-        "name": "아이배냇 꼬마 육포 30g 오리지널맛 6개",
-        "brand": "아이배냇",
-        "uid": "d9d2534e-7c4f-4f37-af05-83abe40b35e1",
-        "sale_price": "19,800원",
-        "link": "https://www.coupang.com/vp/products/7257862236?itemId=414021634&vendorItemId=85761071178&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/58bffdf5-f97e-456d-b0c9-ec27009de3fd1308405128210747660.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 꼬마 한우 쇠고기 무국 200g 3개",
-        "brand": "아이배냇",
-        "uid": "f77ca5f1-9605-4a21-acb9-fb68c4942e91",
-        "sale_price": "10,060원",
-        "link": "https://www.coupang.com/vp/products/7141981449?itemId=18320038302&vendorItemId=85464821070&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/b814e9c1-e2b8-45d3-837c-9b99172a222b4816653107989197250.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 꼬마곡물조아퐁 과자 30g 곡물맛 5개",
-        "brand": "아이배냇",
-        "uid": "bf3a2cab-5209-46e5-8072-8c6c46611824",
-        "sale_price": "11,500원",
-        "link": "https://www.coupang.com/vp/products/7159297378?itemId=18172699093&vendorItemId=85321996574&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d998/8740a8db5a1af0657ea1c293f21c854aa7ec1148c85c524acc34b2317acc.jpg"
+        "name": "락피도 캐치티니핑 아이클때 아르기닌젤리 15p 225g 1개 자두맛",
+        "brand": "락피도",
+        "uid": "b3bd5b36-1a3f-4fb0-af94-642999cd755a",
+        "sale_price": "16,990원",
+        "link": "https://www.coupang.com/vp/products/8451278393?itemId=24451286914&vendorItemId=91465116070&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/630205726114609-885d0387-729d-450c-85e4-202511065c97.jpg"
     },
     {
         "category": "식품",
@@ -856,6 +802,51 @@
     },
     {
         "category": "식품",
+        "name": "웅진 유기농 하늘보리차 보리 200ml 24개",
+        "brand": "웅진",
+        "uid": "026e161f-b698-4922-bc7a-a40723edb3d7",
+        "sale_price": "13,700원",
+        "link": "https://www.coupang.com/vp/products/611206?itemId=12082780399&vendorItemId=3000026797&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/117701354724684-54e6f74b-73b8-43be-8581-1aa45a8b0dd7.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 꼬마 한우 쇠고기 무국 200g 3개",
+        "brand": "아이배냇",
+        "uid": "f77ca5f1-9605-4a21-acb9-fb68c4942e91",
+        "sale_price": "10,060원",
+        "link": "https://www.coupang.com/vp/products/7141981449?itemId=18320038302&vendorItemId=85464821070&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/b814e9c1-e2b8-45d3-837c-9b99172a222b4816653107989197250.png"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 꼬마 육포 30g 오리지널맛 6개",
+        "brand": "아이배냇",
+        "uid": "d9d2534e-7c4f-4f37-af05-83abe40b35e1",
+        "sale_price": "19,800원",
+        "link": "https://www.coupang.com/vp/products/7257862236?itemId=414021634&vendorItemId=85761071178&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/58bffdf5-f97e-456d-b0c9-ec27009de3fd1308405128210747660.png"
+    },
+    {
+        "category": "식품",
+        "name": "잼먹 유기농 이유식 저온압착 통참깨 돌 아기 참기름 참깨 119ml 1개",
+        "brand": "잼먹",
+        "uid": "b22fcdde-7237-4341-86c0-d10dc0025ce8",
+        "sale_price": "12,800원",
+        "link": "https://www.coupang.com/vp/products/7039107088?itemId=17401678430&vendorItemId=91813524352&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a64b/d0769530d0b574e37050b43785fe8719e023e4ac4dc7c78ed5621ed43713.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 꼬마곡물조아퐁 과자 30g 곡물맛 5개",
+        "brand": "아이배냇",
+        "uid": "bf3a2cab-5209-46e5-8072-8c6c46611824",
+        "sale_price": "11,500원",
+        "link": "https://www.coupang.com/vp/products/7159297378?itemId=18172699093&vendorItemId=85321996574&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/d998/8740a8db5a1af0657ea1c293f21c854aa7ec1148c85c524acc34b2317acc.jpg"
+    },
+    {
+        "category": "식품",
         "name": "푸디버디 한우 불고기소스 5p 500g 1개",
         "brand": "푸디버디",
         "uid": "10d56f98-64c7-421f-92fa-ccae1ebd4e59",
@@ -865,21 +856,12 @@
     },
     {
         "category": "식품",
-        "name": "아이배냇 한손에 쏙 롱떡뻥 4개 30g 단호박맛",
+        "name": "아이배냇 순창 한식 된장 150g 1개",
         "brand": "아이배냇",
-        "uid": "354c414b-8fa0-4322-aeac-f4fb0946d5b4",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/8253521733?itemId=23758809002&vendorItemId=85190803803&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1147592884289527-9c66ccf4-91f5-4f51-960f-9a6fcc60863e.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "압타밀 프로누트라 어드밴스 HMO 2단계 분유 800g 1개",
-        "brand": "압타밀",
-        "uid": "90cdee6d-77dc-4129-893b-828498c81632",
-        "sale_price": "34,900원",
-        "link": "https://www.coupang.com/vp/products/5857058009?itemId=10208840524&vendorItemId=77491323617&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/281532572872863-2b461bd5-c64b-4046-8e24-08fc0cd77604.jpg"
+        "uid": "479b347c-bf49-4107-a493-8629babe4390",
+        "sale_price": "5,200원",
+        "link": "https://www.coupang.com/vp/products/7260543199?itemId=18492246031&vendorItemId=3070966528&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/3873/dd634dce815bd8aad9396ed4c18200fd24de0516502cdd3877c87475522e.jpg"
     },
     {
         "category": "식품",
@@ -910,24 +892,6 @@
     },
     {
         "category": "식품",
-        "name": "돌 하이 주스 120ml 32개 복숭아",
-        "brand": "돌",
-        "uid": "734af1f2-d836-4232-a2ba-643e8055dcc3",
-        "sale_price": "18,200원",
-        "link": "https://www.coupang.com/vp/products/266992568?itemId=836832357&vendorItemId=5130518745&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1745187078644237-ae7de1a4-a193-4b5a-ac57-5aafc352a102.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 순창 한식 된장 150g 1개",
-        "brand": "아이배냇",
-        "uid": "479b347c-bf49-4107-a493-8629babe4390",
-        "sale_price": "5,200원",
-        "link": "https://www.coupang.com/vp/products/7260543199?itemId=18492246031&vendorItemId=3070966528&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/3873/dd634dce815bd8aad9396ed4c18200fd24de0516502cdd3877c87475522e.jpg"
-    },
-    {
-        "category": "식품",
         "name": "아이얌 순사과 동결건조 과일칩 15g 3개",
         "brand": "아이얌",
         "uid": "0940ba97-2be4-4242-af06-668eb3aad1a8",
@@ -937,39 +901,12 @@
     },
     {
         "category": "식품",
-        "name": "광천김 핑크퐁 아기상어 유기원초 키즈 조미김 김 20g 2개",
-        "brand": "광천김",
-        "uid": "61b95879-0f8a-4689-a8bc-ee5c73f532bf",
+        "name": "아이배냇 한손에 쏙 롱떡뻥 4개 30g 단호박맛",
+        "brand": "아이배냇",
+        "uid": "354c414b-8fa0-4322-aeac-f4fb0946d5b4",
         "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/6795613457?itemId=16022986716&vendorItemId=70956872686&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7451809439380160-f22c33d1-3865-42f8-a882-fd473acad19c.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이엠마더 분유1단계 400g 1개",
-        "brand": "아이엠마더",
-        "uid": "cbcc0cfa-fd1b-4c62-bd1e-83b8da6df5ec",
-        "sale_price": "15,900원",
-        "link": "https://www.coupang.com/vp/products/7047433861?itemId=17443781115&vendorItemId=84612405288&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/11/8/0e123583-b262-4914-b4fc-c8f3600a7986.png"
-    },
-    {
-        "category": "식품",
-        "name": "베베쿡 처음 먹는 요리가케 닭고기와 된장 28g 3개",
-        "brand": "베베쿡",
-        "uid": "4bcd5df8-7f80-4953-8a7b-9daadc76b016",
-        "sale_price": "11,800원",
-        "link": "https://www.coupang.com/vp/products/7047802617?itemId=17445263662&vendorItemId=84613855742&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/378530661865311-1d7f992a-fd3f-46ff-9bd6-67323d2ed7b4.png"
-    },
-    {
-        "category": "식품",
-        "name": "베베쿡 더 맛있는 빼빼롱뻥 40g 2개 구운옥수수",
-        "brand": "베베쿡",
-        "uid": "f4ba8f1b-6f41-4b12-b926-704c4d63f5a2",
-        "sale_price": "6,400원",
-        "link": "https://www.coupang.com/vp/products/7680102922?itemId=18667248641&vendorItemId=85190812574&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2d77/55bef4e8b38d1e0a85c2f352965400892938d85fa97cfa77c0aca1278c98.jpg"
+        "link": "https://www.coupang.com/vp/products/8253521733?itemId=23758809002&vendorItemId=85190803803&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1147592884289527-9c66ccf4-91f5-4f51-960f-9a6fcc60863e.jpg"
     },
     {
         "category": "식품",
@@ -991,48 +928,57 @@
     },
     {
         "category": "식품",
+        "name": "아이엠마더 분유1단계 400g 1개",
+        "brand": "아이엠마더",
+        "uid": "cbcc0cfa-fd1b-4c62-bd1e-83b8da6df5ec",
+        "sale_price": "15,900원",
+        "link": "https://www.coupang.com/vp/products/7047433861?itemId=17443781115&vendorItemId=84612405288&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/11/8/0e123583-b262-4914-b4fc-c8f3600a7986.png"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 더 맛있는 빼빼롱뻥 40g 2개 구운옥수수",
+        "brand": "베베쿡",
+        "uid": "f4ba8f1b-6f41-4b12-b926-704c4d63f5a2",
+        "sale_price": "6,400원",
+        "link": "https://www.coupang.com/vp/products/7680102922?itemId=18667248641&vendorItemId=85190812574&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2d77/55bef4e8b38d1e0a85c2f352965400892938d85fa97cfa77c0aca1278c98.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "광천김 핑크퐁 아기상어 유기원초 키즈 조미김 김 20g 2개",
+        "brand": "광천김",
+        "uid": "61b95879-0f8a-4689-a8bc-ee5c73f532bf",
+        "sale_price": "9,800원",
+        "link": "https://www.coupang.com/vp/products/6795613457?itemId=16022986716&vendorItemId=70956872686&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7451809439380160-f22c33d1-3865-42f8-a882-fd473acad19c.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "돌 하이 주스 120ml 32개 복숭아",
+        "brand": "돌",
+        "uid": "734af1f2-d836-4232-a2ba-643e8055dcc3",
+        "sale_price": "18,200원",
+        "link": "https://www.coupang.com/vp/products/266992568?itemId=836832357&vendorItemId=5130518745&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1745187078644237-ae7de1a4-a193-4b5a-ac57-5aafc352a102.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "압타밀 프로누트라 어드밴스 HMO 2단계 분유 800g 1개",
+        "brand": "압타밀",
+        "uid": "90cdee6d-77dc-4129-893b-828498c81632",
+        "sale_price": "34,900원",
+        "link": "https://www.coupang.com/vp/products/5857058009?itemId=10208840524&vendorItemId=77491323617&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/281532572872863-2b461bd5-c64b-4046-8e24-08fc0cd77604.jpg"
+    },
+    {
+        "category": "식품",
         "name": "임페리얼XO 분유 1단계 800g 3개",
         "brand": "임페리얼XO",
         "uid": "8d7dc62d-6cbb-4bf0-9436-05b8d5f089b2",
         "sale_price": "66,000원",
         "link": "https://www.coupang.com/vp/products/7750218300?itemId=9869583500&vendorItemId=84612405312&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2865972901051635-a0ccabbf-8d22-43d0-9981-ddce23b6c096.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "내아이애 유기농 떡뻥 쌀과자 4종 세트 단호박 고구마 사과 배 30g 1세트",
-        "brand": "내아이애",
-        "uid": "dfb3435c-1b99-4e23-8311-8d59cbeb0267",
-        "sale_price": "11,200원",
-        "link": "https://www.coupang.com/vp/products/214182211?itemId=651814847&vendorItemId=4692140689&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/a226/ea1cd50eecb3fd6f063f43b5b08a4c0ee72b597029e2dd9d83477e3925bb.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇베베 순간장 소스 190ml 비빔용 2개",
-        "brand": "아이배냇베베",
-        "uid": "cfabc7ce-4db9-4498-b8ee-c6ac38d3583e",
-        "sale_price": "7,760원",
-        "link": "https://www.coupang.com/vp/products/7240638809?itemId=18396314681&vendorItemId=85191990405&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4162832061123642-dd96555d-f740-4356-8b8a-176929d13c3f.png"
-    },
-    {
-        "category": "식품",
-        "name": "임페리얼XO 분유 1단계 800g 1개",
-        "brand": "임페리얼XO",
-        "uid": "ef482ea5-f642-4cf6-92ff-78091d92ca3e",
-        "sale_price": "23,300원",
-        "link": "https://www.coupang.com/vp/products/7750218300?itemId=17443781125&vendorItemId=84612405333&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/11/5/e8385187-ce94-4704-9d84-b8aa1ce46ddc.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아올다 hello 아이 유기농 보리보리 보리차 100ml 20개",
-        "brand": "아올다",
-        "uid": "097b9bd7-83c2-425b-9fab-436fcf89b2a3",
-        "sale_price": "18,710원",
-        "link": "https://www.coupang.com/vp/products/7458499411?itemId=19518140606&vendorItemId=86626833592&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/19/15/8/48f9b2e1-1c0a-4e17-b13d-72368eda1a07.jpg"
     },
     {
         "category": "식품",
@@ -1045,12 +991,48 @@
     },
     {
         "category": "식품",
+        "name": "내아이애 유기농 떡뻥 쌀과자 4종 세트 단호박 고구마 사과 배 30g 1세트",
+        "brand": "내아이애",
+        "uid": "dfb3435c-1b99-4e23-8311-8d59cbeb0267",
+        "sale_price": "11,200원",
+        "link": "https://www.coupang.com/vp/products/214182211?itemId=651814847&vendorItemId=4692140689&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/a226/ea1cd50eecb3fd6f063f43b5b08a4c0ee72b597029e2dd9d83477e3925bb.jpg"
+    },
+    {
+        "category": "식품",
         "name": "아이배냇 한끼뚝딱 비빔소스 4색나물 혼합맛시금치고사리당근무 50g 3개",
         "brand": "아이배냇",
         "uid": "373419d4-84cb-4978-9a9d-2c8c9fa3b6a0",
         "sale_price": "4,500원",
         "link": "https://www.coupang.com/vp/products/7785588358?itemId=21120956680&vendorItemId=88182761689&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4bc5e267-23f6-405a-91c1-c47c05ba8b5f1183135748139359725.png"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 처음 먹는 요리가케 닭고기와 된장 28g 3개",
+        "brand": "베베쿡",
+        "uid": "4bcd5df8-7f80-4953-8a7b-9daadc76b016",
+        "sale_price": "11,800원",
+        "link": "https://www.coupang.com/vp/products/7047802617?itemId=17445263662&vendorItemId=84613855742&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/378530661865311-1d7f992a-fd3f-46ff-9bd6-67323d2ed7b4.png"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇베베 순간장 소스 190ml 비빔용 2개",
+        "brand": "아이배냇베베",
+        "uid": "cfabc7ce-4db9-4498-b8ee-c6ac38d3583e",
+        "sale_price": "7,760원",
+        "link": "https://www.coupang.com/vp/products/7240638809?itemId=18396314681&vendorItemId=85191990405&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4162832061123642-dd96555d-f740-4356-8b8a-176929d13c3f.png"
+    },
+    {
+        "category": "식품",
+        "name": "아올다 hello 아이 유기농 보리보리 보리차 100ml 20개",
+        "brand": "아올다",
+        "uid": "097b9bd7-83c2-425b-9fab-436fcf89b2a3",
+        "sale_price": "18,710원",
+        "link": "https://www.coupang.com/vp/products/7458499411?itemId=19518140606&vendorItemId=86626833592&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/19/15/8/48f9b2e1-1c0a-4e17-b13d-72368eda1a07.jpg"
     },
     {
         "category": "식품",
@@ -1063,21 +1045,21 @@
     },
     {
         "category": "식품",
-        "name": "아이엠마더 분유 2단계 800g 1개",
-        "brand": "아이엠마더",
-        "uid": "68d437ae-e916-45c0-81c8-e0e74f69b7c6",
-        "sale_price": "27,600원",
-        "link": "https://www.coupang.com/vp/products/7055016168?itemId=17477124791&vendorItemId=84644698793&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/10/14/9/913713fc-9775-4160-a22c-397076b8cf59.jpg"
+        "name": "남양유업 우리아이 처음먹는 양파얌얌 과자 35g 3개 감자맛",
+        "brand": "남양유업",
+        "uid": "6b3418c3-8518-47a5-a2fa-53f759e6b79a",
+        "sale_price": "7,500원",
+        "link": "https://www.coupang.com/vp/products/7232856823?itemId=18042649006&vendorItemId=85196959415&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/286c/68c76e7e86da99f3c5126a6d2ac7d365ddb5439a3498556ef86d7d2a750d.jpg"
     },
     {
         "category": "식품",
-        "name": "앱솔루트 킨더밀쉬 200ml 15개",
-        "brand": "앱솔루트",
-        "uid": "62c74520-a938-4288-9aa6-30fb03406336",
-        "sale_price": "17,990원",
-        "link": "https://www.coupang.com/vp/products/6065154611?itemId=8583654577&vendorItemId=91104412976&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0caf/1eca8cb859f43b98c20c06ec7f5e2b2bea55fdc1eda3ccf0a18761e08337.jpg"
+        "name": "베베쿡 유아용 사르르쿵 과자 딸기맛 23g 2개",
+        "brand": "베베쿡",
+        "uid": "efc047f4-1163-446a-aa4e-28ab9b0b6cf7",
+        "sale_price": "6,840원",
+        "link": "https://www.coupang.com/vp/products/7063519752?itemId=18036369026&vendorItemId=85190811213&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6582/2521f8aeb480e92ba7a6691b6b5d04208c0ff0eba542695b7955c6d7c3ac.jpg"
     },
     {
         "category": "식품",
@@ -1090,6 +1072,15 @@
     },
     {
         "category": "식품",
+        "name": "앱솔루트 킨더밀쉬 200ml 15개",
+        "brand": "앱솔루트",
+        "uid": "62c74520-a938-4288-9aa6-30fb03406336",
+        "sale_price": "17,990원",
+        "link": "https://www.coupang.com/vp/products/6065154611?itemId=8583654577&vendorItemId=91104412976&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0caf/1eca8cb859f43b98c20c06ec7f5e2b2bea55fdc1eda3ccf0a18761e08337.jpg"
+    },
+    {
+        "category": "식품",
         "name": "아이엠마더 분유 2단계 800g 1개",
         "brand": "아이엠마더",
         "uid": "68d437ae-e916-45c0-81c8-e0e74f69b7c6",
@@ -1099,12 +1090,21 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 맘마밀 유기농 레드비트 골든사과 주스 125ml 16개",
-        "brand": "요미요미",
-        "uid": "0280e858-0375-4b13-bd0f-309386b6a8a2",
-        "sale_price": "28,340원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=24203453811&vendorItemId=91365339536&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/180f/b032cd8d580fcb02bf9a20fec346162738115f72be502e3730126b4e649c.png"
+        "name": "남양유업 우리아이 처음먹는 양파얌얌 과자 35g 3개 감자맛",
+        "brand": "남양유업",
+        "uid": "e0539eb8-1b4b-4e30-ae6c-e222b29d7443",
+        "sale_price": "7,500원",
+        "link": "https://www.coupang.com/vp/products/7232856823?itemId=18042649006&vendorItemId=85196959415&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/286c/68c76e7e86da99f3c5126a6d2ac7d365ddb5439a3498556ef86d7d2a750d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 유아용 사르르쿵 과자 딸기맛 23g 2개",
+        "brand": "베베쿡",
+        "uid": "9f09cb90-5212-4dbb-b842-c5c46e43ecaa",
+        "sale_price": "6,840원",
+        "link": "https://www.coupang.com/vp/products/7063519752?itemId=18036369026&vendorItemId=85190811213&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6582/2521f8aeb480e92ba7a6691b6b5d04208c0ff0eba542695b7955c6d7c3ac.jpg"
     },
     {
         "category": "식품",
@@ -1117,12 +1117,12 @@
     },
     {
         "category": "식품",
-        "name": "앱솔루트 프리미엄 명작 분유 1단계 800g 3개",
-        "brand": "앱솔루트",
-        "uid": "b9723cd8-a43f-4796-8119-623f2fb703d6",
-        "sale_price": "65,460원",
-        "link": "https://www.coupang.com/vp/products/6113139428?itemId=21036360882&vendorItemId=78809898519&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8830133571052625-9ed37f2e-a875-42a4-968d-3fddb04eaa09.jpg"
+        "name": "요미요미 맘마밀 유기농 레드비트 골든사과 주스 125ml 16개",
+        "brand": "요미요미",
+        "uid": "0280e858-0375-4b13-bd0f-309386b6a8a2",
+        "sale_price": "28,340원",
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=24203453811&vendorItemId=91365339536&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/180f/b032cd8d580fcb02bf9a20fec346162738115f72be502e3730126b4e649c.png"
     },
     {
         "category": "식품",
@@ -1135,21 +1135,12 @@
     },
     {
         "category": "식품",
-        "name": "아이얌 그릭요거볼 딸기맛 20g 4개",
-        "brand": "아이얌",
-        "uid": "314b5c5d-8eb6-4a57-a5c2-4973658d63db",
-        "sale_price": "9,890원",
-        "link": "https://www.coupang.com/vp/products/6684915537?itemId=19145371270&vendorItemId=86264532149&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5218bd5f-12ed-45d1-8e04-3889ee1b59ce1584631323610576928.png"
-    },
-    {
-        "category": "식품",
-        "name": "베이비본죽 실온 이유식 찹쌀 누룽지닭죽 180g 2개",
-        "brand": "베이비본죽",
-        "uid": "30de0078-5535-4e68-88de-1eb51a9d063a",
-        "sale_price": "10,780원",
-        "link": "https://www.coupang.com/vp/products/7677632215?itemId=19210629271&vendorItemId=86327735075&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/e7285218-3ae5-4e9a-b4aa-4d608a94a6681324616284405978829.png"
+        "name": "내아이애 유기농 정성빚은 쌀튀밥 과자 쌀 50g 1개",
+        "brand": "내아이애",
+        "uid": "de920059-519d-4d3a-9104-ee1ee9707828",
+        "sale_price": "2,300원",
+        "link": "https://www.coupang.com/vp/products/6437203017?itemId=18951863241&vendorItemId=86078084968&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/o7ktw6jy/ddeaa015575843a8a90bb2d9d54da041.jpg"
     },
     {
         "category": "식품",
@@ -1162,30 +1153,39 @@
     },
     {
         "category": "식품",
-        "name": "아이배냇 핑거 요거트 바나나 20g 2개",
-        "brand": "아이배냇",
-        "uid": "4e4bd41f-e7c4-443b-862c-dbf82feaf7bc",
-        "sale_price": "4,900원",
-        "link": "https://www.coupang.com/vp/products/6643550098?itemId=7267179&vendorItemId=3010809858&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/06/10/3010809858/b2e585fd-4866-4c72-b095-5dd457e6bade.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "내아이애 유기농 정성빚은 쌀튀밥 과자 쌀 50g 1개",
-        "brand": "내아이애",
-        "uid": "de920059-519d-4d3a-9104-ee1ee9707828",
-        "sale_price": "2,300원",
-        "link": "https://www.coupang.com/vp/products/6437203017?itemId=18951863241&vendorItemId=86078084968&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/o7ktw6jy/ddeaa015575843a8a90bb2d9d54da041.jpg"
-    },
-    {
-        "category": "식품",
         "name": "아이배냇 핑거 요거트 딸기 20g 2개",
         "brand": "아이배냇",
         "uid": "dd662630-17fb-49f4-8f9e-8169094f8533",
         "sale_price": "4,900원",
         "link": "https://www.coupang.com/vp/products/6643550098?itemId=7267183&vendorItemId=3010809850&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/10/18/3010809850/2bbb85fc-7fc7-4a2b-a106-b712e6d75005.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이얌 그릭요거볼 딸기맛 20g 4개",
+        "brand": "아이얌",
+        "uid": "314b5c5d-8eb6-4a57-a5c2-4973658d63db",
+        "sale_price": "9,890원",
+        "link": "https://www.coupang.com/vp/products/6684915537?itemId=19145371270&vendorItemId=86264532149&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5218bd5f-12ed-45d1-8e04-3889ee1b59ce1584631323610576928.png"
+    },
+    {
+        "category": "식품",
+        "name": "아넬라 HOP 퓨레 사과 100g 2p  바나나 100g 2p  사과배100g 2p  푸룬 100g  망고 100g  파인애플 100g 세트 혼합맛사과바나나사과배생푸룬애플망고파인애플 1세트",
+        "brand": "아넬라",
+        "uid": "21fa7fbc-c4f3-42f0-8002-1d3c31af8b13",
+        "sale_price": "28,900원",
+        "link": "https://www.coupang.com/vp/products/6247397072?itemId=23894676695&vendorItemId=90917328771&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/13/18/6/3c19cd00-00c4-4300-93d1-f806e2d3813d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 핑거 요거트 바나나 20g 2개",
+        "brand": "아이배냇",
+        "uid": "4e4bd41f-e7c4-443b-862c-dbf82feaf7bc",
+        "sale_price": "4,900원",
+        "link": "https://www.coupang.com/vp/products/6643550098?itemId=7267179&vendorItemId=3010809858&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/06/10/3010809858/b2e585fd-4866-4c72-b095-5dd457e6bade.jpg"
     },
     {
         "category": "식품",
@@ -1198,15 +1198,6 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 유기농 주스 125ml 24개 과일믹스",
-        "brand": "요미요미",
-        "uid": "0ab8c915-1e38-4db4-89fe-408a2908fa33",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=18626124407&vendorItemId=3051735988&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1049978344715166-89765f05-0301-42c0-a510-52cbb19751c2.jpg"
-    },
-    {
-        "category": "식품",
         "name": "해슬로 가시없는 어린이 순살연어 냉동 400g 1팩",
         "brand": "해슬로",
         "uid": "be42843e-1a09-457e-8d3f-36471af6a591",
@@ -1216,21 +1207,12 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 유기농 주스 125ml 24개",
+        "name": "요미요미 유기농 주스 125ml 24개 과일믹스",
         "brand": "요미요미",
-        "uid": "f114796a-10e7-40ba-86c1-3424b345f104",
+        "uid": "0ab8c915-1e38-4db4-89fe-408a2908fa33",
         "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/7884075755?itemId=19443334510&vendorItemId=3051723068&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1048068921183897-64ad184c-151b-44d8-8a5a-8ef38ba4b6e0.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 과채주스 80ml 10개 끙아B",
-        "brand": "아이배냇",
-        "uid": "071c9ede-ee58-4925-bade-94fd840711c1",
-        "sale_price": "11,900원",
-        "link": "https://www.coupang.com/vp/products/7694639770?itemId=20585484467&vendorItemId=3033506354&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/158961070801817-48fbfb4d-4c41-4acd-827e-dbc60593c274.jpg"
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=18626124407&vendorItemId=3051735988&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1049978344715166-89765f05-0301-42c0-a510-52cbb19751c2.jpg"
     },
     {
         "category": "식품",
@@ -1252,12 +1234,30 @@
     },
     {
         "category": "식품",
-        "name": "아넬라 HOP 퓨레 사과 100g 2p  바나나 100g 2p  사과배100g 2p  푸룬 100g  망고 100g  파인애플 100g 세트 혼합맛사과바나나사과배생푸룬애플망고파인애플 1세트",
-        "brand": "아넬라",
-        "uid": "21fa7fbc-c4f3-42f0-8002-1d3c31af8b13",
-        "sale_price": "28,900원",
-        "link": "https://www.coupang.com/vp/products/6247397072?itemId=23894676695&vendorItemId=90917328771&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/08/13/18/6/3c19cd00-00c4-4300-93d1-f806e2d3813d.jpg"
+        "name": "요미요미 유기농 주스 125ml 24개",
+        "brand": "요미요미",
+        "uid": "f114796a-10e7-40ba-86c1-3424b345f104",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/7884075755?itemId=19443334510&vendorItemId=3051723068&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1048068921183897-64ad184c-151b-44d8-8a5a-8ef38ba4b6e0.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 과채주스 80ml 10개 끙아B",
+        "brand": "아이배냇",
+        "uid": "071c9ede-ee58-4925-bade-94fd840711c1",
+        "sale_price": "11,900원",
+        "link": "https://www.coupang.com/vp/products/7694639770?itemId=20585484467&vendorItemId=3033506354&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/158961070801817-48fbfb4d-4c41-4acd-827e-dbc60593c274.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이엠마더 분유 1단계 800g 3개",
+        "brand": "아이엠마더",
+        "uid": "0b471c9d-e292-4ae7-9c8f-15df0b44fa4d",
+        "sale_price": "84,890원",
+        "link": "https://www.coupang.com/vp/products/7047433861?itemId=17443781043&vendorItemId=90764977240&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3c1d/16324794d49af56cf2b5fbe611d1f009f76e07802ed4472d863adfc011a6.jpg"
     },
     {
         "category": "식품",
@@ -1270,15 +1270,6 @@
     },
     {
         "category": "식품",
-        "name": "팔도 뽀로로 사과맛 어린이음료 235ml 24개",
-        "brand": "팔도",
-        "uid": "5261b891-b90a-445d-9980-7047fc9a1de2",
-        "sale_price": "14,520원",
-        "link": "https://www.coupang.com/vp/products/8250122449?itemId=7059874&vendorItemId=3051313206&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/eaca/65bbfdce15326c53a0722c9af3934db7a4dcd13a91455379ccc22a16a8ee.jpg"
-    },
-    {
-        "category": "식품",
         "name": "맘마밀 유아용 안심이유식 퓨레 오트밀과 사과프룬 혼합맛사과프룬오트밀 100g 10개",
         "brand": "맘마밀",
         "uid": "ff9949c1-03d5-4c37-98de-a74253a952e1",
@@ -1288,21 +1279,21 @@
     },
     {
         "category": "식품",
+        "name": "팔도 뽀로로 사과맛 어린이음료 235ml 24개",
+        "brand": "팔도",
+        "uid": "5261b891-b90a-445d-9980-7047fc9a1de2",
+        "sale_price": "14,520원",
+        "link": "https://www.coupang.com/vp/products/8250122449?itemId=7059874&vendorItemId=3051313206&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/eaca/65bbfdce15326c53a0722c9af3934db7a4dcd13a91455379ccc22a16a8ee.jpg"
+    },
+    {
+        "category": "식품",
         "name": "상하목장 베이비 유기농 요거트 사과당근 85g 4개입",
         "brand": "상하목장",
         "uid": "d750e4a4-b682-480e-8322-14d109441cdf",
         "sale_price": "4,250원",
         "link": "https://www.coupang.com/vp/products/111229591?itemId=335041518&vendorItemId=3822103278&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1758899370693255-03cc09c7-1236-47c5-8be2-d46aa967e9c8.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이엠마더 분유 1단계 800g 3개",
-        "brand": "아이엠마더",
-        "uid": "0b471c9d-e292-4ae7-9c8f-15df0b44fa4d",
-        "sale_price": "84,890원",
-        "link": "https://www.coupang.com/vp/products/7047433861?itemId=17443781043&vendorItemId=90764977240&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3c1d/16324794d49af56cf2b5fbe611d1f009f76e07802ed4472d863adfc011a6.jpg"
     },
     {
         "category": "식품",
@@ -1333,6 +1324,15 @@
     },
     {
         "category": "식품",
+        "name": "이치비야 프리미엄 동결건조 과일칩 새콤한 맛 딸기 2p  감귤  파인애플 딸기 감귤 파인애플 1세트",
+        "brand": "이치비야",
+        "uid": "1e595326-2721-4020-a0f1-7c1a9877d815",
+        "sale_price": "16,750원",
+        "link": "https://www.coupang.com/vp/products/5870203870?itemId=10269669585&vendorItemId=77552123998&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2525234833690574-9f14af51-63f4-4595-90fe-c0e17ed7bfa7.jpg"
+    },
+    {
+        "category": "식품",
         "name": "베베쿡 한입에 쏙 인절미 콩볼 인절미맛 25g 2개",
         "brand": "베베쿡",
         "uid": "62db44ec-073c-49c9-9ba3-e43861c39506",
@@ -1342,21 +1342,12 @@
     },
     {
         "category": "식품",
-        "name": "베베스트 처음 먹는 아이 보리차 30g 10개입 3개",
-        "brand": "베베스트",
-        "uid": "fee3ba06-8ef7-4775-8b60-2173ec9ff02d",
-        "sale_price": "6,800원",
-        "link": "https://www.coupang.com/vp/products/7920562202?itemId=21758765171&vendorItemId=88807750102&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/990931369105395-f3e45bf6-7bef-48c8-9c2b-dd1f18529e3a.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "베베쿡 쌀쿵 쌀과자 자색고구마  단호박 혼합맛 15g 10개",
-        "brand": "베베쿡",
-        "uid": "b3de4151-09ae-43f4-98f5-7d2a3ff3db5d",
-        "sale_price": "13,700원",
-        "link": "https://www.coupang.com/vp/products/228716656?itemId=38579399&vendorItemId=3057506625&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/bd80/50396201a715d179ed577a79368fcee577c2a28cf688bc1c624d423ccb15.jpg"
+        "name": "임페리얼XO 분유 3단계 800g 3개",
+        "brand": "임페리얼XO",
+        "uid": "689f8a97-1962-4654-b25f-f61bda387bad",
+        "sale_price": "58,350원",
+        "link": "https://www.coupang.com/vp/products/7298200643?itemId=17443781118&vendorItemId=84612405294&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2867038912700019-ac571d8c-5007-4352-8160-04fb8db82c68.jpg"
     },
     {
         "category": "식품",
@@ -1378,57 +1369,30 @@
     },
     {
         "category": "식품",
+        "name": "베베스트 처음 먹는 아이 보리차 30g 10개입 3개",
+        "brand": "베베스트",
+        "uid": "fee3ba06-8ef7-4775-8b60-2173ec9ff02d",
+        "sale_price": "6,800원",
+        "link": "https://www.coupang.com/vp/products/7920562202?itemId=21758765171&vendorItemId=88807750102&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/990931369105395-f3e45bf6-7bef-48c8-9c2b-dd1f18529e3a.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 쌀쿵 쌀과자 자색고구마  단호박 혼합맛 15g 10개",
+        "brand": "베베쿡",
+        "uid": "b3de4151-09ae-43f4-98f5-7d2a3ff3db5d",
+        "sale_price": "13,700원",
+        "link": "https://www.coupang.com/vp/products/228716656?itemId=38579399&vendorItemId=3057506625&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/bd80/50396201a715d179ed577a79368fcee577c2a28cf688bc1c624d423ccb15.jpg"
+    },
+    {
+        "category": "식품",
         "name": "집으로ON 아이라이킷 어린이순살생선 고등어구이 냉동 180g 1개",
         "brand": "집으로ON",
         "uid": "4a35a89f-98cd-4057-921d-97be53085964",
         "sale_price": "10,900원",
         "link": "https://www.coupang.com/vp/products/1261936030?itemId=2263107319&vendorItemId=70260370671&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/7565/c14c41f10e9efb4e745d3bbe77ee41631e044a14ad8ae78725e6ef7b29b1.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "이치비야 프리미엄 동결건조 과일칩 새콤한 맛 딸기 2p  감귤  파인애플 딸기 감귤 파인애플 1세트",
-        "brand": "이치비야",
-        "uid": "1e595326-2721-4020-a0f1-7c1a9877d815",
-        "sale_price": "16,750원",
-        "link": "https://www.coupang.com/vp/products/5870203870?itemId=10269669585&vendorItemId=77552123998&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2525234833690574-9f14af51-63f4-4595-90fe-c0e17ed7bfa7.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "풀무원 우리밀함유 고칼슘 꼬마약과 200g 2개",
-        "brand": "풀무원",
-        "uid": "d595f22b-edc5-4f62-8039-4b6f1b91cbe5",
-        "sale_price": "7,860원",
-        "link": "https://www.coupang.com/vp/products/7229754854?itemId=18369764527&vendorItemId=85513297186&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/c4b3411e-c96c-42c1-9f93-ecd914d04d208874556569962027923.png"
-    },
-    {
-        "category": "식품",
-        "name": "상하치즈 유기농 첫치즈 20매 1STEP 360g 1개",
-        "brand": "상하치즈",
-        "uid": "5fb8cfa4-3d34-409e-831c-80d3ae358b3e",
-        "sale_price": "9,400원",
-        "link": "https://www.coupang.com/vp/products/5080394755?itemId=6891306661&vendorItemId=74183841097&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/535346052038386-dfb97afd-233b-41fa-ae10-b7945e529579.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "맘마밀 안심 이유식 퓨레 6개월부터 사과와 고구마 100g 10개",
-        "brand": "맘마밀",
-        "uid": "f1ee50af-7045-404f-a167-334d0fbc7f29",
-        "sale_price": "13,500원",
-        "link": "https://www.coupang.com/vp/products/7680287471?itemId=17237184049&vendorItemId=3113336301&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6022938751581850-bf8bcc58-76b1-43c1-82fe-63efd48d6d6f.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "임페리얼XO 분유 3단계 800g 3개",
-        "brand": "임페리얼XO",
-        "uid": "689f8a97-1962-4654-b25f-f61bda387bad",
-        "sale_price": "58,350원",
-        "link": "https://www.coupang.com/vp/products/7298200643?itemId=17443781118&vendorItemId=84612405294&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2867038912700019-ac571d8c-5007-4352-8160-04fb8db82c68.jpg"
     },
     {
         "category": "식품",
@@ -1441,6 +1405,33 @@
     },
     {
         "category": "식품",
+        "name": "상하치즈 유기농 첫치즈 20매 1STEP 360g 1개",
+        "brand": "상하치즈",
+        "uid": "5fb8cfa4-3d34-409e-831c-80d3ae358b3e",
+        "sale_price": "9,400원",
+        "link": "https://www.coupang.com/vp/products/5080394755?itemId=6891306661&vendorItemId=74183841097&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/535346052038386-dfb97afd-233b-41fa-ae10-b7945e529579.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "풀무원 우리밀함유 고칼슘 꼬마약과 200g 2개",
+        "brand": "풀무원",
+        "uid": "d595f22b-edc5-4f62-8039-4b6f1b91cbe5",
+        "sale_price": "7,860원",
+        "link": "https://www.coupang.com/vp/products/7229754854?itemId=18369764527&vendorItemId=85513297186&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/c4b3411e-c96c-42c1-9f93-ecd914d04d208874556569962027923.png"
+    },
+    {
+        "category": "식품",
+        "name": "맘마밀 안심 이유식 퓨레 6개월부터 사과와 고구마 100g 10개",
+        "brand": "맘마밀",
+        "uid": "f1ee50af-7045-404f-a167-334d0fbc7f29",
+        "sale_price": "13,500원",
+        "link": "https://www.coupang.com/vp/products/7680287471?itemId=17237184049&vendorItemId=3113336301&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6022938751581850-bf8bcc58-76b1-43c1-82fe-63efd48d6d6f.jpg"
+    },
+    {
+        "category": "식품",
         "name": "태양생활건강 핑크퐁 아기상어 아이비타 C D 플러스 아연 500p 650g 1개 복숭아맛",
         "brand": "태양생활건강",
         "uid": "d3602dd7-acce-4341-bcc3-e411f9e030f1",
@@ -1450,21 +1441,21 @@
     },
     {
         "category": "식품",
-        "name": "아이꼬야 양파퐁 30g 2개 양파",
-        "brand": "아이꼬야",
-        "uid": "79c50373-0ab1-4d40-840e-1c80d1f1907d",
-        "sale_price": "4,900원",
-        "link": "https://www.coupang.com/vp/products/7235210032?itemId=19155106526&vendorItemId=86273948340&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6591dd17-dc08-470d-8916-26377845f4088056220902303574169.png"
-    },
-    {
-        "category": "식품",
         "name": "서울우유치즈 앙팡 유기농 아기치즈 STEP2 20매입 360g 1개",
         "brand": "서울우유치즈",
         "uid": "af0e066d-8a98-4307-b551-991ac8697713",
         "sale_price": "7,480원",
         "link": "https://www.coupang.com/vp/products/4354956175?itemId=5114376946&vendorItemId=72423893642&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1329568325437909-4f48c07d-7948-4097-9232-4687cadf9465.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이꼬야 양파퐁 30g 2개 양파",
+        "brand": "아이꼬야",
+        "uid": "79c50373-0ab1-4d40-840e-1c80d1f1907d",
+        "sale_price": "4,900원",
+        "link": "https://www.coupang.com/vp/products/7235210032?itemId=19155106526&vendorItemId=86273948340&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/6591dd17-dc08-470d-8916-26377845f4088056220902303574169.png"
     },
     {
         "category": "식품",
@@ -1495,12 +1486,57 @@
     },
     {
         "category": "식품",
+        "name": "웅진 유기농 하늘보리차 보리차 200ml 48개",
+        "brand": "웅진",
+        "uid": "8bf2acbd-1b47-413e-bc6a-ca031d3933a2",
+        "sale_price": "25,050원",
+        "link": "https://www.coupang.com/vp/products/611206?itemId=548201269&vendorItemId=84993763593&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/139695124717499-a7592756-ba0e-4f5d-bc38-8d2b58625670.jpg"
+    },
+    {
+        "category": "식품",
         "name": "퍼기 어린이 7종야채 채수팩 10개입 야채맛 100g 1개",
         "brand": "퍼기",
         "uid": "9ed9fddd-1b03-4d98-8238-f907358dd399",
         "sale_price": "9,800원",
         "link": "https://www.coupang.com/vp/products/7166786444?itemId=18061148589&vendorItemId=85729091797&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/c7ed/798a152bdaf0917b461c77be48b0679f5b902a9cbba95cfd9a6bbb29bb9c.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 아동용 핑거별 쌀과자 양파맛 2개",
+        "brand": "아이배냇",
+        "uid": "4865dc9c-f766-4299-add9-48e94c95fcdd",
+        "sale_price": "3,900원",
+        "link": "https://www.coupang.com/vp/products/7476036935?itemId=19610908131&vendorItemId=86717876104&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/a1fc0d8b-ab8c-4916-8187-4a093d3b1842410154790629627864.png"
+    },
+    {
+        "category": "식품",
+        "name": "푸디버디 부드러운 유기농 쌀밥 3p 140g 3개",
+        "brand": "푸디버디",
+        "uid": "509eee8d-88dc-4de9-86cd-8edafea459c6",
+        "sale_price": "7,430원",
+        "link": "https://www.coupang.com/vp/products/7635107988?itemId=20272595668&vendorItemId=87359599459&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/10/05/15/2/443d452f-8793-41f4-9f21-435e0202d7f9.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "돌 하이 오렌지 주스 120ml 32개",
+        "brand": "돌",
+        "uid": "0bd35c6d-670a-4cc3-9628-a2e18808dc63",
+        "sale_price": "18,200원",
+        "link": "https://www.coupang.com/vp/products/8292102405?itemId=9929782574&vendorItemId=77213042838&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6c6b/47f797614a0dcd5b812ef272b3cbbab18c2b479c06eaa398e042373f350f.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "후디스 하이키드 유아 킨더밀쉬 200ml 우유 24개",
+        "brand": "후디스",
+        "uid": "873dc9f6-c3c9-40f7-951f-49a5d7749856",
+        "sale_price": "28,450원",
+        "link": "https://www.coupang.com/vp/products/2242800862?itemId=21267530734&vendorItemId=71817713763&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3548253243419035-1ff6ab84-f1d2-4428-88d5-32c03b7a0015.jpg"
     },
     {
         "category": "식품",
@@ -1522,24 +1558,6 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 유기농 이유식 쌀가루 중기1 200g 1개",
-        "brand": "베베쿡",
-        "uid": "c1213337-2d95-4ea8-9710-f51a8ab7a897",
-        "sale_price": "6,920원",
-        "link": "https://www.coupang.com/vp/products/110470533?itemId=333126481&vendorItemId=3817771771&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/10/30/3817771771/8ca0f8a6-bd52-4a9c-9163-ec9d9d6a4b77.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "매일유업 상하목장 유기농 주스 멸균 125ml 24팩 3종 혼합딸기8오렌지8블루베리8 1세트 딸기오렌지블루베리 375ml",
-        "brand": "매일유업",
-        "uid": "736ff675-6839-43c4-824f-b9c0640774f1",
-        "sale_price": "21,800원",
-        "link": "https://www.coupang.com/vp/products/7344525314?itemId=22963763605&vendorItemId=86272038316&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cc5b/c0ff6b8458669af96341839bda2eb03cab87007d4078bf4535a8b223bd1f.jpg"
-    },
-    {
-        "category": "식품",
         "name": "퍼기 유아용 유기농 현미가루 작은입자 중기 200g 1개",
         "brand": "퍼기",
         "uid": "fa56b3bb-ccfa-48f9-aff0-4c752694dc78",
@@ -1558,12 +1576,30 @@
     },
     {
         "category": "식품",
-        "name": "돌 하이 오렌지 주스 120ml 32개",
-        "brand": "돌",
-        "uid": "0bd35c6d-670a-4cc3-9628-a2e18808dc63",
-        "sale_price": "18,200원",
-        "link": "https://www.coupang.com/vp/products/8292102405?itemId=9929782574&vendorItemId=77213042838&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/6c6b/47f797614a0dcd5b812ef272b3cbbab18c2b479c06eaa398e042373f350f.jpg"
+        "name": "순작 청정지역 무주산 우리아이 첫 보리차 24p 192g 24개 1개",
+        "brand": "순작",
+        "uid": "1bb8a05f-78c0-475a-a68e-71a020568eea",
+        "sale_price": "6,410원",
+        "link": "https://www.coupang.com/vp/products/239057870?itemId=110884167&vendorItemId=3217221458&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3282107798255776-affffa13-d814-451b-882f-f155d337de5e.png"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 유기농 이유식 쌀가루 중기1 200g 1개",
+        "brand": "베베쿡",
+        "uid": "c1213337-2d95-4ea8-9710-f51a8ab7a897",
+        "sale_price": "6,920원",
+        "link": "https://www.coupang.com/vp/products/110470533?itemId=333126481&vendorItemId=3817771771&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2018/10/30/3817771771/8ca0f8a6-bd52-4a9c-9163-ec9d9d6a4b77.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "매일유업 상하목장 유기농 주스 멸균 125ml 24팩 3종 혼합딸기8오렌지8블루베리8 1세트 딸기오렌지블루베리 375ml",
+        "brand": "매일유업",
+        "uid": "736ff675-6839-43c4-824f-b9c0640774f1",
+        "sale_price": "21,800원",
+        "link": "https://www.coupang.com/vp/products/7344525314?itemId=22963763605&vendorItemId=86272038316&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cc5b/c0ff6b8458669af96341839bda2eb03cab87007d4078bf4535a8b223bd1f.jpg"
     },
     {
         "category": "식품",
@@ -1576,57 +1612,12 @@
     },
     {
         "category": "식품",
-        "name": "순작 청정지역 무주산 우리아이 첫 보리차 24p 192g 24개 1개",
-        "brand": "순작",
-        "uid": "1bb8a05f-78c0-475a-a68e-71a020568eea",
-        "sale_price": "6,410원",
-        "link": "https://www.coupang.com/vp/products/239057870?itemId=110884167&vendorItemId=3217221458&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3282107798255776-affffa13-d814-451b-882f-f155d337de5e.png"
-    },
-    {
-        "category": "식품",
-        "name": "후디스 하이키드 유아 킨더밀쉬 200ml 우유 24개",
-        "brand": "후디스",
-        "uid": "873dc9f6-c3c9-40f7-951f-49a5d7749856",
-        "sale_price": "28,450원",
-        "link": "https://www.coupang.com/vp/products/2242800862?itemId=21267530734&vendorItemId=71817713763&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3548253243419035-1ff6ab84-f1d2-4428-88d5-32c03b7a0015.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "푸디버디 유아용 한우 설렁탕 180g 3개",
-        "brand": "푸디버디",
-        "uid": "61e02227-2832-42a8-93e0-a13120e48cb0",
-        "sale_price": "9,810원",
-        "link": "https://www.coupang.com/vp/products/8190455294?itemId=21351244745&vendorItemId=88408899738&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/b343ee36-5fc6-4bbb-93c6-639c9450fe848331196649488581146.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 아동용 핑거별 쌀과자 양파맛 2개",
-        "brand": "아이배냇",
-        "uid": "4865dc9c-f766-4299-add9-48e94c95fcdd",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/7476036935?itemId=19610908131&vendorItemId=86717876104&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/a1fc0d8b-ab8c-4916-8187-4a093d3b1842410154790629627864.png"
-    },
-    {
-        "category": "식품",
         "name": "아이배냇 유아용 베베 순한 덮밥 소스 50g 4개 소불고기",
         "brand": "아이배냇",
         "uid": "6378411d-54f3-490a-b2d6-21e5d8045f71",
         "sale_price": "6,000원",
         "link": "https://www.coupang.com/vp/products/5508898728?itemId=18036365005&vendorItemId=85190807572&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8570c682-77cc-4217-9884-affeb28abde98171418117383934480.png"
-    },
-    {
-        "category": "식품",
-        "name": "푸디버디 부드러운 유기농 쌀밥 3p 140g 3개",
-        "brand": "푸디버디",
-        "uid": "509eee8d-88dc-4de9-86cd-8edafea459c6",
-        "sale_price": "7,430원",
-        "link": "https://www.coupang.com/vp/products/7635107988?itemId=20272595668&vendorItemId=87359599459&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/10/05/15/2/443d452f-8793-41f4-9f21-435e0202d7f9.jpg"
     },
     {
         "category": "식품",
@@ -1774,21 +1765,21 @@
     },
     {
         "category": "식품",
-        "name": "파파루 간편레시피 유기농쌀 백미 중간입자 400g 1개",
-        "brand": "파파루",
-        "uid": "2cc76d9b-4794-4eb8-aa3b-d8cf37442d3e",
-        "sale_price": "6,900원",
-        "link": "https://www.coupang.com/vp/products/18388268?itemId=73950600&vendorItemId=3122146020&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/798355497429206-2bdbb57e-8b21-4d0e-9332-b96fb311ea0b.jpg"
-    },
-    {
-        "category": "식품",
         "name": "아이배냇 배냇밀 소고기 표고버섯 쌈배추죽 후기 이유식 100g 10개 혼합맛소고기표고버섯배추",
         "brand": "아이배냇",
         "uid": "33c9c93d-4966-4911-a213-e7f3a42bd450",
         "sale_price": "22,400원",
         "link": "https://www.coupang.com/vp/products/8384504681?itemId=24232094689&vendorItemId=91249276223&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/07/14/3/40837ff5-7e27-46b9-8d81-0e4017d4e942.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "파파루 간편레시피 유기농쌀 백미 중간입자 400g 1개",
+        "brand": "파파루",
+        "uid": "2cc76d9b-4794-4eb8-aa3b-d8cf37442d3e",
+        "sale_price": "6,900원",
+        "link": "https://www.coupang.com/vp/products/18388268?itemId=73950600&vendorItemId=3122146020&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/798355497429206-2bdbb57e-8b21-4d0e-9332-b96fb311ea0b.jpg"
     },
     {
         "category": "식품",
@@ -2143,12 +2134,21 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 맘마밀 유기농 레드비트 골든사과 주스 125ml 8개",
+        "name": "아이배냇베베 순간장 소스 190ml 비빔용 1개",
+        "brand": "아이배냇베베",
+        "uid": "743ed16c-268a-4cc3-bfe2-8ebf3673556a",
+        "sale_price": "3,880원",
+        "link": "https://www.coupang.com/vp/products/7240638809?itemId=18396332214&vendorItemId=3520952151&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/797857420488546-5a9cd796-a557-41e5-9915-df441c26da3e.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "요미요미 매일유업 유기농 주스 과일믹스 125ml 8개 과일믹스맛",
         "brand": "요미요미",
-        "uid": "c365ebc1-b7e5-4758-baf7-8b2587b8d6d9",
+        "uid": "9a17b719-2cf1-46bf-8826-b2a43394e2ad",
         "sale_price": "4,300원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=24203449082&vendorItemId=85727883452&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/983936103969098-c0e3178f-48d1-477d-9142-d83a18a938bf.jpg"
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=18004025968&vendorItemId=85159974838&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/983056503637283-91adb590-0a8a-42c7-999c-d3f39c3d3cf0.jpg"
     },
     {
         "category": "식품",
@@ -2161,75 +2161,12 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 처음먹는 빼빼롱뻥 30g 2개 자색고구마",
+        "name": "베베쿡 어린이 처음먹는 김자반 25g 오리지널맛 5개",
         "brand": "베베쿡",
-        "uid": "0e04b0f9-ffed-4f65-9f7f-c91e56206437",
-        "sale_price": "6,200원",
-        "link": "https://www.coupang.com/vp/products/7680102922?itemId=17972724406&vendorItemId=85129876209&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/564270871287394-d62192dc-7836-44f2-b9b0-bd14132abde2.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "풀무원 우리밀함유 고칼슘 꼬마약과 200g 1개",
-        "brand": "풀무원",
-        "uid": "11e9e177-302c-422f-a66d-8efcb54361ee",
-        "sale_price": "4,580원",
-        "link": "https://www.coupang.com/vp/products/7229754854?itemId=18342312877&vendorItemId=85486503866&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/q7hbosbu/a86ff25106bc46b8943b575f0d03b107.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "퓨어잇 순수한 아이김 김100 15g 2개",
-        "brand": "퓨어잇",
-        "uid": "0dbe8a06-a20c-4c5d-8c02-76aa89e79f4e",
-        "sale_price": "7,780원",
-        "link": "https://www.coupang.com/vp/products/98301573?itemId=301539884&vendorItemId=3742589706&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/84011172025544-af956c1a-5b93-4f5d-9172-d32aadfa420b.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 유아용 든든 쇠고기 갈비탕 150g 갈비탕맛 3개",
-        "brand": "아이배냇",
-        "uid": "dd0c9893-9973-435e-9d4d-4a3fc2c6a073",
-        "sale_price": "9,100원",
-        "link": "https://www.coupang.com/vp/products/7141981449?itemId=18172702823&vendorItemId=85321999994&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/e384a249-7adb-4e8f-88dd-5c228b3e5f284586072341629795844.png"
-    },
-    {
-        "category": "식품",
-        "name": "일동후디스 하이키드 쵸코 코코아맛 650g 1개",
-        "brand": "일동후디스",
-        "uid": "f402a24c-ada2-4abe-a68c-a831e60c6dc1",
-        "sale_price": "21,800원",
-        "link": "https://www.coupang.com/vp/products/7072604519?itemId=17568323510&vendorItemId=3000920193&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/9188581743389693-f20fc583-fb08-46f8-b07c-c2344069c420.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "또또맘 유아용 리얼 퍼핑딸바 퍼핑스낵 25g 딸기  바나나 혼합맛 2개",
-        "brand": "또또맘",
-        "uid": "1a9f6e1a-f990-4061-8abb-5b9ece3e5797",
-        "sale_price": "6,000원",
-        "link": "https://www.coupang.com/vp/products/1661243210?itemId=18036365109&vendorItemId=85190807635&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/24512bc0-25e6-457d-b011-1a093651f3c48643151133426510417.png"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇베베 순간장 소스 190ml 비빔용 1개",
-        "brand": "아이배냇베베",
-        "uid": "743ed16c-268a-4cc3-bfe2-8ebf3673556a",
-        "sale_price": "3,880원",
-        "link": "https://www.coupang.com/vp/products/7240638809?itemId=18396332214&vendorItemId=3520952151&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/797857420488546-5a9cd796-a557-41e5-9915-df441c26da3e.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "요미요미 주스 125ml 24개 사과 배 포도",
-        "brand": "요미요미",
-        "uid": "d00bb7b0-5dfe-4d3e-81b0-503bf8af2c49",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=20733952773&vendorItemId=3051734470&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/979951466663184-1fe227a4-ba1e-4702-b301-d77a634cb5aa.jpg"
+        "uid": "04a78dab-cfe4-428d-bf92-de519977f5ae",
+        "sale_price": "13,000원",
+        "link": "https://www.coupang.com/vp/products/7339672039?itemId=18940319541&vendorItemId=86066813519&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/17aa3d6a-1f09-467b-9ed9-a93c5fb7d4476735399674785890994.png"
     },
     {
         "category": "식품",
@@ -2242,21 +2179,48 @@
     },
     {
         "category": "식품",
-        "name": "베베쿡 어린이 처음먹는 김자반 25g 오리지널맛 5개",
-        "brand": "베베쿡",
-        "uid": "04a78dab-cfe4-428d-bf92-de519977f5ae",
-        "sale_price": "13,000원",
-        "link": "https://www.coupang.com/vp/products/7339672039?itemId=18940319541&vendorItemId=86066813519&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/17aa3d6a-1f09-467b-9ed9-a93c5fb7d4476735399674785890994.png"
-    },
-    {
-        "category": "식품",
         "name": "베베당 유기농 현미스틱 3종세트 현미 고구마 당근플러스 30g 1세트",
         "brand": "베베당",
         "uid": "6b1c062e-ce50-480d-a6d4-c30df080c0c3",
         "sale_price": "7,200원",
         "link": "https://www.coupang.com/vp/products/169251014?itemId=484367018&vendorItemId=4219879738&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ce4b/66a4bcd12fb5c735e971137b2b06faf08318e7b14fad8999a490fc5fc5a2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 유아용 든든 쇠고기 갈비탕 150g 갈비탕맛 3개",
+        "brand": "아이배냇",
+        "uid": "dd0c9893-9973-435e-9d4d-4a3fc2c6a073",
+        "sale_price": "9,100원",
+        "link": "https://www.coupang.com/vp/products/7141981449?itemId=18172702823&vendorItemId=85321999994&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/e384a249-7adb-4e8f-88dd-5c228b3e5f284586072341629795844.png"
+    },
+    {
+        "category": "식품",
+        "name": "퓨어잇 순수한 아이김 김100 15g 2개",
+        "brand": "퓨어잇",
+        "uid": "0dbe8a06-a20c-4c5d-8c02-76aa89e79f4e",
+        "sale_price": "7,780원",
+        "link": "https://www.coupang.com/vp/products/98301573?itemId=301539884&vendorItemId=3742589706&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/84011172025544-af956c1a-5b93-4f5d-9172-d32aadfa420b.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "푸디버디 한우 짜장소스 100g 5개 짜장맛",
+        "brand": "푸디버디",
+        "uid": "3f05c906-265f-4da4-873c-bfc6421979e4",
+        "sale_price": "9,520원",
+        "link": "https://www.coupang.com/vp/products/8190455294?itemId=23992767503&vendorItemId=90663329928&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/612321421384471-b6fd6a6b-79bc-4d01-b7be-769aae2edccb.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "파파루 간편레시피 유기농쌀 현미 중간입자 400g 1개",
+        "brand": "파파루",
+        "uid": "d3879f63-831a-4102-b3c2-b40fee0547d6",
+        "sale_price": "6,900원",
+        "link": "https://www.coupang.com/vp/products/8357803685?itemId=24151121122&vendorItemId=3122146017&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/434981700415315-a29e314a-d995-4144-ac04-c314147cf0e9.jpg"
     },
     {
         "category": "식품",
@@ -2269,30 +2233,84 @@
     },
     {
         "category": "식품",
-        "name": "파스퇴르 위드맘 제왕 1단계 750g 2개",
-        "brand": "파스퇴르",
-        "uid": "d7e9a335-b1b3-41f9-a7df-c03f64f3da9f",
-        "sale_price": "62,980원",
-        "link": "https://www.coupang.com/vp/products/7733156491?itemId=17943179315&vendorItemId=85101046295&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2413601669157077-f6731fe7-18f8-427a-9ecc-15faa16c661f.jpg"
+        "name": "요미요미 주스 125ml 24개 사과 배 포도",
+        "brand": "요미요미",
+        "uid": "d00bb7b0-5dfe-4d3e-81b0-503bf8af2c49",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=20733952773&vendorItemId=3051734470&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/979951466663184-1fe227a4-ba1e-4702-b301-d77a634cb5aa.jpg"
     },
     {
         "category": "식품",
-        "name": "오빌릿 작두콩 배도라지차 30g 20개입 1개",
-        "brand": "오빌릿",
-        "uid": "00f4b8a5-4030-49a9-9194-e26a37e46faf",
-        "sale_price": "9,880원",
-        "link": "https://www.coupang.com/vp/products/8484519649?itemId=24555743958&vendorItemId=91621295033&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0057/0fb868af8159bec84cf8921432fd6bada4070981dbce6b3a2be8d7e29035.jpg"
+        "name": "베베쿡 처음먹는 빼빼롱뻥 30g 2개 자색고구마",
+        "brand": "베베쿡",
+        "uid": "0e04b0f9-ffed-4f65-9f7f-c91e56206437",
+        "sale_price": "6,200원",
+        "link": "https://www.coupang.com/vp/products/7680102922?itemId=17972724406&vendorItemId=85129876209&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/564270871287394-d62192dc-7836-44f2-b9b0-bd14132abde2.jpg"
     },
     {
         "category": "식품",
-        "name": "Nutricia 인파트리니 분유 400g 1개",
-        "brand": "Nutricia",
-        "uid": "abdb97c9-4814-4159-bd06-ee01efedbb26",
-        "sale_price": "40,000원",
-        "link": "https://www.coupang.com/vp/products/15219536?itemId=62619246&vendorItemId=3098070617&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1396313163558-244476b3-368d-4c87-9c05-db3053bf0c33.jpg"
+        "name": "또또맘 유아용 리얼 퍼핑딸바 퍼핑스낵 25g 딸기  바나나 혼합맛 2개",
+        "brand": "또또맘",
+        "uid": "1a9f6e1a-f990-4061-8abb-5b9ece3e5797",
+        "sale_price": "6,000원",
+        "link": "https://www.coupang.com/vp/products/1661243210?itemId=18036365109&vendorItemId=85190807635&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/24512bc0-25e6-457d-b011-1a093651f3c48643151133426510417.png"
+    },
+    {
+        "category": "식품",
+        "name": "아이엠마더 분유 3단계 800g 1개",
+        "brand": "아이엠마더",
+        "uid": "bb95f71c-a8d9-40be-b559-0cf43683f1c9",
+        "sale_price": "27,600원",
+        "link": "https://www.coupang.com/vp/products/7055016170?itemId=17477124805&vendorItemId=84644698802&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/10/14/3/b4b0362e-218f-468d-a3a9-3977ad510fe6.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "남양 임페리얼드림 XO GOLD 2단계 612개월 280g 1개",
+        "brand": "남양",
+        "uid": "23bc0fb6-1be6-4722-8cbd-a5a7a89f2f7b",
+        "sale_price": "10,000원",
+        "link": "https://www.coupang.com/vp/products/7047433860?itemId=19198210672&vendorItemId=85148361751&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/02/22/14/9/e4d229b6-25ce-462a-9a9a-74ecd9e8c4db.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "일동후디스 하이키드 쵸코 코코아맛 650g 1개",
+        "brand": "일동후디스",
+        "uid": "f402a24c-ada2-4abe-a68c-a831e60c6dc1",
+        "sale_price": "21,800원",
+        "link": "https://www.coupang.com/vp/products/7072604519?itemId=17568323510&vendorItemId=3000920193&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/9188581743389693-f20fc583-fb08-46f8-b07c-c2344069c420.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "푸디버디 하양라면 80g 8개",
+        "brand": "푸디버디",
+        "uid": "06c41e27-d2e5-467a-b3a8-9b06d7bcfc16",
+        "sale_price": "9,980원",
+        "link": "https://www.coupang.com/vp/products/7579256500?itemId=20053648261&vendorItemId=87149815275&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1201610039987005-27b55a8e-6c31-49cf-baaa-e06085b4d261.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "집으로ON 어린이순살생선 삼치구이 냉동 180g 1개",
+        "brand": "집으로ON",
+        "uid": "79288f52-21f7-448f-afc4-3d19f13f8e6d",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/1261936158?itemId=2263107427&vendorItemId=70260370746&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/32013584049496-244b1131-369d-4742-9d96-64224d17a9c2.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "노발락 골드 분유 1단계 800g 1개",
+        "brand": "노발락",
+        "uid": "3ba5a3ea-7e4e-4f99-8089-48cf02c87a4b",
+        "sale_price": "35,910원",
+        "link": "https://www.coupang.com/vp/products/205135566?itemId=603846293&vendorItemId=4582713226&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4459582090517251-900eeaed-04c8-4755-a06a-e623818d6117.jpg"
     },
     {
         "category": "식품",
@@ -2314,156 +2332,12 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 매일유업 유기농 주스 보라당근 포도 125ml 8개",
-        "brand": "요미요미",
-        "uid": "8ea16ee4-e704-4e5b-9c12-a3a743c0aff6",
-        "sale_price": "4,300원",
-        "link": "https://www.coupang.com/vp/products/7885639680?itemId=17894594822&vendorItemId=85727883473&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7190245371027308-efc93b00-78fe-45b5-98cf-c8616fc2a958.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "파파루 간편레시피 유기농쌀 현미 중간입자 400g 1개",
-        "brand": "파파루",
-        "uid": "d3879f63-831a-4102-b3c2-b40fee0547d6",
-        "sale_price": "6,900원",
-        "link": "https://www.coupang.com/vp/products/8357803685?itemId=24151121122&vendorItemId=3122146017&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/434981700415315-a29e314a-d995-4144-ac04-c314147cf0e9.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "푸디버디 한우 짜장소스 100g 5개 짜장맛",
-        "brand": "푸디버디",
-        "uid": "3f05c906-265f-4da4-873c-bfc6421979e4",
-        "sale_price": "9,520원",
-        "link": "https://www.coupang.com/vp/products/8190455294?itemId=23992767503&vendorItemId=90663329928&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/612321421384471-b6fd6a6b-79bc-4d01-b7be-769aae2edccb.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이얌 일동후디스 아이얌 동결건조 과일칩 순사과 15g 10개",
-        "brand": "아이얌",
-        "uid": "241a9e8b-c625-45c2-9be5-dd207393b577",
-        "sale_price": "24,840원",
-        "link": "https://www.coupang.com/vp/products/7404885542?itemId=19421889368&vendorItemId=3275321743&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/a2a6/35ab21c57e6d0042ebea8e37fe94ea37e55c81a079cda0a628f2f0d26c02.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "앱솔루트 명작 2FL 분유 2단계 800g 3개",
-        "brand": "앱솔루트",
-        "uid": "705d8115-c772-4567-b0b0-f5b37bc48108",
-        "sale_price": "52,990원",
-        "link": "https://www.coupang.com/vp/products/7308156780?itemId=11615060339&vendorItemId=78889733722&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7877462581180319-619609bc-fe1c-4214-ae69-a4a09766a12d.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "노발락 골드 분유 1단계 800g 1개",
-        "brand": "노발락",
-        "uid": "3ba5a3ea-7e4e-4f99-8089-48cf02c87a4b",
-        "sale_price": "35,910원",
-        "link": "https://www.coupang.com/vp/products/205135566?itemId=603846293&vendorItemId=4582713226&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4459582090517251-900eeaed-04c8-4755-a06a-e623818d6117.jpg"
-    },
-    {
-        "category": "식품",
         "name": "베베쿡 처음 먹는 배도라지 유아 음료 20개",
         "brand": "베베쿡",
         "uid": "e9f9b2e7-7db1-42bb-b9ff-c5086578d6db",
         "sale_price": "19,900원",
         "link": "https://www.coupang.com/vp/products/8195004098?itemId=19145312751&vendorItemId=3092052747&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/f48d/9d73161f9430a0b3b2870b52741a22ccc16898d63dbfd4c80015696d7243.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "집으로ON 어린이순살생선 삼치구이 냉동 180g 1개",
-        "brand": "집으로ON",
-        "uid": "79288f52-21f7-448f-afc4-3d19f13f8e6d",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/1261936158?itemId=2263107427&vendorItemId=70260370746&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/32013584049496-244b1131-369d-4742-9d96-64224d17a9c2.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이엠마더 분유 3단계 800g 1개",
-        "brand": "아이엠마더",
-        "uid": "bb95f71c-a8d9-40be-b559-0cf43683f1c9",
-        "sale_price": "27,600원",
-        "link": "https://www.coupang.com/vp/products/7055016170?itemId=17477124805&vendorItemId=84644698802&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/10/14/3/b4b0362e-218f-468d-a3a9-3977ad510fe6.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 순 발아 참기름 참깨 75ml 1개",
-        "brand": "아이배냇",
-        "uid": "c90f98f6-1b94-44a3-aa6a-cf96003f38fe",
-        "sale_price": "10,500원",
-        "link": "https://www.coupang.com/vp/products/7260640923?itemId=21003959171&vendorItemId=3000059726&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5731625635276949-e506ac47-e241-4490-be15-7a40f58f5d80.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "남양 임페리얼드림 XO GOLD 2단계 612개월 280g 1개",
-        "brand": "남양",
-        "uid": "23bc0fb6-1be6-4722-8cbd-a5a7a89f2f7b",
-        "sale_price": "10,000원",
-        "link": "https://www.coupang.com/vp/products/7047433860?itemId=19198210672&vendorItemId=85148361751&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/02/22/14/9/e4d229b6-25ce-462a-9a9a-74ecd9e8c4db.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "곰곰 우리아이 보리차 구수한맛 192g 1개 24개",
-        "brand": "곰곰",
-        "uid": "43bebde7-4b69-4401-987a-ab4e676bdfc2",
-        "sale_price": "5,960원",
-        "link": "https://www.coupang.com/vp/products/7538913936?itemId=19813164837&vendorItemId=86915264257&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3432058610021237-f046e8fe-237d-4baa-8cdd-4959643663eb.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "덴마크 유기가공식품 인증 짜지않은 아기치즈 1단계 544g 1개",
-        "brand": "덴마크",
-        "uid": "24db251f-7682-481c-88b6-5488027c83e2",
-        "sale_price": "12,900원",
-        "link": "https://www.coupang.com/vp/products/4649769965?itemId=5795442367&vendorItemId=73093944739&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/811686736329853-044ad014-8cb9-4278-8377-eec30e34fd7b.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아라찬 고등어 구이 냉동 1개 90g",
-        "brand": "아라찬",
-        "uid": "95aa5126-cf20-4ee0-8371-10eb74af8f7d",
-        "sale_price": "2,990원",
-        "link": "https://www.coupang.com/vp/products/8439990345?itemId=24412712159&vendorItemId=91427262102&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/p7schfut/2e728dcefb0e4441bb701f7026c36bf3.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "푸디버디 하양라면 80g 8개",
-        "brand": "푸디버디",
-        "uid": "06c41e27-d2e5-467a-b3a8-9b06d7bcfc16",
-        "sale_price": "9,980원",
-        "link": "https://www.coupang.com/vp/products/7579256500?itemId=20053648261&vendorItemId=87149815275&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1201610039987005-27b55a8e-6c31-49cf-baaa-e06085b4d261.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "웅진 캐치 티니핑 밀크맛 음료 200ml 24개",
-        "brand": "웅진",
-        "uid": "ed16d72a-eea5-48a5-b7c4-ed7cf030ece0",
-        "sale_price": "16,440원",
-        "link": "https://www.coupang.com/vp/products/7707111313?itemId=20649792545&vendorItemId=91879417689&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/05a2/e5e92ad375453a8e384fac695efb8b49719a780b68400c74b5834c6a9c1d.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이엠마더 분유1단계 800g 4개",
-        "brand": "아이엠마더",
-        "uid": "23e541f3-aae7-4d00-852d-5ed95a35d10a",
-        "sale_price": "116,000원",
-        "link": "https://www.coupang.com/vp/products/7047433861?itemId=21800561701&vendorItemId=88849143205&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/81c2fd2f-5b3b-49a3-8076-183cc52717732179558729618449556.png"
     },
     {
         "category": "식품",
@@ -2476,6 +2350,24 @@
     },
     {
         "category": "식품",
+        "name": "아이배냇 순 발아 참기름 참깨 75ml 1개",
+        "brand": "아이배냇",
+        "uid": "c90f98f6-1b94-44a3-aa6a-cf96003f38fe",
+        "sale_price": "10,500원",
+        "link": "https://www.coupang.com/vp/products/7260640923?itemId=21003959171&vendorItemId=3000059726&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5731625635276949-e506ac47-e241-4490-be15-7a40f58f5d80.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "오빌릿 작두콩 배도라지차 30g 20개입 1개",
+        "brand": "오빌릿",
+        "uid": "00f4b8a5-4030-49a9-9194-e26a37e46faf",
+        "sale_price": "9,880원",
+        "link": "https://www.coupang.com/vp/products/8484519649?itemId=24555743958&vendorItemId=91621295033&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0057/0fb868af8159bec84cf8921432fd6bada4070981dbce6b3a2be8d7e29035.jpg"
+    },
+    {
+        "category": "식품",
         "name": "야미얼스 유기농 베어 젤리 2376g 망고  복숭아  체리  딸기 혼합맛 1개",
         "brand": "야미얼스",
         "uid": "98b6f418-0ad0-4c33-b89c-708b54f910ca",
@@ -2485,57 +2377,21 @@
     },
     {
         "category": "식품",
-        "name": "에코맘의산골이유식 산골쌀쿠키 쌀계란 1개 40g",
-        "brand": "에코맘의산골이유식",
-        "uid": "b15cb9b5-64e5-46bf-b9f6-178df06a2f71",
-        "sale_price": "3,730원",
-        "link": "https://www.coupang.com/vp/products/7844109243?itemId=23789611302&vendorItemId=90813673923&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/29/10/9/1f85547a-2f22-4904-8ab4-c88a3387d1a1.png"
+        "name": "앱솔루트 명작 2FL 분유 2단계 800g 3개",
+        "brand": "앱솔루트",
+        "uid": "705d8115-c772-4567-b0b0-f5b37bc48108",
+        "sale_price": "52,990원",
+        "link": "https://www.coupang.com/vp/products/7308156780?itemId=11615060339&vendorItemId=78889733722&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7877462581180319-619609bc-fe1c-4214-ae69-a4a09766a12d.jpg"
     },
     {
         "category": "식품",
-        "name": "요미요미 튼튼주스 125ml 24개",
-        "brand": "요미요미",
-        "uid": "c7d4d6c3-08c8-4a48-a820-393cc9195c0c",
-        "sale_price": "14,700원",
-        "link": "https://www.coupang.com/vp/products/8256792754?itemId=20648545175&vendorItemId=79985040418&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/e089/4df99bab5893adab4098afbc666e998c8fa234a7a2687f6ca22cdf4a7dd1.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 칼슘 순 소금 1개",
-        "brand": "아이배냇",
-        "uid": "77f94631-014f-4687-a1a9-c670864adf83",
-        "sale_price": "3,900원",
-        "link": "https://www.coupang.com/vp/products/13322029?itemId=7643716574&vendorItemId=3000059739&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1358270321544596-4afc8b89-f840-4773-bfde-a457f3ea34d5.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "우리아이 다짐 대구 냉동 300g 1개",
-        "brand": "우리아이",
-        "uid": "8709b8e4-f8e4-439a-a66d-bb2094527877",
-        "sale_price": "8,960원",
-        "link": "https://www.coupang.com/vp/products/200202387?itemId=581010753&vendorItemId=4522674209&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/03/21/4522674209/c2099b64-98af-4d48-a7cd-faff3281a006.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "짱죽 실온 이유식 초기 한우소고기미음 160g 2개",
-        "brand": "짱죽",
-        "uid": "be28771f-6ae2-4aa1-b1ab-d286469a8454",
-        "sale_price": "7,710원",
-        "link": "https://www.coupang.com/vp/products/7680292286?itemId=18839805260&vendorItemId=85969526627&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/743975940401460-479c64e0-4ea8-4358-a881-e7ab51168ebb.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "퍼기 유아용 이유식용 유기농 세척 오트밀 작은 입자 300g 1개",
-        "brand": "퍼기",
-        "uid": "7178a25a-90e8-4383-9637-b9e3f6449acc",
-        "sale_price": "8,900원",
-        "link": "https://www.coupang.com/vp/products/7879419997?itemId=20863787715&vendorItemId=88408002943&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/613806044398757-18c49cd6-2e2e-47c0-9660-3fdfa50f027c.jpg"
+        "name": "파스퇴르 위드맘 제왕 1단계 750g 2개",
+        "brand": "파스퇴르",
+        "uid": "d7e9a335-b1b3-41f9-a7df-c03f64f3da9f",
+        "sale_price": "62,980원",
+        "link": "https://www.coupang.com/vp/products/7733156491?itemId=17943179315&vendorItemId=85101046295&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2413601669157077-f6731fe7-18f8-427a-9ecc-15faa16c661f.jpg"
     },
     {
         "category": "식품",
@@ -2548,39 +2404,66 @@
     },
     {
         "category": "식품",
-        "name": "프로엠 유기농 까까 별과자 40g x 2p  곡물과자 40g x 2p 현미 1세트",
-        "brand": "프로엠",
-        "uid": "0f3020f7-a2f2-4197-83cf-4788700a1a45",
-        "sale_price": "11,600원",
-        "link": "https://www.coupang.com/vp/products/4824914309?itemId=6219191139&vendorItemId=73515075524&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/01/18/16/1/a2d7b9a5-0870-4ad9-a8f7-408e8b77466c.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "리틀스푼 동결건조 요거랑 4종 세트 딸기 블루베리 사과 망고 16g 1세트",
-        "brand": "리틀스푼",
-        "uid": "7df21391-2c05-4dc1-a701-a379687896ef",
-        "sale_price": "11,800원",
-        "link": "https://www.coupang.com/vp/products/7047194487?itemId=17442795667&vendorItemId=84611443755&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/9/2/6c84b814-b69f-4a58-b814-ddd313ee1c6b.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 핑거 요거트 플레인 20g 4개",
-        "brand": "아이배냇",
-        "uid": "cee9e6e6-204d-4ba4-bbbc-bc9e657d4897",
-        "sale_price": "9,800원",
-        "link": "https://www.coupang.com/vp/products/6643550098?itemId=19145371369&vendorItemId=86264532248&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/cdf9dd5c-0387-4c3a-bdd7-2d1fcee6cb246464024430164941194.png"
-    },
-    {
-        "category": "식품",
         "name": "아이얌 우리아이 바로 먹는 소스 카레 160g 3개",
         "brand": "아이얌",
         "uid": "eedc29f9-e7e8-4ca7-97e6-16b77623f32a",
         "sale_price": "9,400원",
         "link": "https://www.coupang.com/vp/products/7235466175?itemId=22815824533&vendorItemId=80602187113&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b749/5051edec1aacb22bb20c7bd8556b32fd80c0cd83bd796216068cd8bb2083.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "퍼기 유아용 이유식용 유기농 세척 오트밀 작은 입자 300g 1개",
+        "brand": "퍼기",
+        "uid": "7178a25a-90e8-4383-9637-b9e3f6449acc",
+        "sale_price": "8,900원",
+        "link": "https://www.coupang.com/vp/products/7879419997?itemId=20863787715&vendorItemId=88408002943&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/613806044398757-18c49cd6-2e2e-47c0-9660-3fdfa50f027c.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "Nutricia 인파트리니 분유 400g 1개",
+        "brand": "Nutricia",
+        "uid": "abdb97c9-4814-4159-bd06-ee01efedbb26",
+        "sale_price": "40,000원",
+        "link": "https://www.coupang.com/vp/products/15219536?itemId=62619246&vendorItemId=3098070617&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1396313163558-244476b3-368d-4c87-9c05-db3053bf0c33.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 칼슘 순 소금 1개",
+        "brand": "아이배냇",
+        "uid": "77f94631-014f-4687-a1a9-c670864adf83",
+        "sale_price": "3,900원",
+        "link": "https://www.coupang.com/vp/products/13322029?itemId=7643716574&vendorItemId=3000059739&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1358270321544596-4afc8b89-f840-4773-bfde-a457f3ea34d5.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이얌 일동후디스 아이얌 동결건조 과일칩 순사과 15g 10개",
+        "brand": "아이얌",
+        "uid": "241a9e8b-c625-45c2-9be5-dd207393b577",
+        "sale_price": "24,840원",
+        "link": "https://www.coupang.com/vp/products/7404885542?itemId=19421889368&vendorItemId=3275321743&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/a2a6/35ab21c57e6d0042ebea8e37fe94ea37e55c81a079cda0a628f2f0d26c02.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "요미요미 매일유업 유기농 주스 보라당근 포도 125ml 8개",
+        "brand": "요미요미",
+        "uid": "8ea16ee4-e704-4e5b-9c12-a3a743c0aff6",
+        "sale_price": "4,300원",
+        "link": "https://www.coupang.com/vp/products/7885639680?itemId=17894594822&vendorItemId=85727883473&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7190245371027308-efc93b00-78fe-45b5-98cf-c8616fc2a958.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이엠마더 분유1단계 800g 4개",
+        "brand": "아이엠마더",
+        "uid": "23e541f3-aae7-4d00-852d-5ed95a35d10a",
+        "sale_price": "116,000원",
+        "link": "https://www.coupang.com/vp/products/7047433861?itemId=21800561701&vendorItemId=88849143205&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/81c2fd2f-5b3b-49a3-8076-183cc52717732179558729618449556.png"
     },
     {
         "category": "식품",
@@ -2593,30 +2476,129 @@
     },
     {
         "category": "식품",
-        "name": "맘마밀 안심 이유식 12개월부터 100g 6개 아스파라거스와 닭가슴살",
-        "brand": "맘마밀",
-        "uid": "86799463-410c-4040-b56f-9a856fe91bfb",
-        "sale_price": "9,000원",
-        "link": "https://www.coupang.com/vp/products/7680043944?itemId=17655579606&vendorItemId=84821119783&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5135110030241610-a6fb17e1-bbd4-4284-8179-4baf1c8fdb10.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "야미얼스 유기농 후르츠 스낵 젤리 1개 바나나  체리  복숭아  딸기 혼합맛 1782g",
-        "brand": "야미얼스",
-        "uid": "ab81c3e2-73bc-44a1-b08e-17f2609db791",
-        "sale_price": "11,500원",
-        "link": "https://www.coupang.com/vp/products/6034958258?itemId=11016043160&vendorItemId=78295714493&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1676112152840293-d92a14c4-02ce-45d8-af07-109c597e1d03.jpg"
-    },
-    {
-        "category": "식품",
         "name": "파스퇴르 위드맘 3단계 750g 2개",
         "brand": "파스퇴르",
         "uid": "885fa982-6149-4872-a1f8-cbc0018b8f38",
         "sale_price": "55,670원",
         "link": "https://www.coupang.com/vp/products/8515161054?itemId=23851522937&vendorItemId=90874909729&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/a765aab9-6d19-40a5-b28c-41d34db4ffbc5986434473411154683.png"
+    },
+    {
+        "category": "식품",
+        "name": "곰곰 우리아이 보리차 구수한맛 192g 1개 24개",
+        "brand": "곰곰",
+        "uid": "43bebde7-4b69-4401-987a-ab4e676bdfc2",
+        "sale_price": "5,960원",
+        "link": "https://www.coupang.com/vp/products/7538913936?itemId=19813164837&vendorItemId=86915264257&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3432058610021237-f046e8fe-237d-4baa-8cdd-4959643663eb.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아라찬 고등어 구이 냉동 1개 90g",
+        "brand": "아라찬",
+        "uid": "95aa5126-cf20-4ee0-8371-10eb74af8f7d",
+        "sale_price": "2,990원",
+        "link": "https://www.coupang.com/vp/products/8439990345?itemId=24412712159&vendorItemId=91427262102&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/p7schfut/2e728dcefb0e4441bb701f7026c36bf3.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "요미요미 튼튼주스 125ml 24개",
+        "brand": "요미요미",
+        "uid": "c7d4d6c3-08c8-4a48-a820-393cc9195c0c",
+        "sale_price": "14,700원",
+        "link": "https://www.coupang.com/vp/products/8256792754?itemId=20648545175&vendorItemId=79985040418&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/1025_amir_coupang_oct_80k/e089/4df99bab5893adab4098afbc666e998c8fa234a7a2687f6ca22cdf4a7dd1.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "웅진 캐치 티니핑 밀크맛 음료 200ml 24개",
+        "brand": "웅진",
+        "uid": "ed16d72a-eea5-48a5-b7c4-ed7cf030ece0",
+        "sale_price": "16,440원",
+        "link": "https://www.coupang.com/vp/products/7707111313?itemId=20649792545&vendorItemId=91879417689&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/05a2/e5e92ad375453a8e384fac695efb8b49719a780b68400c74b5834c6a9c1d.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "덴마크 유기가공식품 인증 짜지않은 아기치즈 1단계 544g 1개",
+        "brand": "덴마크",
+        "uid": "24db251f-7682-481c-88b6-5488027c83e2",
+        "sale_price": "12,900원",
+        "link": "https://www.coupang.com/vp/products/4649769965?itemId=5795442367&vendorItemId=73093944739&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/811686736329853-044ad014-8cb9-4278-8377-eec30e34fd7b.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "에코맘의산골이유식 산골쌀쿠키 쌀계란 1개 40g",
+        "brand": "에코맘의산골이유식",
+        "uid": "b15cb9b5-64e5-46bf-b9f6-178df06a2f71",
+        "sale_price": "3,730원",
+        "link": "https://www.coupang.com/vp/products/7844109243?itemId=23789611302&vendorItemId=90813673923&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/07/29/10/9/1f85547a-2f22-4904-8ab4-c88a3387d1a1.png"
+    },
+    {
+        "category": "식품",
+        "name": "리틀스푼 동결건조 요거랑 4종 세트 딸기 블루베리 사과 망고 16g 1세트",
+        "brand": "리틀스푼",
+        "uid": "7df21391-2c05-4dc1-a701-a379687896ef",
+        "sale_price": "11,800원",
+        "link": "https://www.coupang.com/vp/products/7047194487?itemId=17442795667&vendorItemId=84611443755&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/01/06/9/2/6c84b814-b69f-4a58-b814-ddd313ee1c6b.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "베베쿡 처음먹는 어린이 간장소스 한식 간장 145ml 1개",
+        "brand": "베베쿡",
+        "uid": "e0944055-626f-40bb-b6d7-36f69b997405",
+        "sale_price": "4,460원",
+        "link": "https://www.coupang.com/vp/products/7297765712?itemId=18667131736&vendorItemId=3602613817&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7477039582234332-641d7bcd-108a-49af-ab73-537e5bd55073.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "맘마밀 안심 이유식 퓨레 6개월부터 사과와 고구마 100g 2개",
+        "brand": "맘마밀",
+        "uid": "134a103c-7cf3-476a-abd0-10ef267816ba",
+        "sale_price": "2,700원",
+        "link": "https://www.coupang.com/vp/products/7680287471?itemId=19155106550&vendorItemId=86273948465&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/646fcdfa-47c3-4de6-ac26-5906d08f027f6131641329146794780.png"
+    },
+    {
+        "category": "식품",
+        "name": "우리아이 다짐 대구 냉동 300g 1개",
+        "brand": "우리아이",
+        "uid": "8709b8e4-f8e4-439a-a66d-bb2094527877",
+        "sale_price": "8,960원",
+        "link": "https://www.coupang.com/vp/products/200202387?itemId=581010753&vendorItemId=4522674209&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/product/image/vendoritem/2019/03/21/4522674209/c2099b64-98af-4d48-a7cd-faff3281a006.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "초유단백질로 다시 태어난 아이엠마더 2단계 612개월 280g 1개",
+        "brand": "초유단백질로",
+        "uid": "3d3d2d9f-2f9b-4aec-a60b-5a0565f9ef75",
+        "sale_price": "12,500원",
+        "link": "https://www.coupang.com/vp/products/7055016168?itemId=19199779879&vendorItemId=85148360912&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/02/22/14/1/c1dfec93-9369-4fc5-825d-373d1e69ff65.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "짱죽 실온 이유식 초기 한우소고기미음 160g 2개",
+        "brand": "짱죽",
+        "uid": "be28771f-6ae2-4aa1-b1ab-d286469a8454",
+        "sale_price": "7,710원",
+        "link": "https://www.coupang.com/vp/products/7680292286?itemId=18839805260&vendorItemId=85969526627&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/743975940401460-479c64e0-4ea8-4358-a881-e7ab51168ebb.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "프로엠 유기농 까까 별과자 40g x 2p  곡물과자 40g x 2p 현미 1세트",
+        "brand": "프로엠",
+        "uid": "0f3020f7-a2f2-4197-83cf-4788700a1a45",
+        "sale_price": "11,600원",
+        "link": "https://www.coupang.com/vp/products/4824914309?itemId=6219191139&vendorItemId=73515075524&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/01/18/16/1/a2d7b9a5-0870-4ad9-a8f7-408e8b77466c.jpg"
     },
     {
         "category": "식품",
@@ -2629,6 +2611,15 @@
     },
     {
         "category": "식품",
+        "name": "베베쿡 쌀가루 이유식 중기2 250g 2개",
+        "brand": "베베쿡",
+        "uid": "9cd75ad2-f8af-4cac-992e-d1fb93d5a963",
+        "sale_price": "13,800원",
+        "link": "https://www.coupang.com/vp/products/106698441?itemId=18039155501&vendorItemId=85193510763&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/e9025cc2-a984-4a71-ab38-f9649dbf6e965683557515544143947.png"
+    },
+    {
+        "category": "식품",
         "name": "일동후디스 산양유아식 시그니처 분유 4단계 800g 1개",
         "brand": "일동후디스",
         "uid": "eff3cc5d-3d61-4d5a-8938-6b83355bb769",
@@ -2638,30 +2629,39 @@
     },
     {
         "category": "식품",
-        "name": "요미요미 매일유업 유기농 주스 야채믹스 125ml 8개",
-        "brand": "요미요미",
-        "uid": "c2889ab5-cef0-4ba2-84e7-3001603c0314",
-        "sale_price": "4,300원",
-        "link": "https://www.coupang.com/vp/products/7883947306?itemId=286849534&vendorItemId=85159969299&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/985017747645415-03ac679d-21fa-4b83-98db-879baddf2af7.jpg"
+        "name": "야미얼스 유기농 후르츠 스낵 젤리 1개 바나나  체리  복숭아  딸기 혼합맛 1782g",
+        "brand": "야미얼스",
+        "uid": "ab81c3e2-73bc-44a1-b08e-17f2609db791",
+        "sale_price": "11,500원",
+        "link": "https://www.coupang.com/vp/products/6034958258?itemId=11016043160&vendorItemId=78295714493&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1676112152840293-d92a14c4-02ce-45d8-af07-109c597e1d03.jpg"
     },
     {
         "category": "식품",
-        "name": "파스퇴르 위드맘 엄마의 마음 제왕 1단계 750g 3개",
-        "brand": "파스퇴르",
-        "uid": "58523f3b-e068-4b1a-857b-32621665872c",
-        "sale_price": "94,470원",
-        "link": "https://www.coupang.com/vp/products/7733156491?itemId=17801144229&vendorItemId=84965214718&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/575206010196459-968236bc-2d82-4305-ac32-9bad6d3347ac.jpg"
+        "name": "일동후디스 시그니처 산양분유 1단계 800g 1개",
+        "brand": "일동후디스",
+        "uid": "98148423-0adb-4f37-be5e-718883d5aff2",
+        "sale_price": "54,900원",
+        "link": "https://www.coupang.com/vp/products/7214178857?itemId=24549850758&vendorItemId=91274557172&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/10/11/15/6/136e38e9-264d-4cbd-a28f-cab35dcd8a15.jpg"
     },
     {
         "category": "식품",
-        "name": "아이배냇 베베 핑거 요거트 20g 플레인 8개",
+        "name": "맘마밀 안심 이유식 12개월부터 100g 6개 아스파라거스와 닭가슴살",
+        "brand": "맘마밀",
+        "uid": "86799463-410c-4040-b56f-9a856fe91bfb",
+        "sale_price": "9,000원",
+        "link": "https://www.coupang.com/vp/products/7680043944?itemId=17655579606&vendorItemId=84821119783&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5135110030241610-a6fb17e1-bbd4-4284-8179-4baf1c8fdb10.jpg"
+    },
+    {
+        "category": "식품",
+        "name": "아이배냇 핑거 요거트 플레인 20g 4개",
         "brand": "아이배냇",
-        "uid": "10a5754a-3653-407b-a4f8-77da544ca396",
-        "sale_price": "19,600원",
-        "link": "https://www.coupang.com/vp/products/6643550098?itemId=39122258&vendorItemId=3058555110&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2088217594199104-5b75dc74-8249-47ea-a744-c317a5104773.jpg"
+        "uid": "cee9e6e6-204d-4ba4-bbbc-bc9e657d4897",
+        "sale_price": "9,800원",
+        "link": "https://www.coupang.com/vp/products/6643550098?itemId=19145371369&vendorItemId=86264532248&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/cdf9dd5c-0387-4c3a-bdd7-2d1fcee6cb246464024430164941194.png"
     },
     {
         "category": "식품",
@@ -2674,21 +2674,21 @@
     },
     {
         "category": "식품",
+        "name": "파스퇴르 위드맘 엄마의 마음 제왕 1단계 750g 3개",
+        "brand": "파스퇴르",
+        "uid": "58523f3b-e068-4b1a-857b-32621665872c",
+        "sale_price": "94,470원",
+        "link": "https://www.coupang.com/vp/products/7733156491?itemId=17801144229&vendorItemId=84965214718&sourceType=CATEGORY&categoryId=221839",
+        "img": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/575206010196459-968236bc-2d82-4305-ac32-9bad6d3347ac.jpg"
+    },
+    {
+        "category": "식품",
         "name": "아이꼬야 안심 유기농 첫 보리차 120ml x 20p 보리  현미 혼합맛 1개",
         "brand": "아이꼬야",
         "uid": "caeaa03f-cedf-44ee-8215-16075589475a",
         "sale_price": "16,400원",
         "link": "https://www.coupang.com/vp/products/5972662843?itemId=10732241604&vendorItemId=78012847339&sourceType=CATEGORY&categoryId=221839",
         "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5207020528336595-6154a98b-1817-40d3-b623-4af892cf4a05.jpg"
-    },
-    {
-        "category": "식품",
-        "name": "아이배냇 육수비법 16g 해물 1개",
-        "brand": "아이배냇",
-        "uid": "4575d7f4-968d-4136-bde9-1cc56b74b5ce",
-        "sale_price": "6,400원",
-        "link": "https://www.coupang.com/vp/products/7260576558?itemId=18492339855&vendorItemId=3009619291&sourceType=CATEGORY&categoryId=221839",
-        "img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4777441718453500-2e63e865-8eee-4c6c-9d62-f7701727cbd4.png"
     },
     {
         "category": "식품",
