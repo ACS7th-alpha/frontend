@@ -2,6 +2,7 @@ import time
 import json
 import os
 import uuid
+import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -9,10 +10,20 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# 기존 제품 JSON 파일 경로
-INPUT_JSON_PATH = r"C:\alpha_frontend\frontend\coupang\coupang_기저귀_물티슈.json"
-OUTPUT_JSON_PATH = r"C:\alpha_frontend\frontend\coupang_review\coupang_기저귀_물티슈_review.json"
+# ✅ 카테고리별 제품 JSON 경로
+BASE_PATH = "C:/alpha_frontend/frontend/coupang"
+REVIEW_PATH = "C:/alpha_frontend/frontend/coupang_review"
 
+CATEGORIES = [
+    "기저귀_물티슈",
+    "생활_위생용품",
+    "수유_이유용품",
+    "스킨케어_화장품",
+    "식품",
+    "완구용품",
+    "침구류",
+    "패션의류_잡화"
+]
 
 def setup_driver():
     """Selenium WebDriver 설정"""
@@ -29,7 +40,6 @@ def setup_driver():
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
-
 def scroll_down(driver, count=3):
     """ 페이지 하단까지 스크롤하여 추가 리뷰 로딩 """
     for i in range(count):
@@ -37,9 +47,12 @@ def scroll_down(driver, count=3):
         time.sleep(2)
         print(f"[-] 리뷰 페이지 스크롤 {i + 1}회 완료")
 
+def clean_text(text):
+    """특수문자 및 줄바꿈 제거"""
+    return re.sub(r'[^0-9a-zA-Z가-힣\s]', '', text).strip()
 
-def extract_reviews(driver, product_uid, max_pages=10):
-    """한 개의 상품 페이지에서 최대 50개의 리뷰를 크롤링"""
+def extract_reviews(driver, product_uid, max_pages=6):
+    """ 한 개의 상품 페이지에서 최대 50개의 리뷰를 크롤링 (최대 6페이지) """
     reviews_data = []
     page = 1
     review_count = 0
@@ -63,7 +76,7 @@ def extract_reviews(driver, product_uid, max_pages=10):
             for review in reviews:
                 if review_count >= 50:
                     break
-                review_text = review.text.strip()
+                review_text = clean_text(review.text.strip())  # 특수문자 제거
                 if review_text:
                     reviews_data.append({
                         "reviewuid": str(uuid.uuid4()),  # 새로운 reviewuid 생성
@@ -73,7 +86,7 @@ def extract_reviews(driver, product_uid, max_pages=10):
 
             print(f"[✓] 현재 페이지에서 {len(reviews)}개의 리뷰 추가 (누적: {review_count})")
 
-            # 다음 페이지 버튼 클릭
+            # 다음 페이지 버튼 클릭 (최대 6페이지까지만 크롤링)
             if page < max_pages and review_count < 50:
                 try:
                     next_page_btn_xpath = "/html/body/div[2]/section/div[2]/div[2]/div[7]/ul[2]/li[2]/div/div[6]/section[4]/div[3]/button[3]"
@@ -95,24 +108,24 @@ def extract_reviews(driver, product_uid, max_pages=10):
 
     return reviews_data
 
+def process_category_reviews(category_name):
+    """ 특정 카테고리의 모든 제품 리뷰를 크롤링하여 JSON 저장 """
+    input_json_path = os.path.join(BASE_PATH, f"coupang_{category_name}.json")
+    output_json_path = os.path.join(REVIEW_PATH, f"coupang_{category_name}_review.json")
 
-def main():
-    """메인 실행 함수"""
-    if not os.path.exists(INPUT_JSON_PATH):
-        print("[X] 기존 제품 데이터 JSON 파일이 없습니다.")
+    if not os.path.exists(input_json_path):
+        print(f"[X] {category_name} 제품 데이터 JSON 파일이 없습니다. 건너뜁니다.")
         return
 
     # 기존 제품 데이터 로드
-    with open(INPUT_JSON_PATH, "r", encoding="utf-8") as f:
+    with open(input_json_path, "r", encoding="utf-8") as f:
         products = json.load(f)
 
     driver = setup_driver()
     review_results = []
 
-    # **🔹 테스트용: 첫 번째 제품만 실행** (모든 제품 테스트할 때는 `for product in products:`)
-    test_product = [products[0]]  # 첫 번째 제품만 테스트
-
-    for product in test_product:
+    # 🔹 모든 제품 리뷰 크롤링
+    for product in products:
         product_uid = product["uid"]
         product_name = product["name"]
         product_link = product["link"]
@@ -121,7 +134,7 @@ def main():
         driver.get(product_link)
         time.sleep(3)
 
-        reviews = extract_reviews(driver, product_uid, max_pages=10)
+        reviews = extract_reviews(driver, product_uid, max_pages=6)
 
         review_results.append({
             "category": product["category"],
@@ -134,12 +147,18 @@ def main():
     driver.quit()
 
     # JSON 저장
-    os.makedirs(os.path.dirname(OUTPUT_JSON_PATH), exist_ok=True)
-    with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
+    os.makedirs(REVIEW_PATH, exist_ok=True)
+    with open(output_json_path, "w", encoding="utf-8") as f:
         json.dump(review_results, f, ensure_ascii=False, indent=4)
 
-    print(f"\n[✓] 리뷰 데이터가 '{OUTPUT_JSON_PATH}' 파일로 저장되었습니다.")
+    print(f"\n[✓] {category_name} 리뷰 데이터가 '{output_json_path}' 파일로 저장되었습니다.")
 
+def main():
+    """ 9개 카테고리 리뷰 크롤링 실행 """
+    for category in CATEGORIES:
+        process_category_reviews(category)
+
+    print("\n[✓] 모든 카테고리의 리뷰 크롤링 완료!")
 
 if __name__ == "__main__":
     main()
