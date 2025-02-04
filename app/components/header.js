@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import Link from "next/link";
-import { useSession, signIn, signOut } from "next-auth/react";
+import Link from 'next/link';
+import { useSession, signIn, signOut } from 'next-auth/react';
 
 export default function Header() {
   const { data: session } = useSession();
@@ -17,7 +17,7 @@ export default function Header() {
         />
         {!session ? (
           <button
-            onClick={() => signIn("google")}
+            onClick={() => signIn('google')}
             className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition"
           >
             로그인
