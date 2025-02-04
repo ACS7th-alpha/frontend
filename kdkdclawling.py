@@ -13,7 +13,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-SAVE_PATH = "C:/alpha_frontend/frontend/kidkid/"
+SAVE_PATH = "C:/alpha_frontend/frontend/kidkid/"                                                                                                                                                                                                                                                                      
 
 CATEGORY_LIST = [
     {"name": "기저귀_물티슈",    "xpath": "//p[contains(text(), '기저귀/물티슈')]"},
