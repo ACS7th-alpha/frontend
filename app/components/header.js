@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useSession, signIn, signOut } from 'next-auth/react';
 
 export default function Header() {
@@ -9,8 +10,13 @@ export default function Header() {
   return (
     <header className="bg-white shadow-md p-4 flex flex-col items-center">
       <div className="w-full flex justify-between items-center px-6">
-        <Link href='/' className="text-2xl font-bold text-gray-800">HAMA
-
+        <Link href="/">
+          <Image 
+            src="/hama_logo.jpg" 
+            alt="HAMA Logo" 
+            width={150} // 원하는 크기로 조절
+            height={50} 
+          />
         </Link>
         <input
           type="text"
