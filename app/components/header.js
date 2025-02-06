@@ -4,12 +4,14 @@ import Link from 'next/link';
 import { useSession, signIn, signOut } from 'next-auth/react';
 
 export default function Header() {
-  const { data: session } = useSession();
+  const { data: session } = useSession(); // 로그인 상태 가져오기
 
   return (
     <header className="bg-white shadow-md p-4 flex flex-col items-center">
       <div className="w-full flex justify-between items-center px-6">
-        <h1 className="text-2xl font-bold text-gray-800">HAMA</h1>
+        <Link href='/' className="text-2xl font-bold text-gray-800">HAMA
+
+        </Link>
         <input
           type="text"
           placeholder="어떤 상품을 찾으시나요?"
@@ -35,7 +37,7 @@ export default function Header() {
         <Link href="#">예산관리</Link>
         <Link href="#">지출통계</Link>
         <Link href="#">지출달력</Link>
-        <Link href="#">카테고리 ▼</Link>
+        <Link href="/community">커뮤니티</Link>
       </nav>
     </header>
   );
