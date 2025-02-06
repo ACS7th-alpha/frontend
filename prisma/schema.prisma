@@ -1,0 +1,15 @@
+model UserData {
+  id       Int      @id @default(autoincrement())
+  name     String
+  budget   Float
+  children Child[]
+}
+
+model Child {
+  id           Int      @id @default(autoincrement())
+  name         String
+  gender       String
+  birthdate    DateTime
+  userDataId   Int
+  userData     UserData @relation(fields: [userDataId], references: [id])
+}
