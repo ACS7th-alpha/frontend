@@ -34,13 +34,13 @@ button {
   cursor: pointer;
   margin: 10px;
 }
-@font-face {
+/* @font-face {
   font-family: 'Pretendard';
   src: url('/fonts/Pretendard.woff2') format('woff2'),
     url('/fonts/Pretendard.woff') format('woff');
   font-weight: 100 900;
   font-display: swap;
-}
+} */
 
 body {
   font-family: 'Pretendard', sans-serif;

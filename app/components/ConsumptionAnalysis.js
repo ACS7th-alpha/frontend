@@ -1,6 +1,21 @@
 'use client';
+import { useEffect, useState } from 'react';
 
 export default function ConsumptionAnalysis() {
+  const [userInfo, setUserInfo] = useState(null);
+
+  useEffect(() => {
+    const userData = localStorage.getItem('user');
+    if (userData) {
+      setUserInfo(JSON.parse(userData));
+    }
+  }, []);
+
+  // 로그인한 경우 컴포넌트를 렌더링하지 않음
+  if (userInfo) {
+    return null;
+  }
+
   return (
     <section className="p-12 text-center bg-white">
       <h2 className="text-4xl font-bold mt-6 text-black">언제 어디서든</h2>
