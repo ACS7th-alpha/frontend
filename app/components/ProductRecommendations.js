@@ -156,110 +156,25 @@ export default function ProductRecommendations() {
     );
   }
 
+  // 로그인하지 않은 경우를 위한 미리보기 상품들
+  const previewProducts = [
+    { name: '하기스 New 네이처메이드 밴드형', price: '47,730원' },
+    { name: '다른 기저귀 상품', price: '30,000원' },
+    { name: '기저귀 상품3', price: '25,000원' },
+    { name: '기저귀 상품4', price: '20,000원' },
+  ];
+
   return (
     <section className="px-4 py-8 bg-white">
       <div className="max-w-[1400px] mx-auto">
-        {childAge !== null && (
-          <>
+        {!userInfo.name ? (
+          // 로그인하지 않은 경우
+          <div>
             <h2 className="text-2xl font-bold mb-6 text-black text-left">
-              {childAge}개월, 준비 리스트
+              인기 상품
             </h2>
-            <div className="relative px-8">
-              <div className="absolute right-12 -top-12 z-10">
-                <span className="text-xl text-gray-600">
-                  {Math.floor(currentSlide / 4) + 1}/{totalSlides}
-                </span>
-              </div>
-              <Slider {...sliderSettings}>
-                {products['기저귀/물티슈']
-                  .slice(0, 12)
-                  .map((product, index) => (
-                    <div key={index} className="px-4">
-                      <div className="bg-gray-100 rounded-lg overflow-hidden">
-                        <div className="w-full h-48 bg-gray-200 flex justify-center items-center">
-                          <span className="text-gray-400">상품 이미지</span>
-                        </div>
-                        <div className="p-4">
-                          <h3 className="text-base font-medium text-gray-800 mb-2">
-                            {product.name}
-                          </h3>
-                          <p className="text-lg font-bold text-gray-900">
-                            {product.price}
-                          </p>
-                          <button className="mt-2 text-blue-500 hover:text-blue-700 text-sm font-medium flex items-center bg-white px-3 py-1 rounded">
-                            최저가 확인 <span className="ml-1">→</span>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-              </Slider>
-            </div>
-          </>
-        )}
-
-        {userInfo.name && (
-          <>
-            <h2 className="text-2xl font-bold mb-6 text-black text-left mt-16">
-              {userInfo.name}에게 추천하는 상품
-            </h2>
-            <div className="relative px-8">
-              <div className="absolute right-12 -top-12 z-10">
-                <span className="text-xl text-gray-600">
-                  {Math.floor(currentSlide / 4) + 1}/
-                  {Math.ceil(products['생활/위생용품'].length / 4)}
-                </span>
-              </div>
-              <Slider {...sliderSettings}>
-                {products['생활/위생용품']
-                  .slice(0, 12)
-                  .map((product, index) => (
-                    <div key={index} className="px-4">
-                      <div className="bg-gray-100 rounded-lg overflow-hidden">
-                        <div className="w-full h-48 bg-gray-200 flex justify-center items-center">
-                          <span className="text-gray-400">상품 이미지</span>
-                        </div>
-                        <div className="p-4">
-                          <h3 className="text-base font-medium text-gray-800 mb-2">
-                            {product.name}
-                          </h3>
-                          <p className="text-lg font-bold text-gray-900">
-                            {product.price}
-                          </p>
-                          <button className="mt-2 text-blue-500 hover:text-blue-700 text-sm font-medium flex items-center bg-white px-3 py-1 rounded">
-                            최저가 확인 <span className="ml-1">→</span>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-              </Slider>
-            </div>
-          </>
-        )}
-
-        {childName && (
-          <h2 className="text-2xl font-bold mb-6 text-black text-left">
-            {childName}맘 주목 카테고리
-          </h2>
-        )}
-        <div className="flex space-x-8 mb-12">
-          {categories.map((category, index) => (
-            <div
-              key={index}
-              className="flex flex-col items-center cursor-pointer"
-              onClick={() => setSelectedCategory(category.name)}
-            >
-              <div className="w-32 h-32 bg-gray-200 rounded-full mb-2"></div>
-              <p className="text-gray-800">{category.name}</p>
-            </div>
-          ))}
-        </div>
-
-        {selectedCategory && (
-          <>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-12">
-              {currentProducts.slice(0, 8).map((product, index) => (
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+              {previewProducts.map((product, index) => (
                 <div
                   key={index}
                   className="bg-gray-100 rounded-lg overflow-hidden"
@@ -281,14 +196,142 @@ export default function ProductRecommendations() {
                 </div>
               ))}
             </div>
-            <div className="flex justify-center -mt-6">
-              <button
-                className="text-lg font-medium text-gray-600 border-[2.5px] border-black rounded-full px-8 py-3 bg-white hover:bg-gray-50 shadow-md"
-                onClick={() => router.push('/more-products')}
-              >
-                더보기
-              </button>
+          </div>
+        ) : (
+          // 로그인한 경우 - 기존 코드
+          <>
+            {childAge !== null && (
+              <>
+                <h2 className="text-2xl font-bold mb-6 text-black text-left">
+                  {childAge}개월, 준비 리스트
+                </h2>
+                <div className="relative px-8">
+                  <div className="absolute right-12 -top-12 z-10">
+                    <span className="text-xl text-gray-600">
+                      {Math.floor(currentSlide / 4) + 1}/{totalSlides}
+                    </span>
+                  </div>
+                  <Slider {...sliderSettings}>
+                    {products['기저귀/물티슈']
+                      .slice(0, 12)
+                      .map((product, index) => (
+                        <div key={index} className="px-4">
+                          <div className="bg-gray-100 rounded-lg overflow-hidden">
+                            <div className="w-full h-48 bg-gray-200 flex justify-center items-center">
+                              <span className="text-gray-400">상품 이미지</span>
+                            </div>
+                            <div className="p-4">
+                              <h3 className="text-base font-medium text-gray-800 mb-2">
+                                {product.name}
+                              </h3>
+                              <p className="text-lg font-bold text-gray-900">
+                                {product.price}
+                              </p>
+                              <button className="mt-2 text-blue-500 hover:text-blue-700 text-sm font-medium flex items-center bg-white px-3 py-1 rounded">
+                                최저가 확인 <span className="ml-1">→</span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                  </Slider>
+                </div>
+              </>
+            )}
+
+            {userInfo.name && (
+              <>
+                <h2 className="text-2xl font-bold mb-6 text-black text-left mt-16">
+                  {userInfo.name}에게 추천하는 상품
+                </h2>
+                <div className="relative px-8">
+                  <div className="absolute right-12 -top-12 z-10">
+                    <span className="text-xl text-gray-600">
+                      {Math.floor(currentSlide / 4) + 1}/
+                      {Math.ceil(products['생활/위생용품'].length / 4)}
+                    </span>
+                  </div>
+                  <Slider {...sliderSettings}>
+                    {products['생활/위생용품']
+                      .slice(0, 12)
+                      .map((product, index) => (
+                        <div key={index} className="px-4">
+                          <div className="bg-gray-100 rounded-lg overflow-hidden">
+                            <div className="w-full h-48 bg-gray-200 flex justify-center items-center">
+                              <span className="text-gray-400">상품 이미지</span>
+                            </div>
+                            <div className="p-4">
+                              <h3 className="text-base font-medium text-gray-800 mb-2">
+                                {product.name}
+                              </h3>
+                              <p className="text-lg font-bold text-gray-900">
+                                {product.price}
+                              </p>
+                              <button className="mt-2 text-blue-500 hover:text-blue-700 text-sm font-medium flex items-center bg-white px-3 py-1 rounded">
+                                최저가 확인 <span className="ml-1">→</span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                  </Slider>
+                </div>
+              </>
+            )}
+
+            {childName && (
+              <h2 className="text-2xl font-bold mb-6 text-black text-left">
+                {childName}맘 주목 카테고리
+              </h2>
+            )}
+            <div className="flex space-x-8 mb-12">
+              {categories.map((category, index) => (
+                <div
+                  key={index}
+                  className="flex flex-col items-center cursor-pointer"
+                  onClick={() => setSelectedCategory(category.name)}
+                >
+                  <div className="w-32 h-32 bg-gray-200 rounded-full mb-2"></div>
+                  <p className="text-gray-800">{category.name}</p>
+                </div>
+              ))}
             </div>
+
+            {selectedCategory && (
+              <>
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-12">
+                  {currentProducts.slice(0, 8).map((product, index) => (
+                    <div
+                      key={index}
+                      className="bg-gray-100 rounded-lg overflow-hidden"
+                    >
+                      <div className="w-full h-48 bg-gray-200 flex justify-center items-center">
+                        <span className="text-gray-400">상품 이미지</span>
+                      </div>
+                      <div className="p-4">
+                        <h3 className="text-base font-medium text-gray-800 mb-2">
+                          {product.name}
+                        </h3>
+                        <p className="text-lg font-bold text-gray-900">
+                          {product.price}
+                        </p>
+                        <button className="mt-2 text-blue-500 hover:text-blue-700 text-sm font-medium flex items-center bg-white px-3 py-1 rounded">
+                          최저가 확인 <span className="ml-1">→</span>
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+                <div className="flex justify-center -mt-6">
+                  <button
+                    className="text-lg font-medium text-gray-600 border-[2.5px] border-black rounded-full px-8 py-3 bg-white hover:bg-gray-50 shadow-md"
+                    onClick={() => router.push('/more-products')}
+                  >
+                    더보기
+                  </button>
+                </div>
+              </>
+            )}
           </>
         )}
       </div>
