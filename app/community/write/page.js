@@ -34,44 +34,95 @@ export default function WritePage() {
     setImages((prevImages) => prevImages.filter((_, i) => i !== index));
   };
 
-  const handleSubmit = async () => {
-    const formData = new FormData();
+// ... existing code ...
 
-    // 이미지 파일 추가
+const handleSubmit = async () => {
+  try {
+    // 필수 입력값 검증
+    if (!title || !content || !age || isRecommended === null) {
+      alert('필수 항목을 모두 입력해주세요.');
+      return;
+    }
+
+    // 이미지 업로드를 위한 FormData 생성 및 전송
+    const imageFormData = new FormData();
     for (const image of images) {
-      formData.append('files', image.file);
+      imageFormData.append('files', image.file);
     }
 
-    // 나머지 데이터 추가
-    /* formData.append('title', title);
-    formData.append('content', content);
-    formData.append('age', age);
-    formData.append('store', store);
-    formData.append('isRecommended', isRecommended); */
+    // 이미지 먼저 업로드
+    let imageUrls = [];
+    
+    if (images.length > 0) {
+      try {
+        const imageUploadResponse = await fetch('http://localhost:3002/upload/multiple', {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDU3NjM0OTE2MzE3Mjk4OTQxNjUiLCJqdGkiOiIzOTE5MzE2OS1mNmZkLTQwYTgtOTc3YS03YTIzODc1MmFkNjEiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTczOTE1MDQwMywiZXhwIjoxNzM5MjM2ODAzfQ.QFPihEJ5TAqFYa0oVZ5-lCqJwQhvKTZdpMwLQ6t9C5Q`,
+          },
+          body: imageFormData,
+        });
 
-    console.log(formData);
-    try {
-      const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDU3NjM0OTE2MzE3Mjk4OTQxNjUiLCJ0eXBlIjoiYWNjZXNzIiwiaWF0IjoxNzM4ODM1NTI3LCJleHAiOjE3Mzg4MzkxMjd9.jvBs7O8SwuLxHjWriNaovlZwtDgIp9cvgro4H3LUrX4'; // 실제 토큰으로 교체
-      const response = await fetch('http://localhost:3002/upload/multiple', {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-        body: formData,
-      });
+        if (!imageUploadResponse.ok) {
+          console.error('이미지 업로드 응답:', await imageUploadResponse.text());
+          throw new Error(`이미지 업로드 실패: ${imageUploadResponse.status}`);
+        }
 
-      if (response.ok) {
-        alert('글이 성공적으로 업로드되었습니다.');
-        // 작성 후 페이지 이동 등 추가 작업 가능
-      } else {
-        const errorData = await response.json();
-        alert(`글 업로드 실패: ${errorData.message || response.statusText}`);
+        const response = await imageUploadResponse.json();
+        // response.imageUrls 배열을 직접 사용
+        imageUrls = response.imageUrls || [];
+        console.log('업로드된 이미지 URL:', imageUrls);
+      } catch (imageError) {
+        console.error('이미지 업로드 에러:', imageError);
+        throw new Error('이미지 업로드 중 오류가 발생했습니다.');
       }
-    } catch (error) {
-      alert('글 업로드 중 오류가 발생했습니다.');
-      console.error(error);
     }
-  };
+
+    // 리뷰 데이터 생성 및 전송
+    const reviewData = {
+      name: title.trim(),
+      description: content.trim(),
+      ageGroup: age.trim(),
+      purchaseLink: store.trim() || null,
+      recommended: isRecommended,
+      imageUrls: imageUrls, // 배열 형태로 직접 전달
+    };
+
+    console.log('전송할 리뷰 데이터:', reviewData);
+
+    const reviewResponse = await fetch('http://localhost:3004/reviews', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDU3NjM0OTE2MzE3Mjk4OTQxNjUiLCJqdGkiOiIzOTE5MzE2OS1mNmZkLTQwYTgtOTc3YS03YTIzODc1MmFkNjEiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTczOTE1MDQwMywiZXhwIjoxNzM5MjM2ODAzfQ.QFPihEJ5TAqFYa0oVZ5-lCqJwQhvKTZdpMwLQ6t9C5Q`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(reviewData),
+    });
+
+    const responseText = await reviewResponse.text();
+    console.log('서버 응답:', responseText);
+
+    if (!reviewResponse.ok) {
+      let errorMessage;
+      try {
+        const errorData = JSON.parse(responseText);
+        errorMessage = errorData.message;
+      } catch (e) {
+        errorMessage = responseText || '리뷰 등록에 실패했습니다.';
+      }
+      throw new Error(errorMessage);
+    }
+
+    alert('리뷰가 성공적으로 등록되었습니다.');
+    window.location.href = '/community';
+    
+  } catch (error) {
+    alert(error.message || '리뷰 등록 중 오류가 발생했습니다.');
+    console.error('Error:', error);
+  }
+};
+
+// ... existing code ...
 
   return (
     <div className="min-h-screen ">
