@@ -2,24 +2,21 @@
 
 import { useState, useEffect } from 'react';
 import Header from '@/app/components/header';
+import Link from 'next/link';
+import ItemCard from '@/app/components/itemCard';
+import ImageSlider from '@/app/components/imageslider';
 
 export default function ProductDetail({ params }) {
   const [product, setProduct] = useState(null);
+  const [otherProducts, setOtherProducts] = useState([]); // 다른 글 목록을 위한 state
   const { id } = params;
 
+  // 현재 상품 정보 가져오기
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const response = await fetch(`http://localhost:3004/reviews/${id}`, {
-          headers: {
-            'Authorization': `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDU3NjM0OTE2MzE3Mjk4OTQxNjUiLCJqdGkiOiIzOTE5MzE2OS1mNmZkLTQwYTgtOTc3YS03YTIzODc1MmFkNjEiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTczOTE1MDQwMywiZXhwIjoxNzM5MjM2ODAzfQ.QFPihEJ5TAqFYa0oVZ5-lCqJwQhvKTZdpMwLQ6t9C5Q`,
-          },
-        });
-        
-        if (!response.ok) {
-          throw new Error('상품 정보를 불러오는데 실패했습니다.');
-        }
-        
+        const response = await fetch(`http://localhost:3004/reviews/${id}`);
+        if (!response.ok) throw new Error('상품 정보를 불러오는데 실패했습니다.');
         const data = await response.json();
         setProduct(data);
       } catch (error) {
@@ -28,6 +25,29 @@ export default function ProductDetail({ params }) {
     };
 
     fetchProduct();
+  }, [id]);
+
+  // 다른 글 목록 가져오기
+  useEffect(() => {
+    const fetchOtherProducts = async () => {
+      try {
+        const response = await fetch('http://localhost:3004/reviews');
+        if (!response.ok) throw new Error('데이터를 불러오는데 실패했습니다.');
+        
+        const data = await response.json();
+        // 현재 글을 제외하고 최신순으로 정렬
+        const filteredAndSorted = data
+          .filter(item => item._id !== id)
+          .sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt))
+          .slice(0, 3); // 최대 3개만 표시
+
+        setOtherProducts(filteredAndSorted);
+      } catch (error) {
+        console.error('Error fetching other products:', error);
+      }
+    };
+
+    fetchOtherProducts();
   }, [id]);
 
   if (!product) {
@@ -42,7 +62,7 @@ export default function ProductDetail({ params }) {
     <div className="min-h-screen bg-white">
       <Header />
       <div className="max-w-5xl mx-auto p-6 bg-white rounded-lg mt-6">
-        {/* 추천/비추천 뱃지 */}
+        {/* 기존 상품 상세 정보 */}
         <div className="mb-4">
           {product.recommended ? (
             <span className="inline-block px-4 py-2 bg-blue-100 text-blue-600 rounded-full font-bold">
@@ -55,35 +75,23 @@ export default function ProductDetail({ params }) {
           )}
         </div>
 
-        {/* 상품명 */}
         <h1 className="text-3xl font-bold mb-6">{product.name}</h1>
 
-        {/* 이미지 갤러리 */}
-        {product.imageUrls && product.imageUrls.length > 0 && (
-          <div className="mb-8">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {product.imageUrls.map((url, index) => (
-                <div key={index} className="aspect-square rounded-lg overflow-hidden">
-                  <img
-                    src={url}
-                    alt={`${product.name} 이미지 ${index + 1}`}
-                    className="w-full h-full object-cover"
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
+        {/* 이미지 슬라이더 */}
+        <div className="mb-8">
+          <ImageSlider 
+            images={product.imageUrls} 
+            productName={product.name}
+          />
+        </div>
 
         {/* 상품 정보 */}
-        <div className="space-y-6 bg-gray-50 p-6 rounded-lg">
-          {/* 사용 연령 */}
+        <div className="space-y-6 bg-gray-50 p-6 rounded-lg mb-16">
           <div>
             <h2 className="text-lg font-semibold mb-2">사용 연령</h2>
             <p className="text-gray-700">{product.ageGroup}</p>
           </div>
 
-          {/* 구매처 */}
           <div>
             <h2 className="text-lg font-semibold mb-2">구매처</h2>
             {product.purchaseLink ? (
@@ -100,19 +108,30 @@ export default function ProductDetail({ params }) {
             )}
           </div>
 
-          {/* 상세 설명 */}
           <div>
             <h2 className="text-lg font-semibold mb-2">상세 설명</h2>
             <p className="text-gray-700 whitespace-pre-wrap">{product.description}</p>
           </div>
         </div>
 
-        {/* 작성일 */}
-        {product.createdAt && (
-          <div className="mt-8 text-right text-gray-500">
-            작성일: {new Date(product.createdAt).toLocaleDateString('ko-KR')}
+        {/* 다른 글 목록 섹션 */}
+        <div className="mt-16 border-t pt-12">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-2xl font-bold">다른 글 더 보러가기</h2>
+            <Link 
+              href="/community" 
+              className="text-blue-600 hover:text-blue-800 font-medium"
+            >
+              전체보기
+            </Link>
           </div>
-        )}
+          
+          <div className="space-y-8">
+            {otherProducts.map((item) => (
+              <ItemCard key={item._id} item={item} />
+            ))}
+          </div>
+        </div>
       </div>
     </div>
   );
